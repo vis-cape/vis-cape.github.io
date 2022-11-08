@@ -1,0 +1,15 @@
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
+0,0,0,0,"Langlois, Marina",DSC 20 - Prgrmng/DataStruc for Data Sci (A),SP22,130,48,86.7%,84.1%,11.61,B+ (3.64),B (3.12),3.12,dsc,20
+1,1,1,1,"Langlois, Marina",DSC 20 - Prgrmng/DataStruc for Data Sci (A),WI22,219,121,94.7%,92.0%,10.39,B+ (3.52),B (3.19),3.19,dsc,20
+2,2,2,2,"Langlois, Marina",DSC 20 - Prgrmng/DataStruc for Data Sci (A),FA21,102,39,83.3%,86.1%,10.99,B+ (3.42),B (3.06),3.06,dsc,20
+3,3,3,3,"Langlois, Marina",DSC 20 - Prgrmng/DataStruc for Data Sci (A),SP21,113,36,85.3%,73.5%,11.47,B+ (3.39),B+ (3.38),3.38,dsc,20
+4,4,4,4,"Langlois, Marina",DSC 20 - Prgrmng/DataStruc for Data Sci (A),WI21,169,88,90.6%,85.4%,9.9,B+ (3.46),B+ (3.55),3.55,dsc,20
+5,5,5,5,"Langlois, Marina",DSC 20 - Prgrmng/DataStruc for Data Sci (A),FA20,153,57,94.5%,92.6%,11.46,B+ (3.68),B (3.14),3.14,dsc,20
+6,6,6,6,"Twomey, Robert Daniel",DSC 20 - Prgrmng/DataStruc for Data Sci (A),WI20,136,63,71.4%,56.4%,11.59,B (3.07),B (3.19),3.19,dsc,20
+7,7,7,7,"Langlois, Marina",DSC 20 - Prgrmng/DataStruc for Data Sci (A),FA19,111,56,86.8%,78.4%,11.5,B (3.17),B- (2.98),2.98,dsc,20
+8,8,8,8,"Twomey, Robert Daniel",DSC 20 - Prgrmng/DataStruc for Data Sci (A),SP19,152,59,88.9%,85.2%,9.02,B (3.20),B- (2.80),2.8,dsc,20
+9,9,9,9,"Langlois, Marina",DSC 20 - Prgrmng/DataStruc for Data Sci (A),WI19,181,81,94.8%,87.0%,9.23,B+ (3.34),B- (2.95),2.95,dsc,20
+10,10,10,10,"Langlois, Marina",DSC 20 - Intro to Data Structures (A),FA18,78,22,95.5%,77.3%,11.23,B+ (3.41),B- (2.83),2.83,dsc,20
+11,11,11,11,"Langlois, Marina",DSC 20 - Intro to Data Structures (A),SP18,55,22,85.0%,90.0%,9.45,B+ (3.62),B- (2.81),2.81,dsc,20
+12,12,12,12,"Langlois, Marina",DSC 20 - Intro to Data Structures (B),SP18,67,32,92.9%,92.9%,11.61,B+ (3.43),B- (2.81),2.81,dsc,20
+13,13,13,13,"Langlois, Marina",DSC 20 - Intro to Data Structures (B),WI18,81,38,97.2%,97.1%,9.89,B+ (3.43),B (3.29),3.29,dsc,20

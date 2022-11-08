@@ -1,0 +1,13 @@
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
+0,0,0,0,"Rampure, Suraj",DSC 80 - Practice of Data Science (A),SP22,109,94,98.9%,100.0%,11.67,B+ (3.58),B (3.27),3.27,dsc,80
+1,1,1,1,"Rampure, Suraj",DSC 80 - Practice of Data Science (B),SP22,93,76,97.4%,98.7%,12.39,B+ (3.58),B+ (3.49),3.49,dsc,80
+2,2,2,2,"Eldridge, Justin Matthew",DSC 80 - Practice of Data Science (A),FA21,94,45,97.7%,100.0%,11.73,B+ (3.64),B+ (3.39),3.39,dsc,80
+3,3,3,3,"Eldridge, Justin Matthew",DSC 80 - Practice of Data Science (A),SP21,183,65,98.4%,100.0%,12.11,B+ (3.56),B+ (3.67),3.67,dsc,80
+4,4,4,4,"Langlois, Marina",DSC 80 - Practice of Data Science (A),FA20,61,19,84.2%,89.5%,13.66,B+ (3.58),B (3.16),3.16,dsc,80
+5,5,5,5,"Langlois, Marina",DSC 80 - Practice of Data Science (A),SP20,117,45,90.5%,78.6%,14.31,B+ (3.40),B+ (3.39),3.39,dsc,80
+6,6,6,6,"Langlois, Marina",DSC 80 - Practice of Data Science (A),WI20,96,29,88.5%,80.8%,13.58,B (3.27),B- (2.90),2.9,dsc,80
+7,7,7,7,"Fraenkel, Aaron Mcmillan",DSC 80 - Practice of Data Science (A),FA19,127,39,94.3%,100.0%,13.64,B+ (3.40),B (3.01),3.01,dsc,80
+8,8,8,8,"Fraenkel, Aaron Mcmillan",DSC 80 - Practice of Data Science (A),SP19,37,10,70.0%,100.0%,15.5,B+ (3.40),B (3.08),3.08,dsc,80
+9,9,9,9,"Langlois, Marina",DSC 80 - Practice of Data Science (B),SP19,49,17,70.6%,88.2%,14.38,B- (2.71),B- (2.74),2.74,dsc,80
+10,10,10,10,"Langlois, Marina",DSC 80 - Practice of Data Science (A),WI19,24,6,83.3%,83.3%,13.83,C+ (2.67),B- (2.98),2.98,dsc,80
+11,11,11,11,"Fraenkel, Aaron Mcmillan",DSC 80 - Practice of Data Science (B),WI19,82,31,96.8%,96.8%,13.79,B+ (3.48),B- (2.99),2.99,dsc,80

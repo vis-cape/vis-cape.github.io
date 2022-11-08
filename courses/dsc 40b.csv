@@ -1,0 +1,19 @@
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
+0,0,0,0,"Mazumdar, Arya",DSC 40B - Theor Fndtns of Data Sci II (A),SP22,85,41,74.4%,59.0%,5.55,B (3.18),B (3.27),3.27,dsc,40b
+1,1,1,1,"Eldridge, Justin Matthew",DSC 40B - Theor Fndtns of Data Sci II (A),WI22,122,82,97.5%,100.0%,5.66,B+ (3.61),B+ (3.46),3.46,dsc,40b
+2,2,2,2,"Eldridge, Justin Matthew",DSC 40B - Theor Fndtns of Data Sci II (A),FA21,70,52,96.2%,100.0%,6.35,B+ (3.68),B+ (3.42),3.42,dsc,40b
+3,3,3,3,"Wang, Yusu",DSC 40B - Theor Fndtns of Data Sci II (B),FA21,13,5,100.0%,100.0%,7.7,B+ (3.50),,,dsc,40b
+4,4,4,4,"Mazumdar, Arya",DSC 40B - Theor Fndtns of Data Sci II (A),SP21,57,24,100.0%,87.0%,5.98,B+ (3.61),B+ (3.65),3.65,dsc,40b
+5,5,5,5,"Wang, Yusu",DSC 40B - Theor Fndtns of Data Sci II (A),SP21,57,24,100.0%,87.0%,5.98,B+ (3.61),B+ (3.65),3.65,dsc,40b
+6,6,6,6,"Eldridge, Justin Matthew",DSC 40B - Theor Fndtns of Data Sci II (A),WI21,80,62,96.8%,98.4%,6.34,B+ (3.67),A- (3.73),3.73,dsc,40b
+7,7,7,7,"Wang, Yusu",DSC 40B - Theor Fndtns of Data Sci II (B),WI21,40,27,100.0%,100.0%,5.5,A- (3.92),B+ (3.69),3.69,dsc,40b
+8,8,8,8,"Eldridge, Justin Matthew",DSC 40B - Theor Fndtns of Data Sci II (A),FA20,77,27,96.0%,100.0%,5.86,A- (3.75),B+ (3.46),3.46,dsc,40b
+9,9,9,9,"Eldridge, Justin Matthew",DSC 40B - Theor Fndtns of Data Sci II (A),SP20,98,39,94.6%,100.0%,6.24,A- (3.80),B+ (3.68),3.68,dsc,40b
+10,10,10,10,"Tiefenbruck, Janine LoBue",DSC 40B - Theor Fndtns of Data Sci II (A),WI20,57,18,100.0%,100.0%,6.06,B+ (3.61),B- (2.94),2.94,dsc,40b
+11,11,11,11,"Tiefenbruck, Janine LoBue",DSC 40B - Theor Fndtns of Data Sci II (B),WI20,37,12,80.0%,90.0%,5.1,B (3.25),B (3.01),3.01,dsc,40b
+12,12,12,12,"Eldridge, Justin Matthew",DSC 40B - Theor Fndtns of Data Sci II (A),FA19,52,17,100.0%,100.0%,8.26,B+ (3.44),B- (2.83),2.83,dsc,40b
+13,13,13,13,"Eldridge, Justin Matthew",DSC 40B - Theor Fndtns of Data Sci II (A),S119,33,10,100.0%,100.0%,6.9,B+ (3.30),B (3.09),3.09,dsc,40b
+14,14,14,14,"Eldridge, Justin Matthew",DSC 40B - Theor Fndtns of Data Sci II (A),SP19,86,26,88.5%,92.3%,6.27,B (3.04),B (3.26),3.26,dsc,40b
+15,15,15,15,"Eldridge, Justin Matthew",DSC 40B - Theor Fndtns of Data Sci II (B),SP19,23,7,83.3%,100.0%,6.17,B+ (3.33),B (3.26),3.26,dsc,40b
+16,16,16,16,"Eldridge, Justin Matthew",DSC 40B - Theor Fndtns of Data Sci II (A),WI19,82,31,64.0%,84.0%,7.46,B- (2.96),B (3.12),3.12,dsc,40b
+17,17,17,17,"Eldridge, Justin Matthew",DSC 40B - Theor Fndtns of Data Sci II (A),FA18,24,15,93.3%,100.0%,7.57,B- (2.79),C+ (2.59),2.59,dsc,40b
