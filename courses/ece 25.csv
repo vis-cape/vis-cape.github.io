@@ -1,48 +1,48 @@
-,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
-0,0,0,0,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),SP22,28,13,100.0%,76.9%,5.58,A- (3.77),B (3.09),3.09,ece,25
-1,1,1,1,"Morris, Karcher William",ECE 25 - Introduction to Digital Design (A),WI22,113,60,93.1%,96.4%,8.03,B+ (3.34),B+ (3.31),3.31,ece,25
-2,2,2,2,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),FA21,64,31,83.9%,83.3%,6.44,B (3.13),B (3.06),3.06,ece,25
-3,3,3,3,"Morris, Karcher William",ECE 25 - Introduction to Digital Design (A),SP21,57,29,96.3%,96.3%,6.65,B+ (3.33),B (3.24),3.24,ece,25
-4,4,4,4,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI21,137,66,91.9%,74.2%,7.24,B+ (3.43),B+ (3.33),3.33,ece,25
-5,5,5,5,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),FA20,89,48,76.1%,75.0%,8.84,B- (2.91),B (3.22),3.22,ece,25
-6,6,6,6,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),SP20,44,13,83.3%,83.3%,6.04,B (3.09),A- (3.73),3.73,ece,25
-7,7,7,7,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI20,145,67,93.4%,85.2%,6.27,B+ (3.47),B (3.15),3.15,ece,25
-8,8,8,8,"Quest, Kevin B",ECE 25 - Introduction to Digital Design (A),FA19,77,34,86.7%,86.7%,7.08,B- (2.93),B- (2.78),2.78,ece,25
-9,9,9,9,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),SP19,81,38,87.5%,74.2%,6.63,B (3.03),B- (2.91),2.91,ece,25
-10,10,10,10,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI19,134,67,93.8%,92.3%,5.95,B+ (3.38),B (3.05),3.05,ece,25
-11,11,11,11,"Quest, Kevin B",ECE 25 - Introduction to Digital Design (A),FA18,100,41,94.7%,94.7%,6.08,B (3.26),B- (2.81),2.81,ece,25
-12,12,12,12,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),SP18,56,18,94.1%,93.8%,6.15,B- (2.94),B- (2.87),2.87,ece,25
-13,13,13,13,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI18,134,75,94.3%,90.0%,7.3,B (3.24),B- (2.97),2.97,ece,25
-14,14,14,14,"Vasconcelos, Manuela",ECE 25 - Introduction to Digital Design (A),FA17,67,50,85.7%,63.3%,6.91,B+ (3.38),B (3.18),3.18,ece,25
-15,15,15,15,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),SP17,38,15,100.0%,76.9%,6.04,B (3.17),B (3.04),3.04,ece,25
-16,16,16,16,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI17,100,48,97.6%,90.2%,6.99,B+ (3.63),B- (2.80),2.8,ece,25
-17,17,17,17,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),FA16,72,28,80.8%,88.5%,4.81,B+ (3.50),B- (2.85),2.85,ece,25
-18,18,18,18,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),SP16,29,11,81.8%,81.8%,6.68,B+ (3.30),B (3.24),3.24,ece,25
-19,19,19,19,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI16,137,71,92.3%,81.5%,6.88,B+ (3.34),B- (2.88),2.88,ece,25
-20,20,20,20,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),FA15,62,30,89.7%,82.8%,6.57,B+ (3.36),B+ (3.38),3.38,ece,25
-21,21,21,21,"Schurgers, Curt",ECE 25 - Introduction to Digital Design (A),S215,16,3,100.0%,100.0%,11.83,A (4.00),,,ece,25
-22,22,22,22,"Quest, Kevin B",ECE 25 - Introduction to Digital Design (A),SP15,45,17,100.0%,84.6%,5.73,B+ (3.38),C+ (2.45),2.45,ece,25
-23,23,23,23,"Vasconcelos, Manuela",ECE 25 - Introduction to Digital Design (A),WI15,165,90,94.2%,54.7%,5.99,B+ (3.45),B- (2.85),2.85,ece,25
-24,24,24,24,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),FA14,178,74,91.4%,94.3%,5.86,B+ (3.48),B- (2.93),2.93,ece,25
-25,25,25,25,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),SP14,122,52,88.0%,76.0%,5.81,B+ (3.36),B (3.07),3.07,ece,25
-26,26,26,26,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI14,186,86,96.3%,81.7%,6.04,B (3.21),C+ (2.49),2.49,ece,25
-27,27,27,27,"Lin, Bill",ECE 25 - Introduction to Digital Design (B),WI14,178,80,97.5%,98.8%,5.42,B+ (3.54),B- (2.72),2.72,ece,25
-28,28,28,28,"Quest, Kevin B",ECE 25 - Introduction to Digital Design (A),FA13,200,73,97.2%,94.4%,7.4,B (3.26),C+ (2.68),2.68,ece,25
-29,29,29,29,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (B),SP13,105,37,94.6%,83.8%,5.13,B+ (3.46),B (3.15),3.15,ece,25
-30,30,30,30,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI13,197,82,96.3%,84.0%,6.62,B+ (3.39),B- (2.91),2.91,ece,25
-31,31,31,31,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),FA12,152,60,94.3%,96.2%,7.13,B+ (3.44),C+ (2.65),2.65,ece,25
-32,32,32,32,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),SP12,79,44,93.0%,93.0%,5.59,B+ (3.59),B (3.11),3.11,ece,25
-33,33,33,33,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI12,109,47,97.9%,89.4%,7.1,B+ (3.37),B (3.13),3.13,ece,25
-34,34,34,34,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),FA11,123,50,91.7%,56.3%,7.79,B (3.20),B (3.10),3.1,ece,25
-35,35,35,35,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),SP11,47,19,89.5%,73.7%,5.97,B+ (3.39),B (3.23),3.23,ece,25
-36,36,36,36,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI11,80,37,94.4%,66.7%,6.44,B (3.24),B- (2.87),2.87,ece,25
-37,37,37,37,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),FA10,78,35,94.3%,97.1%,7.5,B+ (3.48),B (3.14),3.14,ece,25
-38,38,38,38,"LIU, ZHAOWEI",ECE 25 - Introduction to Digital Design (A),SP10,25,12,91.7%,58.3%,3.67,B+ (3.42),B+ (3.32),3.32,ece,25
-39,39,39,39,"Guest, Clark C",ECE 25 - Introduction to Digital Design (A),WI10,83,35,85.7%,71.4%,5.93,B+ (3.43),B (3.08),3.08,ece,25
-40,40,40,40,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),FA09,52,47,97.9%,100.0%,3.8,B+ (3.54),B (3.10),3.1,ece,25
-41,41,41,41,"Guest, Clark C",ECE 25 - Introduction to Digital Design (A),SP09,36,26,92.0%,92.0%,4.81,B+ (3.36),C+ (2.37),2.37,ece,25
-42,42,42,42,"Cruz, Rene L",ECE 25 - Introduction to Digital Design (A),WI09,63,38,97.4%,84.2%,5.82,B+ (3.40),B (3.23),3.23,ece,25
-43,43,43,43,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),FA08,46,27,100.0%,100.0%,3.94,B+ (3.56),B- (2.92),2.92,ece,25
-44,44,44,44,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),SP08,30,16,100.0%,93.8%,3.7,B+ (3.57),B (3.10),3.1,ece,25
-45,45,45,45,"Quest, Kevin B",ECE 25 - Introduction to Digital Design (A),WI08,42,32,96.7%,93.5%,4.5,B (3.26),B- (2.74),2.74,ece,25
-46,46,46,46,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),FA07,62,49,91.7%,89.4%,5.0,B+ (3.53),B (3.11),3.11,ece,25
+,Unnamed: 0.5,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
+0,0,0,0,0,0,0,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),SP22,28,13,100.0%,76.9%,5.58,A- (3.77),B (3.09),3.09,ece,25
+1,1,1,1,1,1,1,"Morris, Karcher William",ECE 25 - Introduction to Digital Design (A),WI22,113,60,93.1%,96.4%,8.03,B+ (3.34),B+ (3.31),3.31,ece,25
+2,2,2,2,2,2,2,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),FA21,64,31,83.9%,83.3%,6.44,B (3.13),B (3.06),3.06,ece,25
+3,3,3,3,3,3,3,"Morris, Karcher William",ECE 25 - Introduction to Digital Design (A),SP21,57,29,96.3%,96.3%,6.65,B+ (3.33),B (3.24),3.24,ece,25
+4,4,4,4,4,4,4,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI21,137,66,91.9%,74.2%,7.24,B+ (3.43),B+ (3.33),3.33,ece,25
+5,5,5,5,5,5,5,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),FA20,89,48,76.1%,75.0%,8.84,B- (2.91),B (3.22),3.22,ece,25
+6,6,6,6,6,6,6,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),SP20,44,13,83.3%,83.3%,6.04,B (3.09),A- (3.73),3.73,ece,25
+7,7,7,7,7,7,7,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI20,145,67,93.4%,85.2%,6.27,B+ (3.47),B (3.15),3.15,ece,25
+8,8,8,8,8,8,8,"Quest, Kevin B",ECE 25 - Introduction to Digital Design (A),FA19,77,34,86.7%,86.7%,7.08,B- (2.93),B- (2.78),2.78,ece,25
+9,9,9,9,9,9,9,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),SP19,81,38,87.5%,74.2%,6.63,B (3.03),B- (2.91),2.91,ece,25
+10,10,10,10,10,10,10,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI19,134,67,93.8%,92.3%,5.95,B+ (3.38),B (3.05),3.05,ece,25
+11,11,11,11,11,11,11,"Quest, Kevin B",ECE 25 - Introduction to Digital Design (A),FA18,100,41,94.7%,94.7%,6.08,B (3.26),B- (2.81),2.81,ece,25
+12,12,12,12,12,12,12,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),SP18,56,18,94.1%,93.8%,6.15,B- (2.94),B- (2.87),2.87,ece,25
+13,13,13,13,13,13,13,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI18,134,75,94.3%,90.0%,7.3,B (3.24),B- (2.97),2.97,ece,25
+14,14,14,14,14,14,14,"Vasconcelos, Manuela",ECE 25 - Introduction to Digital Design (A),FA17,67,50,85.7%,63.3%,6.91,B+ (3.38),B (3.18),3.18,ece,25
+15,15,15,15,15,15,15,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),SP17,38,15,100.0%,76.9%,6.04,B (3.17),B (3.04),3.04,ece,25
+16,16,16,16,16,16,16,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI17,100,48,97.6%,90.2%,6.99,B+ (3.63),B- (2.80),2.8,ece,25
+17,17,17,17,17,17,17,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),FA16,72,28,80.8%,88.5%,4.81,B+ (3.50),B- (2.85),2.85,ece,25
+18,18,18,18,18,18,18,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),SP16,29,11,81.8%,81.8%,6.68,B+ (3.30),B (3.24),3.24,ece,25
+19,19,19,19,19,19,19,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI16,137,71,92.3%,81.5%,6.88,B+ (3.34),B- (2.88),2.88,ece,25
+20,20,20,20,20,20,20,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),FA15,62,30,89.7%,82.8%,6.57,B+ (3.36),B+ (3.38),3.38,ece,25
+21,21,21,21,21,21,21,"Schurgers, Curt",ECE 25 - Introduction to Digital Design (A),S215,16,3,100.0%,100.0%,11.83,A (4.00),,,ece,25
+22,22,22,22,22,22,22,"Quest, Kevin B",ECE 25 - Introduction to Digital Design (A),SP15,45,17,100.0%,84.6%,5.73,B+ (3.38),C+ (2.45),2.45,ece,25
+23,23,23,23,23,23,23,"Vasconcelos, Manuela",ECE 25 - Introduction to Digital Design (A),WI15,165,90,94.2%,54.7%,5.99,B+ (3.45),B- (2.85),2.85,ece,25
+24,24,24,24,24,24,24,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),FA14,178,74,91.4%,94.3%,5.86,B+ (3.48),B- (2.93),2.93,ece,25
+25,25,25,25,25,25,25,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),SP14,122,52,88.0%,76.0%,5.81,B+ (3.36),B (3.07),3.07,ece,25
+26,26,26,26,26,26,26,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI14,186,86,96.3%,81.7%,6.04,B (3.21),C+ (2.49),2.49,ece,25
+27,27,27,27,27,27,27,"Lin, Bill",ECE 25 - Introduction to Digital Design (B),WI14,178,80,97.5%,98.8%,5.42,B+ (3.54),B- (2.72),2.72,ece,25
+28,28,28,28,28,28,28,"Quest, Kevin B",ECE 25 - Introduction to Digital Design (A),FA13,200,73,97.2%,94.4%,7.4,B (3.26),C+ (2.68),2.68,ece,25
+29,29,29,29,29,29,29,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (B),SP13,105,37,94.6%,83.8%,5.13,B+ (3.46),B (3.15),3.15,ece,25
+30,30,30,30,30,30,30,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI13,197,82,96.3%,84.0%,6.62,B+ (3.39),B- (2.91),2.91,ece,25
+31,31,31,31,31,31,31,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),FA12,152,60,94.3%,96.2%,7.13,B+ (3.44),C+ (2.65),2.65,ece,25
+32,32,32,32,32,32,32,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),SP12,79,44,93.0%,93.0%,5.59,B+ (3.59),B (3.11),3.11,ece,25
+33,33,33,33,33,33,33,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI12,109,47,97.9%,89.4%,7.1,B+ (3.37),B (3.13),3.13,ece,25
+34,34,34,34,34,34,34,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),FA11,123,50,91.7%,56.3%,7.79,B (3.20),B (3.10),3.1,ece,25
+35,35,35,35,35,35,35,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A),SP11,47,19,89.5%,73.7%,5.97,B+ (3.39),B (3.23),3.23,ece,25
+36,36,36,36,36,36,36,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A),WI11,80,37,94.4%,66.7%,6.44,B (3.24),B- (2.87),2.87,ece,25
+37,37,37,37,37,37,37,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),FA10,78,35,94.3%,97.1%,7.5,B+ (3.48),B (3.14),3.14,ece,25
+38,38,38,38,38,38,38,"LIU, ZHAOWEI",ECE 25 - Introduction to Digital Design (A),SP10,25,12,91.7%,58.3%,3.67,B+ (3.42),B+ (3.32),3.32,ece,25
+39,39,39,39,39,39,39,"Guest, Clark C",ECE 25 - Introduction to Digital Design (A),WI10,83,35,85.7%,71.4%,5.93,B+ (3.43),B (3.08),3.08,ece,25
+40,40,40,40,40,40,40,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),FA09,52,47,97.9%,100.0%,3.8,B+ (3.54),B (3.10),3.1,ece,25
+41,41,41,41,41,41,41,"Guest, Clark C",ECE 25 - Introduction to Digital Design (A),SP09,36,26,92.0%,92.0%,4.81,B+ (3.36),C+ (2.37),2.37,ece,25
+42,42,42,42,42,42,42,"Cruz, Rene L",ECE 25 - Introduction to Digital Design (A),WI09,63,38,97.4%,84.2%,5.82,B+ (3.40),B (3.23),3.23,ece,25
+43,43,43,43,43,43,43,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),FA08,46,27,100.0%,100.0%,3.94,B+ (3.56),B- (2.92),2.92,ece,25
+44,44,44,44,44,44,44,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),SP08,30,16,100.0%,93.8%,3.7,B+ (3.57),B (3.10),3.1,ece,25
+45,45,45,45,45,45,45,"Quest, Kevin B",ECE 25 - Introduction to Digital Design (A),WI08,42,32,96.7%,93.5%,4.5,B (3.26),B- (2.74),2.74,ece,25
+46,46,46,46,46,46,46,"Lin, Bill",ECE 25 - Introduction to Digital Design (A),FA07,62,49,91.7%,89.4%,5.0,B+ (3.53),B (3.11),3.11,ece,25

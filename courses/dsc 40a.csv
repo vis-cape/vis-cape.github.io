@@ -1,20 +1,20 @@
-,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
-0,0,0,0,"Ma, Yian",DSC 40A - Theor Fndtns of Data Sci I (A),SP22,100,39,73.7%,63.2%,9.47,B (3.06),B (3.13),3.13,dsc,40a
-1,1,1,1,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (A),WI22,66,21,85.7%,85.7%,7.9,B (3.11),B- (2.94),2.94,dsc,40a
-2,2,2,2,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (B),WI22,65,20,73.7%,78.9%,9.34,B (3.06),B- (2.73),2.73,dsc,40a
-3,3,3,3,"Rampure, Suraj",DSC 40A - Theor Fndtns of Data Sci I (A),FA21,136,124,96.0%,100.0%,7.33,B+ (3.56),B+ (3.37),3.37,dsc,40a
-4,4,4,4,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (A),SP21,48,21,76.2%,75.0%,11.26,B (3.08),B+ (3.47),3.47,dsc,40a
-5,5,5,5,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (B),SP21,45,10,77.8%,77.8%,9.7,B+ (3.38),B+ (3.40),3.4,dsc,40a
-6,6,6,6,"Mishne, Gal",DSC 40A - Theor Fndtns of Data Sci I (A),WI21,44,34,88.2%,79.4%,10.15,B (3.24),B (3.06),3.06,dsc,40a
-7,7,7,7,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (A),FA20,46,22,81.0%,81.0%,11.64,B+ (3.52),B (3.16),3.16,dsc,40a
-8,8,8,8,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (B),FA20,49,18,76.5%,76.5%,11.21,B (3.29),B (3.26),3.26,dsc,40a
-9,9,9,9,"Ma, Yian",DSC 40A - Theor Fndtns of Data Sci I (C),FA20,42,14,83.3%,66.7%,11.33,B (3.10),B (3.04),3.04,dsc,40a
-10,10,10,10,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (A),SP20,60,15,80.0%,100.0%,6.1,B+ (3.30),B (3.27),3.27,dsc,40a
-11,11,11,11,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (B),SP20,43,24,91.7%,87.5%,8.08,B+ (3.41),B+ (3.50),3.5,dsc,40a
-12,12,12,12,"Eldridge, Justin Matthew",DSC 40A - Theor Fndtns of Data Sci I (A),WI20,99,40,89.5%,100.0%,5.58,B (3.29),B+ (3.53),3.53,dsc,40a
-13,13,13,13,"Eldridge, Justin Matthew",DSC 40A - Theor Fndtns of Data Sci I (A),FA19,114,53,84.0%,92.0%,7.66,B (3.06),B- (2.80),2.8,dsc,40a
-14,14,14,14,"Quer, Giorgio",DSC 40A - Theor Fndtns of Data Sci I (A),SP19,73,37,85.3%,84.8%,8.85,B (3.24),B- (2.89),2.89,dsc,40a
-15,15,15,15,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (A),WI19,64,28,92.0%,96.0%,8.17,B (3.09),B- (2.81),2.81,dsc,40a
-16,16,16,16,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (B),WI19,49,28,89.3%,96.4%,7.5,B+ (3.36),B- (2.81),2.81,dsc,40a
-17,17,17,17,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (A),FA18,64,36,91.2%,100.0%,7.53,B (3.29),B- (2.91),2.91,dsc,40a
-18,18,18,18,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (C),FA18,30,14,100.0%,100.0%,8.79,B (3.29),B- (2.91),2.91,dsc,40a
+,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
+0,0,0,0,0,0,"Ma, Yian",DSC 40A - Theor Fndtns of Data Sci I (A),SP22,100,39,73.7%,63.2%,9.47,B (3.06),B (3.13),3.13,dsc,40a
+1,1,1,1,1,1,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (A),WI22,66,21,85.7%,85.7%,7.9,B (3.11),B- (2.94),2.94,dsc,40a
+2,2,2,2,2,2,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (B),WI22,65,20,73.7%,78.9%,9.34,B (3.06),B- (2.73),2.73,dsc,40a
+3,3,3,3,3,3,"Rampure, Suraj",DSC 40A - Theor Fndtns of Data Sci I (A),FA21,136,124,96.0%,100.0%,7.33,B+ (3.56),B+ (3.37),3.37,dsc,40a
+4,4,4,4,4,4,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (A),SP21,48,21,76.2%,75.0%,11.26,B (3.08),B+ (3.47),3.47,dsc,40a
+5,5,5,5,5,5,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (B),SP21,45,10,77.8%,77.8%,9.7,B+ (3.38),B+ (3.40),3.4,dsc,40a
+6,6,6,6,6,6,"Mishne, Gal",DSC 40A - Theor Fndtns of Data Sci I (A),WI21,44,34,88.2%,79.4%,10.15,B (3.24),B (3.06),3.06,dsc,40a
+7,7,7,7,7,7,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (A),FA20,46,22,81.0%,81.0%,11.64,B+ (3.52),B (3.16),3.16,dsc,40a
+8,8,8,8,8,8,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (B),FA20,49,18,76.5%,76.5%,11.21,B (3.29),B (3.26),3.26,dsc,40a
+9,9,9,9,9,9,"Ma, Yian",DSC 40A - Theor Fndtns of Data Sci I (C),FA20,42,14,83.3%,66.7%,11.33,B (3.10),B (3.04),3.04,dsc,40a
+10,10,10,10,10,10,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (A),SP20,60,15,80.0%,100.0%,6.1,B+ (3.30),B (3.27),3.27,dsc,40a
+11,11,11,11,11,11,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (B),SP20,43,24,91.7%,87.5%,8.08,B+ (3.41),B+ (3.50),3.5,dsc,40a
+12,12,12,12,12,12,"Eldridge, Justin Matthew",DSC 40A - Theor Fndtns of Data Sci I (A),WI20,99,40,89.5%,100.0%,5.58,B (3.29),B+ (3.53),3.53,dsc,40a
+13,13,13,13,13,13,"Eldridge, Justin Matthew",DSC 40A - Theor Fndtns of Data Sci I (A),FA19,114,53,84.0%,92.0%,7.66,B (3.06),B- (2.80),2.8,dsc,40a
+14,14,14,14,14,14,"Quer, Giorgio",DSC 40A - Theor Fndtns of Data Sci I (A),SP19,73,37,85.3%,84.8%,8.85,B (3.24),B- (2.89),2.89,dsc,40a
+15,15,15,15,15,15,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (A),WI19,64,28,92.0%,96.0%,8.17,B (3.09),B- (2.81),2.81,dsc,40a
+16,16,16,16,16,16,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (B),WI19,49,28,89.3%,96.4%,7.5,B+ (3.36),B- (2.81),2.81,dsc,40a
+17,17,17,17,17,17,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (A),FA18,64,36,91.2%,100.0%,7.53,B (3.29),B- (2.91),2.91,dsc,40a
+18,18,18,18,18,18,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (C),FA18,30,14,100.0%,100.0%,8.79,B (3.29),B- (2.91),2.91,dsc,40a

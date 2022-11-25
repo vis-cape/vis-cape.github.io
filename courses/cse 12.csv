@@ -1,264 +1,264 @@
-,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
-0,0,0,0,"Krause-Levy, Sophia Louisa",CSE 12 - Basic Data Struct & OO Design (A),S122,90,45,97.7%,90.7%,11.21,B+ (3.59),B- (2.79),2.79,cse,12
-1,1,1,1,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (A),SP22,179,122,97.5%,97.5%,9.69,B+ (3.68),B (3.20),3.2,cse,12
-2,2,2,2,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (B),SP22,182,116,98.2%,98.2%,8.88,B+ (3.69),B (3.28),3.28,cse,12
-3,3,3,3,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (C),SP22,185,72,82.6%,66.2%,10.01,B+ (3.39),B (3.06),3.06,cse,12
-4,4,4,4,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP22,193,148,91.2%,88.4%,11.31,B (3.24),B- (2.72),2.72,cse,12
-5,5,5,5,"Shalev, Aaron D",CSE 123 - Computer Networks (A),SP22,84,32,78.1%,93.8%,12.69,B- (2.82),C+ (2.55),2.55,cse,12
-6,6,6,6,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP22,33,19,100.0%,100.0%,12.39,A (4.00),A (4.00),4.0,cse,12
-7,7,7,7,"Obaido, George Rabeshi",CSE 127 - Intro to Computer Security (A),SP22,188,145,91.7%,67.4%,8.07,B+ (3.64),A- (3.79),3.79,cse,12
-8,8,8,8,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (A),WI22,350,156,93.5%,91.5%,8.41,A- (3.81),B (3.22),3.22,cse,12
-9,9,9,9,"Alvarado, Christine J.",CSE 12 - Basic Data Struct & OO Design (B),WI22,237,117,96.5%,98.2%,8.61,A- (3.85),B (3.25),3.25,cse,12
-10,10,10,10,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI22,224,93,92.0%,97.7%,9.55,B+ (3.36),B (3.23),3.23,cse,12
-11,11,11,11,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI22,205,82,92.4%,93.7%,8.35,B+ (3.45),B (3.29),3.29,cse,12
-12,12,12,12,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),WI22,84,27,68.0%,84.0%,14.35,C+ (2.64),B- (3.00),3.0,cse,12
-13,13,13,13,"Heninger, Nadia A",CSE 127 - Intro to Computer Security (A),WI22,186,62,86.9%,80.3%,10.03,B (3.11),B (3.05),3.05,cse,12
-14,14,14,14,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA21,209,84,79.5%,64.5%,13.31,B (3.14),B- (2.79),2.79,cse,12
-15,15,15,15,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (B),FA21,161,118,95.7%,94.0%,9.82,B+ (3.47),B (3.18),3.18,cse,12
-16,16,16,16,"Zhang, Yiying",CSE 120 - Princ/Computer Operating Systm (A),FA21,286,240,83.7%,76.9%,10.42,B (3.27),B+ (3.63),3.63,cse,12
-17,17,17,17,"Porter, George M",CSE 124 - Networked Services (A),FA21,178,75,91.7%,94.4%,9.58,B+ (3.32),B (3.08),3.08,cse,12
-18,18,18,18,"Stefan, Deian",CSE 127 - Intro to Computer Security (A),FA21,173,48,84.8%,80.0%,9.86,B+ (3.37),B (3.21),3.21,cse,12
-19,19,19,19,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),SP21,129,49,83.0%,66.0%,12.95,B (3.24),B+ (3.43),3.43,cse,12
-20,20,20,20,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (C),SP21,88,40,89.7%,76.9%,13.17,B+ (3.51),B+ (3.49),3.49,cse,12
-21,21,21,21,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (D),SP21,130,61,90.0%,90.0%,12.11,B+ (3.44),B+ (3.41),3.41,cse,12
-22,22,22,22,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP21,212,160,91.8%,93.7%,10.05,B+ (3.37),B (3.21),3.21,cse,12
-23,23,23,23,"Shalev, Aaron D",CSE 123 - Computer Networks (A),SP21,101,29,72.4%,89.7%,13.67,B+ (3.31),C+ (2.69),2.69,cse,12
-24,24,24,24,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP21,30,10,100.0%,100.0%,11.7,A (4.00),A (4.00),4.0,cse,12
-25,25,25,25,"Savage, Stefan",CSE 127 - Intro to Computer Security (A),SP21,183,73,97.1%,98.5%,8.65,B+ (3.58),B+ (3.40),3.4,cse,12
-26,26,26,26,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI21,83,50,94.0%,74.0%,10.22,B (3.29),B (3.22),3.22,cse,12
-27,27,27,27,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (B),WI21,185,154,92.2%,96.1%,10.92,B+ (3.62),B+ (3.66),3.66,cse,12
-28,28,28,28,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (C),WI21,189,162,95.6%,97.5%,10.16,A- (3.71),B+ (3.66),3.66,cse,12
-29,29,29,29,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (D),WI21,191,157,93.0%,98.1%,10.38,B+ (3.66),B+ (3.68),3.68,cse,12
-30,30,30,30,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI21,215,65,87.5%,92.2%,10.47,B+ (3.40),B+ (3.38),3.38,cse,12
-31,31,31,31,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI21,181,54,92.3%,96.2%,10.08,B (3.21),B (3.30),3.3,cse,12
-32,32,32,32,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),WI21,28,15,84.6%,92.3%,13.58,B+ (3.60),B+ (3.50),3.5,cse,12
-33,33,33,33,"Snoeren, Alex C.",CSE 123 - Computer Networks (B),WI21,71,25,95.8%,95.8%,14.26,A- (3.71),B+ (3.34),3.34,cse,12
-34,34,34,34,"Heninger, Nadia A",CSE 127 - Intro to Computer Security (A),WI21,168,56,94.4%,86.8%,9.17,A- (3.73),B+ (3.49),3.49,cse,12
-35,35,35,35,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (A),FA20,172,77,86.7%,89.2%,13.2,B+ (3.53),B (3.29),3.29,cse,12
-36,36,36,36,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (B),FA20,173,68,89.2%,86.2%,12.05,B+ (3.64),B+ (3.33),3.33,cse,12
-37,37,37,37,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),FA20,251,86,95.2%,100.0%,11.52,B+ (3.52),B (3.25),3.25,cse,12
-38,38,38,38,"Porter, George M",CSE 124 - Networked Services (A),FA20,177,53,98.0%,98.0%,9.54,B+ (3.57),B+ (3.30),3.3,cse,12
-39,39,39,39,"Stefan, Deian",CSE 127 - Intro to Computer Security (A),FA20,153,42,97.6%,90.2%,8.99,A- (3.83),B+ (3.64),3.64,cse,12
-40,40,40,40,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (A),SP20,191,146,100.0%,97.9%,10.72,A- (3.71),B+ (3.66),3.66,cse,12
-41,41,41,41,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (B),SP20,188,150,98.0%,96.6%,10.69,A- (3.79),A- (3.83),3.83,cse,12
-42,42,42,42,"Allos, Haytham Issa",CSE 12 - Basic Data Struct & OO Design (C),SP20,383,302,98.3%,93.5%,9.58,A- (3.85),A- (3.87),3.87,cse,12
-43,43,43,43,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP20,161,103,88.3%,89.1%,10.33,B+ (3.53),B+ (3.42),3.42,cse,12
-44,44,44,44,"Zhang, Yiying",CSE 120 - Princ/Computer Operating Systm (B),SP20,48,18,82.4%,86.7%,8.74,B+ (3.42),A- (3.75),3.75,cse,12
-45,45,45,45,"Shalev, Aaron D",CSE 123 - Computer Networks (A),SP20,101,23,78.3%,82.6%,10.85,B+ (3.38),B+ (3.39),3.39,cse,12
-46,46,46,46,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP20,30,11,100.0%,100.0%,13.7,A- (3.89),A (4.00),4.0,cse,12
-47,47,47,47,"Savage, Stefan",CSE 127 - Intro to Computer Security (A),SP20,206,55,100.0%,100.0%,6.72,A- (3.74),B+ (3.55),3.55,cse,12
-48,48,48,48,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI20,185,100,87.9%,73.2%,12.83,B+ (3.38),B (3.29),3.29,cse,12
-49,49,49,49,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (B),WI20,190,122,97.5%,91.6%,8.83,B+ (3.51),B+ (3.33),3.33,cse,12
-50,50,50,50,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI20,207,67,82.3%,87.1%,10.4,B (3.08),B- (2.99),2.99,cse,12
-51,51,51,51,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI20,183,61,96.6%,96.5%,9.02,B+ (3.36),B (3.25),3.25,cse,12
-52,52,52,52,"Porter, George M",CSE 124 - Networked Services (A),WI20,159,67,98.4%,95.3%,7.73,B+ (3.49),A- (3.72),3.72,cse,12
-53,53,53,53,"Stefan, Deian",CSE 127 - Intro to Computer Security (A),WI20,140,38,97.3%,97.3%,9.8,B+ (3.54),B+ (3.54),3.54,cse,12
-54,54,54,54,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA19,147,93,86.7%,83.0%,14.1,B+ (3.30),B (3.12),3.12,cse,12
-55,55,55,55,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),FA19,131,78,90.9%,77.9%,14.47,B+ (3.43),B- (2.96),2.96,cse,12
-56,56,56,56,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),FA19,181,52,94.0%,100.0%,11.22,B (3.20),B- (2.87),2.87,cse,12
-57,57,57,57,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),FA19,98,20,89.5%,100.0%,9.13,B (3.00),B- (2.74),2.74,cse,12
-58,58,58,58,"Heninger, Nadia A",CSE 127 - Intro to Computer Security (A),FA19,41,10,100.0%,85.7%,9.64,B+ (3.57),B+ (3.68),3.68,cse,12
-59,59,59,59,"Stefan, Deian",CSE 127 - Intro to Computer Security (B),FA19,51,21,95.2%,85.7%,9.45,B (3.11),B (3.07),3.07,cse,12
-60,60,60,60,"Polyzos, George C",CSE 123 - Computer Networks (A),S219,32,10,100.0%,70.0%,11.5,B- (2.90),B- (2.84),2.84,cse,12
-61,61,61,61,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SP19,133,62,92.9%,69.1%,13.31,B (3.25),B (3.05),3.05,cse,12
-62,62,62,62,"Zaitsev, Anna L",CSE 12 - Basic Data Struct & OO Design (B),SP19,184,145,94.3%,74.5%,12.08,B+ (3.38),B- (3.00),3.0,cse,12
-63,63,63,63,"Zaitsev, Anna L",CSE 12 - Basic Data Struct & OO Design (C),SP19,175,139,89.8%,74.5%,11.4,B+ (3.38),B- (3.00),3.0,cse,12
-64,64,64,64,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),SP19,200,57,92.3%,98.0%,9.77,B+ (3.57),B- (2.98),2.98,cse,12
-65,65,65,65,"Shalev, Aaron D",CSE 123 - Computer Networks (A),SP19,158,37,80.0%,74.3%,9.87,C+ (2.67),C+ (2.52),2.52,cse,12
-66,66,66,66,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP19,30,10,100.0%,100.0%,14.5,A (4.00),A (4.00),4.0,cse,12
-67,67,67,67,"Savage, Stefan",CSE 127 - Intro to Computer Security (A),SP19,220,53,95.9%,98.0%,8.26,B+ (3.38),B- (2.96),2.96,cse,12
-68,68,68,68,"Politz, Joseph Gibbs",CSE 12 - Basic Data Struct & OO Design (A),WI19,175,86,96.4%,95.2%,9.97,B+ (3.35),B (3.18),3.18,cse,12
-69,69,69,69,"Politz, Joseph Gibbs",CSE 12 - Basic Data Struct & OO Design (B),WI19,181,109,96.2%,99.0%,8.65,B+ (3.51),B (3.18),3.18,cse,12
-70,70,70,70,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (C),WI19,159,130,93.0%,88.9%,12.47,B+ (3.52),B (3.18),3.18,cse,12
-71,71,71,71,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI19,183,56,96.1%,98.0%,9.64,B+ (3.33),B- (2.96),2.96,cse,12
-72,72,72,72,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI19,170,57,100.0%,100.0%,8.79,B+ (3.61),B- (2.96),2.96,cse,12
-73,73,73,73,"Porter, George M",CSE 124 - Networked Services (A),WI19,134,26,87.0%,91.3%,7.63,B+ (3.39),B+ (3.37),3.37,cse,12
-74,74,74,74,"Stefan, Deian",CSE 127 - Intro to Computer Security (A),WI19,132,34,83.9%,80.6%,6.9,B (3.28),B+ (3.50),3.5,cse,12
-75,75,75,75,"Allos, Haytham Issa",CSE 12 - Basic Data Struct & OO Design (A),FA18,153,128,88.2%,87.4%,11.07,B+ (3.47),B (3.06),3.06,cse,12
-76,76,76,76,"Zaitsev, Anna L",CSE 12 - Basic Data Struct & OO Design (B),FA18,145,123,85.4%,73.0%,10.48,B+ (3.35),B (3.02),3.02,cse,12
-77,77,77,77,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),FA18,118,58,92.9%,87.5%,9.83,B+ (3.43),B- (2.77),2.77,cse,12
-78,78,78,78,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (B),FA18,95,41,84.2%,89.5%,9.92,B (3.26),B- (2.77),2.77,cse,12
-79,79,79,79,"Snoeren, Alex C.",CSE 123 - Computer Networks (B),FA18,108,39,97.4%,94.6%,9.61,B (3.14),B- (2.86),2.86,cse,12
-80,80,80,80,"Savage, Stefan",CSE 127 - Intro to Computer Security (A),FA18,168,53,91.7%,91.7%,9.15,B (3.24),B (3.07),3.07,cse,12
-81,81,81,81,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SP18,170,77,84.5%,80.3%,12.72,B (3.28),B (3.01),3.01,cse,12
-82,82,82,82,"Papadopoulos, Philip Micha",CSE 12 - Basic Data Struct & OO Design (B),SP18,221,81,94.9%,94.8%,11.88,B (3.29),B- (2.99),2.99,cse,12
-83,83,83,83,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),SP18,191,68,93.8%,96.9%,10.81,B+ (3.52),B- (2.96),2.96,cse,12
-84,84,84,84,"Porter, George M",CSE 124 - Networked Services (A),SP18,175,52,92.2%,86.3%,7.72,B+ (3.38),B (3.19),3.19,cse,12
-85,85,85,85,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP18,31,13,100.0%,100.0%,13.73,A- (3.92),A (4.00),4.0,cse,12
-86,86,86,86,"Savage, Stefan",CSE 127 - Intro to Computer Security (A),SP18,170,68,100.0%,100.0%,7.78,B (3.29),B- (2.93),2.93,cse,12
-87,87,87,87,"Gantman, Alexander",CSE 127 - Intro to Computer Security (B),SP18,45,10,100.0%,80.0%,8.7,B (3.00),B- (2.80),2.8,cse,12
-88,88,88,88,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI18,135,101,86.7%,84.7%,11.79,B+ (3.55),B (3.05),3.05,cse,12
-89,89,89,89,"Politz, Joseph Gibbs",CSE 12 - Basic Data Struct & OO Design (B),WI18,192,161,93.7%,94.9%,10.2,B+ (3.49),B+ (3.33),3.33,cse,12
-90,90,90,90,"Politz, Joseph Gibbs",CSE 12 - Basic Data Struct & OO Design (C),WI18,127,111,96.3%,96.3%,9.52,B+ (3.50),B+ (3.33),3.33,cse,12
-91,91,91,91,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI18,184,100,94.7%,98.9%,9.01,B (3.17),B (3.06),3.06,cse,12
-92,92,92,92,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI18,179,99,96.9%,99.0%,9.48,B (3.22),B (3.06),3.06,cse,12
-93,93,93,93,"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),WI18,55,24,95.7%,95.7%,12.67,B (3.00),B- (2.79),2.79,cse,12
-94,94,94,94,"Alvarado, Christine J.",CSE 12 - Basic Data Struct & OO Design (A),FA17,210,182,96.7%,98.3%,12.44,B+ (3.38),B (3.09),3.09,cse,12
-95,95,95,95,"Alvarado, Christine J.",CSE 12 - Basic Data Struct & OO Design (B),FA17,134,112,97.3%,99.1%,12.32,B+ (3.49),B (3.09),3.09,cse,12
-96,96,96,96,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),FA17,130,86,86.9%,92.9%,11.36,B (3.25),B- (2.81),2.81,cse,12
-97,97,97,97,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (B),FA17,91,52,94.2%,92.0%,11.58,B+ (3.35),B- (2.81),2.81,cse,12
-98,98,98,98,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),FA17,84,28,91.7%,100.0%,8.59,B+ (3.45),B- (2.76),2.76,cse,12
-99,99,99,99,"Porter, George M",CSE 124 - Networked Services (A),FA17,147,55,98.1%,98.1%,8.65,B+ (3.46),B (3.14),3.14,cse,12
-100,100,100,100,"Levchenko, Kirill I.",CSE 127 - Intro to Computer Security (B),FA17,99,37,91.4%,62.9%,13.13,B- (2.77),B- (2.82),2.82,cse,12
-101,101,101,101,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),S217,22,16,85.7%,85.7%,19.17,B+ (3.33),B+ (3.44),3.44,cse,12
-102,102,102,102,"Polyzos, George C",CSE 123 - Computer Networks (A),S217,32,4,75.0%,50.0%,8.5,B+ (3.50),B (3.16),3.16,cse,12
-103,103,103,103,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (A),S117,109,20,95.0%,89.5%,13.8,B (3.25),C+ (2.56),2.56,cse,12
-104,104,104,104,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SP17,168,105,90.9%,79.8%,13.55,B+ (3.48),B- (2.98),2.98,cse,12
-105,105,105,105,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),SP17,162,81,91.8%,86.3%,12.78,B+ (3.52),B- (2.98),2.98,cse,12
-106,106,106,106,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),SP17,180,94,94.3%,94.3%,12.31,B+ (3.30),B- (2.78),2.78,cse,12
-107,107,107,107,"Kesden, Gregory M",CSE 120 - Princ/Computer Operating Systm (A),SP17,205,90,66.7%,31.0%,11.36,B- (2.89),B- (2.97),2.97,cse,12
-108,108,108,108,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP17,32,10,100.0%,100.0%,15.83,A (4.00),A (4.00),4.0,cse,12
-109,109,109,109,"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP17,71,26,95.8%,95.8%,11.83,B- (2.77),B- (2.77),2.77,cse,12
-110,110,110,110,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (A),WI17,149,72,97.0%,95.5%,11.91,B+ (3.56),B- (2.97),2.97,cse,12
-111,111,111,111,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (B),WI17,155,68,96.6%,94.9%,10.87,B+ (3.50),B- (2.97),2.97,cse,12
-112,112,112,112,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),WI17,149,77,95.8%,94.4%,10.64,B+ (3.56),B- (2.97),2.97,cse,12
-113,113,113,113,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI17,175,58,90.2%,94.1%,11.05,B (3.24),B- (2.97),2.97,cse,12
-114,114,114,114,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI17,164,66,96.8%,96.8%,10.73,B (3.09),B- (2.97),2.97,cse,12
-115,115,115,115,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),WI17,97,35,93.8%,100.0%,9.21,B+ (3.30),B (3.23),3.23,cse,12
-116,116,116,116,"Porter, George M",CSE 124 - Networked Services (A),WI17,173,50,100.0%,97.9%,7.61,B+ (3.53),B+ (3.49),3.49,cse,12
-117,117,117,117,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA16,131,71,97.0%,92.4%,14.25,B+ (3.44),B- (3.00),3.0,cse,12
-118,118,118,118,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),FA16,112,53,95.7%,97.9%,14.29,B+ (3.40),B- (3.00),3.0,cse,12
-119,119,119,119,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),FA16,118,58,94.3%,94.3%,12.58,B+ (3.42),B- (2.83),2.83,cse,12
-120,120,120,120,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),FA16,242,96,92.1%,96.6%,10.11,B (3.27),B (3.08),3.08,cse,12
-121,121,121,121,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (B),FA16,137,64,82.3%,83.9%,10.87,B (3.12),B- (2.84),2.84,cse,12
-122,122,122,122,"Savage, Stefan",CSE 123 - Computer Networks (B),FA16,103,34,89.7%,89.7%,10.09,B (3.23),B- (2.77),2.77,cse,12
-123,123,123,123,"Shacham, Hovav",CSE 127 - Intro to Computer Security (B),FA16,48,16,93.3%,86.7%,11.97,C+ (2.40),B- (2.91),2.91,cse,12
-124,124,124,124,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),S216,32,29,92.9%,85.7%,16.0,B+ (3.67),B (3.17),3.17,cse,12
-125,125,125,125,"Yen, Dorothy",CSE 12 - Basic Data Struct & OO Design (A),S116,46,37,97.3%,86.5%,11.53,B+ (3.58),B- (2.76),2.76,cse,12
-126,126,126,126,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SP16,183,96,92.2%,86.7%,12.66,B+ (3.56),B (3.10),3.1,cse,12
-127,127,127,127,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (B),SP16,157,75,95.7%,91.3%,11.57,B+ (3.42),B- (2.86),2.86,cse,12
-128,128,128,128,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),SP16,241,116,95.7%,87.8%,11.08,B+ (3.41),B- (2.97),2.97,cse,12
-129,129,129,129,"Kesden, Gregory M",CSE 120 - Princ/Computer Operating Systm (A),SP16,189,69,78.0%,55.9%,10.25,B- (2.86),C+ (2.64),2.64,cse,12
-130,130,130,130,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),SP16,129,41,90.0%,100.0%,9.42,B- (2.72),C+ (2.61),2.61,cse,12
-131,131,131,131,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP16,33,9,100.0%,100.0%,14.5,A (4.00),A (4.00),4.0,cse,12
-132,132,132,132,"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP16,58,25,95.7%,95.7%,11.05,B (3.10),B- (2.95),2.95,cse,12
-133,133,133,133,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI16,168,104,99.0%,92.8%,11.39,B+ (3.58),B (3.08),3.08,cse,12
-134,134,134,134,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),WI16,111,68,98.4%,92.2%,12.63,B+ (3.62),B (3.08),3.08,cse,12
-135,135,135,135,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),WI16,126,55,90.4%,80.8%,9.35,B+ (3.38),B- (2.93),2.93,cse,12
-136,136,136,136,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (D),WI16,126,66,96.8%,83.9%,8.63,B+ (3.42),B- (2.93),2.93,cse,12
-137,137,137,137,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI16,275,154,95.4%,96.7%,9.47,B+ (3.32),B- (2.92),2.92,cse,12
-138,138,138,138,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI16,141,71,97.1%,98.5%,9.38,B (3.25),B- (2.92),2.92,cse,12
-139,139,139,139,"Porter, George M",CSE 124 - Networked Services (A),WI16,135,57,94.6%,98.2%,7.85,B+ (3.55),B+ (3.39),3.39,cse,12
-140,140,140,140,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA15,63,25,95.7%,95.7%,15.8,B+ (3.57),B (3.06),3.06,cse,12
-141,141,141,141,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),FA15,85,49,95.3%,93.0%,15.4,B+ (3.32),B (3.06),3.06,cse,12
-142,142,142,142,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),FA15,50,19,94.1%,88.2%,10.63,B- (2.88),B- (2.79),2.79,cse,12
-143,143,143,143,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (D),FA15,71,30,96.4%,89.3%,10.43,B (3.29),B- (2.79),2.79,cse,12
-144,144,144,144,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),FA15,185,72,91.2%,98.5%,11.68,B+ (3.34),B (3.03),3.03,cse,12
-145,145,145,145,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (B),FA15,128,54,84.3%,62.7%,11.15,B- (2.81),B- (2.84),2.84,cse,12
-146,146,146,146,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),FA15,87,23,80.0%,95.0%,10.82,B- (2.79),B- (2.74),2.74,cse,12
-147,147,147,147,"Savage, Stefan Roberts",CSE 127 - Intro to Computer Security (A),FA15,152,54,96.2%,94.3%,5.78,B (3.06),B- (2.82),2.82,cse,12
-148,148,148,148,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),S215,26,6,100.0%,100.0%,15.7,B+ (3.33),B (3.27),3.27,cse,12
-149,149,149,149,"Shonle, Macneil Charles",CSE 12 - Basic Data Struct & OO Design (A),S115,95,31,93.1%,86.2%,8.65,B+ (3.64),B+ (3.32),3.32,cse,12
-150,150,150,150,"Alvarado, Christine J.",CSE 12 - Basic Data Struct & OO Design (A),SP15,176,160,94.9%,95.6%,10.79,B (3.30),B- (2.75),2.75,cse,12
-151,151,151,151,"Alvarado, Christine J.",CSE 12 - Basic Data Struct & OO Design (B),SP15,183,157,97.4%,96.8%,11.34,B+ (3.38),B- (2.75),2.75,cse,12
-152,152,152,152,"Shonle, Macneil Charles",CSE 12 - Basic Data Struct & OO Design (C),SP15,141,63,90.5%,50.8%,5.33,B+ (3.68),B+ (3.62),3.62,cse,12
-153,153,153,153,"Shonle, Macneil Charles",CSE 12 - Basic Data Struct & OO Design (D),SP15,135,58,91.4%,55.2%,5.18,A- (3.80),B+ (3.62),3.62,cse,12
-154,154,154,154,"Klemperer, Peter Friedrich",CSE 120 - Princ/Computer Operating Systm (B),SP15,136,50,85.7%,69.4%,9.69,B (3.21),B- (2.86),2.86,cse,12
-155,155,155,155,"Savage, Stefan Roberts",CSE 123 - Computer Networks (A),SP15,102,63,88.1%,91.5%,8.05,B- (2.78),B- (2.98),2.98,cse,12
-156,156,156,156,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP15,34,11,100.0%,100.0%,17.1,A (4.00),A (4.00),4.0,cse,12
-157,157,157,157,"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP15,94,31,93.5%,96.8%,10.9,B- (2.97),C (2.02),2.02,cse,12
-158,158,158,158,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI15,231,144,94.2%,84.8%,12.97,B+ (3.39),B (3.03),3.03,cse,12
-159,159,159,159,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),WI15,158,99,96.8%,74.7%,11.85,B+ (3.40),B (3.03),3.03,cse,12
-160,160,160,160,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI15,144,86,91.6%,97.6%,9.99,B (3.20),B- (2.99),2.99,cse,12
-161,161,161,161,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI15,144,73,98.6%,100.0%,9.38,B+ (3.41),B- (2.99),2.99,cse,12
-162,162,162,162,"Porter, George M",CSE 124 - Networked Services (A),WI15,102,39,88.2%,97.1%,7.65,B (3.24),B (3.11),3.11,cse,12
-163,163,163,163,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA14,174,71,88.5%,80.3%,15.7,B (3.13),B- (2.82),2.82,cse,12
-164,164,164,164,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),FA14,174,71,89.1%,74.5%,15.37,B+ (3.37),B- (2.82),2.82,cse,12
-165,165,165,165,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (B),FA14,184,76,86.6%,97.0%,11.21,B (3.08),B (3.05),3.05,cse,12
-166,166,166,166,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),FA14,113,50,89.6%,97.9%,10.13,B (3.04),C+ (2.39),2.39,cse,12
-167,167,167,167,"Levchenko, Kirill I.",CSE 127 - Intro to Computer Security (A),FA14,87,46,78.6%,90.5%,11.15,B- (2.89),B- (2.75),2.75,cse,12
-168,168,168,168,"Alvarado, Christine J.",CSE 12 - Basic Data Struct & OO Design (A),SP14,176,134,97.0%,99.2%,12.08,B+ (3.32),B- (2.91),2.91,cse,12
-169,169,169,169,"Papadopoulos, Philip Micha",CSE 12 - Basic Data Struct & OO Design (B),SP14,186,157,96.8%,80.1%,10.64,B (3.28),B- (2.84),2.84,cse,12
-170,170,170,170,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP14,69,24,100.0%,86.4%,11.41,B- (2.90),C+ (2.58),2.58,cse,12
-171,171,171,171,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP14,32,14,100.0%,100.0%,15.93,A- (3.93),A (4.00),4.0,cse,12
-172,172,172,172,"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP14,176,76,87.5%,90.3%,10.5,B (3.04),C+ (2.30),2.3,cse,12
-173,173,173,173,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI14,181,85,94.0%,84.3%,13.14,B+ (3.55),B- (2.77),2.77,cse,12
-174,174,174,174,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),WI14,139,51,91.3%,78.3%,14.28,B+ (3.39),B- (2.77),2.77,cse,12
-175,175,175,175,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI14,134,95,94.7%,96.8%,8.15,B+ (3.39),B- (2.90),2.9,cse,12
-176,176,176,176,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI14,136,86,100.0%,100.0%,9.79,B+ (3.45),B- (2.90),2.9,cse,12
-177,177,177,177,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA13,155,52,90.2%,80.4%,16.85,B (3.04),C+ (2.47),2.47,cse,12
-178,178,178,178,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),FA13,89,26,90.5%,61.9%,15.17,B (3.05),C+ (2.47),2.47,cse,12
-179,179,179,179,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),FA13,134,60,98.3%,96.7%,8.57,B (3.17),B- (2.71),2.71,cse,12
-180,180,180,180,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),FA13,79,35,93.8%,96.9%,11.94,B (3.00),C+ (2.66),2.66,cse,12
-181,181,181,181,"Chandrashekhar, Roshni",CSE 12 - Basic Data Struct & OO Design (A),S113,83,64,96.7%,80.0%,12.1,B (3.10),B- (2.82),2.82,cse,12
-182,182,182,182,"Varna, Rakesh Laxmisha",CSE 12 - Basic Data Struct & OO Design (A),S113,84,62,96.7%,93.4%,12.04,B (3.08),B- (2.82),2.82,cse,12
-183,183,183,183,"Lee, Cynthia Bailey",CSE 12 - Basic Data Struct & OO Design (A),SP13,193,97,95.9%,94.8%,9.3,B (3.28),B (3.10),3.1,cse,12
-184,184,184,184,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (B),SP13,180,58,94.6%,73.2%,8.29,B (3.27),B (3.03),3.03,cse,12
-185,185,185,185,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP13,69,21,85.7%,61.9%,12.98,B (3.10),B- (2.78),2.78,cse,12
-186,186,186,186,"Polyzos, George C",CSE 123 - Computer Networks (A),SP13,58,19,84.2%,52.6%,6.94,B+ (3.32),B- (2.74),2.74,cse,12
-187,187,187,187,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP13,36,10,100.0%,100.0%,16.9,A- (3.90),A- (3.94),3.94,cse,12
-188,188,188,188,"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP13,80,37,97.3%,100.0%,7.67,B+ (3.49),B (3.00),3.0,cse,12
-189,189,189,189,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),WI13,192,70,94.2%,76.8%,7.96,B+ (3.57),B (3.25),3.25,cse,12
-190,190,190,190,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI13,89,53,96.2%,98.1%,9.93,B+ (3.34),B- (2.95),2.95,cse,12
-191,191,191,191,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI13,51,27,92.6%,100.0%,8.94,B (3.20),B- (2.95),2.95,cse,12
-192,192,192,192,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),FA12,198,83,94.5%,84.9%,9.38,B+ (3.46),B- (2.92),2.92,cse,12
-193,193,193,193,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),FA12,142,61,100.0%,98.3%,9.4,B (3.22),B- (2.89),2.89,cse,12
-194,194,194,194,"Polyzos, George C",CSE 123 - Computer Networks (A),FA12,102,36,80.6%,41.9%,6.69,B- (2.90),B- (2.98),2.98,cse,12
-195,195,195,195,"Savage, Stefan Roberts",CSE 127 - Intro to Computer Security (A),FA12,120,45,90.2%,87.8%,4.05,B (3.26),B- (2.82),2.82,cse,12
-196,196,196,196,"Whitehill, Jacob R",CSE 12 - Basic Data Struct & OO Design (B),S112,73,22,90.9%,100.0%,8.86,B+ (3.32),B+ (3.40),3.4,cse,12
-197,197,197,197,"Webb, Kevin C",CSE 120 - Princ/Computer Operating Systm (A),S112,22,20,100.0%,100.0%,13.3,B- (2.75),B- (2.88),2.88,cse,12
-198,198,198,198,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),SP12,172,62,98.4%,87.1%,11.08,B (3.25),B- (2.88),2.88,cse,12
-199,199,199,199,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP12,76,32,84.4%,68.8%,11.13,B (3.16),B- (2.85),2.85,cse,12
-200,200,200,200,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP12,33,16,100.0%,100.0%,18.88,A- (3.86),A (4.00),4.0,cse,12
-201,201,201,201,"Savage, Stefan Roberts",CSE 127 - Intro to Computer Security (A),SP12,137,48,95.7%,91.3%,5.02,B+ (3.43),B (3.16),3.16,cse,12
-202,202,202,202,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),WI12,150,63,93.5%,85.5%,9.74,B+ (3.57),B (3.00),3.0,cse,12
-203,203,203,203,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI12,188,89,95.4%,95.4%,8.59,B (3.18),B- (2.89),2.89,cse,12
-204,204,204,204,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),FA11,157,53,94.3%,80.8%,9.25,B+ (3.43),B- (2.83),2.83,cse,12
-205,205,205,205,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),FA11,64,29,89.3%,85.7%,11.74,B+ (3.32),B+ (3.40),3.4,cse,12
-206,206,206,206,"Savage, Stefan Roberts",CSE 123 - Computer Networks (A),FA11,129,61,90.2%,83.6%,6.3,B+ (3.56),B+ (3.45),3.45,cse,12
-207,207,207,207,"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),FA11,52,27,100.0%,100.0%,9.69,A- (3.70),B (3.09),3.09,cse,12
-208,208,208,208,"Whitehill, Jacob R",CSE 12 - Basic Data Struct & OO Design (A),S211,38,22,95.5%,95.5%,11.41,B (3.19),B (3.24),3.24,cse,12
-209,209,209,209,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),S111,51,16,81.3%,86.7%,11.0,B+ (3.40),C+ (2.58),2.58,cse,12
-210,210,210,210,"Taylor, Cynthia Bagier",CSE 120 - Princ/Computer Operating Systm (A),S111,33,27,100.0%,96.3%,10.94,B (3.07),B- (2.83),2.83,cse,12
-211,211,211,211,"Kanich, Christopher W",CSE 123 - Computer Networks (A),S111,12,6,100.0%,100.0%,16.5,B (3.00),,,cse,12
-212,212,212,212,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),SP11,164,69,82.6%,50.7%,10.3,B (3.19),B- (2.71),2.71,cse,12
-213,213,213,213,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP11,55,22,95.5%,95.5%,10.12,B (3.18),B- (2.89),2.89,cse,12
-214,214,214,214,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP11,30,14,100.0%,100.0%,15.93,A- (3.86),A- (3.97),3.97,cse,12
-215,215,215,215,"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP11,76,46,100.0%,100.0%,8.37,B+ (3.57),B+ (3.40),3.4,cse,12
-216,216,216,216,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),WI11,83,39,92.3%,64.1%,9.17,B (3.26),B (3.06),3.06,cse,12
-217,217,217,217,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI11,141,72,95.8%,94.4%,10.53,B+ (3.32),B- (2.90),2.9,cse,12
-218,218,218,218,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),FA10,98,49,91.3%,71.7%,9.18,B (3.15),B- (2.89),2.89,cse,12
-219,219,219,219,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),FA10,59,22,77.3%,81.8%,9.83,B+ (3.32),B+ (3.38),3.38,cse,12
-220,220,220,220,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),FA10,35,22,95.5%,95.5%,10.5,B (3.14),B- (2.85),2.85,cse,12
-221,221,221,221,"Balakrishnannairsa, Manoj",CSE 124 - Networked Services (A),FA10,28,13,84.6%,46.2%,5.88,B (3.15),B+ (3.53),3.53,cse,12
-222,222,222,222,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),SU10,32,9,77.8%,88.9%,12.5,B+ (3.38),,,cse,12
-223,223,223,223,"Anderson, James W.",CSE 120 - Princ/Computer Operating Systm (A),SU10,11,5,60.0%,60.0%,18.5,B (3.00),,,cse,12
-224,224,224,224,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),SP10,137,65,90.8%,66.2%,8.87,B+ (3.49),B (3.12),3.12,cse,12
-225,225,225,225,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP10,62,26,69.2%,50.0%,9.35,B- (2.96),B (3.12),3.12,cse,12
-226,226,226,226,"Varghese, George",CSE 123 - Computer Networks (A),SP10,69,29,92.9%,85.7%,6.93,B+ (3.50),B+ (3.61),3.61,cse,12
-227,227,227,227,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP10,34,26,100.0%,100.0%,18.58,A- (3.96),A- (3.98),3.98,cse,12
-228,228,228,228,"Shacham, Hovav",CSE 127 - Intro/Computer Security (A),SP10,54,29,100.0%,96.6%,9.5,B+ (3.34),B (3.02),3.02,cse,12
-229,229,229,229,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),WI10,91,45,97.8%,86.7%,8.23,B+ (3.43),B- (2.99),2.99,cse,12
-230,230,230,230,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI10,86,53,98.1%,94.2%,10.19,B (3.18),B (3.08),3.08,cse,12
-231,231,231,231,"Snoeren, Alex C.",CSE 121 - Oper Systms:Architc&Implementn (A),WI10,8,7,71.4%,85.7%,12.5,B (3.29),,,cse,12
-232,232,232,232,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA09,88,62,90.3%,95.2%,13.92,B+ (3.46),B- (2.83),2.83,cse,12
-233,233,233,233,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),FA09,56,31,90.0%,90.0%,8.37,B+ (3.31),B (3.03),3.03,cse,12
-234,234,234,234,"Savage, Stefan Roberts",CSE 123 - Computer Networks (A),FA09,49,38,89.5%,97.4%,5.66,B+ (3.43),B (3.17),3.17,cse,12
-235,235,235,235,"Balakrishnannairsa, Manoj",CSE 124 - Networked Services (A),FA09,14,12,83.3%,50.0%,6.0,B+ (3.42),,,cse,12
-236,236,236,236,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SU09,24,13,92.3%,84.6%,14.81,B+ (3.50),,,cse,12
-237,237,237,237,"Uyeda, Frank Christopher",CSE 120 - Princ/Computer Operating Systm (A),SU09,17,12,75.0%,81.8%,17.33,C+ (2.64),,,cse,12
-238,238,238,238,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SP09,116,93,89.2%,90.3%,14.37,B (3.25),B- (2.76),2.76,cse,12
-239,239,239,239,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),SP09,58,38,92.1%,100.0%,12.61,B+ (3.43),B- (2.92),2.92,cse,12
-240,240,240,240,"Varghese, George",CSE 123 - Computer Networks (A),SP09,31,28,85.7%,89.3%,3.86,B+ (3.39),B+ (3.36),3.36,cse,12
-241,241,241,241,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP09,15,13,100.0%,100.0%,19.27,A- (3.85),,,cse,12
-242,242,242,242,"Savage, Stefan Roberts",CSE 127 - Intro/Computer Security (A),SP09,51,28,100.0%,100.0%,3.36,A- (3.82),B+ (3.30),3.3,cse,12
-243,243,243,243,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI09,84,72,93.0%,90.3%,14.19,B+ (3.31),B- (2.74),2.74,cse,12
-244,244,244,244,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI09,44,37,94.3%,91.4%,8.39,B (3.21),B- (2.92),2.92,cse,12
-245,245,245,245,"Snoeren, Alex C.",CSE 121 - Oper Systms:Architc&Implementn (A),WI09,9,7,100.0%,100.0%,7.07,B (3.29),,,cse,12
-246,246,246,246,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA08,65,48,84.8%,85.1%,11.75,B (3.22),B- (2.75),2.75,cse,12
-247,247,247,247,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),FA08,59,34,93.9%,90.6%,8.44,B (3.03),B- (2.90),2.9,cse,12
-248,248,248,248,"Varghese, George",CSE 123 - Computer Networks (A),FA08,36,31,93.5%,96.8%,6.11,B (3.11),B (3.25),3.25,cse,12
-249,249,249,249,"Shacham, Hovav",CSE 127 - Intro/Computer Security (A),FA08,15,9,100.0%,100.0%,9.39,B+ (3.44),,,cse,12
-250,250,250,250,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SU08,28,26,96.2%,100.0%,15.96,B- (2.87),,,cse,12
-251,251,251,251,"AuYoung, Alvin",CSE 120 - Princ/Computer Operating Systm (A),SU08,17,14,100.0%,100.0%,17.88,B (3.14),,,cse,12
-252,252,252,252,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SP08,84,61,91.7%,96.7%,15.07,B (3.22),C+ (2.66),2.66,cse,12
-253,253,253,253,"Snoeren, Alex C.",CSE 120 - Princ/Computer Operating Systm (A),SP08,64,56,88.7%,96.3%,12.29,B (3.19),B- (2.95),2.95,cse,12
-254,254,254,254,"Varghese, George",CSE 123 - Computer Networks (A),SP08,30,21,81.0%,90.5%,3.64,B+ (3.30),B+ (3.53),3.53,cse,12
-255,255,255,255,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP08,22,23,95.7%,100.0%,18.67,A- (3.91),A- (3.99),3.99,cse,12
-256,256,256,256,"Savage, Stefan Roberts",CSE 127 - Intro/Computer Security (A),SP08,58,41,100.0%,100.0%,2.7,A- (3.76),B- (2.94),2.94,cse,12
-257,257,257,257,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI08,48,39,87.2%,84.2%,13.94,B (3.14),B- (2.71),2.71,cse,12
-258,258,258,258,"Shacham, Hovav",CSE 127 - Intro/Computer Security (A),WI08,3,5,100.0%,100.0%,10.5,B (3.00),,,cse,12
-259,259,259,259,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA07,86,66,89.4%,84.4%,12.98,B (3.18),C+ (2.57),2.57,cse,12
-260,260,260,260,"Marzullo, Keith",CSE 120 - Princ/Computer Operating Systm (A),FA07,78,47,86.7%,88.9%,10.2,B+ (3.30),B- (2.77),2.77,cse,12
-261,261,261,261,"Vahdat, Mohammed Amin",CSE 124 - Networked Services (A),FA07,25,21,95.2%,95.2%,9.4,B+ (3.30),B+ (3.34),3.34,cse,12
-262,262,262,262,"Rhodes, Neil Campbell",CSE 120 - Princ/Computer Operating Systm (A),SU07,44,33,90.9%,97.0%,15.95,B (3.16),,,cse,12
+,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
+0,0,0,0,0,0,"Krause-Levy, Sophia Louisa",CSE 12 - Basic Data Struct & OO Design (A),S122,90,45,97.7%,90.7%,11.21,B+ (3.59),B- (2.79),2.79,cse,12
+1,1,1,1,1,1,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (A),SP22,179,122,97.5%,97.5%,9.69,B+ (3.68),B (3.20),3.2,cse,12
+2,2,2,2,2,2,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (B),SP22,182,116,98.2%,98.2%,8.88,B+ (3.69),B (3.28),3.28,cse,12
+3,3,3,3,3,3,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (C),SP22,185,72,82.6%,66.2%,10.01,B+ (3.39),B (3.06),3.06,cse,12
+4,4,4,4,4,4,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP22,193,148,91.2%,88.4%,11.31,B (3.24),B- (2.72),2.72,cse,12
+5,5,5,5,5,5,"Shalev, Aaron D",CSE 123 - Computer Networks (A),SP22,84,32,78.1%,93.8%,12.69,B- (2.82),C+ (2.55),2.55,cse,12
+6,6,6,6,6,6,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP22,33,19,100.0%,100.0%,12.39,A (4.00),A (4.00),4.0,cse,12
+7,7,7,7,7,7,"Obaido, George Rabeshi",CSE 127 - Intro to Computer Security (A),SP22,188,145,91.7%,67.4%,8.07,B+ (3.64),A- (3.79),3.79,cse,12
+8,8,8,8,8,8,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (A),WI22,350,156,93.5%,91.5%,8.41,A- (3.81),B (3.22),3.22,cse,12
+9,9,9,9,9,9,"Alvarado, Christine J.",CSE 12 - Basic Data Struct & OO Design (B),WI22,237,117,96.5%,98.2%,8.61,A- (3.85),B (3.25),3.25,cse,12
+10,10,10,10,10,10,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI22,224,93,92.0%,97.7%,9.55,B+ (3.36),B (3.23),3.23,cse,12
+11,11,11,11,11,11,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI22,205,82,92.4%,93.7%,8.35,B+ (3.45),B (3.29),3.29,cse,12
+12,12,12,12,12,12,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),WI22,84,27,68.0%,84.0%,14.35,C+ (2.64),B- (3.00),3.0,cse,12
+13,13,13,13,13,13,"Heninger, Nadia A",CSE 127 - Intro to Computer Security (A),WI22,186,62,86.9%,80.3%,10.03,B (3.11),B (3.05),3.05,cse,12
+14,14,14,14,14,14,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA21,209,84,79.5%,64.5%,13.31,B (3.14),B- (2.79),2.79,cse,12
+15,15,15,15,15,15,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (B),FA21,161,118,95.7%,94.0%,9.82,B+ (3.47),B (3.18),3.18,cse,12
+16,16,16,16,16,16,"Zhang, Yiying",CSE 120 - Princ/Computer Operating Systm (A),FA21,286,240,83.7%,76.9%,10.42,B (3.27),B+ (3.63),3.63,cse,12
+17,17,17,17,17,17,"Porter, George M",CSE 124 - Networked Services (A),FA21,178,75,91.7%,94.4%,9.58,B+ (3.32),B (3.08),3.08,cse,12
+18,18,18,18,18,18,"Stefan, Deian",CSE 127 - Intro to Computer Security (A),FA21,173,48,84.8%,80.0%,9.86,B+ (3.37),B (3.21),3.21,cse,12
+19,19,19,19,19,19,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),SP21,129,49,83.0%,66.0%,12.95,B (3.24),B+ (3.43),3.43,cse,12
+20,20,20,20,20,20,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (C),SP21,88,40,89.7%,76.9%,13.17,B+ (3.51),B+ (3.49),3.49,cse,12
+21,21,21,21,21,21,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (D),SP21,130,61,90.0%,90.0%,12.11,B+ (3.44),B+ (3.41),3.41,cse,12
+22,22,22,22,22,22,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP21,212,160,91.8%,93.7%,10.05,B+ (3.37),B (3.21),3.21,cse,12
+23,23,23,23,23,23,"Shalev, Aaron D",CSE 123 - Computer Networks (A),SP21,101,29,72.4%,89.7%,13.67,B+ (3.31),C+ (2.69),2.69,cse,12
+24,24,24,24,24,24,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP21,30,10,100.0%,100.0%,11.7,A (4.00),A (4.00),4.0,cse,12
+25,25,25,25,25,25,"Savage, Stefan",CSE 127 - Intro to Computer Security (A),SP21,183,73,97.1%,98.5%,8.65,B+ (3.58),B+ (3.40),3.4,cse,12
+26,26,26,26,26,26,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI21,83,50,94.0%,74.0%,10.22,B (3.29),B (3.22),3.22,cse,12
+27,27,27,27,27,27,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (B),WI21,185,154,92.2%,96.1%,10.92,B+ (3.62),B+ (3.66),3.66,cse,12
+28,28,28,28,28,28,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (C),WI21,189,162,95.6%,97.5%,10.16,A- (3.71),B+ (3.66),3.66,cse,12
+29,29,29,29,29,29,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (D),WI21,191,157,93.0%,98.1%,10.38,B+ (3.66),B+ (3.68),3.68,cse,12
+30,30,30,30,30,30,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI21,215,65,87.5%,92.2%,10.47,B+ (3.40),B+ (3.38),3.38,cse,12
+31,31,31,31,31,31,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI21,181,54,92.3%,96.2%,10.08,B (3.21),B (3.30),3.3,cse,12
+32,32,32,32,32,32,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),WI21,28,15,84.6%,92.3%,13.58,B+ (3.60),B+ (3.50),3.5,cse,12
+33,33,33,33,33,33,"Snoeren, Alex C.",CSE 123 - Computer Networks (B),WI21,71,25,95.8%,95.8%,14.26,A- (3.71),B+ (3.34),3.34,cse,12
+34,34,34,34,34,34,"Heninger, Nadia A",CSE 127 - Intro to Computer Security (A),WI21,168,56,94.4%,86.8%,9.17,A- (3.73),B+ (3.49),3.49,cse,12
+35,35,35,35,35,35,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (A),FA20,172,77,86.7%,89.2%,13.2,B+ (3.53),B (3.29),3.29,cse,12
+36,36,36,36,36,36,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (B),FA20,173,68,89.2%,86.2%,12.05,B+ (3.64),B+ (3.33),3.33,cse,12
+37,37,37,37,37,37,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),FA20,251,86,95.2%,100.0%,11.52,B+ (3.52),B (3.25),3.25,cse,12
+38,38,38,38,38,38,"Porter, George M",CSE 124 - Networked Services (A),FA20,177,53,98.0%,98.0%,9.54,B+ (3.57),B+ (3.30),3.3,cse,12
+39,39,39,39,39,39,"Stefan, Deian",CSE 127 - Intro to Computer Security (A),FA20,153,42,97.6%,90.2%,8.99,A- (3.83),B+ (3.64),3.64,cse,12
+40,40,40,40,40,40,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (A),SP20,191,146,100.0%,97.9%,10.72,A- (3.71),B+ (3.66),3.66,cse,12
+41,41,41,41,41,41,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (B),SP20,188,150,98.0%,96.6%,10.69,A- (3.79),A- (3.83),3.83,cse,12
+42,42,42,42,42,42,"Allos, Haytham Issa",CSE 12 - Basic Data Struct & OO Design (C),SP20,383,302,98.3%,93.5%,9.58,A- (3.85),A- (3.87),3.87,cse,12
+43,43,43,43,43,43,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP20,161,103,88.3%,89.1%,10.33,B+ (3.53),B+ (3.42),3.42,cse,12
+44,44,44,44,44,44,"Zhang, Yiying",CSE 120 - Princ/Computer Operating Systm (B),SP20,48,18,82.4%,86.7%,8.74,B+ (3.42),A- (3.75),3.75,cse,12
+45,45,45,45,45,45,"Shalev, Aaron D",CSE 123 - Computer Networks (A),SP20,101,23,78.3%,82.6%,10.85,B+ (3.38),B+ (3.39),3.39,cse,12
+46,46,46,46,46,46,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP20,30,11,100.0%,100.0%,13.7,A- (3.89),A (4.00),4.0,cse,12
+47,47,47,47,47,47,"Savage, Stefan",CSE 127 - Intro to Computer Security (A),SP20,206,55,100.0%,100.0%,6.72,A- (3.74),B+ (3.55),3.55,cse,12
+48,48,48,48,48,48,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI20,185,100,87.9%,73.2%,12.83,B+ (3.38),B (3.29),3.29,cse,12
+49,49,49,49,49,49,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (B),WI20,190,122,97.5%,91.6%,8.83,B+ (3.51),B+ (3.33),3.33,cse,12
+50,50,50,50,50,50,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI20,207,67,82.3%,87.1%,10.4,B (3.08),B- (2.99),2.99,cse,12
+51,51,51,51,51,51,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI20,183,61,96.6%,96.5%,9.02,B+ (3.36),B (3.25),3.25,cse,12
+52,52,52,52,52,52,"Porter, George M",CSE 124 - Networked Services (A),WI20,159,67,98.4%,95.3%,7.73,B+ (3.49),A- (3.72),3.72,cse,12
+53,53,53,53,53,53,"Stefan, Deian",CSE 127 - Intro to Computer Security (A),WI20,140,38,97.3%,97.3%,9.8,B+ (3.54),B+ (3.54),3.54,cse,12
+54,54,54,54,54,54,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA19,147,93,86.7%,83.0%,14.1,B+ (3.30),B (3.12),3.12,cse,12
+55,55,55,55,55,55,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),FA19,131,78,90.9%,77.9%,14.47,B+ (3.43),B- (2.96),2.96,cse,12
+56,56,56,56,56,56,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),FA19,181,52,94.0%,100.0%,11.22,B (3.20),B- (2.87),2.87,cse,12
+57,57,57,57,57,57,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),FA19,98,20,89.5%,100.0%,9.13,B (3.00),B- (2.74),2.74,cse,12
+58,58,58,58,58,58,"Heninger, Nadia A",CSE 127 - Intro to Computer Security (A),FA19,41,10,100.0%,85.7%,9.64,B+ (3.57),B+ (3.68),3.68,cse,12
+59,59,59,59,59,59,"Stefan, Deian",CSE 127 - Intro to Computer Security (B),FA19,51,21,95.2%,85.7%,9.45,B (3.11),B (3.07),3.07,cse,12
+60,60,60,60,60,60,"Polyzos, George C",CSE 123 - Computer Networks (A),S219,32,10,100.0%,70.0%,11.5,B- (2.90),B- (2.84),2.84,cse,12
+61,61,61,61,61,61,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SP19,133,62,92.9%,69.1%,13.31,B (3.25),B (3.05),3.05,cse,12
+62,62,62,62,62,62,"Zaitsev, Anna L",CSE 12 - Basic Data Struct & OO Design (B),SP19,184,145,94.3%,74.5%,12.08,B+ (3.38),B- (3.00),3.0,cse,12
+63,63,63,63,63,63,"Zaitsev, Anna L",CSE 12 - Basic Data Struct & OO Design (C),SP19,175,139,89.8%,74.5%,11.4,B+ (3.38),B- (3.00),3.0,cse,12
+64,64,64,64,64,64,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),SP19,200,57,92.3%,98.0%,9.77,B+ (3.57),B- (2.98),2.98,cse,12
+65,65,65,65,65,65,"Shalev, Aaron D",CSE 123 - Computer Networks (A),SP19,158,37,80.0%,74.3%,9.87,C+ (2.67),C+ (2.52),2.52,cse,12
+66,66,66,66,66,66,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP19,30,10,100.0%,100.0%,14.5,A (4.00),A (4.00),4.0,cse,12
+67,67,67,67,67,67,"Savage, Stefan",CSE 127 - Intro to Computer Security (A),SP19,220,53,95.9%,98.0%,8.26,B+ (3.38),B- (2.96),2.96,cse,12
+68,68,68,68,68,68,"Politz, Joseph Gibbs",CSE 12 - Basic Data Struct & OO Design (A),WI19,175,86,96.4%,95.2%,9.97,B+ (3.35),B (3.18),3.18,cse,12
+69,69,69,69,69,69,"Politz, Joseph Gibbs",CSE 12 - Basic Data Struct & OO Design (B),WI19,181,109,96.2%,99.0%,8.65,B+ (3.51),B (3.18),3.18,cse,12
+70,70,70,70,70,70,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (C),WI19,159,130,93.0%,88.9%,12.47,B+ (3.52),B (3.18),3.18,cse,12
+71,71,71,71,71,71,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI19,183,56,96.1%,98.0%,9.64,B+ (3.33),B- (2.96),2.96,cse,12
+72,72,72,72,72,72,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI19,170,57,100.0%,100.0%,8.79,B+ (3.61),B- (2.96),2.96,cse,12
+73,73,73,73,73,73,"Porter, George M",CSE 124 - Networked Services (A),WI19,134,26,87.0%,91.3%,7.63,B+ (3.39),B+ (3.37),3.37,cse,12
+74,74,74,74,74,74,"Stefan, Deian",CSE 127 - Intro to Computer Security (A),WI19,132,34,83.9%,80.6%,6.9,B (3.28),B+ (3.50),3.5,cse,12
+75,75,75,75,75,75,"Allos, Haytham Issa",CSE 12 - Basic Data Struct & OO Design (A),FA18,153,128,88.2%,87.4%,11.07,B+ (3.47),B (3.06),3.06,cse,12
+76,76,76,76,76,76,"Zaitsev, Anna L",CSE 12 - Basic Data Struct & OO Design (B),FA18,145,123,85.4%,73.0%,10.48,B+ (3.35),B (3.02),3.02,cse,12
+77,77,77,77,77,77,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),FA18,118,58,92.9%,87.5%,9.83,B+ (3.43),B- (2.77),2.77,cse,12
+78,78,78,78,78,78,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (B),FA18,95,41,84.2%,89.5%,9.92,B (3.26),B- (2.77),2.77,cse,12
+79,79,79,79,79,79,"Snoeren, Alex C.",CSE 123 - Computer Networks (B),FA18,108,39,97.4%,94.6%,9.61,B (3.14),B- (2.86),2.86,cse,12
+80,80,80,80,80,80,"Savage, Stefan",CSE 127 - Intro to Computer Security (A),FA18,168,53,91.7%,91.7%,9.15,B (3.24),B (3.07),3.07,cse,12
+81,81,81,81,81,81,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SP18,170,77,84.5%,80.3%,12.72,B (3.28),B (3.01),3.01,cse,12
+82,82,82,82,82,82,"Papadopoulos, Philip Micha",CSE 12 - Basic Data Struct & OO Design (B),SP18,221,81,94.9%,94.8%,11.88,B (3.29),B- (2.99),2.99,cse,12
+83,83,83,83,83,83,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),SP18,191,68,93.8%,96.9%,10.81,B+ (3.52),B- (2.96),2.96,cse,12
+84,84,84,84,84,84,"Porter, George M",CSE 124 - Networked Services (A),SP18,175,52,92.2%,86.3%,7.72,B+ (3.38),B (3.19),3.19,cse,12
+85,85,85,85,85,85,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP18,31,13,100.0%,100.0%,13.73,A- (3.92),A (4.00),4.0,cse,12
+86,86,86,86,86,86,"Savage, Stefan",CSE 127 - Intro to Computer Security (A),SP18,170,68,100.0%,100.0%,7.78,B (3.29),B- (2.93),2.93,cse,12
+87,87,87,87,87,87,"Gantman, Alexander",CSE 127 - Intro to Computer Security (B),SP18,45,10,100.0%,80.0%,8.7,B (3.00),B- (2.80),2.8,cse,12
+88,88,88,88,88,88,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI18,135,101,86.7%,84.7%,11.79,B+ (3.55),B (3.05),3.05,cse,12
+89,89,89,89,89,89,"Politz, Joseph Gibbs",CSE 12 - Basic Data Struct & OO Design (B),WI18,192,161,93.7%,94.9%,10.2,B+ (3.49),B+ (3.33),3.33,cse,12
+90,90,90,90,90,90,"Politz, Joseph Gibbs",CSE 12 - Basic Data Struct & OO Design (C),WI18,127,111,96.3%,96.3%,9.52,B+ (3.50),B+ (3.33),3.33,cse,12
+91,91,91,91,91,91,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI18,184,100,94.7%,98.9%,9.01,B (3.17),B (3.06),3.06,cse,12
+92,92,92,92,92,92,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI18,179,99,96.9%,99.0%,9.48,B (3.22),B (3.06),3.06,cse,12
+93,93,93,93,93,93,"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),WI18,55,24,95.7%,95.7%,12.67,B (3.00),B- (2.79),2.79,cse,12
+94,94,94,94,94,94,"Alvarado, Christine J.",CSE 12 - Basic Data Struct & OO Design (A),FA17,210,182,96.7%,98.3%,12.44,B+ (3.38),B (3.09),3.09,cse,12
+95,95,95,95,95,95,"Alvarado, Christine J.",CSE 12 - Basic Data Struct & OO Design (B),FA17,134,112,97.3%,99.1%,12.32,B+ (3.49),B (3.09),3.09,cse,12
+96,96,96,96,96,96,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),FA17,130,86,86.9%,92.9%,11.36,B (3.25),B- (2.81),2.81,cse,12
+97,97,97,97,97,97,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (B),FA17,91,52,94.2%,92.0%,11.58,B+ (3.35),B- (2.81),2.81,cse,12
+98,98,98,98,98,98,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),FA17,84,28,91.7%,100.0%,8.59,B+ (3.45),B- (2.76),2.76,cse,12
+99,99,99,99,99,99,"Porter, George M",CSE 124 - Networked Services (A),FA17,147,55,98.1%,98.1%,8.65,B+ (3.46),B (3.14),3.14,cse,12
+100,100,100,100,100,100,"Levchenko, Kirill I.",CSE 127 - Intro to Computer Security (B),FA17,99,37,91.4%,62.9%,13.13,B- (2.77),B- (2.82),2.82,cse,12
+101,101,101,101,101,101,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),S217,22,16,85.7%,85.7%,19.17,B+ (3.33),B+ (3.44),3.44,cse,12
+102,102,102,102,102,102,"Polyzos, George C",CSE 123 - Computer Networks (A),S217,32,4,75.0%,50.0%,8.5,B+ (3.50),B (3.16),3.16,cse,12
+103,103,103,103,103,103,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (A),S117,109,20,95.0%,89.5%,13.8,B (3.25),C+ (2.56),2.56,cse,12
+104,104,104,104,104,104,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SP17,168,105,90.9%,79.8%,13.55,B+ (3.48),B- (2.98),2.98,cse,12
+105,105,105,105,105,105,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),SP17,162,81,91.8%,86.3%,12.78,B+ (3.52),B- (2.98),2.98,cse,12
+106,106,106,106,106,106,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),SP17,180,94,94.3%,94.3%,12.31,B+ (3.30),B- (2.78),2.78,cse,12
+107,107,107,107,107,107,"Kesden, Gregory M",CSE 120 - Princ/Computer Operating Systm (A),SP17,205,90,66.7%,31.0%,11.36,B- (2.89),B- (2.97),2.97,cse,12
+108,108,108,108,108,108,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP17,32,10,100.0%,100.0%,15.83,A (4.00),A (4.00),4.0,cse,12
+109,109,109,109,109,109,"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP17,71,26,95.8%,95.8%,11.83,B- (2.77),B- (2.77),2.77,cse,12
+110,110,110,110,110,110,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (A),WI17,149,72,97.0%,95.5%,11.91,B+ (3.56),B- (2.97),2.97,cse,12
+111,111,111,111,111,111,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (B),WI17,155,68,96.6%,94.9%,10.87,B+ (3.50),B- (2.97),2.97,cse,12
+112,112,112,112,112,112,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),WI17,149,77,95.8%,94.4%,10.64,B+ (3.56),B- (2.97),2.97,cse,12
+113,113,113,113,113,113,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI17,175,58,90.2%,94.1%,11.05,B (3.24),B- (2.97),2.97,cse,12
+114,114,114,114,114,114,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI17,164,66,96.8%,96.8%,10.73,B (3.09),B- (2.97),2.97,cse,12
+115,115,115,115,115,115,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),WI17,97,35,93.8%,100.0%,9.21,B+ (3.30),B (3.23),3.23,cse,12
+116,116,116,116,116,116,"Porter, George M",CSE 124 - Networked Services (A),WI17,173,50,100.0%,97.9%,7.61,B+ (3.53),B+ (3.49),3.49,cse,12
+117,117,117,117,117,117,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA16,131,71,97.0%,92.4%,14.25,B+ (3.44),B- (3.00),3.0,cse,12
+118,118,118,118,118,118,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),FA16,112,53,95.7%,97.9%,14.29,B+ (3.40),B- (3.00),3.0,cse,12
+119,119,119,119,119,119,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),FA16,118,58,94.3%,94.3%,12.58,B+ (3.42),B- (2.83),2.83,cse,12
+120,120,120,120,120,120,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),FA16,242,96,92.1%,96.6%,10.11,B (3.27),B (3.08),3.08,cse,12
+121,121,121,121,121,121,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (B),FA16,137,64,82.3%,83.9%,10.87,B (3.12),B- (2.84),2.84,cse,12
+122,122,122,122,122,122,"Savage, Stefan",CSE 123 - Computer Networks (B),FA16,103,34,89.7%,89.7%,10.09,B (3.23),B- (2.77),2.77,cse,12
+123,123,123,123,123,123,"Shacham, Hovav",CSE 127 - Intro to Computer Security (B),FA16,48,16,93.3%,86.7%,11.97,C+ (2.40),B- (2.91),2.91,cse,12
+124,124,124,124,124,124,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),S216,32,29,92.9%,85.7%,16.0,B+ (3.67),B (3.17),3.17,cse,12
+125,125,125,125,125,125,"Yen, Dorothy",CSE 12 - Basic Data Struct & OO Design (A),S116,46,37,97.3%,86.5%,11.53,B+ (3.58),B- (2.76),2.76,cse,12
+126,126,126,126,126,126,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SP16,183,96,92.2%,86.7%,12.66,B+ (3.56),B (3.10),3.1,cse,12
+127,127,127,127,127,127,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (B),SP16,157,75,95.7%,91.3%,11.57,B+ (3.42),B- (2.86),2.86,cse,12
+128,128,128,128,128,128,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),SP16,241,116,95.7%,87.8%,11.08,B+ (3.41),B- (2.97),2.97,cse,12
+129,129,129,129,129,129,"Kesden, Gregory M",CSE 120 - Princ/Computer Operating Systm (A),SP16,189,69,78.0%,55.9%,10.25,B- (2.86),C+ (2.64),2.64,cse,12
+130,130,130,130,130,130,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),SP16,129,41,90.0%,100.0%,9.42,B- (2.72),C+ (2.61),2.61,cse,12
+131,131,131,131,131,131,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP16,33,9,100.0%,100.0%,14.5,A (4.00),A (4.00),4.0,cse,12
+132,132,132,132,132,132,"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP16,58,25,95.7%,95.7%,11.05,B (3.10),B- (2.95),2.95,cse,12
+133,133,133,133,133,133,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI16,168,104,99.0%,92.8%,11.39,B+ (3.58),B (3.08),3.08,cse,12
+134,134,134,134,134,134,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),WI16,111,68,98.4%,92.2%,12.63,B+ (3.62),B (3.08),3.08,cse,12
+135,135,135,135,135,135,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),WI16,126,55,90.4%,80.8%,9.35,B+ (3.38),B- (2.93),2.93,cse,12
+136,136,136,136,136,136,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (D),WI16,126,66,96.8%,83.9%,8.63,B+ (3.42),B- (2.93),2.93,cse,12
+137,137,137,137,137,137,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI16,275,154,95.4%,96.7%,9.47,B+ (3.32),B- (2.92),2.92,cse,12
+138,138,138,138,138,138,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI16,141,71,97.1%,98.5%,9.38,B (3.25),B- (2.92),2.92,cse,12
+139,139,139,139,139,139,"Porter, George M",CSE 124 - Networked Services (A),WI16,135,57,94.6%,98.2%,7.85,B+ (3.55),B+ (3.39),3.39,cse,12
+140,140,140,140,140,140,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA15,63,25,95.7%,95.7%,15.8,B+ (3.57),B (3.06),3.06,cse,12
+141,141,141,141,141,141,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),FA15,85,49,95.3%,93.0%,15.4,B+ (3.32),B (3.06),3.06,cse,12
+142,142,142,142,142,142,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),FA15,50,19,94.1%,88.2%,10.63,B- (2.88),B- (2.79),2.79,cse,12
+143,143,143,143,143,143,"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (D),FA15,71,30,96.4%,89.3%,10.43,B (3.29),B- (2.79),2.79,cse,12
+144,144,144,144,144,144,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),FA15,185,72,91.2%,98.5%,11.68,B+ (3.34),B (3.03),3.03,cse,12
+145,145,145,145,145,145,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (B),FA15,128,54,84.3%,62.7%,11.15,B- (2.81),B- (2.84),2.84,cse,12
+146,146,146,146,146,146,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),FA15,87,23,80.0%,95.0%,10.82,B- (2.79),B- (2.74),2.74,cse,12
+147,147,147,147,147,147,"Savage, Stefan Roberts",CSE 127 - Intro to Computer Security (A),FA15,152,54,96.2%,94.3%,5.78,B (3.06),B- (2.82),2.82,cse,12
+148,148,148,148,148,148,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),S215,26,6,100.0%,100.0%,15.7,B+ (3.33),B (3.27),3.27,cse,12
+149,149,149,149,149,149,"Shonle, Macneil Charles",CSE 12 - Basic Data Struct & OO Design (A),S115,95,31,93.1%,86.2%,8.65,B+ (3.64),B+ (3.32),3.32,cse,12
+150,150,150,150,150,150,"Alvarado, Christine J.",CSE 12 - Basic Data Struct & OO Design (A),SP15,176,160,94.9%,95.6%,10.79,B (3.30),B- (2.75),2.75,cse,12
+151,151,151,151,151,151,"Alvarado, Christine J.",CSE 12 - Basic Data Struct & OO Design (B),SP15,183,157,97.4%,96.8%,11.34,B+ (3.38),B- (2.75),2.75,cse,12
+152,152,152,152,152,152,"Shonle, Macneil Charles",CSE 12 - Basic Data Struct & OO Design (C),SP15,141,63,90.5%,50.8%,5.33,B+ (3.68),B+ (3.62),3.62,cse,12
+153,153,153,153,153,153,"Shonle, Macneil Charles",CSE 12 - Basic Data Struct & OO Design (D),SP15,135,58,91.4%,55.2%,5.18,A- (3.80),B+ (3.62),3.62,cse,12
+154,154,154,154,154,154,"Klemperer, Peter Friedrich",CSE 120 - Princ/Computer Operating Systm (B),SP15,136,50,85.7%,69.4%,9.69,B (3.21),B- (2.86),2.86,cse,12
+155,155,155,155,155,155,"Savage, Stefan Roberts",CSE 123 - Computer Networks (A),SP15,102,63,88.1%,91.5%,8.05,B- (2.78),B- (2.98),2.98,cse,12
+156,156,156,156,156,156,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP15,34,11,100.0%,100.0%,17.1,A (4.00),A (4.00),4.0,cse,12
+157,157,157,157,157,157,"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP15,94,31,93.5%,96.8%,10.9,B- (2.97),C (2.02),2.02,cse,12
+158,158,158,158,158,158,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI15,231,144,94.2%,84.8%,12.97,B+ (3.39),B (3.03),3.03,cse,12
+159,159,159,159,159,159,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),WI15,158,99,96.8%,74.7%,11.85,B+ (3.40),B (3.03),3.03,cse,12
+160,160,160,160,160,160,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI15,144,86,91.6%,97.6%,9.99,B (3.20),B- (2.99),2.99,cse,12
+161,161,161,161,161,161,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI15,144,73,98.6%,100.0%,9.38,B+ (3.41),B- (2.99),2.99,cse,12
+162,162,162,162,162,162,"Porter, George M",CSE 124 - Networked Services (A),WI15,102,39,88.2%,97.1%,7.65,B (3.24),B (3.11),3.11,cse,12
+163,163,163,163,163,163,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA14,174,71,88.5%,80.3%,15.7,B (3.13),B- (2.82),2.82,cse,12
+164,164,164,164,164,164,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),FA14,174,71,89.1%,74.5%,15.37,B+ (3.37),B- (2.82),2.82,cse,12
+165,165,165,165,165,165,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (B),FA14,184,76,86.6%,97.0%,11.21,B (3.08),B (3.05),3.05,cse,12
+166,166,166,166,166,166,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),FA14,113,50,89.6%,97.9%,10.13,B (3.04),C+ (2.39),2.39,cse,12
+167,167,167,167,167,167,"Levchenko, Kirill I.",CSE 127 - Intro to Computer Security (A),FA14,87,46,78.6%,90.5%,11.15,B- (2.89),B- (2.75),2.75,cse,12
+168,168,168,168,168,168,"Alvarado, Christine J.",CSE 12 - Basic Data Struct & OO Design (A),SP14,176,134,97.0%,99.2%,12.08,B+ (3.32),B- (2.91),2.91,cse,12
+169,169,169,169,169,169,"Papadopoulos, Philip Micha",CSE 12 - Basic Data Struct & OO Design (B),SP14,186,157,96.8%,80.1%,10.64,B (3.28),B- (2.84),2.84,cse,12
+170,170,170,170,170,170,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP14,69,24,100.0%,86.4%,11.41,B- (2.90),C+ (2.58),2.58,cse,12
+171,171,171,171,171,171,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP14,32,14,100.0%,100.0%,15.93,A- (3.93),A (4.00),4.0,cse,12
+172,172,172,172,172,172,"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP14,176,76,87.5%,90.3%,10.5,B (3.04),C+ (2.30),2.3,cse,12
+173,173,173,173,173,173,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI14,181,85,94.0%,84.3%,13.14,B+ (3.55),B- (2.77),2.77,cse,12
+174,174,174,174,174,174,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),WI14,139,51,91.3%,78.3%,14.28,B+ (3.39),B- (2.77),2.77,cse,12
+175,175,175,175,175,175,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI14,134,95,94.7%,96.8%,8.15,B+ (3.39),B- (2.90),2.9,cse,12
+176,176,176,176,176,176,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI14,136,86,100.0%,100.0%,9.79,B+ (3.45),B- (2.90),2.9,cse,12
+177,177,177,177,177,177,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA13,155,52,90.2%,80.4%,16.85,B (3.04),C+ (2.47),2.47,cse,12
+178,178,178,178,178,178,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),FA13,89,26,90.5%,61.9%,15.17,B (3.05),C+ (2.47),2.47,cse,12
+179,179,179,179,179,179,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),FA13,134,60,98.3%,96.7%,8.57,B (3.17),B- (2.71),2.71,cse,12
+180,180,180,180,180,180,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),FA13,79,35,93.8%,96.9%,11.94,B (3.00),C+ (2.66),2.66,cse,12
+181,181,181,181,181,181,"Chandrashekhar, Roshni",CSE 12 - Basic Data Struct & OO Design (A),S113,83,64,96.7%,80.0%,12.1,B (3.10),B- (2.82),2.82,cse,12
+182,182,182,182,182,182,"Varna, Rakesh Laxmisha",CSE 12 - Basic Data Struct & OO Design (A),S113,84,62,96.7%,93.4%,12.04,B (3.08),B- (2.82),2.82,cse,12
+183,183,183,183,183,183,"Lee, Cynthia Bailey",CSE 12 - Basic Data Struct & OO Design (A),SP13,193,97,95.9%,94.8%,9.3,B (3.28),B (3.10),3.1,cse,12
+184,184,184,184,184,184,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (B),SP13,180,58,94.6%,73.2%,8.29,B (3.27),B (3.03),3.03,cse,12
+185,185,185,185,185,185,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP13,69,21,85.7%,61.9%,12.98,B (3.10),B- (2.78),2.78,cse,12
+186,186,186,186,186,186,"Polyzos, George C",CSE 123 - Computer Networks (A),SP13,58,19,84.2%,52.6%,6.94,B+ (3.32),B- (2.74),2.74,cse,12
+187,187,187,187,187,187,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP13,36,10,100.0%,100.0%,16.9,A- (3.90),A- (3.94),3.94,cse,12
+188,188,188,188,188,188,"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP13,80,37,97.3%,100.0%,7.67,B+ (3.49),B (3.00),3.0,cse,12
+189,189,189,189,189,189,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),WI13,192,70,94.2%,76.8%,7.96,B+ (3.57),B (3.25),3.25,cse,12
+190,190,190,190,190,190,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI13,89,53,96.2%,98.1%,9.93,B+ (3.34),B- (2.95),2.95,cse,12
+191,191,191,191,191,191,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI13,51,27,92.6%,100.0%,8.94,B (3.20),B- (2.95),2.95,cse,12
+192,192,192,192,192,192,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),FA12,198,83,94.5%,84.9%,9.38,B+ (3.46),B- (2.92),2.92,cse,12
+193,193,193,193,193,193,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),FA12,142,61,100.0%,98.3%,9.4,B (3.22),B- (2.89),2.89,cse,12
+194,194,194,194,194,194,"Polyzos, George C",CSE 123 - Computer Networks (A),FA12,102,36,80.6%,41.9%,6.69,B- (2.90),B- (2.98),2.98,cse,12
+195,195,195,195,195,195,"Savage, Stefan Roberts",CSE 127 - Intro to Computer Security (A),FA12,120,45,90.2%,87.8%,4.05,B (3.26),B- (2.82),2.82,cse,12
+196,196,196,196,196,196,"Whitehill, Jacob R",CSE 12 - Basic Data Struct & OO Design (B),S112,73,22,90.9%,100.0%,8.86,B+ (3.32),B+ (3.40),3.4,cse,12
+197,197,197,197,197,197,"Webb, Kevin C",CSE 120 - Princ/Computer Operating Systm (A),S112,22,20,100.0%,100.0%,13.3,B- (2.75),B- (2.88),2.88,cse,12
+198,198,198,198,198,198,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),SP12,172,62,98.4%,87.1%,11.08,B (3.25),B- (2.88),2.88,cse,12
+199,199,199,199,199,199,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP12,76,32,84.4%,68.8%,11.13,B (3.16),B- (2.85),2.85,cse,12
+200,200,200,200,200,200,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP12,33,16,100.0%,100.0%,18.88,A- (3.86),A (4.00),4.0,cse,12
+201,201,201,201,201,201,"Savage, Stefan Roberts",CSE 127 - Intro to Computer Security (A),SP12,137,48,95.7%,91.3%,5.02,B+ (3.43),B (3.16),3.16,cse,12
+202,202,202,202,202,202,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),WI12,150,63,93.5%,85.5%,9.74,B+ (3.57),B (3.00),3.0,cse,12
+203,203,203,203,203,203,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI12,188,89,95.4%,95.4%,8.59,B (3.18),B- (2.89),2.89,cse,12
+204,204,204,204,204,204,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),FA11,157,53,94.3%,80.8%,9.25,B+ (3.43),B- (2.83),2.83,cse,12
+205,205,205,205,205,205,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),FA11,64,29,89.3%,85.7%,11.74,B+ (3.32),B+ (3.40),3.4,cse,12
+206,206,206,206,206,206,"Savage, Stefan Roberts",CSE 123 - Computer Networks (A),FA11,129,61,90.2%,83.6%,6.3,B+ (3.56),B+ (3.45),3.45,cse,12
+207,207,207,207,207,207,"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),FA11,52,27,100.0%,100.0%,9.69,A- (3.70),B (3.09),3.09,cse,12
+208,208,208,208,208,208,"Whitehill, Jacob R",CSE 12 - Basic Data Struct & OO Design (A),S211,38,22,95.5%,95.5%,11.41,B (3.19),B (3.24),3.24,cse,12
+209,209,209,209,209,209,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),S111,51,16,81.3%,86.7%,11.0,B+ (3.40),C+ (2.58),2.58,cse,12
+210,210,210,210,210,210,"Taylor, Cynthia Bagier",CSE 120 - Princ/Computer Operating Systm (A),S111,33,27,100.0%,96.3%,10.94,B (3.07),B- (2.83),2.83,cse,12
+211,211,211,211,211,211,"Kanich, Christopher W",CSE 123 - Computer Networks (A),S111,12,6,100.0%,100.0%,16.5,B (3.00),,,cse,12
+212,212,212,212,212,212,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),SP11,164,69,82.6%,50.7%,10.3,B (3.19),B- (2.71),2.71,cse,12
+213,213,213,213,213,213,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP11,55,22,95.5%,95.5%,10.12,B (3.18),B- (2.89),2.89,cse,12
+214,214,214,214,214,214,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP11,30,14,100.0%,100.0%,15.93,A- (3.86),A- (3.97),3.97,cse,12
+215,215,215,215,215,215,"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP11,76,46,100.0%,100.0%,8.37,B+ (3.57),B+ (3.40),3.4,cse,12
+216,216,216,216,216,216,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),WI11,83,39,92.3%,64.1%,9.17,B (3.26),B (3.06),3.06,cse,12
+217,217,217,217,217,217,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI11,141,72,95.8%,94.4%,10.53,B+ (3.32),B- (2.90),2.9,cse,12
+218,218,218,218,218,218,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),FA10,98,49,91.3%,71.7%,9.18,B (3.15),B- (2.89),2.89,cse,12
+219,219,219,219,219,219,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),FA10,59,22,77.3%,81.8%,9.83,B+ (3.32),B+ (3.38),3.38,cse,12
+220,220,220,220,220,220,"Snoeren, Alex C.",CSE 123 - Computer Networks (A),FA10,35,22,95.5%,95.5%,10.5,B (3.14),B- (2.85),2.85,cse,12
+221,221,221,221,221,221,"Balakrishnannairsa, Manoj",CSE 124 - Networked Services (A),FA10,28,13,84.6%,46.2%,5.88,B (3.15),B+ (3.53),3.53,cse,12
+222,222,222,222,222,222,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),SU10,32,9,77.8%,88.9%,12.5,B+ (3.38),,,cse,12
+223,223,223,223,223,223,"Anderson, James W.",CSE 120 - Princ/Computer Operating Systm (A),SU10,11,5,60.0%,60.0%,18.5,B (3.00),,,cse,12
+224,224,224,224,224,224,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),SP10,137,65,90.8%,66.2%,8.87,B+ (3.49),B (3.12),3.12,cse,12
+225,225,225,225,225,225,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP10,62,26,69.2%,50.0%,9.35,B- (2.96),B (3.12),3.12,cse,12
+226,226,226,226,226,226,"Varghese, George",CSE 123 - Computer Networks (A),SP10,69,29,92.9%,85.7%,6.93,B+ (3.50),B+ (3.61),3.61,cse,12
+227,227,227,227,227,227,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP10,34,26,100.0%,100.0%,18.58,A- (3.96),A- (3.98),3.98,cse,12
+228,228,228,228,228,228,"Shacham, Hovav",CSE 127 - Intro/Computer Security (A),SP10,54,29,100.0%,96.6%,9.5,B+ (3.34),B (3.02),3.02,cse,12
+229,229,229,229,229,229,"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),WI10,91,45,97.8%,86.7%,8.23,B+ (3.43),B- (2.99),2.99,cse,12
+230,230,230,230,230,230,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI10,86,53,98.1%,94.2%,10.19,B (3.18),B (3.08),3.08,cse,12
+231,231,231,231,231,231,"Snoeren, Alex C.",CSE 121 - Oper Systms:Architc&Implementn (A),WI10,8,7,71.4%,85.7%,12.5,B (3.29),,,cse,12
+232,232,232,232,232,232,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA09,88,62,90.3%,95.2%,13.92,B+ (3.46),B- (2.83),2.83,cse,12
+233,233,233,233,233,233,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),FA09,56,31,90.0%,90.0%,8.37,B+ (3.31),B (3.03),3.03,cse,12
+234,234,234,234,234,234,"Savage, Stefan Roberts",CSE 123 - Computer Networks (A),FA09,49,38,89.5%,97.4%,5.66,B+ (3.43),B (3.17),3.17,cse,12
+235,235,235,235,235,235,"Balakrishnannairsa, Manoj",CSE 124 - Networked Services (A),FA09,14,12,83.3%,50.0%,6.0,B+ (3.42),,,cse,12
+236,236,236,236,236,236,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SU09,24,13,92.3%,84.6%,14.81,B+ (3.50),,,cse,12
+237,237,237,237,237,237,"Uyeda, Frank Christopher",CSE 120 - Princ/Computer Operating Systm (A),SU09,17,12,75.0%,81.8%,17.33,C+ (2.64),,,cse,12
+238,238,238,238,238,238,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SP09,116,93,89.2%,90.3%,14.37,B (3.25),B- (2.76),2.76,cse,12
+239,239,239,239,239,239,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),SP09,58,38,92.1%,100.0%,12.61,B+ (3.43),B- (2.92),2.92,cse,12
+240,240,240,240,240,240,"Varghese, George",CSE 123 - Computer Networks (A),SP09,31,28,85.7%,89.3%,3.86,B+ (3.39),B+ (3.36),3.36,cse,12
+241,241,241,241,241,241,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP09,15,13,100.0%,100.0%,19.27,A- (3.85),,,cse,12
+242,242,242,242,242,242,"Savage, Stefan Roberts",CSE 127 - Intro/Computer Security (A),SP09,51,28,100.0%,100.0%,3.36,A- (3.82),B+ (3.30),3.3,cse,12
+243,243,243,243,243,243,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI09,84,72,93.0%,90.3%,14.19,B+ (3.31),B- (2.74),2.74,cse,12
+244,244,244,244,244,244,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI09,44,37,94.3%,91.4%,8.39,B (3.21),B- (2.92),2.92,cse,12
+245,245,245,245,245,245,"Snoeren, Alex C.",CSE 121 - Oper Systms:Architc&Implementn (A),WI09,9,7,100.0%,100.0%,7.07,B (3.29),,,cse,12
+246,246,246,246,246,246,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA08,65,48,84.8%,85.1%,11.75,B (3.22),B- (2.75),2.75,cse,12
+247,247,247,247,247,247,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),FA08,59,34,93.9%,90.6%,8.44,B (3.03),B- (2.90),2.9,cse,12
+248,248,248,248,248,248,"Varghese, George",CSE 123 - Computer Networks (A),FA08,36,31,93.5%,96.8%,6.11,B (3.11),B (3.25),3.25,cse,12
+249,249,249,249,249,249,"Shacham, Hovav",CSE 127 - Intro/Computer Security (A),FA08,15,9,100.0%,100.0%,9.39,B+ (3.44),,,cse,12
+250,250,250,250,250,250,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SU08,28,26,96.2%,100.0%,15.96,B- (2.87),,,cse,12
+251,251,251,251,251,251,"AuYoung, Alvin",CSE 120 - Princ/Computer Operating Systm (A),SU08,17,14,100.0%,100.0%,17.88,B (3.14),,,cse,12
+252,252,252,252,252,252,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SP08,84,61,91.7%,96.7%,15.07,B (3.22),C+ (2.66),2.66,cse,12
+253,253,253,253,253,253,"Snoeren, Alex C.",CSE 120 - Princ/Computer Operating Systm (A),SP08,64,56,88.7%,96.3%,12.29,B (3.19),B- (2.95),2.95,cse,12
+254,254,254,254,254,254,"Varghese, George",CSE 123 - Computer Networks (A),SP08,30,21,81.0%,90.5%,3.64,B+ (3.30),B+ (3.53),3.53,cse,12
+255,255,255,255,255,255,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP08,22,23,95.7%,100.0%,18.67,A- (3.91),A- (3.99),3.99,cse,12
+256,256,256,256,256,256,"Savage, Stefan Roberts",CSE 127 - Intro/Computer Security (A),SP08,58,41,100.0%,100.0%,2.7,A- (3.76),B- (2.94),2.94,cse,12
+257,257,257,257,257,257,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI08,48,39,87.2%,84.2%,13.94,B (3.14),B- (2.71),2.71,cse,12
+258,258,258,258,258,258,"Shacham, Hovav",CSE 127 - Intro/Computer Security (A),WI08,3,5,100.0%,100.0%,10.5,B (3.00),,,cse,12
+259,259,259,259,259,259,"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA07,86,66,89.4%,84.4%,12.98,B (3.18),C+ (2.57),2.57,cse,12
+260,260,260,260,260,260,"Marzullo, Keith",CSE 120 - Princ/Computer Operating Systm (A),FA07,78,47,86.7%,88.9%,10.2,B+ (3.30),B- (2.77),2.77,cse,12
+261,261,261,261,261,261,"Vahdat, Mohammed Amin",CSE 124 - Networked Services (A),FA07,25,21,95.2%,95.2%,9.4,B+ (3.30),B+ (3.34),3.34,cse,12
+262,262,262,262,262,262,"Rhodes, Neil Campbell",CSE 120 - Princ/Computer Operating Systm (A),SU07,44,33,90.9%,97.0%,15.95,B (3.16),,,cse,12

@@ -1,0 +1,65 @@
+,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
+0,"Yang, Kesong",NANO 15 - Engin. Comp Using MATLAB (A),S222,9,5,60.0%,80.0%,4.1,B+ (3.60),,,nano,15
+1,"Xu, Sheng",NANO 156 - Modern Concepts/Nanotechnology (A),SP22,74,34,96.9%,100.0%,4.56,B+ (3.35),A- (3.71),3.71,nano,15
+2,"Drews, Aaron",NANO 15 - Engin. Comp Using MATLAB (A),WI22,13,5,80.0%,60.0%,9.7,B (3.25),,,nano,15
+3,"Drews, Aaron",NANO 15 - Engin. Comp Using MATLAB (B),WI22,11,5,100.0%,100.0%,6.9,B (3.00),,,nano,15
+4,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),FA21,48,19,44.4%,72.2%,4.5,B (3.06),B- (2.94),2.94,nano,15
+5,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (B),FA21,43,25,63.6%,72.7%,5.41,B (3.23),B (3.13),3.13,nano,15
+6,"Lubarda, Vlado",NANO 150 - Mechanics of Nanomaterials (A),SP21,26,10,100.0%,88.9%,6.5,A- (3.89),B+ (3.38),3.38,nano,15
+7,"Yang, Kesong",NANO 15 - Engin. Comp Using MATLAB (A),WI21,5,3,100.0%,100.0%,5.83,A (4.00),,,nano,15
+8,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),FA20,42,19,94.7%,100.0%,6.71,B+ (3.58),B+ (3.62),3.62,nano,15
+9,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (B),FA20,30,25,95.7%,95.7%,5.2,A- (3.78),A- (3.86),3.86,nano,15
+10,"Tao, Andrea Rae",NANO 156 - Nanomaterials (A),FA20,78,45,73.3%,77.8%,7.79,B (3.05),B (3.17),3.17,nano,15
+11,"Lubarda, Vlado",NANO 150 - Mechanics of Nanomaterials (A),SP20,15,7,100.0%,100.0%,7.07,A (4.00),,,nano,15
+12,"Wang, Joseph",NANO 159 - Electrochem:Fundamentals&Appl (A),SP20,14,8,100.0%,100.0%,8.0,A (4.00),,,nano,15
+13,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),WI20,11,4,100.0%,100.0%,3.5,B+ (3.67),,,nano,15
+14,"Luo, Jian",NANO 158 - Phase Transformations/Kinetics (A),WI20,13,6,83.3%,50.0%,6.5,A (4.00),,,nano,15
+15,"Yang, Kesong",NANO 15 - Engin. Comp Using MATLAB (A),FA19,35,29,100.0%,86.2%,4.71,B+ (3.59),B (3.04),3.04,nano,15
+16,"Yang, Kesong",NANO 15 - Engin. Comp Using MATLAB (B),FA19,32,26,92.3%,88.0%,5.27,B+ (3.50),B (3.10),3.1,nano,15
+17,"Xu, Sheng",NANO 156 - Nanomaterials (B),FA19,63,44,86.0%,81.0%,4.73,B (3.21),B+ (3.52),3.52,nano,15
+18,"Drews, Aaron",NANO 15R - Eng Comp Using MATLAB Online (A),FA19,14,10,80.0%,90.0%,7.1,B+ (3.50),,,nano,15
+19,"Herz, Richard K",NANO 15 - Engin. Comp Using MATLAB (A),S219,6,4,100.0%,100.0%,6.5,A (4.00),,,nano,15
+20,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),WI19,13,4,75.0%,100.0%,5.0,B (3.25),,,nano,15
+21,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),FA18,47,19,82.4%,75.0%,4.97,A- (3.71),B+ (3.35),3.35,nano,15
+22,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (B),FA18,44,24,86.4%,81.8%,4.77,B+ (3.48),B+ (3.35),3.35,nano,15
+23,"Drews, Aaron",NANO 15 - Engin. Comp Using MATLAB (C),FA18,19,9,100.0%,100.0%,10.06,B+ (3.33),,,nano,15
+24,"Xu, Sheng",NANO 156 - Nanomaterials (A),FA18,103,78,90.8%,93.4%,4.34,B+ (3.54),B+ (3.69),3.69,nano,15
+25,"Herz, Richard K",NANO 15 - Engin. Comp Using MATLAB (A),S218,6,3,100.0%,100.0%,4.5,B+ (3.67),,,nano,15
+26,"Yang, Kesong",NANO 15 - Engin. Comp Using MATLAB (A),WI18,19,13,84.6%,91.7%,3.88,A- (3.88),,,nano,15
+27,"Drews, Aaron",NANO 15 - Engin. Comp Using MATLAB (B),WI18,9,5,100.0%,100.0%,6.5,B (3.20),,,nano,15
+28,"Meyers, Marc",NANO 150 - Mechanics of Nanomaterials (A),WI18,15,8,62.5%,62.5%,6.5,B (3.13),,,nano,15
+29,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),FA17,42,15,92.3%,69.2%,4.21,A- (3.79),B+ (3.62),3.62,nano,15
+30,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (B),FA17,59,28,84.0%,80.0%,6.1,B+ (3.64),B+ (3.62),3.62,nano,15
+31,"Xu, Sheng",NANO 156 - Nanomaterials (A),FA17,87,74,98.6%,98.6%,4.8,A- (3.73),A- (3.77),3.77,nano,15
+32,"Luo, Jian",NANO 158 - Phase Transformations/Kinetics (A),FA17,17,11,100.0%,100.0%,5.59,A- (3.70),,,nano,15
+33,"Herz, Richard K",NANO 15 - Engin. Comp Using MATLAB (A),S217,7,4,100.0%,100.0%,4.5,A (4.00),,,nano,15
+34,"Lubarda, Vlado",NANO 150 - Mechanics of Nanomaterials (A),SP17,29,10,100.0%,100.0%,6.9,B+ (3.30),B+ (3.45),3.45,nano,15
+35,"Yang, Kesong",NANO 15 - Engin. Comp Using MATLAB (A),WI17,46,38,92.1%,76.3%,5.45,B+ (3.54),B (3.03),3.03,nano,15
+36,"Drews, Aaron",NANO 15 - Engin. Comp Using MATLAB (A),FA16,13,13,100.0%,100.0%,6.5,B+ (3.33),,,nano,15
+37,"Drews, Aaron",NANO 15 - Engin. Comp Using MATLAB (B),FA16,14,13,84.6%,92.3%,7.88,B+ (3.38),,,nano,15
+38,"Drews, Aaron",NANO 15 - Engin. Comp Using MATLAB (C),FA16,15,13,92.3%,92.3%,7.12,A- (3.73),,,nano,15
+39,"Xu, Sheng",NANO 156 - Nanomaterials (A),FA16,51,23,95.5%,95.5%,3.93,B+ (3.67),B+ (3.66),3.66,nano,15
+40,"Herz, Richard K",NANO 15 - Engin. Comp Using MATLAB (A),S216,11,6,100.0%,100.0%,5.0,A (4.00),,,nano,15
+41,"Lubarda, Vlado",NANO 150 - Mechanics of Nanomaterials (A),SP16,31,10,90.0%,90.0%,6.3,B+ (3.56),B+ (3.32),3.32,nano,15
+42,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),FA15,72,31,87.1%,74.2%,5.4,A- (3.71),B+ (3.34),3.34,nano,15
+43,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (B),FA15,70,42,85.4%,68.3%,5.95,B+ (3.65),B+ (3.34),3.34,nano,15
+44,"Graeve, Olivia A",NANO 156 - Nanomaterials (A),FA15,54,9,77.8%,77.8%,4.94,A- (3.89),B (3.04),3.04,nano,15
+45,"Luo, Jian",NANO 158 - Phase Transformations/Kinetics (A),FA15,28,9,88.9%,55.6%,5.39,B+ (3.33),B+ (3.50),3.5,nano,15
+46,"Vecchio, Kenneth S",NANO 158L - Materials Processing Lab (A),SP15,12,6,100.0%,100.0%,14.5,A- (3.83),,,nano,15
+47,"Yang, Kesong",NANO 15 - Engin. Comp Using MATLAB (A),WI15,45,17,94.1%,76.5%,4.85,B+ (3.65),B+ (3.30),3.3,nano,15
+48,"Lubarda, Vlado",NANO 150 - Mechanics of Nanomaterials (A),WI15,37,17,93.8%,100.0%,6.75,B+ (3.63),B+ (3.32),3.32,nano,15
+49,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),FA14,126,59,86.3%,66.7%,6.11,A- (3.81),B+ (3.44),3.44,nano,15
+50,"Jin, Sungho",NANO 156 - Nanomaterials (A),FA14,28,12,81.8%,81.8%,4.32,B (3.18),B+ (3.55),3.55,nano,15
+51,"Luo, Jian",NANO 158 - Phase Transformations/Kinetics (A),FA14,26,10,100.0%,88.9%,3.83,A- (3.78),B+ (3.56),3.56,nano,15
+52,"Herz, Richard K",NANO 15 - Engin. Comp Using MATLAB (A),S214,9,3,100.0%,100.0%,8.5,B+ (3.67),,,nano,15
+53,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),SP14,17,6,100.0%,83.3%,3.17,A- (3.80),,,nano,15
+54,"Yang, Kesong",NANO 15 - Engin. Comp Using MATLAB (A),WI14,45,13,76.9%,53.8%,9.0,B+ (3.60),B (3.21),3.21,nano,15
+55,"Lubarda, Vlado",NANO 150 - Mechanics of Nanomaterials (A),WI14,59,21,85.7%,85.7%,6.79,B+ (3.30),B+ (3.57),3.57,nano,15
+56,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),FA13,92,43,88.4%,46.5%,7.04,A- (3.76),B+ (3.43),3.43,nano,15
+57,"Jin, Sungho",NANO 156 - Nanomaterials (A),FA13,73,22,76.2%,85.7%,3.4,A- (3.81),B+ (3.46),3.46,nano,15
+58,"Luo, Jian",NANO 158 - Phase Transformations/Kinetics (A),FA13,30,10,100.0%,100.0%,6.1,B+ (3.67),B+ (3.53),3.53,nano,15
+59,"Herz, Richard K",NANO 15 - Engin. Comp Using MATLAB (A),S213,30,6,100.0%,80.0%,6.5,A (4.00),B+ (3.54),3.54,nano,15
+60,"Chen, Shaochen",NANO 150 - Mechanics of Nanomaterials (A),WI13,23,8,100.0%,100.0%,2.5,A- (3.86),B+ (3.44),3.44,nano,15
+61,"Jin, Sungho",NANO 156 - Nanomaterials (A),WI13,34,14,92.9%,92.9%,3.07,A- (3.92),A- (3.85),3.85,nano,15
+62,"Herz, Richard K",NANO 15 - Engin. Comp Using MATLAB (A),FA12,302,127,87.7%,56.1%,5.57,B+ (3.46),B+ (3.39),3.39,nano,15
+63,"Meyers, Marc",NANO 150 - Mechanics of Nanomaterials (A),WI12,13,7,66.7%,50.0%,5.93,A- (3.71),,,nano,15
