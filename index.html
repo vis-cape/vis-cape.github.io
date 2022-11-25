@@ -60,19 +60,19 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
 //       .attr("y", height+50 );
 
   // Add Y axis
-  var y = d3.scaleLinear()
-    .domain([15, 0])
-    .range([ height, 0]);
-//   svg.append("g")
-//     .call(d3.axisLeft(y));
+  var y = d3.scalePoint()
+    .domain(["ece", "dsc", "cse"])
+    .range([0, height]);
+  svg.append("g")
+    .call(d3.axisLeft(y));
 
   // Add Y axis label:
-//   svg.append("text")
-//       .attr("text-anchor", "end")
-//       .attr("x", 0)
-//       .attr("y", -20 )
-//       .text("Department")
-//       .attr("text-anchor", "start")
+  svg.append("text")
+      .attr("text-anchor", "end")
+      .attr("x", 0)
+      .attr("y", -20 )
+      .text("Department")
+      .attr("text-anchor", "start")
 
   // Add a scale for bubble size
   var z = d3.scaleSqrt()
@@ -153,7 +153,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
     .append("circle")
       .attr("class", function(d) { return "bubbles " + d.course })
       .attr("cx", function (d) { return x(d.id); } )
-      .attr("cy", function (d) { return y(d.dept_id); } )
+      .attr("cy", function (d) { return y(d.dept); } )
       .attr("r", function (d) { return z(d.num); } )
       .style("fill", function (d) { return myColor(d.gpa); } )
     // -3- Trigger the functions for hover
