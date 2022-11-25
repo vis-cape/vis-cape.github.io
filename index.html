@@ -106,7 +106,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
       .duration(200)
     tooltip
       .style("opacity", 1)
-      .html("Course: " + d.course + ",\n" + d.gpa + " GPA avg,\n" + d.num + "yearly students")
+      .html("Course: " + d.course + ",\n" + d.gpa + " GPA avg,\n" + d.num + " yearly students")
       .style("left", (d3.mouse(this)[0]+30) + "px")
       .style("top", (d3.mouse(this)[1]+30) + "px")
   }
