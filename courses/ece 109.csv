@@ -1,40 +1,40 @@
-,Unnamed: 0.6,Unnamed: 0.5,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
-0,0,0,0,0,0,0,0,"Touri, Behrouz",ECE 109 - Engineering Probability&Stats (A),S122,49,11,60.0%,30.0%,8.5,B- (2.91),C (2.10),2.1,ece,109
-1,1,1,1,1,1,1,1,"Orlitsky, Alon",ECE 109 - Engineering Probability&Stats (A),SP22,238,88,58.0%,71.3%,6.99,B (3.14),B- (2.99),2.99,ece,109
-2,2,2,2,2,2,2,2,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI22,126,38,72.2%,75.0%,7.67,B- (2.86),C+ (2.52),2.52,ece,109
-3,3,3,3,3,3,3,3,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),FA21,129,65,72.6%,75.8%,6.47,B- (2.94),C+ (2.64),2.64,ece,109
-4,4,4,4,4,4,4,4,"Samavat, Mohammad",ECE 109 - Engineering Probability&Stats (A),S121,60,11,90.9%,72.7%,11.05,B+ (3.45),B+ (3.44),3.44,ece,109
-5,5,5,5,5,5,5,5,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),SP21,102,46,80.4%,80.4%,7.02,B (3.23),B (3.11),3.11,ece,109
-6,6,6,6,6,6,6,6,"Vardy, Alexander",ECE 109 - Engineering Probability&Stats (A),WI21,138,115,68.4%,78.9%,8.27,B (3.24),B (3.18),3.18,ece,109
-7,7,7,7,7,7,7,7,"Fazeli Chaghooshi, Arman",ECE 109 - Engineering Probability&Stats (A),FA20,181,66,75.8%,78.5%,7.83,B (3.06),B (3.14),3.14,ece,109
-8,8,8,8,8,8,8,8,"Orlitsky, Alon",ECE 109 - Engineering Probability&Stats (A),SP20,311,117,82.0%,81.1%,9.41,B+ (3.47),B+ (3.49),3.49,ece,109
-9,9,9,9,9,9,9,9,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),FA19,132,53,81.6%,87.5%,6.7,B- (2.84),C+ (2.49),2.49,ece,109
-10,10,10,10,10,10,10,10,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),SP19,163,54,57.4%,76.6%,7.39,C+ (2.67),C+ (2.61),2.61,ece,109
-11,11,11,11,11,11,11,11,"Vardy, Alexander",ECE 109 - Engineering Probability&Stats (A),WI19,114,46,72.1%,83.3%,8.31,B (3.10),B- (2.81),2.81,ece,109
-12,12,12,12,12,12,12,12,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),FA18,91,37,91.2%,91.2%,6.84,B (3.11),C+ (2.66),2.66,ece,109
-13,13,13,13,13,13,13,13,"Lugannani, Robert",ECE 109 - Engineering Probability&Stats (A),SP18,261,90,85.1%,84.9%,5.98,B+ (3.42),B- (2.74),2.74,ece,109
-14,14,14,14,14,14,14,14,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI18,77,30,80.0%,86.7%,5.77,B- (2.93),B- (2.70),2.7,ece,109
-15,15,15,15,15,15,15,15,"Kim, Minji",ECE 109 - Engineering Probability&Stats (A),S217,49,41,87.5%,97.5%,11.8,B- (2.80),C+ (2.62),2.62,ece,109
-16,16,16,16,16,16,16,16,"Lugannani, Robert",ECE 109 - Engineering Probability&Stats (A),SP17,296,86,86.4%,85.2%,5.15,B+ (3.44),C+ (2.65),2.65,ece,109
-17,17,17,17,17,17,17,17,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI17,126,47,90.9%,93.2%,6.31,B (3.10),C+ (2.37),2.37,ece,109
-18,18,18,18,18,18,18,18,"Masnadi-Shirazi, Maryam",ECE 109 - Engineering Probability&Stats (A),S116,84,16,86.7%,73.3%,7.64,B+ (3.64),C+ (2.53),2.53,ece,109
-19,19,19,19,19,19,19,19,"Lugannani, Robert",ECE 109 - Engineering Probability&Stats (A),SP16,292,82,77.3%,70.7%,6.08,B (3.21),C+ (2.51),2.51,ece,109
-20,20,20,20,20,20,20,20,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI16,107,46,78.6%,78.6%,7.32,C+ (2.65),C+ (2.32),2.32,ece,109
-21,21,21,21,21,21,21,21,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),SP15,106,36,86.1%,83.3%,6.63,B- (2.80),C+ (2.39),2.39,ece,109
-22,22,22,22,22,22,22,22,"Lugannani, Robert",ECE 109 - Engineering Probability&Stats (B),SP15,212,57,75.0%,80.8%,6.66,B (3.19),C+ (2.59),2.59,ece,109
-23,23,23,23,23,23,23,23,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI15,129,44,88.1%,81.0%,6.5,B- (2.79),C+ (2.53),2.53,ece,109
-24,24,24,24,24,24,24,24,"Lugannani, Robert",ECE 109 - Engineering Probability&Stats (A),SP14,331,114,82.2%,86.1%,6.02,B+ (3.35),C+ (2.45),2.45,ece,109
-25,25,25,25,25,25,25,25,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI14,85,31,85.2%,77.8%,6.98,B (3.04),C+ (2.34),2.34,ece,109
-26,26,26,26,26,26,26,26,"Rao, Ramesh R",ECE 109 - Engineering Probability&Stats (B),WI14,78,20,84.2%,84.2%,7.72,C+ (2.63),B- (2.92),2.92,ece,109
-27,27,27,27,27,27,27,27,"Lugannani, Robert",ECE 109 - Engineering Probability&Stats (A),SP13,205,71,84.5%,85.9%,5.38,B+ (3.39),C+ (2.35),2.35,ece,109
-28,28,28,28,28,28,28,28,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI13,128,37,86.5%,81.1%,6.39,B (3.29),C (2.17),2.17,ece,109
-29,29,29,29,29,29,29,29,"Lugannani, Robert",ECE 109 - Engineering Probability&Stats (A),SP12,202,93,90.2%,96.8%,7.79,B+ (3.42),C+ (2.60),2.6,ece,109
-30,30,30,30,30,30,30,30,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI12,107,46,78.3%,89.1%,5.57,B (3.00),C (2.16),2.16,ece,109
-31,31,31,31,31,31,31,31,"Vardy, Alexander",ECE 109 - Engineering Probability&Stats (B),SP11,129,77,70.1%,90.9%,9.03,B (3.01),C+ (2.59),2.59,ece,109
-32,32,32,32,32,32,32,32,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI11,145,56,72.2%,68.5%,7.45,C+ (2.51),C (2.09),2.09,ece,109
-33,33,33,33,33,33,33,33,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI10,103,32,75.0%,90.6%,4.38,B (3.29),C (2.21),2.21,ece,109
-34,34,34,34,34,34,34,34,"Rao, Ramesh R",ECE 109 - Engineering Probability&Stats (A),FA09,10,13,50.0%,91.7%,6.65,B (3.08),,,ece,109
-35,35,35,35,35,35,35,35,"Cruz, Rene L",ECE 109 - Engineering Probability&Stats (A),SP09,126,49,70.2%,83.0%,4.38,B+ (3.60),B (3.18),3.18,ece,109
-36,36,36,36,36,36,36,36,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI09,112,76,75.3%,88.9%,6.2,B (3.19),C (2.01),2.01,ece,109
-37,37,37,37,37,37,37,37,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),SP08,76,55,72.7%,90.7%,4.76,B (3.17),C+ (2.40),2.4,ece,109
-38,38,38,38,38,38,38,38,"Vardy, Alexander",ECE 109 - Engineering Probability&Stats (A),WI08,106,77,73.7%,94.7%,6.94,B (3.23),B- (2.88),2.88,ece,109
+,Unnamed: 0.11,Unnamed: 0.10,Unnamed: 0.9,Unnamed: 0.8,Unnamed: 0.7,Unnamed: 0.6,Unnamed: 0.5,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
+0,0,0,0,0,0,0,0,0,0,0,0,0,"Touri, Behrouz",ECE 109 - Engineering Probability&Stats (A),S122,49,11,60.0%,30.0%,8.5,B- (2.91),C (2.10),2.1,ece,109
+1,1,1,1,1,1,1,1,1,1,1,1,1,"Orlitsky, Alon",ECE 109 - Engineering Probability&Stats (A),SP22,238,88,58.0%,71.3%,6.99,B (3.14),B- (2.99),2.99,ece,109
+2,2,2,2,2,2,2,2,2,2,2,2,2,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI22,126,38,72.2%,75.0%,7.67,B- (2.86),C+ (2.52),2.52,ece,109
+3,3,3,3,3,3,3,3,3,3,3,3,3,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),FA21,129,65,72.6%,75.8%,6.47,B- (2.94),C+ (2.64),2.64,ece,109
+4,4,4,4,4,4,4,4,4,4,4,4,4,"Samavat, Mohammad",ECE 109 - Engineering Probability&Stats (A),S121,60,11,90.9%,72.7%,11.05,B+ (3.45),B+ (3.44),3.44,ece,109
+5,5,5,5,5,5,5,5,5,5,5,5,5,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),SP21,102,46,80.4%,80.4%,7.02,B (3.23),B (3.11),3.11,ece,109
+6,6,6,6,6,6,6,6,6,6,6,6,6,"Vardy, Alexander",ECE 109 - Engineering Probability&Stats (A),WI21,138,115,68.4%,78.9%,8.27,B (3.24),B (3.18),3.18,ece,109
+7,7,7,7,7,7,7,7,7,7,7,7,7,"Fazeli Chaghooshi, Arman",ECE 109 - Engineering Probability&Stats (A),FA20,181,66,75.8%,78.5%,7.83,B (3.06),B (3.14),3.14,ece,109
+8,8,8,8,8,8,8,8,8,8,8,8,8,"Orlitsky, Alon",ECE 109 - Engineering Probability&Stats (A),SP20,311,117,82.0%,81.1%,9.41,B+ (3.47),B+ (3.49),3.49,ece,109
+9,9,9,9,9,9,9,9,9,9,9,9,9,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),FA19,132,53,81.6%,87.5%,6.7,B- (2.84),C+ (2.49),2.49,ece,109
+10,10,10,10,10,10,10,10,10,10,10,10,10,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),SP19,163,54,57.4%,76.6%,7.39,C+ (2.67),C+ (2.61),2.61,ece,109
+11,11,11,11,11,11,11,11,11,11,11,11,11,"Vardy, Alexander",ECE 109 - Engineering Probability&Stats (A),WI19,114,46,72.1%,83.3%,8.31,B (3.10),B- (2.81),2.81,ece,109
+12,12,12,12,12,12,12,12,12,12,12,12,12,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),FA18,91,37,91.2%,91.2%,6.84,B (3.11),C+ (2.66),2.66,ece,109
+13,13,13,13,13,13,13,13,13,13,13,13,13,"Lugannani, Robert",ECE 109 - Engineering Probability&Stats (A),SP18,261,90,85.1%,84.9%,5.98,B+ (3.42),B- (2.74),2.74,ece,109
+14,14,14,14,14,14,14,14,14,14,14,14,14,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI18,77,30,80.0%,86.7%,5.77,B- (2.93),B- (2.70),2.7,ece,109
+15,15,15,15,15,15,15,15,15,15,15,15,15,"Kim, Minji",ECE 109 - Engineering Probability&Stats (A),S217,49,41,87.5%,97.5%,11.8,B- (2.80),C+ (2.62),2.62,ece,109
+16,16,16,16,16,16,16,16,16,16,16,16,16,"Lugannani, Robert",ECE 109 - Engineering Probability&Stats (A),SP17,296,86,86.4%,85.2%,5.15,B+ (3.44),C+ (2.65),2.65,ece,109
+17,17,17,17,17,17,17,17,17,17,17,17,17,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI17,126,47,90.9%,93.2%,6.31,B (3.10),C+ (2.37),2.37,ece,109
+18,18,18,18,18,18,18,18,18,18,18,18,18,"Masnadi-Shirazi, Maryam",ECE 109 - Engineering Probability&Stats (A),S116,84,16,86.7%,73.3%,7.64,B+ (3.64),C+ (2.53),2.53,ece,109
+19,19,19,19,19,19,19,19,19,19,19,19,19,"Lugannani, Robert",ECE 109 - Engineering Probability&Stats (A),SP16,292,82,77.3%,70.7%,6.08,B (3.21),C+ (2.51),2.51,ece,109
+20,20,20,20,20,20,20,20,20,20,20,20,20,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI16,107,46,78.6%,78.6%,7.32,C+ (2.65),C+ (2.32),2.32,ece,109
+21,21,21,21,21,21,21,21,21,21,21,21,21,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),SP15,106,36,86.1%,83.3%,6.63,B- (2.80),C+ (2.39),2.39,ece,109
+22,22,22,22,22,22,22,22,22,22,22,22,22,"Lugannani, Robert",ECE 109 - Engineering Probability&Stats (B),SP15,212,57,75.0%,80.8%,6.66,B (3.19),C+ (2.59),2.59,ece,109
+23,23,23,23,23,23,23,23,23,23,23,23,23,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI15,129,44,88.1%,81.0%,6.5,B- (2.79),C+ (2.53),2.53,ece,109
+24,24,24,24,24,24,24,24,24,24,24,24,24,"Lugannani, Robert",ECE 109 - Engineering Probability&Stats (A),SP14,331,114,82.2%,86.1%,6.02,B+ (3.35),C+ (2.45),2.45,ece,109
+25,25,25,25,25,25,25,25,25,25,25,25,25,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI14,85,31,85.2%,77.8%,6.98,B (3.04),C+ (2.34),2.34,ece,109
+26,26,26,26,26,26,26,26,26,26,26,26,26,"Rao, Ramesh R",ECE 109 - Engineering Probability&Stats (B),WI14,78,20,84.2%,84.2%,7.72,C+ (2.63),B- (2.92),2.92,ece,109
+27,27,27,27,27,27,27,27,27,27,27,27,27,"Lugannani, Robert",ECE 109 - Engineering Probability&Stats (A),SP13,205,71,84.5%,85.9%,5.38,B+ (3.39),C+ (2.35),2.35,ece,109
+28,28,28,28,28,28,28,28,28,28,28,28,28,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI13,128,37,86.5%,81.1%,6.39,B (3.29),C (2.17),2.17,ece,109
+29,29,29,29,29,29,29,29,29,29,29,29,29,"Lugannani, Robert",ECE 109 - Engineering Probability&Stats (A),SP12,202,93,90.2%,96.8%,7.79,B+ (3.42),C+ (2.60),2.6,ece,109
+30,30,30,30,30,30,30,30,30,30,30,30,30,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI12,107,46,78.3%,89.1%,5.57,B (3.00),C (2.16),2.16,ece,109
+31,31,31,31,31,31,31,31,31,31,31,31,31,"Vardy, Alexander",ECE 109 - Engineering Probability&Stats (B),SP11,129,77,70.1%,90.9%,9.03,B (3.01),C+ (2.59),2.59,ece,109
+32,32,32,32,32,32,32,32,32,32,32,32,32,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI11,145,56,72.2%,68.5%,7.45,C+ (2.51),C (2.09),2.09,ece,109
+33,33,33,33,33,33,33,33,33,33,33,33,33,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI10,103,32,75.0%,90.6%,4.38,B (3.29),C (2.21),2.21,ece,109
+34,34,34,34,34,34,34,34,34,34,34,34,34,"Rao, Ramesh R",ECE 109 - Engineering Probability&Stats (A),FA09,10,13,50.0%,91.7%,6.65,B (3.08),,,ece,109
+35,35,35,35,35,35,35,35,35,35,35,35,35,"Cruz, Rene L",ECE 109 - Engineering Probability&Stats (A),SP09,126,49,70.2%,83.0%,4.38,B+ (3.60),B (3.18),3.18,ece,109
+36,36,36,36,36,36,36,36,36,36,36,36,36,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),WI09,112,76,75.3%,88.9%,6.2,B (3.19),C (2.01),2.01,ece,109
+37,37,37,37,37,37,37,37,37,37,37,37,37,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A),SP08,76,55,72.7%,90.7%,4.76,B (3.17),C+ (2.40),2.4,ece,109
+38,38,38,38,38,38,38,38,38,38,38,38,38,"Vardy, Alexander",ECE 109 - Engineering Probability&Stats (A),WI08,106,77,73.7%,94.7%,6.94,B (3.23),B- (2.88),2.88,ece,109

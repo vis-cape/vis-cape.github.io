@@ -1,52 +1,52 @@
-,Unnamed: 0.5,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
-0,0,0,0,0,0,0,"Lau, Samuel Ethan",DSC 10 - Principles of Data Science (A),S322,36,16,100.0%,100.0%,8.1,B+ (3.67),B+ (3.65),3.65,dsc,10
-1,1,1,1,1,1,1,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (A),SP22,132,95,89.5%,94.7%,8.52,B+ (3.55),B+ (3.36),3.36,dsc,10
-2,2,2,2,2,2,2,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (B),SP22,133,92,93.5%,95.6%,8.04,B+ (3.56),B (3.15),3.15,dsc,10
-3,3,3,3,3,3,3,"Liao, Soohyun Nam",DSC 106 - Intro to Data Visualization (A),SP22,91,70,70.1%,70.1%,8.17,B+ (3.58),B+ (3.62),3.62,dsc,10
-4,4,4,4,4,4,4,"Rampure, Suraj",DSC 10 - Principles of Data Science (A),WI22,141,113,97.3%,100.0%,8.21,A- (3.72),B- (2.96),2.96,dsc,10
-5,5,5,5,5,5,5,"Rampure, Suraj",DSC 10 - Principles of Data Science (B),WI22,142,117,97.4%,99.1%,7.57,A- (3.73),B (3.05),3.05,dsc,10
-6,6,6,6,6,6,6,"Gupta, Amarnath",DSC 100 - Intro to Data Management (A),WI22,100,31,86.2%,65.5%,7.88,B+ (3.69),B+ (3.67),3.67,dsc,10
-7,7,7,7,7,7,7,"Kumar, Arun Kumar",DSC 102 - Systems for Scalable Analytics (A),WI22,136,42,87.8%,85.4%,9.48,B+ (3.46),B+ (3.54),3.54,dsc,10
-8,8,8,8,8,8,8,"Liao, Soohyun Nam",DSC 106 - Intro to Data Visualization (A),WI22,147,54,57.4%,41.5%,9.78,A- (3.86),A- (3.84),3.84,dsc,10
-9,9,9,9,9,9,9,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (A),FA21,72,58,98.3%,98.2%,8.22,B+ (3.59),B+ (3.33),3.33,dsc,10
-10,10,10,10,10,10,10,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (B),FA21,71,59,100.0%,100.0%,6.71,B+ (3.48),B (3.29),3.29,dsc,10
-11,11,11,11,11,11,11,"Rampure, Suraj",DSC 10 - Principles of Data Science (C),FA21,112,90,98.9%,100.0%,7.52,B+ (3.54),B (3.27),3.27,dsc,10
-12,12,12,12,12,12,12,"Salimi, Babak",DSC 100 - Intro to Data Management (A),FA21,161,42,87.5%,65.0%,7.25,A- (3.80),A- (3.80),3.8,dsc,10
-13,13,13,13,13,13,13,"Eldridge, Justin Matthew",DSC 10 - Principles of Data Science (A),S121,86,20,90.0%,94.7%,11.9,A- (3.85),B+ (3.57),3.57,dsc,10
-14,14,14,14,14,14,14,"Aoi, Mikio C",DSC 10 - Principles of Data Science (A),SP21,139,58,91.2%,84.2%,8.78,B+ (3.57),B+ (3.35),3.35,dsc,10
-15,15,15,15,15,15,15,"Salimi, Babak",DSC 100 - Intro to Data Management (A),SP21,14,11,90.9%,90.9%,5.41,A- (3.86),,,dsc,10
-16,16,16,16,16,16,16,"Albuyeh, Rod",DSC 102 - Systems for Scalable Analytics (A),SP21,132,47,78.7%,67.4%,5.54,A- (3.78),A- (3.98),3.98,dsc,10
-17,17,17,17,17,17,17,"Nusrat, Sabrina",DSC 106 - Intro to Data Visualization (A),SP21,41,12,83.3%,75.0%,4.0,A- (3.92),A- (3.94),3.94,dsc,10
-18,18,18,18,18,18,18,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (A),WI21,78,35,85.7%,85.7%,7.76,B+ (3.59),B (3.28),3.28,dsc,10
-19,19,19,19,19,19,19,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (B),WI21,86,39,94.6%,89.2%,6.61,B+ (3.48),B+ (3.55),3.55,dsc,10
-20,20,20,20,20,20,20,"Salimi, Babak",DSC 100 - Intro to Data Management (A),WI21,143,96,92.6%,85.1%,5.95,A- (3.79),B+ (3.63),3.63,dsc,10
-21,21,21,21,21,21,21,"Kumar, Arun Kumar",DSC 102 - Systems for Scalable Analytics (A),WI21,134,80,88.6%,91.0%,8.83,B+ (3.58),B+ (3.55),3.55,dsc,10
-22,22,22,22,22,22,22,"Nusrat, Sabrina",DSC 106 - Intro to Data Visualization (A),WI21,43,16,87.5%,81.3%,3.88,B+ (3.69),A- (3.96),3.96,dsc,10
-23,23,23,23,23,23,23,"Eldridge, Justin Matthew",DSC 10 - Principles of Data Science (A),FA20,171,116,99.1%,100.0%,5.9,B+ (3.68),B (3.17),3.17,dsc,10
-24,24,24,24,24,24,24,"Nguyen, Mai Huong Thi",DSC 102 - Systems for Scalable Analytics (B),FA20,81,24,52.4%,61.9%,14.12,B (3.00),B (3.14),3.14,dsc,10
-25,25,25,25,25,25,25,"Gupta, Amarnath",DSC 104 - Beyond Relational Data Mgmt (A),FA20,23,6,83.3%,83.3%,8.17,A- (3.80),A- (3.92),3.92,dsc,10
-26,26,26,26,26,26,26,"Powell, Thomas Allan",DSC 106 - Intro to Data Visualization (A),FA20,115,49,67.3%,65.3%,10.58,B+ (3.51),B (3.27),3.27,dsc,10
-27,27,27,27,27,27,27,"Eldridge, Justin Matthew",DSC 10 - Principles of Data Science (A),S320,37,7,100.0%,100.0%,7.07,A (4.00),B+ (3.44),3.44,dsc,10
-28,28,28,28,28,28,28,"Jemmott, Colin William",DSC 10 - Principles of Data Science (A),SP20,137,56,94.6%,100.0%,7.11,A- (3.76),A- (3.74),3.74,dsc,10
-29,29,29,29,29,29,29,"Gupta, Amarnath",DSC 100 - Intro to Data Management (A),SP20,90,35,45.7%,31.4%,7.64,B (3.14),A- (3.92),3.92,dsc,10
-30,30,30,30,30,30,30,"Powell, Thomas Allan",DSC 106 - Intro to Data Visualization (A),SP20,106,34,60.6%,57.6%,11.0,B+ (3.52),A- (3.72),3.72,dsc,10
-31,31,31,31,31,31,31,"Eldridge, Justin Matthew",DSC 10 - Principles of Data Science (A),WI20,132,58,98.2%,100.0%,7.46,B+ (3.56),B+ (3.32),3.32,dsc,10
-32,32,32,32,32,32,32,"Gupta, Amarnath",DSC 100 - Intro to Data Management (A),WI20,127,54,35.8%,40.4%,6.69,B (3.21),B+ (3.59),3.59,dsc,10
-33,33,33,33,33,33,33,"Kumar, Arun Kumar",DSC 102 - Systems for Scalable Analytics (A),WI20,140,116,84.5%,83.6%,8.09,B+ (3.31),B+ (3.64),3.64,dsc,10
-34,34,34,34,34,34,34,"Powell, Thomas Allan",DSC 106 - Intro to Data Visualization (A),WI20,92,32,48.4%,48.4%,12.44,B+ (3.42),B (3.04),3.04,dsc,10
-35,35,35,35,35,35,35,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (A),FA19,120,72,89.7%,82.4%,7.31,B+ (3.33),B- (2.94),2.94,dsc,10
-36,36,36,36,36,36,36,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (B),FA19,113,65,95.0%,88.1%,7.85,B+ (3.37),B- (2.91),2.91,dsc,10
-37,37,37,37,37,37,37,"Rajasekar, Arcot Kuppuswam",DSC 100 - Intro to Data Management (A),FA19,144,39,81.6%,78.9%,6.08,B+ (3.44),A- (3.71),3.71,dsc,10
-38,38,38,38,38,38,38,"Powell, Thomas Allan",DSC 106 - Intro to Data Visualization (A),FA19,118,40,52.5%,52.5%,10.9,B (3.21),B (3.14),3.14,dsc,10
-39,39,39,39,39,39,39,"Twomey, Robert Daniel",DSC 10 - Principles of Data Science (A),S219,51,10,88.9%,100.0%,10.94,A- (3.70),B- (2.86),2.86,dsc,10
-40,40,40,40,40,40,40,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (A),SP19,103,46,88.6%,79.5%,7.68,B+ (3.50),B- (2.96),2.96,dsc,10
-41,41,41,41,41,41,41,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (B),SP19,79,37,96.9%,93.8%,8.25,B+ (3.53),B- (2.96),2.96,dsc,10
-42,42,42,42,42,42,42,"Jemmott, Colin William",DSC 10 - Principles of Data Science (A),WI19,164,77,97.0%,95.5%,6.98,B+ (3.66),B (3.27),3.27,dsc,10
-43,43,43,43,43,43,43,"Eldridge, Justin Matthew",DSC 10 - Principles of Data Science (A),FA18,140,61,98.3%,98.3%,7.75,B+ (3.48),B- (2.94),2.94,dsc,10
-44,44,44,44,44,44,44,"Fraenkel, Aaron Mcmillan",DSC 10 - Principles of Data Science (B),FA18,143,54,96.0%,97.9%,7.34,B+ (3.40),B- (2.91),2.91,dsc,10
-45,45,45,45,45,45,45,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (A),SP18,117,45,93.2%,90.9%,6.87,B+ (3.62),B- (2.90),2.9,dsc,10
-46,46,46,46,46,46,46,"Langlois, Marina",DSC 10 - Introduction to Programming (C),WI18,53,25,95.7%,95.7%,6.24,B+ (3.59),B (3.18),3.18,dsc,10
-47,47,47,47,47,47,47,"Langlois, Marina",DSC 10 - Introduction to Programming (D),WI18,112,49,95.7%,93.6%,7.27,B+ (3.59),B (3.18),3.18,dsc,10
-48,48,48,48,48,48,48,"Langlois, Marina",DSC 10 - Introduction to Programming (A),FA17,37,19,94.7%,100.0%,8.18,B (3.29),B- (2.87),2.87,dsc,10
-49,49,49,49,49,49,49,"Tiefenbruck, Janine LoBue",DSC 10 - Introduction to Programming (B),FA17,37,17,93.8%,100.0%,6.63,B+ (3.44),B (3.06),3.06,dsc,10
-50,50,50,50,50,50,50,"Langlois, Marina",DSC 10 - Introduction to Programming (C),FA17,39,15,100.0%,100.0%,8.5,B (3.29),B- (2.87),2.87,dsc,10
+,Unnamed: 0.9,Unnamed: 0.8,Unnamed: 0.7,Unnamed: 0.6,Unnamed: 0.5,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
+0,0,0,0,0,0,0,0,0,0,0,"Lau, Samuel Ethan",DSC 10 - Principles of Data Science (A),S322,36,16,100.0%,100.0%,8.1,B+ (3.67),B+ (3.65),3.65,dsc,10
+1,1,1,1,1,1,1,1,1,1,1,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (A),SP22,132,95,89.5%,94.7%,8.52,B+ (3.55),B+ (3.36),3.36,dsc,10
+2,2,2,2,2,2,2,2,2,2,2,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (B),SP22,133,92,93.5%,95.6%,8.04,B+ (3.56),B (3.15),3.15,dsc,10
+3,3,3,3,3,3,3,3,3,3,3,"Liao, Soohyun Nam",DSC 106 - Intro to Data Visualization (A),SP22,91,70,70.1%,70.1%,8.17,B+ (3.58),B+ (3.62),3.62,dsc,10
+4,4,4,4,4,4,4,4,4,4,4,"Rampure, Suraj",DSC 10 - Principles of Data Science (A),WI22,141,113,97.3%,100.0%,8.21,A- (3.72),B- (2.96),2.96,dsc,10
+5,5,5,5,5,5,5,5,5,5,5,"Rampure, Suraj",DSC 10 - Principles of Data Science (B),WI22,142,117,97.4%,99.1%,7.57,A- (3.73),B (3.05),3.05,dsc,10
+6,6,6,6,6,6,6,6,6,6,6,"Gupta, Amarnath",DSC 100 - Intro to Data Management (A),WI22,100,31,86.2%,65.5%,7.88,B+ (3.69),B+ (3.67),3.67,dsc,10
+7,7,7,7,7,7,7,7,7,7,7,"Kumar, Arun Kumar",DSC 102 - Systems for Scalable Analytics (A),WI22,136,42,87.8%,85.4%,9.48,B+ (3.46),B+ (3.54),3.54,dsc,10
+8,8,8,8,8,8,8,8,8,8,8,"Liao, Soohyun Nam",DSC 106 - Intro to Data Visualization (A),WI22,147,54,57.4%,41.5%,9.78,A- (3.86),A- (3.84),3.84,dsc,10
+9,9,9,9,9,9,9,9,9,9,9,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (A),FA21,72,58,98.3%,98.2%,8.22,B+ (3.59),B+ (3.33),3.33,dsc,10
+10,10,10,10,10,10,10,10,10,10,10,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (B),FA21,71,59,100.0%,100.0%,6.71,B+ (3.48),B (3.29),3.29,dsc,10
+11,11,11,11,11,11,11,11,11,11,11,"Rampure, Suraj",DSC 10 - Principles of Data Science (C),FA21,112,90,98.9%,100.0%,7.52,B+ (3.54),B (3.27),3.27,dsc,10
+12,12,12,12,12,12,12,12,12,12,12,"Salimi, Babak",DSC 100 - Intro to Data Management (A),FA21,161,42,87.5%,65.0%,7.25,A- (3.80),A- (3.80),3.8,dsc,10
+13,13,13,13,13,13,13,13,13,13,13,"Eldridge, Justin Matthew",DSC 10 - Principles of Data Science (A),S121,86,20,90.0%,94.7%,11.9,A- (3.85),B+ (3.57),3.57,dsc,10
+14,14,14,14,14,14,14,14,14,14,14,"Aoi, Mikio C",DSC 10 - Principles of Data Science (A),SP21,139,58,91.2%,84.2%,8.78,B+ (3.57),B+ (3.35),3.35,dsc,10
+15,15,15,15,15,15,15,15,15,15,15,"Salimi, Babak",DSC 100 - Intro to Data Management (A),SP21,14,11,90.9%,90.9%,5.41,A- (3.86),,,dsc,10
+16,16,16,16,16,16,16,16,16,16,16,"Albuyeh, Rod",DSC 102 - Systems for Scalable Analytics (A),SP21,132,47,78.7%,67.4%,5.54,A- (3.78),A- (3.98),3.98,dsc,10
+17,17,17,17,17,17,17,17,17,17,17,"Nusrat, Sabrina",DSC 106 - Intro to Data Visualization (A),SP21,41,12,83.3%,75.0%,4.0,A- (3.92),A- (3.94),3.94,dsc,10
+18,18,18,18,18,18,18,18,18,18,18,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (A),WI21,78,35,85.7%,85.7%,7.76,B+ (3.59),B (3.28),3.28,dsc,10
+19,19,19,19,19,19,19,19,19,19,19,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (B),WI21,86,39,94.6%,89.2%,6.61,B+ (3.48),B+ (3.55),3.55,dsc,10
+20,20,20,20,20,20,20,20,20,20,20,"Salimi, Babak",DSC 100 - Intro to Data Management (A),WI21,143,96,92.6%,85.1%,5.95,A- (3.79),B+ (3.63),3.63,dsc,10
+21,21,21,21,21,21,21,21,21,21,21,"Kumar, Arun Kumar",DSC 102 - Systems for Scalable Analytics (A),WI21,134,80,88.6%,91.0%,8.83,B+ (3.58),B+ (3.55),3.55,dsc,10
+22,22,22,22,22,22,22,22,22,22,22,"Nusrat, Sabrina",DSC 106 - Intro to Data Visualization (A),WI21,43,16,87.5%,81.3%,3.88,B+ (3.69),A- (3.96),3.96,dsc,10
+23,23,23,23,23,23,23,23,23,23,23,"Eldridge, Justin Matthew",DSC 10 - Principles of Data Science (A),FA20,171,116,99.1%,100.0%,5.9,B+ (3.68),B (3.17),3.17,dsc,10
+24,24,24,24,24,24,24,24,24,24,24,"Nguyen, Mai Huong Thi",DSC 102 - Systems for Scalable Analytics (B),FA20,81,24,52.4%,61.9%,14.12,B (3.00),B (3.14),3.14,dsc,10
+25,25,25,25,25,25,25,25,25,25,25,"Gupta, Amarnath",DSC 104 - Beyond Relational Data Mgmt (A),FA20,23,6,83.3%,83.3%,8.17,A- (3.80),A- (3.92),3.92,dsc,10
+26,26,26,26,26,26,26,26,26,26,26,"Powell, Thomas Allan",DSC 106 - Intro to Data Visualization (A),FA20,115,49,67.3%,65.3%,10.58,B+ (3.51),B (3.27),3.27,dsc,10
+27,27,27,27,27,27,27,27,27,27,27,"Eldridge, Justin Matthew",DSC 10 - Principles of Data Science (A),S320,37,7,100.0%,100.0%,7.07,A (4.00),B+ (3.44),3.44,dsc,10
+28,28,28,28,28,28,28,28,28,28,28,"Jemmott, Colin William",DSC 10 - Principles of Data Science (A),SP20,137,56,94.6%,100.0%,7.11,A- (3.76),A- (3.74),3.74,dsc,10
+29,29,29,29,29,29,29,29,29,29,29,"Gupta, Amarnath",DSC 100 - Intro to Data Management (A),SP20,90,35,45.7%,31.4%,7.64,B (3.14),A- (3.92),3.92,dsc,10
+30,30,30,30,30,30,30,30,30,30,30,"Powell, Thomas Allan",DSC 106 - Intro to Data Visualization (A),SP20,106,34,60.6%,57.6%,11.0,B+ (3.52),A- (3.72),3.72,dsc,10
+31,31,31,31,31,31,31,31,31,31,31,"Eldridge, Justin Matthew",DSC 10 - Principles of Data Science (A),WI20,132,58,98.2%,100.0%,7.46,B+ (3.56),B+ (3.32),3.32,dsc,10
+32,32,32,32,32,32,32,32,32,32,32,"Gupta, Amarnath",DSC 100 - Intro to Data Management (A),WI20,127,54,35.8%,40.4%,6.69,B (3.21),B+ (3.59),3.59,dsc,10
+33,33,33,33,33,33,33,33,33,33,33,"Kumar, Arun Kumar",DSC 102 - Systems for Scalable Analytics (A),WI20,140,116,84.5%,83.6%,8.09,B+ (3.31),B+ (3.64),3.64,dsc,10
+34,34,34,34,34,34,34,34,34,34,34,"Powell, Thomas Allan",DSC 106 - Intro to Data Visualization (A),WI20,92,32,48.4%,48.4%,12.44,B+ (3.42),B (3.04),3.04,dsc,10
+35,35,35,35,35,35,35,35,35,35,35,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (A),FA19,120,72,89.7%,82.4%,7.31,B+ (3.33),B- (2.94),2.94,dsc,10
+36,36,36,36,36,36,36,36,36,36,36,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (B),FA19,113,65,95.0%,88.1%,7.85,B+ (3.37),B- (2.91),2.91,dsc,10
+37,37,37,37,37,37,37,37,37,37,37,"Rajasekar, Arcot Kuppuswam",DSC 100 - Intro to Data Management (A),FA19,144,39,81.6%,78.9%,6.08,B+ (3.44),A- (3.71),3.71,dsc,10
+38,38,38,38,38,38,38,38,38,38,38,"Powell, Thomas Allan",DSC 106 - Intro to Data Visualization (A),FA19,118,40,52.5%,52.5%,10.9,B (3.21),B (3.14),3.14,dsc,10
+39,39,39,39,39,39,39,39,39,39,39,"Twomey, Robert Daniel",DSC 10 - Principles of Data Science (A),S219,51,10,88.9%,100.0%,10.94,A- (3.70),B- (2.86),2.86,dsc,10
+40,40,40,40,40,40,40,40,40,40,40,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (A),SP19,103,46,88.6%,79.5%,7.68,B+ (3.50),B- (2.96),2.96,dsc,10
+41,41,41,41,41,41,41,41,41,41,41,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (B),SP19,79,37,96.9%,93.8%,8.25,B+ (3.53),B- (2.96),2.96,dsc,10
+42,42,42,42,42,42,42,42,42,42,42,"Jemmott, Colin William",DSC 10 - Principles of Data Science (A),WI19,164,77,97.0%,95.5%,6.98,B+ (3.66),B (3.27),3.27,dsc,10
+43,43,43,43,43,43,43,43,43,43,43,"Eldridge, Justin Matthew",DSC 10 - Principles of Data Science (A),FA18,140,61,98.3%,98.3%,7.75,B+ (3.48),B- (2.94),2.94,dsc,10
+44,44,44,44,44,44,44,44,44,44,44,"Fraenkel, Aaron Mcmillan",DSC 10 - Principles of Data Science (B),FA18,143,54,96.0%,97.9%,7.34,B+ (3.40),B- (2.91),2.91,dsc,10
+45,45,45,45,45,45,45,45,45,45,45,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (A),SP18,117,45,93.2%,90.9%,6.87,B+ (3.62),B- (2.90),2.9,dsc,10
+46,46,46,46,46,46,46,46,46,46,46,"Langlois, Marina",DSC 10 - Introduction to Programming (C),WI18,53,25,95.7%,95.7%,6.24,B+ (3.59),B (3.18),3.18,dsc,10
+47,47,47,47,47,47,47,47,47,47,47,"Langlois, Marina",DSC 10 - Introduction to Programming (D),WI18,112,49,95.7%,93.6%,7.27,B+ (3.59),B (3.18),3.18,dsc,10
+48,48,48,48,48,48,48,48,48,48,48,"Langlois, Marina",DSC 10 - Introduction to Programming (A),FA17,37,19,94.7%,100.0%,8.18,B (3.29),B- (2.87),2.87,dsc,10
+49,49,49,49,49,49,49,49,49,49,49,"Tiefenbruck, Janine LoBue",DSC 10 - Introduction to Programming (B),FA17,37,17,93.8%,100.0%,6.63,B+ (3.44),B (3.06),3.06,dsc,10
+50,50,50,50,50,50,50,50,50,50,50,"Langlois, Marina",DSC 10 - Introduction to Programming (C),FA17,39,15,100.0%,100.0%,8.5,B (3.29),B- (2.87),2.87,dsc,10
