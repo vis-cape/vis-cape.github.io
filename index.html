@@ -27,7 +27,7 @@
 // set the dimensions and margins of the graph
 var margin = {top: 40, right: 150, bottom: 60, left: 30},
     width = 500 - margin.left - margin.right,
-    height = 420 - margin.top - margin.bottom;
+    height = 700 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -49,38 +49,39 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
   var x = d3.scaleLinear()
     .domain([0, 10])
     .range([ 0, width ]);
-  svg.append("g")
-    .attr("transform", "translate(0," + height + ")")
-    .call(d3.axisBottom(x).ticks(3));
+//   svg.append("g")
+//     .attr("transform", "translate(0," + height + ")")
+//     .call(d3.axisBottom(x).ticks(3));
 
   // Add X axis label:
-  svg.append("text")
-      .attr("text-anchor", "end")
-      .attr("x", width)
-      .attr("y", height+50 );
+//   svg.append("text")
+//       .attr("text-anchor", "end")
+//       .attr("x", width)
+//       .attr("y", height+50 );
 
   // Add Y axis
-  var y = d3.scaleOrdinal()
+  var y = d3.scaleLinear()
+    .domain([15, 0])
     .range([ height, 0]);
-  svg.append("g")
-    .call(d3.axisLeft(y));
+//   svg.append("g")
+//     .call(d3.axisLeft(y));
 
   // Add Y axis label:
-  svg.append("text")
-      .attr("text-anchor", "end")
-      .attr("x", 0)
-      .attr("y", -20 )
-      .text("Department")
-      .attr("text-anchor", "start")
+//   svg.append("text")
+//       .attr("text-anchor", "end")
+//       .attr("x", 0)
+//       .attr("y", -20 )
+//       .text("Department")
+//       .attr("text-anchor", "start")
 
   // Add a scale for bubble size
   var z = d3.scaleSqrt()
     .domain([0, 3000])
-    .range([ 2, 30]);
+    .range([2, 30]);
 
   // Add a scale for bubble color
   var myColor = d3.scaleLinear()
-    .domain([0, 4])
+    .domain([2, 4])
     .range(d3.schemeSet1);
 
 
@@ -105,7 +106,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
       .duration(200)
     tooltip
       .style("opacity", 1)
-      .html("Course: " + d.course)
+      .html("Course: " + d.course + ",\n" + d.gpa + " GPA avg,\n" + d.num + "yearly students")
       .style("left", (d3.mouse(this)[0]+30) + "px")
       .style("top", (d3.mouse(this)[1]+30) + "px")
   }
@@ -152,7 +153,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
     .append("circle")
       .attr("class", function(d) { return "bubbles " + d.course })
       .attr("cx", function (d) { return x(d.id); } )
-      .attr("cy", function (d) { return y(d.dept); } )
+      .attr("cy", function (d) { return y(d.dept_id); } )
       .attr("r", function (d) { return z(d.num); } )
       .style("fill", function (d) { return myColor(d.gpa); } )
     // -3- Trigger the functions for hover
@@ -167,7 +168,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
     // ---------------------------//
 
     // Add legend: circles
-    var valuesToShow = [10000000, 100000000, 1000000000]
+    var valuesToShow = [100, 1000, 2500]
     var xCircle = 390
     var xLabel = 440
     svg
@@ -202,7 +203,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
       .append("text")
         .attr('x', xLabel)
         .attr('y', function(d){ return height - 100 - z(d) } )
-        .text( function(d){ return d/1000000 } )
+        .text( function(d){ return d } )
         .style("font-size", 10)
         .attr('alignment-baseline', 'middle')
 
@@ -210,35 +211,40 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
     svg.append("text")
       .attr('x', xCircle)
       .attr("y", height - 100 +30)
-      .text("Population (M)")
+      .text("Num yearly students")
       .attr("text-anchor", "middle")
 
+    //color title
+    svg.append("text")
+        .attr('x', 390)
+        .attr('y', 0)
+        .text('GPA Avg')
     // Add one dot in the legend for each name.
-    // var size = 20
-    // var allgroups = ["Asia", "Europe", "Americas", "Africa", "Oceania"]
-    // svg.selectAll("myrect")
-    //   .data(allgroups)
-    //   .enter()
-    //   .append("circle")
-    //     .attr("cx", 390)
-    //     .attr("cy", function(d,i){ return 10 + i*(size+5)}) // 100 is where the first dot appears. 25 is the distance between dots
-    //     .attr("r", 7)
-    //     .style("fill", function(d){ return myColor(d)})
-    //     .on("mouseover", highlight)
-    //     .on("mouseleave", noHighlight)
+    var size = 20
+    var allgroups = [1.5, 2.0, 2.5, 3, 3.5, 4]
+    svg.selectAll("myrect")
+      .data(allgroups)
+      .enter()
+      .append("circle")
+        .attr("cx", 390)
+        .attr("cy", function(d,i){ return 10 + i*(size+5)}) // 100 is where the first dot appears. 25 is the distance between dots
+        .attr("r", 7)
+        .style("fill", function(d){ return myColor(d)})
+        // .on("mouseover", highlight)
+        // .on("mouseleave", noHighlight)
 
     // Add labels beside legend dots
-    // svg.selectAll("mylabels")
-    //   .data(allgroups)
-    //   .enter()
-    //   .append("text")
-    //     .attr("x", 390 + size*.8)
-    //     .attr("y", function(d,i){ return i * (size + 5) + (size/2)}) // 100 is where the first dot appears. 25 is the distance between dots
-    //     .style("fill", function(d){ return myColor(d)})
-    //     .text(function(d){ return d})
-    //     .attr("text-anchor", "left")
-    //     .style("alignment-baseline", "middle")
-    //     .on("mouseover", highlight)
-    //     .on("mouseleave", noHighlight)
+    svg.selectAll("mylabels")
+      .data(allgroups)
+      .enter()
+      .append("text")
+        .attr("x", 390 + size*.8)
+        .attr("y", function(d,i){ return i * (size + 5) + (size/2)}) // 100 is where the first dot appears. 25 is the distance between dots
+        .style("fill", function(d){ return myColor(d)})
+        .text(function(d){ return d})
+        .attr("text-anchor", "left")
+        .style("alignment-baseline", "middle")
+        // .on("mouseover", highlight)
+        // .on("mouseleave", noHighlight)
   })
 </script>
