@@ -1,181 +1,181 @@
-,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
-0,0,0,0,0,0,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (A),S222,93,30,93.3%,93.3%,9.5,A- (3.73),B (3.16),3.16,cse,11
-1,1,1,1,1,1,"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A),S122,33,3,100.0%,100.0%,8.5,A (4.00),B+ (3.47),3.47,cse,11
-2,2,2,2,2,2,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (A),SP22,156,48,81.4%,66.7%,8.83,B+ (3.67),B- (2.96),2.96,cse,11
-3,3,3,3,3,3,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (B),SP22,166,62,69.5%,68.4%,10.47,A- (3.71),B (3.05),3.05,cse,11
-4,4,4,4,4,4,"Politz, Joseph Gibbs",CSE 110 - Software Engineering (A),SP22,194,159,66.0%,96.2%,11.42,B+ (3.46),B+ (3.36),3.36,cse,11
-5,5,5,5,5,5,"Griswold, William G.",CSE 110 - Software Engineering (B),SP22,194,144,68.5%,62.7%,12.37,B+ (3.38),B+ (3.31),3.31,cse,11
-6,6,6,6,6,6,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A),SP22,137,39,92.1%,100.0%,7.64,B+ (3.68),A- (3.77),3.77,cse,11
-7,7,7,7,7,7,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (A),WI22,345,177,77.5%,70.3%,9.24,B+ (3.34),B+ (3.32),3.32,cse,11
-8,8,8,8,8,8,"Griswold, William G.",CSE 110 - Software Engineering (A),WI22,211,83,56.1%,32.5%,13.91,B+ (3.42),B (3.26),3.26,cse,11
-9,9,9,9,9,9,"Politz, Joseph Gibbs",CSE 11 - Accel. Intro to Programming (A),FA21,189,112,92.7%,95.5%,6.57,A- (3.84),B+ (3.46),3.46,cse,11
-10,10,10,10,10,10,"Politz, Joseph Gibbs",CSE 11 - Accel. Intro to Programming (B),FA21,190,112,97.2%,99.1%,6.33,A- (3.85),B+ (3.52),3.52,cse,11
-11,11,11,11,11,11,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (C),FA21,188,95,91.0%,96.6%,6.24,A- (3.77),B+ (3.34),3.34,cse,11
-12,12,12,12,12,12,"Powell, Thomas Allan",CSE 110 - Software Engineering (A),FA21,344,143,79.0%,63.8%,9.76,B+ (3.61),A- (3.77),3.77,cse,11
-13,13,13,13,13,13,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA21,12,6,100.0%,100.0%,5.7,A (4.00),,,cse,11
-14,14,14,14,14,14,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (A),S221,52,19,100.0%,94.4%,7.87,A- (3.95),B+ (3.56),3.56,cse,11
-15,15,15,15,15,15,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (A),S121,70,19,77.8%,100.0%,11.39,A- (3.78),B (3.03),3.03,cse,11
-16,16,16,16,16,16,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (A),SP21,117,43,85.7%,85.7%,10.26,A- (3.71),B+ (3.40),3.4,cse,11
-17,17,17,17,17,17,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (B),SP21,121,47,87.0%,87.0%,9.59,A- (3.71),B+ (3.57),3.57,cse,11
-18,18,18,18,18,18,"Powell, Thomas Allan",CSE 110 - Software Engineering (A),SP21,292,105,74.0%,76.9%,10.46,B+ (3.68),A- (3.82),3.82,cse,11
-19,19,19,19,19,19,"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A),WI21,342,254,89.7%,94.0%,10.02,B+ (3.46),B (3.29),3.29,cse,11
-20,20,20,20,20,20,"Powell, Thomas Allan",CSE 110 - Software Engineering (A),WI21,295,104,72.7%,59.4%,9.38,B+ (3.54),B+ (3.66),3.66,cse,11
-21,21,21,21,21,21,"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A),FA20,185,161,96.3%,98.1%,9.81,B+ (3.62),B+ (3.33),3.33,cse,11
-22,22,22,22,22,22,"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (B),FA20,185,163,96.3%,100.0%,8.84,B+ (3.70),B+ (3.45),3.45,cse,11
-23,23,23,23,23,23,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (C),FA20,183,153,94.7%,92.1%,9.14,B+ (3.60),B (3.22),3.22,cse,11
-24,24,24,24,24,24,"August, Robert Henry",CSE 11 - Accel. Intro to Programming (D),FA20,137,74,95.9%,87.7%,8.69,B+ (3.70),B (3.18),3.18,cse,11
-25,25,25,25,25,25,"Gillespie, Gary N",CSE 110 - Software Engineering (A),FA20,383,104,83.2%,73.0%,10.62,B+ (3.66),A- (3.78),3.78,cse,11
-26,26,26,26,26,26,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA20,14,3,66.7%,100.0%,5.83,A (4.00),,,cse,11
-27,27,27,27,27,27,"Miranda, Gregory Joseph",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S220,40,35,94.3%,94.1%,10.56,A- (3.88),B+ (3.56),3.56,cse,11
-28,28,28,28,28,28,"Miranda, Gregory Joseph",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S120,57,47,93.6%,93.6%,11.01,B+ (3.67),B+ (3.45),3.45,cse,11
-29,29,29,29,29,29,"Cao, Yingjun",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),S120,28,23,100.0%,100.0%,10.59,B+ (3.61),B (3.29),3.29,cse,11
-30,30,30,30,30,30,"August, Robert Henry",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (C),S120,46,15,100.0%,100.0%,10.21,B+ (3.69),B (3.30),3.3,cse,11
-31,31,31,31,31,31,"Politz, Joseph Gibbs",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP20,187,79,92.3%,92.3%,9.76,A- (3.80),A- (3.74),3.74,cse,11
-32,32,32,32,32,32,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP20,350,117,88.8%,78.3%,9.93,A- (3.78),A- (3.93),3.93,cse,11
-33,33,33,33,33,33,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A),SP20,140,31,76.7%,73.3%,9.15,A- (3.71),B+ (3.69),3.69,cse,11
-34,34,34,34,34,34,"Moshiri, Alexander Niema",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI20,176,76,97.3%,98.6%,9.15,B+ (3.59),B+ (3.30),3.3,cse,11
-35,35,35,35,35,35,"Chandrasekhar, Arjun",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),WI20,149,69,95.5%,93.9%,7.0,A- (3.84),A- (3.75),3.75,cse,11
-36,36,36,36,36,36,"Griswold, William G.",CSE 110 - Software Engineering (A),WI20,195,165,80.5%,84.1%,13.38,B+ (3.48),B+ (3.61),3.61,cse,11
-37,37,37,37,37,37,"Soosai Raj, Adalbert Geral",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA19,190,172,90.6%,83.4%,7.1,B+ (3.60),B+ (3.67),3.67,cse,11
-38,38,38,38,38,38,"Moshiri, Alexander Niema",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA19,183,111,96.3%,99.1%,6.02,B+ (3.65),A- (3.77),3.77,cse,11
-39,39,39,39,39,39,"Moshiri, Alexander Niema",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (C),FA19,147,105,99.0%,99.0%,6.34,B+ (3.67),A- (3.86),3.86,cse,11
-40,40,40,40,40,40,"Gillespie, Gary N",CSE 110 - Software Engineering (A),FA19,200,54,76.9%,65.4%,10.54,B+ (3.35),B+ (3.30),3.3,cse,11
-41,41,41,41,41,41,"Miranda, Gregory Joseph",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S219,32,7,71.4%,71.4%,11.93,B+ (3.57),B (3.11),3.11,cse,11
-42,42,42,42,42,42,"August, Robert Henry",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),S219,27,14,100.0%,100.0%,10.0,A- (3.75),B (3.15),3.15,cse,11
-43,43,43,43,43,43,"Miranda, Gregory Joseph",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S119,31,8,100.0%,87.5%,17.75,B+ (3.67),B+ (3.31),3.31,cse,11
-44,44,44,44,44,44,"August, Robert Henry",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),S119,27,6,66.7%,83.3%,7.17,B+ (3.50),B- (2.95),2.95,cse,11
-45,45,45,45,45,45,"August, Robert Henry",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP19,180,68,92.3%,87.7%,5.98,B+ (3.58),B (3.26),3.26,cse,11
-46,46,46,46,46,46,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP19,295,101,51.0%,47.4%,7.8,B+ (3.46),B+ (3.39),3.39,cse,11
-47,47,47,47,47,47,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A),SP19,151,35,96.9%,96.9%,7.83,B+ (3.61),B+ (3.59),3.59,cse,11
-48,48,48,48,48,48,"Zaitsev, Anna L",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI19,150,121,90.1%,84.3%,11.1,B+ (3.45),B+ (3.36),3.36,cse,11
-49,49,49,49,49,49,"Zaitsev, Anna L",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),WI19,154,139,90.6%,94.2%,10.73,B+ (3.55),B+ (3.36),3.36,cse,11
-50,50,50,50,50,50,"Griswold, William G.",CSE 110 - Software Engineering (A),WI19,188,142,83.6%,90.0%,11.42,B+ (3.55),B (3.28),3.28,cse,11
-51,51,51,51,51,51,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA18,325,192,91.8%,92.0%,12.02,B+ (3.53),B+ (3.47),3.47,cse,11
-52,52,52,52,52,52,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA18,155,85,96.3%,96.3%,11.01,A- (3.80),B+ (3.47),3.47,cse,11
-53,53,53,53,53,53,"Gillespie, Gary N",CSE 110 - Software Engineering (A),FA18,247,83,65.0%,57.7%,10.01,B+ (3.53),B+ (3.31),3.31,cse,11
-54,54,54,54,54,54,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA18,15,7,85.7%,85.7%,7.07,B (3.29),,,cse,11
-55,55,55,55,55,55,"Nguyen, Hau Cao",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP18,142,47,65.2%,28.3%,11.59,B (3.29),B (3.16),3.16,cse,11
-56,56,56,56,56,56,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP18,241,148,72.4%,63.2%,8.9,B+ (3.54),B+ (3.31),3.31,cse,11
-57,57,57,57,57,57,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A),SP18,131,43,81.6%,94.7%,8.71,B+ (3.32),B (3.26),3.26,cse,11
-58,58,58,58,58,58,"Nguyen, Hau Cao",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI18,133,59,68.4%,54.4%,9.8,B (3.14),B- (2.97),2.97,cse,11
-59,59,59,59,59,59,"Nguyen, Hau Cao",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),WI18,114,55,67.9%,54.7%,9.09,B+ (3.34),B- (2.97),2.97,cse,11
-60,60,60,60,60,60,"Griswold, William G.",CSE 110 - Software Engineering (A),WI18,203,154,83.0%,81.0%,11.48,B+ (3.50),B (3.10),3.1,cse,11
-61,61,61,61,61,61,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA17,326,187,86.9%,92.5%,11.85,B+ (3.62),B+ (3.36),3.36,cse,11
-62,62,62,62,62,62,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA17,190,99,92.2%,96.6%,11.46,B+ (3.53),B+ (3.36),3.36,cse,11
-63,63,63,63,63,63,"Gillespie, Gary N",CSE 110 - Software Engineering (A),FA17,250,218,75.2%,65.5%,8.58,B+ (3.46),B+ (3.41),3.41,cse,11
-64,64,64,64,64,64,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA17,26,6,80.0%,100.0%,8.1,A (4.00),B+ (3.48),3.48,cse,11
-65,65,65,65,65,65,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S217,31,9,88.9%,75.0%,14.28,B+ (3.56),C+ (2.68),2.68,cse,11
-66,66,66,66,66,66,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S117,29,11,81.8%,63.6%,10.68,B (3.00),C+ (2.34),2.34,cse,11
-67,67,67,67,67,67,"Politz, Joseph Gibbs",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP17,162,65,88.5%,85.2%,10.33,B+ (3.46),B+ (3.41),3.41,cse,11
-68,68,68,68,68,68,"Griswold, William G.",CSE 110 - Software Engineering (A),SP17,193,142,90.1%,81.6%,9.88,B+ (3.42),B (3.08),3.08,cse,11
-69,69,69,69,69,69,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A),SP17,185,57,82.5%,89.5%,6.88,B+ (3.48),B (3.18),3.18,cse,11
-70,70,70,70,70,70,"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI17,118,42,87.5%,80.0%,10.65,B (3.26),B- (2.80),2.8,cse,11
-71,71,71,71,71,71,"Politz, Joseph Gibbs",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),WI17,117,50,81.3%,93.8%,10.75,B+ (3.38),B- (2.71),2.71,cse,11
-72,72,72,72,72,72,"Politz, Joseph Gibbs",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (C),WI17,92,48,87.2%,100.0%,11.82,B (3.09),B- (2.71),2.71,cse,11
-73,73,73,73,73,73,"Gillespie, Gary N",CSE 110 - Software Engineering (A),WI17,388,175,84.0%,59.5%,10.02,B+ (3.47),B (3.19),3.19,cse,11
-74,74,74,74,74,74,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA16,275,135,91.9%,96.0%,11.98,B+ (3.65),B+ (3.52),3.52,cse,11
-75,75,75,75,75,75,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (D),FA16,258,140,92.1%,97.6%,12.34,A- (3.71),B+ (3.52),3.52,cse,11
-76,76,76,76,76,76,"Kesden, Gregory M",CSE 110 - Software Engineering (A),FA16,176,79,90.5%,73.0%,7.9,B+ (3.68),A- (3.84),3.84,cse,11
-77,77,77,77,77,77,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA16,33,8,85.7%,85.7%,6.21,B+ (3.57),B+ (3.53),3.53,cse,11
-78,78,78,78,78,78,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S216,39,17,68.8%,50.0%,11.38,B+ (3.44),B- (2.99),2.99,cse,11
-79,79,79,79,79,79,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S116,36,14,91.7%,91.7%,6.17,A- (3.80),B- (3.00),3.0,cse,11
-80,80,80,80,80,80,"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP16,123,36,93.3%,90.0%,9.12,B (3.27),B (3.01),3.01,cse,11
-81,81,81,81,81,81,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP16,199,71,87.0%,87.0%,10.38,B+ (3.67),B+ (3.36),3.36,cse,11
-82,82,82,82,82,82,"Griswold, William G.",CSE 110 - Software Engineering (B),SP16,301,204,84.1%,60.7%,9.13,B+ (3.36),B- (2.93),2.93,cse,11
-83,83,83,83,83,83,"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI16,123,54,90.4%,80.8%,10.42,B+ (3.37),B- (2.72),2.72,cse,11
-84,84,84,84,84,84,"Jundt, Adam H",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),WI16,161,76,94.3%,94.3%,10.96,A- (3.70),B+ (3.41),3.41,cse,11
-85,85,85,85,85,85,"Jundt, Adam H",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (C),WI16,118,57,88.9%,92.6%,11.17,B+ (3.59),B+ (3.41),3.41,cse,11
-86,86,86,86,86,86,"Kesden, Gregory M",CSE 110 - Software Engineering (A),WI16,169,78,82.9%,57.9%,6.77,B+ (3.58),B+ (3.34),3.34,cse,11
-87,87,87,87,87,87,"Kesden, Gregory M",CSE 110 - Software Engineering (B),WI16,156,65,85.7%,66.7%,7.7,B+ (3.65),B+ (3.34),3.34,cse,11
-88,88,88,88,88,88,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A),WI16,115,37,88.6%,94.3%,8.03,B+ (3.32),B (3.24),3.24,cse,11
-89,89,89,89,89,89,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA15,167,81,100.0%,97.3%,10.34,A- (3.76),B+ (3.45),3.45,cse,11
-90,90,90,90,90,90,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA15,169,95,93.1%,98.9%,10.5,B+ (3.69),B+ (3.45),3.45,cse,11
-91,91,91,91,91,91,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (C),FA15,162,85,91.3%,93.8%,12.37,B+ (3.55),B+ (3.45),3.45,cse,11
-92,92,92,92,92,92,"Kesden, Gregory M",CSE 110 - Software Engineering (A),FA15,146,65,95.0%,63.3%,7.57,B+ (3.62),A- (3.80),3.8,cse,11
-93,93,93,93,93,93,"Kesden, Gregory M",CSE 110 - Software Engineering (B),FA15,146,77,88.9%,54.2%,7.35,B+ (3.51),A- (3.80),3.8,cse,11
-94,94,94,94,94,94,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA15,32,14,85.7%,100.0%,7.36,B+ (3.64),B+ (3.64),3.64,cse,11
-95,95,95,95,95,95,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S215,40,15,85.7%,71.4%,10.19,B+ (3.50),B (3.01),3.01,cse,11
-96,96,96,96,96,96,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S115,42,7,85.7%,57.1%,13.36,B (3.20),B (3.12),3.12,cse,11
-97,97,97,97,97,97,"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP15,147,48,95.3%,86.0%,11.06,B+ (3.44),B- (2.92),2.92,cse,11
-98,98,98,98,98,98,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP15,191,94,85.4%,79.8%,11.03,B+ (3.38),B (3.28),3.28,cse,11
-99,99,99,99,99,99,"Menarini, Massimiliano",CSE 110 - Software Engineering (B),SP15,139,93,78.3%,65.2%,8.34,B+ (3.38),B (3.19),3.19,cse,11
-100,100,100,100,100,100,"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI15,151,101,94.9%,78.6%,10.56,B+ (3.52),B (3.13),3.13,cse,11
-101,101,101,101,101,101,"Jundt, Adam H",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),WI15,174,80,94.7%,90.8%,7.98,A- (3.73),B+ (3.52),3.52,cse,11
-102,102,102,102,102,102,"Arsanjani, Ali Paul",CSE 110 - Software Engineering (A),WI15,115,49,76.6%,25.5%,7.8,B+ (3.33),B (3.02),3.02,cse,11
-103,103,103,103,103,103,"Menarini, Massimiliano",CSE 110 - Software Engineering (B),WI15,109,59,54.5%,43.6%,6.35,B (3.25),B- (2.97),2.97,cse,11
-104,104,104,104,104,104,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A),WI15,116,59,90.4%,96.2%,6.7,B+ (3.42),B+ (3.33),3.33,cse,11
-105,105,105,105,105,105,"Porter, Jesse D",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA14,173,80,94.4%,73.6%,8.14,A- (3.75),B+ (3.68),3.68,cse,11
-106,106,106,106,106,106,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA14,185,94,98.7%,100.0%,10.34,A- (3.82),A- (3.73),3.73,cse,11
-107,107,107,107,107,107,"Allos, Haytham Issa",CSE 110 - Software Engineering (A),FA14,165,69,76.6%,54.7%,8.44,B (3.23),B (3.26),3.26,cse,11
-108,108,108,108,108,108,"Arsanjani, Ali Paul",CSE 110 - Software Engineering (C),FA14,79,44,89.7%,76.9%,7.26,B (3.18),B (3.09),3.09,cse,11
-109,109,109,109,109,109,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA14,46,14,92.9%,100.0%,8.79,B+ (3.46),B+ (3.60),3.6,cse,11
-110,110,110,110,110,110,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S214,36,9,77.8%,77.8%,9.39,B+ (3.63),B (3.01),3.01,cse,11
-111,111,111,111,111,111,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S114,30,5,100.0%,100.0%,9.3,B+ (3.60),B- (2.95),2.95,cse,11
-112,112,112,112,112,112,"Miranda, Gregory Joseph",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP14,138,57,83.0%,60.4%,12.62,B+ (3.59),B (3.08),3.08,cse,11
-113,113,113,113,113,113,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP14,193,55,88.5%,88.5%,10.5,B+ (3.51),B+ (3.41),3.41,cse,11
-114,114,114,114,114,114,"Menarini, Massimiliano",CSE 110 - Software Engineering (B),SP14,143,57,73.6%,52.8%,8.31,B+ (3.54),B+ (3.36),3.36,cse,11
-115,115,115,115,115,115,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI14,151,66,96.8%,96.8%,13.6,B+ (3.69),B+ (3.34),3.34,cse,11
-116,116,116,116,116,116,"Griswold, William G.",CSE 110 - Software Engineering (A),WI14,194,95,94.6%,84.8%,10.36,B+ (3.41),B (3.07),3.07,cse,11
-117,117,117,117,117,117,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA13,179,103,93.9%,92.9%,11.17,A- (3.71),B+ (3.63),3.63,cse,11
-118,118,118,118,118,118,"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (C),FA13,152,98,94.7%,74.7%,9.84,B+ (3.40),B- (2.76),2.76,cse,11
-119,119,119,119,119,119,"Menarini, Massimiliano",CSE 110 - Software Engineering (A),FA13,173,158,69.4%,47.8%,7.02,B (3.15),B (3.03),3.03,cse,11
-120,120,120,120,120,120,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (B),FA13,54,24,90.9%,86.4%,9.77,B (3.20),B+ (3.46),3.46,cse,11
-121,121,121,121,121,121,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (B),FA13,46,17,100.0%,100.0%,7.38,A- (3.81),B+ (3.61),3.61,cse,11
-122,122,122,122,122,122,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S213,33,6,100.0%,83.3%,14.17,B (3.17),B- (2.83),2.83,cse,11
-123,123,123,123,123,123,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S113,37,6,100.0%,80.0%,8.9,B+ (3.50),C+ (2.64),2.64,cse,11
-124,124,124,124,124,124,"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP13,100,32,93.8%,62.5%,9.98,B+ (3.56),B- (2.94),2.94,cse,11
-125,125,125,125,125,125,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP13,200,50,95.8%,89.6%,10.17,B+ (3.67),B (3.16),3.16,cse,11
-126,126,126,126,126,126,"Krueger, Ingolf",CSE 112 - Advanced Software Engineering (A),SP13,31,10,100.0%,100.0%,7.3,B+ (3.40),B- (2.83),2.83,cse,11
-127,127,127,127,127,127,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI13,153,71,90.0%,94.3%,13.49,B+ (3.51),B+ (3.39),3.39,cse,11
-128,128,128,128,128,128,"Griswold, William G.",CSE 110 - Software Engineering (B),WI13,189,70,77.3%,50.0%,10.22,B+ (3.43),B (3.18),3.18,cse,11
-129,129,129,129,129,129,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA12,190,120,96.4%,93.7%,9.57,A- (3.82),B+ (3.64),3.64,cse,11
-130,130,130,130,130,130,"Gillespie, Gary N",CSE 110 - Software Engineering (A),FA12,40,12,100.0%,90.0%,12.1,B+ (3.60),B (3.08),3.08,cse,11
-131,131,131,131,131,131,"Krueger, Ingolf",CSE 112 - Advanced Software Engineering (A),FA12,52,16,100.0%,100.0%,8.79,B+ (3.64),B+ (3.54),3.54,cse,11
-132,132,132,132,132,132,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA12,25,9,87.5%,87.5%,7.25,A- (3.88),B+ (3.56),3.56,cse,11
-133,133,133,133,133,133,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S112,41,10,100.0%,70.0%,10.7,A- (3.80),B (3.02),3.02,cse,11
-134,134,134,134,134,134,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP12,48,21,100.0%,75.0%,9.7,B (3.26),C (2.22),2.22,cse,11
-135,135,135,135,135,135,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP12,130,63,85.7%,66.7%,11.48,B+ (3.37),B (3.23),3.23,cse,11
-136,136,136,136,136,136,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI12,44,21,90.5%,71.4%,10.79,B- (2.74),C+ (2.62),2.62,cse,11
-137,137,137,137,137,137,"Gillespie, Gary N",CSE 110 - Software Engineering (A),WI12,120,59,81.4%,69.5%,11.81,B+ (3.38),B (3.15),3.15,cse,11
-138,138,138,138,138,138,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA11,155,69,91.3%,95.5%,12.64,B+ (3.52),B+ (3.44),3.44,cse,11
-139,139,139,139,139,139,"Howden, William E.",CSE 110 - Software Engineering (A),FA11,95,43,61.9%,50.0%,6.5,B (3.09),B- (2.81),2.81,cse,11
-140,140,140,140,140,140,"Cowan, Lisa G.",CSE 118 - Ubiquitous Computing (A),FA11,39,29,86.2%,89.7%,6.5,B+ (3.62),B+ (3.45),3.45,cse,11
-141,141,141,141,141,141,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S111,31,6,100.0%,100.0%,11.83,B+ (3.50),C+ (2.60),2.6,cse,11
-142,142,142,142,142,142,"Kube, Paul Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP11,41,16,100.0%,92.9%,13.64,B (3.07),B- (2.96),2.96,cse,11
-143,143,143,143,143,143,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP11,125,56,80.0%,69.1%,10.5,B+ (3.43),B (3.08),3.08,cse,11
-144,144,144,144,144,144,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI11,46,23,100.0%,54.5%,7.98,B+ (3.38),C+ (2.52),2.52,cse,11
-145,145,145,145,145,145,"Krueger, Ingolf",CSE 110 - Software Engineering (A),WI11,70,38,84.2%,73.7%,7.24,B+ (3.33),B (3.18),3.18,cse,11
-146,146,146,146,146,146,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA10,88,46,95.6%,97.8%,12.23,B+ (3.53),B+ (3.34),3.34,cse,11
-147,147,147,147,147,147,"Gillespie, Gary N",CSE 110 - Software Engineering (A),FA10,33,14,78.6%,92.9%,12.36,A- (3.86),B+ (3.52),3.52,cse,11
-148,148,148,148,148,148,"Howden, William E.",CSE 111 - Objt. Oriented Software Design (A),FA10,41,17,88.2%,64.7%,3.91,B+ (3.41),B (3.16),3.16,cse,11
-149,149,149,149,149,149,"Krueger, Ingolf",CSE 112 - Advanced Software Engineering (A),FA10,18,12,100.0%,100.0%,11.0,A- (3.83),,,cse,11
-150,150,150,150,150,150,"Griswold, William G.",CSE 118 - Ubiquitous Computing (A),FA10,19,12,91.7%,100.0%,6.5,B+ (3.64),,,cse,11
-151,151,151,151,151,151,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SU10,27,11,90.9%,81.8%,10.14,B (3.00),,,cse,11
-152,152,152,152,152,152,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP10,50,31,93.5%,87.1%,6.77,B (3.08),C+ (2.48),2.48,cse,11
-153,153,153,153,153,153,"Dahlstrom, Dana B.",CSE 110 - Software Engineering (A),SP10,56,30,75.9%,51.7%,9.88,B+ (3.33),B- (2.74),2.74,cse,11
-154,154,154,154,154,154,"Howden, William E.",CSE 111 - Objt. Oriented Software Design (A),SP10,29,11,63.6%,81.8%,5.23,B+ (3.55),B (3.04),3.04,cse,11
-155,155,155,155,155,155,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI10,51,21,95.2%,80.0%,7.6,B- (2.83),C+ (2.59),2.59,cse,11
-156,156,156,156,156,156,"Krueger, Ingolf",CSE 110 - Software Engineering (A),WI10,107,61,86.9%,75.4%,7.9,B (3.28),B- (2.92),2.92,cse,11
-157,157,157,157,157,157,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA09,108,62,98.4%,95.1%,11.47,B+ (3.65),B+ (3.42),3.42,cse,11
-158,158,158,158,158,158,"Ord, Richard",CSE 110 - Software Engineering (A),FA09,96,70,71.0%,92.8%,6.53,B+ (3.61),B (3.28),3.28,cse,11
-159,159,159,159,159,159,"Howden, William E.",CSE 111 - Objt. Oriented Software Design (A),FA09,29,13,61.5%,61.5%,4.65,B+ (3.46),B- (2.85),2.85,cse,11
-160,160,160,160,160,160,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SU09,23,8,75.0%,75.0%,12.5,B (3.00),,,cse,11
-161,161,161,161,161,161,"Malani, Roshni",CSE 110 - Software Engineering (A),SU09,18,7,85.7%,57.1%,7.64,B (3.14),,,cse,11
-162,162,162,162,162,162,"Kube, Paul Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP09,41,11,72.7%,81.8%,8.32,B (3.18),B- (2.95),2.95,cse,11
-163,163,163,163,163,163,"Krueger, Ingolf",CSE 110 - Software Engineering (A),SP09,63,33,78.8%,69.7%,10.5,B+ (3.30),C+ (2.50),2.5,cse,11
-164,164,164,164,164,164,"Kube, Paul Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI09,47,18,88.9%,88.2%,10.72,B (3.29),B (3.00),3.0,cse,11
-165,165,165,165,165,165,"Dahlstrom, Dana B.",CSE 110 - Software Engineering (A),WI09,48,38,84.2%,76.3%,7.64,B+ (3.50),B- (2.88),2.88,cse,11
-166,166,166,166,166,166,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA08,106,61,95.0%,96.7%,8.83,B+ (3.68),B (3.07),3.07,cse,11
-167,167,167,167,167,167,"Dahlstrom, Dana B.",CSE 110 - Software Engineering (A),FA08,24,23,68.2%,95.5%,5.5,B+ (3.65),B (3.27),3.27,cse,11
-168,168,168,168,168,168,"Krueger, Ingolf",CSE 112 - Software Engineerng (A),FA08,10,10,80.0%,100.0%,6.7,B+ (3.38),,,cse,11
-169,169,169,169,169,169,"Griswold, William G.",CSE 118 - Ubiquitous Computing (A),FA08,13,12,100.0%,100.0%,3.95,B+ (3.64),,,cse,11
-170,170,170,170,170,170,"Cicotti, Pietro",CSE 110 - Software Engineering (A),SU08,17,11,90.9%,81.8%,6.5,B+ (3.60),,,cse,11
-171,171,171,171,171,171,"Kube, Paul Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP08,26,13,100.0%,92.3%,7.73,B (3.22),C+ (2.61),2.61,cse,11
-172,172,172,172,172,172,"Dahlstrom, Dana B.",CSE 110 - Software Engineering (A),SP08,51,36,88.2%,85.3%,8.5,B+ (3.63),B- (2.85),2.85,cse,11
-173,173,173,173,173,173,"Howden, William E.",CSE 111 - Objt. Oriented Software Design (A),SP08,36,19,68.4%,68.4%,5.34,B+ (3.56),B (3.09),3.09,cse,11
-174,174,174,174,174,174,"Kube, Paul Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI08,27,14,84.6%,83.3%,7.79,B (3.15),B- (2.81),2.81,cse,11
-175,175,175,175,175,175,"Dahlstrom, Dana B.",CSE 110 - Software Engineering (A),WI08,46,31,65.5%,72.4%,6.44,A- (3.71),B (3.05),3.05,cse,11
-176,176,176,176,176,176,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA07,40,27,92.3%,92.3%,8.5,B+ (3.44),B- (2.85),2.85,cse,11
-177,177,177,177,177,177,"Howden, William E.",CSE 111 - Objt. Oriented Software Design (A),FA07,15,10,70.0%,70.0%,6.7,B+ (3.50),,,cse,11
-178,178,178,178,178,178,"Griswold, William G.",CSE 118 - Ubiquitous Computing (A),FA07,7,5,100.0%,100.0%,8.5,A (4.00),,,cse,11
-179,179,179,179,179,179,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SU07,13,11,100.0%,90.9%,10.14,B- (2.90),,,cse,11
+,Unnamed: 0.5,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
+0,0,0,0,0,0,0,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (A),S222,93,30,93.3%,93.3%,9.5,A- (3.73),B (3.16),3.16,cse,11
+1,1,1,1,1,1,1,"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A),S122,33,3,100.0%,100.0%,8.5,A (4.00),B+ (3.47),3.47,cse,11
+2,2,2,2,2,2,2,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (A),SP22,156,48,81.4%,66.7%,8.83,B+ (3.67),B- (2.96),2.96,cse,11
+3,3,3,3,3,3,3,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (B),SP22,166,62,69.5%,68.4%,10.47,A- (3.71),B (3.05),3.05,cse,11
+4,4,4,4,4,4,4,"Politz, Joseph Gibbs",CSE 110 - Software Engineering (A),SP22,194,159,66.0%,96.2%,11.42,B+ (3.46),B+ (3.36),3.36,cse,11
+5,5,5,5,5,5,5,"Griswold, William G.",CSE 110 - Software Engineering (B),SP22,194,144,68.5%,62.7%,12.37,B+ (3.38),B+ (3.31),3.31,cse,11
+6,6,6,6,6,6,6,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A),SP22,137,39,92.1%,100.0%,7.64,B+ (3.68),A- (3.77),3.77,cse,11
+7,7,7,7,7,7,7,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (A),WI22,345,177,77.5%,70.3%,9.24,B+ (3.34),B+ (3.32),3.32,cse,11
+8,8,8,8,8,8,8,"Griswold, William G.",CSE 110 - Software Engineering (A),WI22,211,83,56.1%,32.5%,13.91,B+ (3.42),B (3.26),3.26,cse,11
+9,9,9,9,9,9,9,"Politz, Joseph Gibbs",CSE 11 - Accel. Intro to Programming (A),FA21,189,112,92.7%,95.5%,6.57,A- (3.84),B+ (3.46),3.46,cse,11
+10,10,10,10,10,10,10,"Politz, Joseph Gibbs",CSE 11 - Accel. Intro to Programming (B),FA21,190,112,97.2%,99.1%,6.33,A- (3.85),B+ (3.52),3.52,cse,11
+11,11,11,11,11,11,11,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (C),FA21,188,95,91.0%,96.6%,6.24,A- (3.77),B+ (3.34),3.34,cse,11
+12,12,12,12,12,12,12,"Powell, Thomas Allan",CSE 110 - Software Engineering (A),FA21,344,143,79.0%,63.8%,9.76,B+ (3.61),A- (3.77),3.77,cse,11
+13,13,13,13,13,13,13,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA21,12,6,100.0%,100.0%,5.7,A (4.00),,,cse,11
+14,14,14,14,14,14,14,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (A),S221,52,19,100.0%,94.4%,7.87,A- (3.95),B+ (3.56),3.56,cse,11
+15,15,15,15,15,15,15,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (A),S121,70,19,77.8%,100.0%,11.39,A- (3.78),B (3.03),3.03,cse,11
+16,16,16,16,16,16,16,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (A),SP21,117,43,85.7%,85.7%,10.26,A- (3.71),B+ (3.40),3.4,cse,11
+17,17,17,17,17,17,17,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (B),SP21,121,47,87.0%,87.0%,9.59,A- (3.71),B+ (3.57),3.57,cse,11
+18,18,18,18,18,18,18,"Powell, Thomas Allan",CSE 110 - Software Engineering (A),SP21,292,105,74.0%,76.9%,10.46,B+ (3.68),A- (3.82),3.82,cse,11
+19,19,19,19,19,19,19,"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A),WI21,342,254,89.7%,94.0%,10.02,B+ (3.46),B (3.29),3.29,cse,11
+20,20,20,20,20,20,20,"Powell, Thomas Allan",CSE 110 - Software Engineering (A),WI21,295,104,72.7%,59.4%,9.38,B+ (3.54),B+ (3.66),3.66,cse,11
+21,21,21,21,21,21,21,"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A),FA20,185,161,96.3%,98.1%,9.81,B+ (3.62),B+ (3.33),3.33,cse,11
+22,22,22,22,22,22,22,"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (B),FA20,185,163,96.3%,100.0%,8.84,B+ (3.70),B+ (3.45),3.45,cse,11
+23,23,23,23,23,23,23,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (C),FA20,183,153,94.7%,92.1%,9.14,B+ (3.60),B (3.22),3.22,cse,11
+24,24,24,24,24,24,24,"August, Robert Henry",CSE 11 - Accel. Intro to Programming (D),FA20,137,74,95.9%,87.7%,8.69,B+ (3.70),B (3.18),3.18,cse,11
+25,25,25,25,25,25,25,"Gillespie, Gary N",CSE 110 - Software Engineering (A),FA20,383,104,83.2%,73.0%,10.62,B+ (3.66),A- (3.78),3.78,cse,11
+26,26,26,26,26,26,26,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA20,14,3,66.7%,100.0%,5.83,A (4.00),,,cse,11
+27,27,27,27,27,27,27,"Miranda, Gregory Joseph",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S220,40,35,94.3%,94.1%,10.56,A- (3.88),B+ (3.56),3.56,cse,11
+28,28,28,28,28,28,28,"Miranda, Gregory Joseph",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S120,57,47,93.6%,93.6%,11.01,B+ (3.67),B+ (3.45),3.45,cse,11
+29,29,29,29,29,29,29,"Cao, Yingjun",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),S120,28,23,100.0%,100.0%,10.59,B+ (3.61),B (3.29),3.29,cse,11
+30,30,30,30,30,30,30,"August, Robert Henry",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (C),S120,46,15,100.0%,100.0%,10.21,B+ (3.69),B (3.30),3.3,cse,11
+31,31,31,31,31,31,31,"Politz, Joseph Gibbs",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP20,187,79,92.3%,92.3%,9.76,A- (3.80),A- (3.74),3.74,cse,11
+32,32,32,32,32,32,32,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP20,350,117,88.8%,78.3%,9.93,A- (3.78),A- (3.93),3.93,cse,11
+33,33,33,33,33,33,33,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A),SP20,140,31,76.7%,73.3%,9.15,A- (3.71),B+ (3.69),3.69,cse,11
+34,34,34,34,34,34,34,"Moshiri, Alexander Niema",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI20,176,76,97.3%,98.6%,9.15,B+ (3.59),B+ (3.30),3.3,cse,11
+35,35,35,35,35,35,35,"Chandrasekhar, Arjun",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),WI20,149,69,95.5%,93.9%,7.0,A- (3.84),A- (3.75),3.75,cse,11
+36,36,36,36,36,36,36,"Griswold, William G.",CSE 110 - Software Engineering (A),WI20,195,165,80.5%,84.1%,13.38,B+ (3.48),B+ (3.61),3.61,cse,11
+37,37,37,37,37,37,37,"Soosai Raj, Adalbert Geral",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA19,190,172,90.6%,83.4%,7.1,B+ (3.60),B+ (3.67),3.67,cse,11
+38,38,38,38,38,38,38,"Moshiri, Alexander Niema",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA19,183,111,96.3%,99.1%,6.02,B+ (3.65),A- (3.77),3.77,cse,11
+39,39,39,39,39,39,39,"Moshiri, Alexander Niema",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (C),FA19,147,105,99.0%,99.0%,6.34,B+ (3.67),A- (3.86),3.86,cse,11
+40,40,40,40,40,40,40,"Gillespie, Gary N",CSE 110 - Software Engineering (A),FA19,200,54,76.9%,65.4%,10.54,B+ (3.35),B+ (3.30),3.3,cse,11
+41,41,41,41,41,41,41,"Miranda, Gregory Joseph",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S219,32,7,71.4%,71.4%,11.93,B+ (3.57),B (3.11),3.11,cse,11
+42,42,42,42,42,42,42,"August, Robert Henry",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),S219,27,14,100.0%,100.0%,10.0,A- (3.75),B (3.15),3.15,cse,11
+43,43,43,43,43,43,43,"Miranda, Gregory Joseph",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S119,31,8,100.0%,87.5%,17.75,B+ (3.67),B+ (3.31),3.31,cse,11
+44,44,44,44,44,44,44,"August, Robert Henry",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),S119,27,6,66.7%,83.3%,7.17,B+ (3.50),B- (2.95),2.95,cse,11
+45,45,45,45,45,45,45,"August, Robert Henry",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP19,180,68,92.3%,87.7%,5.98,B+ (3.58),B (3.26),3.26,cse,11
+46,46,46,46,46,46,46,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP19,295,101,51.0%,47.4%,7.8,B+ (3.46),B+ (3.39),3.39,cse,11
+47,47,47,47,47,47,47,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A),SP19,151,35,96.9%,96.9%,7.83,B+ (3.61),B+ (3.59),3.59,cse,11
+48,48,48,48,48,48,48,"Zaitsev, Anna L",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI19,150,121,90.1%,84.3%,11.1,B+ (3.45),B+ (3.36),3.36,cse,11
+49,49,49,49,49,49,49,"Zaitsev, Anna L",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),WI19,154,139,90.6%,94.2%,10.73,B+ (3.55),B+ (3.36),3.36,cse,11
+50,50,50,50,50,50,50,"Griswold, William G.",CSE 110 - Software Engineering (A),WI19,188,142,83.6%,90.0%,11.42,B+ (3.55),B (3.28),3.28,cse,11
+51,51,51,51,51,51,51,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA18,325,192,91.8%,92.0%,12.02,B+ (3.53),B+ (3.47),3.47,cse,11
+52,52,52,52,52,52,52,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA18,155,85,96.3%,96.3%,11.01,A- (3.80),B+ (3.47),3.47,cse,11
+53,53,53,53,53,53,53,"Gillespie, Gary N",CSE 110 - Software Engineering (A),FA18,247,83,65.0%,57.7%,10.01,B+ (3.53),B+ (3.31),3.31,cse,11
+54,54,54,54,54,54,54,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA18,15,7,85.7%,85.7%,7.07,B (3.29),,,cse,11
+55,55,55,55,55,55,55,"Nguyen, Hau Cao",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP18,142,47,65.2%,28.3%,11.59,B (3.29),B (3.16),3.16,cse,11
+56,56,56,56,56,56,56,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP18,241,148,72.4%,63.2%,8.9,B+ (3.54),B+ (3.31),3.31,cse,11
+57,57,57,57,57,57,57,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A),SP18,131,43,81.6%,94.7%,8.71,B+ (3.32),B (3.26),3.26,cse,11
+58,58,58,58,58,58,58,"Nguyen, Hau Cao",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI18,133,59,68.4%,54.4%,9.8,B (3.14),B- (2.97),2.97,cse,11
+59,59,59,59,59,59,59,"Nguyen, Hau Cao",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),WI18,114,55,67.9%,54.7%,9.09,B+ (3.34),B- (2.97),2.97,cse,11
+60,60,60,60,60,60,60,"Griswold, William G.",CSE 110 - Software Engineering (A),WI18,203,154,83.0%,81.0%,11.48,B+ (3.50),B (3.10),3.1,cse,11
+61,61,61,61,61,61,61,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA17,326,187,86.9%,92.5%,11.85,B+ (3.62),B+ (3.36),3.36,cse,11
+62,62,62,62,62,62,62,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA17,190,99,92.2%,96.6%,11.46,B+ (3.53),B+ (3.36),3.36,cse,11
+63,63,63,63,63,63,63,"Gillespie, Gary N",CSE 110 - Software Engineering (A),FA17,250,218,75.2%,65.5%,8.58,B+ (3.46),B+ (3.41),3.41,cse,11
+64,64,64,64,64,64,64,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA17,26,6,80.0%,100.0%,8.1,A (4.00),B+ (3.48),3.48,cse,11
+65,65,65,65,65,65,65,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S217,31,9,88.9%,75.0%,14.28,B+ (3.56),C+ (2.68),2.68,cse,11
+66,66,66,66,66,66,66,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S117,29,11,81.8%,63.6%,10.68,B (3.00),C+ (2.34),2.34,cse,11
+67,67,67,67,67,67,67,"Politz, Joseph Gibbs",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP17,162,65,88.5%,85.2%,10.33,B+ (3.46),B+ (3.41),3.41,cse,11
+68,68,68,68,68,68,68,"Griswold, William G.",CSE 110 - Software Engineering (A),SP17,193,142,90.1%,81.6%,9.88,B+ (3.42),B (3.08),3.08,cse,11
+69,69,69,69,69,69,69,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A),SP17,185,57,82.5%,89.5%,6.88,B+ (3.48),B (3.18),3.18,cse,11
+70,70,70,70,70,70,70,"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI17,118,42,87.5%,80.0%,10.65,B (3.26),B- (2.80),2.8,cse,11
+71,71,71,71,71,71,71,"Politz, Joseph Gibbs",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),WI17,117,50,81.3%,93.8%,10.75,B+ (3.38),B- (2.71),2.71,cse,11
+72,72,72,72,72,72,72,"Politz, Joseph Gibbs",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (C),WI17,92,48,87.2%,100.0%,11.82,B (3.09),B- (2.71),2.71,cse,11
+73,73,73,73,73,73,73,"Gillespie, Gary N",CSE 110 - Software Engineering (A),WI17,388,175,84.0%,59.5%,10.02,B+ (3.47),B (3.19),3.19,cse,11
+74,74,74,74,74,74,74,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA16,275,135,91.9%,96.0%,11.98,B+ (3.65),B+ (3.52),3.52,cse,11
+75,75,75,75,75,75,75,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (D),FA16,258,140,92.1%,97.6%,12.34,A- (3.71),B+ (3.52),3.52,cse,11
+76,76,76,76,76,76,76,"Kesden, Gregory M",CSE 110 - Software Engineering (A),FA16,176,79,90.5%,73.0%,7.9,B+ (3.68),A- (3.84),3.84,cse,11
+77,77,77,77,77,77,77,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA16,33,8,85.7%,85.7%,6.21,B+ (3.57),B+ (3.53),3.53,cse,11
+78,78,78,78,78,78,78,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S216,39,17,68.8%,50.0%,11.38,B+ (3.44),B- (2.99),2.99,cse,11
+79,79,79,79,79,79,79,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S116,36,14,91.7%,91.7%,6.17,A- (3.80),B- (3.00),3.0,cse,11
+80,80,80,80,80,80,80,"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP16,123,36,93.3%,90.0%,9.12,B (3.27),B (3.01),3.01,cse,11
+81,81,81,81,81,81,81,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP16,199,71,87.0%,87.0%,10.38,B+ (3.67),B+ (3.36),3.36,cse,11
+82,82,82,82,82,82,82,"Griswold, William G.",CSE 110 - Software Engineering (B),SP16,301,204,84.1%,60.7%,9.13,B+ (3.36),B- (2.93),2.93,cse,11
+83,83,83,83,83,83,83,"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI16,123,54,90.4%,80.8%,10.42,B+ (3.37),B- (2.72),2.72,cse,11
+84,84,84,84,84,84,84,"Jundt, Adam H",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),WI16,161,76,94.3%,94.3%,10.96,A- (3.70),B+ (3.41),3.41,cse,11
+85,85,85,85,85,85,85,"Jundt, Adam H",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (C),WI16,118,57,88.9%,92.6%,11.17,B+ (3.59),B+ (3.41),3.41,cse,11
+86,86,86,86,86,86,86,"Kesden, Gregory M",CSE 110 - Software Engineering (A),WI16,169,78,82.9%,57.9%,6.77,B+ (3.58),B+ (3.34),3.34,cse,11
+87,87,87,87,87,87,87,"Kesden, Gregory M",CSE 110 - Software Engineering (B),WI16,156,65,85.7%,66.7%,7.7,B+ (3.65),B+ (3.34),3.34,cse,11
+88,88,88,88,88,88,88,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A),WI16,115,37,88.6%,94.3%,8.03,B+ (3.32),B (3.24),3.24,cse,11
+89,89,89,89,89,89,89,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA15,167,81,100.0%,97.3%,10.34,A- (3.76),B+ (3.45),3.45,cse,11
+90,90,90,90,90,90,90,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA15,169,95,93.1%,98.9%,10.5,B+ (3.69),B+ (3.45),3.45,cse,11
+91,91,91,91,91,91,91,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (C),FA15,162,85,91.3%,93.8%,12.37,B+ (3.55),B+ (3.45),3.45,cse,11
+92,92,92,92,92,92,92,"Kesden, Gregory M",CSE 110 - Software Engineering (A),FA15,146,65,95.0%,63.3%,7.57,B+ (3.62),A- (3.80),3.8,cse,11
+93,93,93,93,93,93,93,"Kesden, Gregory M",CSE 110 - Software Engineering (B),FA15,146,77,88.9%,54.2%,7.35,B+ (3.51),A- (3.80),3.8,cse,11
+94,94,94,94,94,94,94,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA15,32,14,85.7%,100.0%,7.36,B+ (3.64),B+ (3.64),3.64,cse,11
+95,95,95,95,95,95,95,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S215,40,15,85.7%,71.4%,10.19,B+ (3.50),B (3.01),3.01,cse,11
+96,96,96,96,96,96,96,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S115,42,7,85.7%,57.1%,13.36,B (3.20),B (3.12),3.12,cse,11
+97,97,97,97,97,97,97,"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP15,147,48,95.3%,86.0%,11.06,B+ (3.44),B- (2.92),2.92,cse,11
+98,98,98,98,98,98,98,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP15,191,94,85.4%,79.8%,11.03,B+ (3.38),B (3.28),3.28,cse,11
+99,99,99,99,99,99,99,"Menarini, Massimiliano",CSE 110 - Software Engineering (B),SP15,139,93,78.3%,65.2%,8.34,B+ (3.38),B (3.19),3.19,cse,11
+100,100,100,100,100,100,100,"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI15,151,101,94.9%,78.6%,10.56,B+ (3.52),B (3.13),3.13,cse,11
+101,101,101,101,101,101,101,"Jundt, Adam H",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),WI15,174,80,94.7%,90.8%,7.98,A- (3.73),B+ (3.52),3.52,cse,11
+102,102,102,102,102,102,102,"Arsanjani, Ali Paul",CSE 110 - Software Engineering (A),WI15,115,49,76.6%,25.5%,7.8,B+ (3.33),B (3.02),3.02,cse,11
+103,103,103,103,103,103,103,"Menarini, Massimiliano",CSE 110 - Software Engineering (B),WI15,109,59,54.5%,43.6%,6.35,B (3.25),B- (2.97),2.97,cse,11
+104,104,104,104,104,104,104,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A),WI15,116,59,90.4%,96.2%,6.7,B+ (3.42),B+ (3.33),3.33,cse,11
+105,105,105,105,105,105,105,"Porter, Jesse D",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA14,173,80,94.4%,73.6%,8.14,A- (3.75),B+ (3.68),3.68,cse,11
+106,106,106,106,106,106,106,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA14,185,94,98.7%,100.0%,10.34,A- (3.82),A- (3.73),3.73,cse,11
+107,107,107,107,107,107,107,"Allos, Haytham Issa",CSE 110 - Software Engineering (A),FA14,165,69,76.6%,54.7%,8.44,B (3.23),B (3.26),3.26,cse,11
+108,108,108,108,108,108,108,"Arsanjani, Ali Paul",CSE 110 - Software Engineering (C),FA14,79,44,89.7%,76.9%,7.26,B (3.18),B (3.09),3.09,cse,11
+109,109,109,109,109,109,109,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA14,46,14,92.9%,100.0%,8.79,B+ (3.46),B+ (3.60),3.6,cse,11
+110,110,110,110,110,110,110,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S214,36,9,77.8%,77.8%,9.39,B+ (3.63),B (3.01),3.01,cse,11
+111,111,111,111,111,111,111,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S114,30,5,100.0%,100.0%,9.3,B+ (3.60),B- (2.95),2.95,cse,11
+112,112,112,112,112,112,112,"Miranda, Gregory Joseph",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP14,138,57,83.0%,60.4%,12.62,B+ (3.59),B (3.08),3.08,cse,11
+113,113,113,113,113,113,113,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP14,193,55,88.5%,88.5%,10.5,B+ (3.51),B+ (3.41),3.41,cse,11
+114,114,114,114,114,114,114,"Menarini, Massimiliano",CSE 110 - Software Engineering (B),SP14,143,57,73.6%,52.8%,8.31,B+ (3.54),B+ (3.36),3.36,cse,11
+115,115,115,115,115,115,115,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI14,151,66,96.8%,96.8%,13.6,B+ (3.69),B+ (3.34),3.34,cse,11
+116,116,116,116,116,116,116,"Griswold, William G.",CSE 110 - Software Engineering (A),WI14,194,95,94.6%,84.8%,10.36,B+ (3.41),B (3.07),3.07,cse,11
+117,117,117,117,117,117,117,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA13,179,103,93.9%,92.9%,11.17,A- (3.71),B+ (3.63),3.63,cse,11
+118,118,118,118,118,118,118,"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (C),FA13,152,98,94.7%,74.7%,9.84,B+ (3.40),B- (2.76),2.76,cse,11
+119,119,119,119,119,119,119,"Menarini, Massimiliano",CSE 110 - Software Engineering (A),FA13,173,158,69.4%,47.8%,7.02,B (3.15),B (3.03),3.03,cse,11
+120,120,120,120,120,120,120,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (B),FA13,54,24,90.9%,86.4%,9.77,B (3.20),B+ (3.46),3.46,cse,11
+121,121,121,121,121,121,121,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (B),FA13,46,17,100.0%,100.0%,7.38,A- (3.81),B+ (3.61),3.61,cse,11
+122,122,122,122,122,122,122,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S213,33,6,100.0%,83.3%,14.17,B (3.17),B- (2.83),2.83,cse,11
+123,123,123,123,123,123,123,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S113,37,6,100.0%,80.0%,8.9,B+ (3.50),C+ (2.64),2.64,cse,11
+124,124,124,124,124,124,124,"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP13,100,32,93.8%,62.5%,9.98,B+ (3.56),B- (2.94),2.94,cse,11
+125,125,125,125,125,125,125,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP13,200,50,95.8%,89.6%,10.17,B+ (3.67),B (3.16),3.16,cse,11
+126,126,126,126,126,126,126,"Krueger, Ingolf",CSE 112 - Advanced Software Engineering (A),SP13,31,10,100.0%,100.0%,7.3,B+ (3.40),B- (2.83),2.83,cse,11
+127,127,127,127,127,127,127,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI13,153,71,90.0%,94.3%,13.49,B+ (3.51),B+ (3.39),3.39,cse,11
+128,128,128,128,128,128,128,"Griswold, William G.",CSE 110 - Software Engineering (B),WI13,189,70,77.3%,50.0%,10.22,B+ (3.43),B (3.18),3.18,cse,11
+129,129,129,129,129,129,129,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA12,190,120,96.4%,93.7%,9.57,A- (3.82),B+ (3.64),3.64,cse,11
+130,130,130,130,130,130,130,"Gillespie, Gary N",CSE 110 - Software Engineering (A),FA12,40,12,100.0%,90.0%,12.1,B+ (3.60),B (3.08),3.08,cse,11
+131,131,131,131,131,131,131,"Krueger, Ingolf",CSE 112 - Advanced Software Engineering (A),FA12,52,16,100.0%,100.0%,8.79,B+ (3.64),B+ (3.54),3.54,cse,11
+132,132,132,132,132,132,132,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA12,25,9,87.5%,87.5%,7.25,A- (3.88),B+ (3.56),3.56,cse,11
+133,133,133,133,133,133,133,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S112,41,10,100.0%,70.0%,10.7,A- (3.80),B (3.02),3.02,cse,11
+134,134,134,134,134,134,134,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP12,48,21,100.0%,75.0%,9.7,B (3.26),C (2.22),2.22,cse,11
+135,135,135,135,135,135,135,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP12,130,63,85.7%,66.7%,11.48,B+ (3.37),B (3.23),3.23,cse,11
+136,136,136,136,136,136,136,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI12,44,21,90.5%,71.4%,10.79,B- (2.74),C+ (2.62),2.62,cse,11
+137,137,137,137,137,137,137,"Gillespie, Gary N",CSE 110 - Software Engineering (A),WI12,120,59,81.4%,69.5%,11.81,B+ (3.38),B (3.15),3.15,cse,11
+138,138,138,138,138,138,138,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA11,155,69,91.3%,95.5%,12.64,B+ (3.52),B+ (3.44),3.44,cse,11
+139,139,139,139,139,139,139,"Howden, William E.",CSE 110 - Software Engineering (A),FA11,95,43,61.9%,50.0%,6.5,B (3.09),B- (2.81),2.81,cse,11
+140,140,140,140,140,140,140,"Cowan, Lisa G.",CSE 118 - Ubiquitous Computing (A),FA11,39,29,86.2%,89.7%,6.5,B+ (3.62),B+ (3.45),3.45,cse,11
+141,141,141,141,141,141,141,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S111,31,6,100.0%,100.0%,11.83,B+ (3.50),C+ (2.60),2.6,cse,11
+142,142,142,142,142,142,142,"Kube, Paul Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP11,41,16,100.0%,92.9%,13.64,B (3.07),B- (2.96),2.96,cse,11
+143,143,143,143,143,143,143,"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP11,125,56,80.0%,69.1%,10.5,B+ (3.43),B (3.08),3.08,cse,11
+144,144,144,144,144,144,144,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI11,46,23,100.0%,54.5%,7.98,B+ (3.38),C+ (2.52),2.52,cse,11
+145,145,145,145,145,145,145,"Krueger, Ingolf",CSE 110 - Software Engineering (A),WI11,70,38,84.2%,73.7%,7.24,B+ (3.33),B (3.18),3.18,cse,11
+146,146,146,146,146,146,146,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA10,88,46,95.6%,97.8%,12.23,B+ (3.53),B+ (3.34),3.34,cse,11
+147,147,147,147,147,147,147,"Gillespie, Gary N",CSE 110 - Software Engineering (A),FA10,33,14,78.6%,92.9%,12.36,A- (3.86),B+ (3.52),3.52,cse,11
+148,148,148,148,148,148,148,"Howden, William E.",CSE 111 - Objt. Oriented Software Design (A),FA10,41,17,88.2%,64.7%,3.91,B+ (3.41),B (3.16),3.16,cse,11
+149,149,149,149,149,149,149,"Krueger, Ingolf",CSE 112 - Advanced Software Engineering (A),FA10,18,12,100.0%,100.0%,11.0,A- (3.83),,,cse,11
+150,150,150,150,150,150,150,"Griswold, William G.",CSE 118 - Ubiquitous Computing (A),FA10,19,12,91.7%,100.0%,6.5,B+ (3.64),,,cse,11
+151,151,151,151,151,151,151,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SU10,27,11,90.9%,81.8%,10.14,B (3.00),,,cse,11
+152,152,152,152,152,152,152,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP10,50,31,93.5%,87.1%,6.77,B (3.08),C+ (2.48),2.48,cse,11
+153,153,153,153,153,153,153,"Dahlstrom, Dana B.",CSE 110 - Software Engineering (A),SP10,56,30,75.9%,51.7%,9.88,B+ (3.33),B- (2.74),2.74,cse,11
+154,154,154,154,154,154,154,"Howden, William E.",CSE 111 - Objt. Oriented Software Design (A),SP10,29,11,63.6%,81.8%,5.23,B+ (3.55),B (3.04),3.04,cse,11
+155,155,155,155,155,155,155,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI10,51,21,95.2%,80.0%,7.6,B- (2.83),C+ (2.59),2.59,cse,11
+156,156,156,156,156,156,156,"Krueger, Ingolf",CSE 110 - Software Engineering (A),WI10,107,61,86.9%,75.4%,7.9,B (3.28),B- (2.92),2.92,cse,11
+157,157,157,157,157,157,157,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA09,108,62,98.4%,95.1%,11.47,B+ (3.65),B+ (3.42),3.42,cse,11
+158,158,158,158,158,158,158,"Ord, Richard",CSE 110 - Software Engineering (A),FA09,96,70,71.0%,92.8%,6.53,B+ (3.61),B (3.28),3.28,cse,11
+159,159,159,159,159,159,159,"Howden, William E.",CSE 111 - Objt. Oriented Software Design (A),FA09,29,13,61.5%,61.5%,4.65,B+ (3.46),B- (2.85),2.85,cse,11
+160,160,160,160,160,160,160,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SU09,23,8,75.0%,75.0%,12.5,B (3.00),,,cse,11
+161,161,161,161,161,161,161,"Malani, Roshni",CSE 110 - Software Engineering (A),SU09,18,7,85.7%,57.1%,7.64,B (3.14),,,cse,11
+162,162,162,162,162,162,162,"Kube, Paul Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP09,41,11,72.7%,81.8%,8.32,B (3.18),B- (2.95),2.95,cse,11
+163,163,163,163,163,163,163,"Krueger, Ingolf",CSE 110 - Software Engineering (A),SP09,63,33,78.8%,69.7%,10.5,B+ (3.30),C+ (2.50),2.5,cse,11
+164,164,164,164,164,164,164,"Kube, Paul Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI09,47,18,88.9%,88.2%,10.72,B (3.29),B (3.00),3.0,cse,11
+165,165,165,165,165,165,165,"Dahlstrom, Dana B.",CSE 110 - Software Engineering (A),WI09,48,38,84.2%,76.3%,7.64,B+ (3.50),B- (2.88),2.88,cse,11
+166,166,166,166,166,166,166,"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA08,106,61,95.0%,96.7%,8.83,B+ (3.68),B (3.07),3.07,cse,11
+167,167,167,167,167,167,167,"Dahlstrom, Dana B.",CSE 110 - Software Engineering (A),FA08,24,23,68.2%,95.5%,5.5,B+ (3.65),B (3.27),3.27,cse,11
+168,168,168,168,168,168,168,"Krueger, Ingolf",CSE 112 - Software Engineerng (A),FA08,10,10,80.0%,100.0%,6.7,B+ (3.38),,,cse,11
+169,169,169,169,169,169,169,"Griswold, William G.",CSE 118 - Ubiquitous Computing (A),FA08,13,12,100.0%,100.0%,3.95,B+ (3.64),,,cse,11
+170,170,170,170,170,170,170,"Cicotti, Pietro",CSE 110 - Software Engineering (A),SU08,17,11,90.9%,81.8%,6.5,B+ (3.60),,,cse,11
+171,171,171,171,171,171,171,"Kube, Paul Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP08,26,13,100.0%,92.3%,7.73,B (3.22),C+ (2.61),2.61,cse,11
+172,172,172,172,172,172,172,"Dahlstrom, Dana B.",CSE 110 - Software Engineering (A),SP08,51,36,88.2%,85.3%,8.5,B+ (3.63),B- (2.85),2.85,cse,11
+173,173,173,173,173,173,173,"Howden, William E.",CSE 111 - Objt. Oriented Software Design (A),SP08,36,19,68.4%,68.4%,5.34,B+ (3.56),B (3.09),3.09,cse,11
+174,174,174,174,174,174,174,"Kube, Paul Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI08,27,14,84.6%,83.3%,7.79,B (3.15),B- (2.81),2.81,cse,11
+175,175,175,175,175,175,175,"Dahlstrom, Dana B.",CSE 110 - Software Engineering (A),WI08,46,31,65.5%,72.4%,6.44,A- (3.71),B (3.05),3.05,cse,11
+176,176,176,176,176,176,176,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA07,40,27,92.3%,92.3%,8.5,B+ (3.44),B- (2.85),2.85,cse,11
+177,177,177,177,177,177,177,"Howden, William E.",CSE 111 - Objt. Oriented Software Design (A),FA07,15,10,70.0%,70.0%,6.7,B+ (3.50),,,cse,11
+178,178,178,178,178,178,178,"Griswold, William G.",CSE 118 - Ubiquitous Computing (A),FA07,7,5,100.0%,100.0%,8.5,A (4.00),,,cse,11
+179,179,179,179,179,179,179,"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SU07,13,11,100.0%,90.9%,10.14,B- (2.90),,,cse,11

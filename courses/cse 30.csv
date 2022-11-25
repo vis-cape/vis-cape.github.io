@@ -1,99 +1,99 @@
-,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
-0,0,0,0,0,0,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S222,32,7,85.7%,100.0%,14.21,B+ (3.43),B (3.02),3.02,cse,30
-1,1,1,1,1,1,"Eldon, John",CSE 30 - Computer Organiz&Systms Progrm (A),S122,72,44,77.3%,75.0%,13.36,B+ (3.46),B- (2.92),2.92,cse,30
-2,2,2,2,2,2,"Bhaskar, Nishant",CSE 30 - Computer Organiz&Systms Progrm (B),S122,41,27,92.6%,100.0%,12.19,B+ (3.38),B- (2.89),2.89,cse,30
-3,3,3,3,3,3,"Muller, P Keith",CSE 30 - Computer Organiz&Systms Progrm (A),SP22,425,148,82.8%,84.8%,10.08,B+ (3.46),B (3.08),3.08,cse,30
-4,4,4,4,4,4,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (A),WI22,175,146,89.0%,93.1%,12.38,B (3.29),B- (2.88),2.88,cse,30
-5,5,5,5,5,5,"Obaido, George Rabeshi",CSE 30 - Computer Organiz&Systms Progrm (B),WI22,118,101,89.1%,90.1%,11.77,B (3.23),B- (2.92),2.92,cse,30
-6,6,6,6,6,6,"Muller, P Keith",CSE 30 - Computer Organiz&Systms Progrm (A),FA21,125,109,79.6%,85.2%,13.06,B (3.12),B- (2.85),2.85,cse,30
-7,7,7,7,7,7,"Muller, P Keith",CSE 30 - Computer Organiz&Systms Progrm (B),FA21,127,108,86.1%,88.0%,12.39,B (3.21),B- (2.86),2.86,cse,30
-8,8,8,8,8,8,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (C),FA21,111,106,81.9%,91.4%,12.67,B (3.20),B- (2.84),2.84,cse,30
-9,9,9,9,9,9,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S221,35,23,100.0%,100.0%,11.11,B+ (3.52),C+ (2.69),2.69,cse,30
-10,10,10,10,10,10,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S121,36,20,85.0%,90.0%,12.4,B (3.28),B- (2.90),2.9,cse,30
-11,11,11,11,11,11,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (A),SP21,226,196,87.8%,94.4%,10.79,B+ (3.50),B+ (3.52),3.52,cse,30
-12,12,12,12,12,12,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (B),SP21,221,199,85.8%,92.9%,10.86,B+ (3.51),B+ (3.52),3.52,cse,30
-13,13,13,13,13,13,"Porter, Leonard Emerson",CSE 30 - Computer Organiz&Systms Progrm (A),WI21,113,100,92.0%,96.0%,10.4,B+ (3.58),B (3.19),3.19,cse,30
-14,14,14,14,14,14,"Porter, Leonard Emerson",CSE 30 - Computer Organiz&Systms Progrm (B),WI21,104,96,86.5%,93.7%,9.66,B+ (3.42),B (3.11),3.11,cse,30
-15,15,15,15,15,15,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (C),WI21,93,78,89.7%,96.2%,10.84,B+ (3.48),B (3.11),3.11,cse,30
-16,16,16,16,16,16,"Porter, Leonard Emerson",CSE 30 - Computer Organiz&Systms Progrm (A),FA20,22,19,100.0%,100.0%,8.82,B+ (3.61),B (3.17),3.17,cse,30
-17,17,17,17,17,17,"Porter, Leonard Emerson",CSE 30 - Computer Organiz&Systms Progrm (B),FA20,17,16,100.0%,100.0%,10.0,B+ (3.60),,,cse,30
-18,18,18,18,18,18,"Porter, Leonard Emerson",CSE 30 - Computer Organiz&Systms Progrm (C),FA20,269,250,96.4%,95.6%,9.16,B+ (3.63),B (3.28),3.28,cse,30
-19,19,19,19,19,19,"Muller, P Keith",CSE 30 - Computer Organiz&Systms Progrm (D),FA20,116,103,95.1%,92.2%,9.56,B+ (3.64),B+ (3.52),3.52,cse,30
-20,20,20,20,20,20,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S220,51,28,100.0%,100.0%,9.93,A- (3.89),B (3.16),3.16,cse,30
-21,21,21,21,21,21,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (B),S220,52,35,97.1%,94.1%,11.62,A- (3.79),B+ (3.40),3.4,cse,30
-22,22,22,22,22,22,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S120,41,22,90.9%,95.5%,12.41,A- (3.70),B (3.17),3.17,cse,30
-23,23,23,23,23,23,"Muller, P Keith",CSE 30 - Computer Organiz&Systms Progrm (B),S120,37,19,100.0%,94.7%,11.03,A- (3.83),B+ (3.58),3.58,cse,30
-24,24,24,24,24,24,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (A),SP20,259,178,97.2%,99.4%,7.91,A- (3.75),A- (3.87),3.87,cse,30
-25,25,25,25,25,25,"Muller, P Keith",CSE 30 - Computer Organiz&Systms Progrm (B),SP20,93,56,96.4%,96.4%,7.74,A- (3.76),A- (3.84),3.84,cse,30
-26,26,26,26,26,26,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (A),WI20,236,141,93.5%,94.2%,9.36,B+ (3.41),B (3.05),3.05,cse,30
-27,27,27,27,27,27,"Porter, Leonard Emerson",CSE 30 - Computer Organiz&Systms Progrm (A),FA19,176,158,94.2%,96.2%,8.94,B (3.28),B- (2.98),2.98,cse,30
-28,28,28,28,28,28,"Porter, Leonard Emerson",CSE 30 - Computer Organiz&Systms Progrm (B),FA19,175,157,95.5%,97.4%,9.84,B+ (3.32),B (3.10),3.1,cse,30
-29,29,29,29,29,29,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (C),FA19,90,67,97.0%,96.9%,9.44,B (3.21),B- (2.94),2.94,cse,30
-30,30,30,30,30,30,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S219,30,16,86.7%,93.3%,18.63,B (3.21),C+ (2.47),2.47,cse,30
-31,31,31,31,31,31,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP19,289,112,86.5%,96.1%,14.13,B (3.17),B- (2.90),2.9,cse,30
-32,32,32,32,32,32,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),SP19,204,85,86.4%,92.5%,13.88,B (3.16),B- (2.90),2.9,cse,30
-33,33,33,33,33,33,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI19,123,40,77.8%,91.7%,15.76,B (3.15),C+ (2.57),2.57,cse,30
-34,34,34,34,34,34,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),WI19,128,36,88.2%,91.2%,14.44,B (3.16),C+ (2.57),2.57,cse,30
-35,35,35,35,35,35,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),FA18,156,103,81.0%,84.8%,14.12,B (3.08),C+ (2.65),2.65,cse,30
-36,36,36,36,36,36,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (B),FA18,156,107,79.2%,87.7%,15.01,B- (2.74),C+ (2.65),2.65,cse,30
-37,37,37,37,37,37,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S218,31,10,90.0%,100.0%,16.1,B+ (3.50),B (3.03),3.03,cse,30
-38,38,38,38,38,38,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP18,192,68,81.3%,78.1%,14.56,B+ (3.34),B- (2.83),2.83,cse,30
-39,39,39,39,39,39,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),SP18,252,74,76.1%,79.7%,13.94,B (3.29),B- (2.83),2.83,cse,30
-40,40,40,40,40,40,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI18,126,64,80.0%,83.1%,14.04,B (3.00),C+ (2.62),2.62,cse,30
-41,41,41,41,41,41,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),WI18,121,60,85.5%,83.3%,15.19,B (3.19),C+ (2.62),2.62,cse,30
-42,42,42,42,42,42,"Politz, Joseph Gibbs",CSE 30 - Computer Organiz&Systms Progrm (A),FA17,172,155,95.5%,96.7%,11.57,B+ (3.46),B (3.22),3.22,cse,30
-43,43,43,43,43,43,"Politz, Joseph Gibbs",CSE 30 - Computer Organiz&Systms Progrm (B),FA17,173,139,97.1%,97.8%,11.18,B+ (3.44),B (3.22),3.22,cse,30
-44,44,44,44,44,44,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S217,62,37,97.3%,100.0%,12.66,B+ (3.66),,,cse,30
-45,45,45,45,45,45,"Eldon, John",CSE 30 - Computer Organiz&Systms Progrm (A),S117,81,21,73.7%,78.9%,10.8,B+ (3.47),B (3.26),3.26,cse,30
-46,46,46,46,46,46,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),SP17,106,31,76.7%,90.0%,13.93,B+ (3.32),C+ (2.66),2.66,cse,30
-47,47,47,47,47,47,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),SP17,191,57,90.6%,98.1%,13.88,B+ (3.55),B- (2.88),2.88,cse,30
-48,48,48,48,48,48,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (C),SP17,103,33,96.9%,96.9%,11.31,B+ (3.68),B- (2.88),2.88,cse,30
-49,49,49,49,49,49,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI17,266,97,90.8%,83.9%,13.2,B (3.23),B- (2.81),2.81,cse,30
-50,50,50,50,50,50,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),WI17,108,38,91.7%,91.7%,12.74,B (3.22),B- (2.81),2.81,cse,30
-51,51,51,51,51,51,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (B),FA16,133,52,94.0%,94.0%,10.42,B (3.24),B (3.16),3.16,cse,30
-52,52,52,52,52,52,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (C),FA16,183,85,95.1%,85.2%,10.33,B (3.28),B (3.16),3.16,cse,30
-53,53,53,53,53,53,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S116,70,58,100.0%,93.1%,11.43,B+ (3.69),B+ (3.40),3.4,cse,30
-54,54,54,54,54,54,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP16,98,47,95.5%,86.4%,11.86,B+ (3.58),B- (2.95),2.95,cse,30
-55,55,55,55,55,55,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (C),SP16,359,152,88.3%,91.0%,12.9,B+ (3.48),B (3.14),3.14,cse,30
-56,56,56,56,56,56,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI16,92,42,92.1%,89.5%,14.61,B (3.22),B- (2.93),2.93,cse,30
-57,57,57,57,57,57,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (C),WI16,166,60,94.7%,93.0%,13.86,B+ (3.40),B- (2.93),2.93,cse,30
-58,58,58,58,58,58,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (A),FA15,150,110,96.2%,94.3%,10.16,B+ (3.37),B- (2.99),2.99,cse,30
-59,59,59,59,59,59,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (B),FA15,178,118,91.5%,91.5%,10.74,B (3.26),B- (2.99),2.99,cse,30
-60,60,60,60,60,60,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (C),FA15,130,91,94.5%,95.6%,9.33,B (3.30),B- (2.99),2.99,cse,30
-61,61,61,61,61,61,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (A),S115,50,36,97.2%,97.2%,9.67,B+ (3.33),B- (2.99),2.99,cse,30
-62,62,62,62,62,62,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP15,161,77,100.0%,100.0%,11.04,B+ (3.50),B (3.09),3.09,cse,30
-63,63,63,63,63,63,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),SP15,160,72,92.6%,95.6%,10.38,B+ (3.53),B (3.09),3.09,cse,30
-64,64,64,64,64,64,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI15,173,64,96.6%,98.3%,11.64,B+ (3.44),B (3.17),3.17,cse,30
-65,65,65,65,65,65,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),WI15,125,53,93.6%,93.6%,11.35,B+ (3.62),B (3.17),3.17,cse,30
-66,66,66,66,66,66,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA14,112,44,89.7%,94.9%,12.86,B+ (3.32),B (3.08),3.08,cse,30
-67,67,67,67,67,67,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),FA14,135,48,85.0%,82.5%,13.55,B (3.30),B (3.08),3.08,cse,30
-68,68,68,68,68,68,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (B),S214,49,22,95.5%,100.0%,10.4,B (3.24),B- (2.99),2.99,cse,30
-69,69,69,69,69,69,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP14,169,63,94.8%,93.1%,12.54,B+ (3.41),B (3.26),3.26,cse,30
-70,70,70,70,70,70,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),SP14,137,47,95.6%,97.8%,11.34,B+ (3.61),B (3.26),3.26,cse,30
-71,71,71,71,71,71,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI14,174,59,96.5%,98.2%,12.85,B (3.25),B- (2.90),2.9,cse,30
-72,72,72,72,72,72,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (C),WI14,68,59,94.7%,89.5%,8.99,B (3.24),B (3.13),3.13,cse,30
-73,73,73,73,73,73,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA13,124,47,93.5%,95.7%,13.03,B+ (3.33),B- (2.91),2.91,cse,30
-74,74,74,74,74,74,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),FA13,183,54,83.0%,94.3%,11.41,B+ (3.32),B- (2.91),2.91,cse,30
-75,75,75,75,75,75,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (B),S213,31,7,85.7%,71.4%,11.64,A- (3.71),B (3.26),3.26,cse,30
-76,76,76,76,76,76,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP13,194,40,89.7%,94.9%,11.97,B+ (3.43),C+ (2.70),2.7,cse,30
-77,77,77,77,77,77,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI13,179,62,95.0%,98.3%,12.47,B (3.29),B- (2.92),2.92,cse,30
-78,78,78,78,78,78,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA12,169,99,93.8%,97.9%,12.25,B+ (3.59),B (3.03),3.03,cse,30
-79,79,79,79,79,79,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP12,121,55,92.5%,92.3%,14.27,B (3.06),C+ (2.69),2.69,cse,30
-80,80,80,80,80,80,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI12,121,45,91.1%,95.5%,12.77,B (3.18),C+ (2.67),2.67,cse,30
-81,81,81,81,81,81,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA11,138,66,93.9%,95.5%,12.17,B+ (3.42),B (3.11),3.11,cse,30
-82,82,82,82,82,82,"Irturk, Ali Umut",CSE 30 - Computer Organiz&Systms Progrm (A),S211,27,8,87.5%,62.5%,14.0,B+ (3.43),B+ (3.55),3.55,cse,30
-83,83,83,83,83,83,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP11,96,37,94.6%,97.3%,11.26,B+ (3.35),B- (2.83),2.83,cse,30
-84,84,84,84,84,84,"Kastner, Ryan Charles",CSE 30 - Computer Organiz&Systms Progrm (A),WI11,136,65,89.2%,84.6%,10.93,B (3.21),B- (2.87),2.87,cse,30
-85,85,85,85,85,85,"Kastner, Ryan Charles",CSE 30 - Computer Organiz&Systms Progrm (A),FA10,112,58,91.4%,91.2%,10.02,B (3.21),B- (2.86),2.86,cse,30
-86,86,86,86,86,86,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP10,91,51,92.2%,94.1%,12.74,B+ (3.37),B (3.06),3.06,cse,30
-87,87,87,87,87,87,"Gupta, Rajesh K.",CSE 30 - Computer Organiz&Systms Progrm (A),WI10,80,44,75.0%,45.5%,9.68,B (3.12),B- (2.99),2.99,cse,30
-88,88,88,88,88,88,"Kastner, Ryan Charles",CSE 30 - Computer Organiz&Systms Progrm (A),FA09,95,68,95.5%,94.0%,7.91,B+ (3.39),B- (2.84),2.84,cse,30
-89,89,89,89,89,89,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP09,43,34,93.9%,93.9%,12.56,B (3.26),B- (2.76),2.76,cse,30
-90,90,90,90,90,90,"Gupta, Rajesh K.",CSE 30 - Computer Organiz&Systms Progrm (B),SP09,20,15,93.3%,80.0%,4.77,B+ (3.38),B (3.16),3.16,cse,30
-91,91,91,91,91,91,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI09,62,42,100.0%,100.0%,10.64,B+ (3.56),B- (2.91),2.91,cse,30
-92,92,92,92,92,92,"Kastner, Ryan Charles",CSE 30 - Computer Organiz&Systms Progrm (B),WI09,6,6,100.0%,100.0%,5.83,B+ (3.33),,,cse,30
-93,93,93,93,93,93,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA08,72,62,98.4%,100.0%,11.32,B+ (3.53),B (3.03),3.03,cse,30
-94,94,94,94,94,94,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP08,35,31,100.0%,100.0%,12.76,B+ (3.38),B- (2.85),2.85,cse,30
-95,95,95,95,95,95,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI08,46,30,96.7%,100.0%,10.17,B (3.10),B- (2.84),2.84,cse,30
-96,96,96,96,96,96,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA07,71,72,98.6%,100.0%,11.58,B+ (3.44),B (3.05),3.05,cse,30
-97,97,97,97,97,97,"Kleint, John Timothy",CSE 30 - Computer Organiz&Systms Progrm (A),SU07,4,5,100.0%,100.0%,12.9,B+ (3.40),,,cse,30
+,Unnamed: 0.5,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
+0,0,0,0,0,0,0,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S222,32,7,85.7%,100.0%,14.21,B+ (3.43),B (3.02),3.02,cse,30
+1,1,1,1,1,1,1,"Eldon, John",CSE 30 - Computer Organiz&Systms Progrm (A),S122,72,44,77.3%,75.0%,13.36,B+ (3.46),B- (2.92),2.92,cse,30
+2,2,2,2,2,2,2,"Bhaskar, Nishant",CSE 30 - Computer Organiz&Systms Progrm (B),S122,41,27,92.6%,100.0%,12.19,B+ (3.38),B- (2.89),2.89,cse,30
+3,3,3,3,3,3,3,"Muller, P Keith",CSE 30 - Computer Organiz&Systms Progrm (A),SP22,425,148,82.8%,84.8%,10.08,B+ (3.46),B (3.08),3.08,cse,30
+4,4,4,4,4,4,4,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (A),WI22,175,146,89.0%,93.1%,12.38,B (3.29),B- (2.88),2.88,cse,30
+5,5,5,5,5,5,5,"Obaido, George Rabeshi",CSE 30 - Computer Organiz&Systms Progrm (B),WI22,118,101,89.1%,90.1%,11.77,B (3.23),B- (2.92),2.92,cse,30
+6,6,6,6,6,6,6,"Muller, P Keith",CSE 30 - Computer Organiz&Systms Progrm (A),FA21,125,109,79.6%,85.2%,13.06,B (3.12),B- (2.85),2.85,cse,30
+7,7,7,7,7,7,7,"Muller, P Keith",CSE 30 - Computer Organiz&Systms Progrm (B),FA21,127,108,86.1%,88.0%,12.39,B (3.21),B- (2.86),2.86,cse,30
+8,8,8,8,8,8,8,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (C),FA21,111,106,81.9%,91.4%,12.67,B (3.20),B- (2.84),2.84,cse,30
+9,9,9,9,9,9,9,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S221,35,23,100.0%,100.0%,11.11,B+ (3.52),C+ (2.69),2.69,cse,30
+10,10,10,10,10,10,10,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S121,36,20,85.0%,90.0%,12.4,B (3.28),B- (2.90),2.9,cse,30
+11,11,11,11,11,11,11,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (A),SP21,226,196,87.8%,94.4%,10.79,B+ (3.50),B+ (3.52),3.52,cse,30
+12,12,12,12,12,12,12,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (B),SP21,221,199,85.8%,92.9%,10.86,B+ (3.51),B+ (3.52),3.52,cse,30
+13,13,13,13,13,13,13,"Porter, Leonard Emerson",CSE 30 - Computer Organiz&Systms Progrm (A),WI21,113,100,92.0%,96.0%,10.4,B+ (3.58),B (3.19),3.19,cse,30
+14,14,14,14,14,14,14,"Porter, Leonard Emerson",CSE 30 - Computer Organiz&Systms Progrm (B),WI21,104,96,86.5%,93.7%,9.66,B+ (3.42),B (3.11),3.11,cse,30
+15,15,15,15,15,15,15,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (C),WI21,93,78,89.7%,96.2%,10.84,B+ (3.48),B (3.11),3.11,cse,30
+16,16,16,16,16,16,16,"Porter, Leonard Emerson",CSE 30 - Computer Organiz&Systms Progrm (A),FA20,22,19,100.0%,100.0%,8.82,B+ (3.61),B (3.17),3.17,cse,30
+17,17,17,17,17,17,17,"Porter, Leonard Emerson",CSE 30 - Computer Organiz&Systms Progrm (B),FA20,17,16,100.0%,100.0%,10.0,B+ (3.60),,,cse,30
+18,18,18,18,18,18,18,"Porter, Leonard Emerson",CSE 30 - Computer Organiz&Systms Progrm (C),FA20,269,250,96.4%,95.6%,9.16,B+ (3.63),B (3.28),3.28,cse,30
+19,19,19,19,19,19,19,"Muller, P Keith",CSE 30 - Computer Organiz&Systms Progrm (D),FA20,116,103,95.1%,92.2%,9.56,B+ (3.64),B+ (3.52),3.52,cse,30
+20,20,20,20,20,20,20,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S220,51,28,100.0%,100.0%,9.93,A- (3.89),B (3.16),3.16,cse,30
+21,21,21,21,21,21,21,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (B),S220,52,35,97.1%,94.1%,11.62,A- (3.79),B+ (3.40),3.4,cse,30
+22,22,22,22,22,22,22,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S120,41,22,90.9%,95.5%,12.41,A- (3.70),B (3.17),3.17,cse,30
+23,23,23,23,23,23,23,"Muller, P Keith",CSE 30 - Computer Organiz&Systms Progrm (B),S120,37,19,100.0%,94.7%,11.03,A- (3.83),B+ (3.58),3.58,cse,30
+24,24,24,24,24,24,24,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (A),SP20,259,178,97.2%,99.4%,7.91,A- (3.75),A- (3.87),3.87,cse,30
+25,25,25,25,25,25,25,"Muller, P Keith",CSE 30 - Computer Organiz&Systms Progrm (B),SP20,93,56,96.4%,96.4%,7.74,A- (3.76),A- (3.84),3.84,cse,30
+26,26,26,26,26,26,26,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (A),WI20,236,141,93.5%,94.2%,9.36,B+ (3.41),B (3.05),3.05,cse,30
+27,27,27,27,27,27,27,"Porter, Leonard Emerson",CSE 30 - Computer Organiz&Systms Progrm (A),FA19,176,158,94.2%,96.2%,8.94,B (3.28),B- (2.98),2.98,cse,30
+28,28,28,28,28,28,28,"Porter, Leonard Emerson",CSE 30 - Computer Organiz&Systms Progrm (B),FA19,175,157,95.5%,97.4%,9.84,B+ (3.32),B (3.10),3.1,cse,30
+29,29,29,29,29,29,29,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (C),FA19,90,67,97.0%,96.9%,9.44,B (3.21),B- (2.94),2.94,cse,30
+30,30,30,30,30,30,30,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S219,30,16,86.7%,93.3%,18.63,B (3.21),C+ (2.47),2.47,cse,30
+31,31,31,31,31,31,31,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP19,289,112,86.5%,96.1%,14.13,B (3.17),B- (2.90),2.9,cse,30
+32,32,32,32,32,32,32,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),SP19,204,85,86.4%,92.5%,13.88,B (3.16),B- (2.90),2.9,cse,30
+33,33,33,33,33,33,33,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI19,123,40,77.8%,91.7%,15.76,B (3.15),C+ (2.57),2.57,cse,30
+34,34,34,34,34,34,34,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),WI19,128,36,88.2%,91.2%,14.44,B (3.16),C+ (2.57),2.57,cse,30
+35,35,35,35,35,35,35,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),FA18,156,103,81.0%,84.8%,14.12,B (3.08),C+ (2.65),2.65,cse,30
+36,36,36,36,36,36,36,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (B),FA18,156,107,79.2%,87.7%,15.01,B- (2.74),C+ (2.65),2.65,cse,30
+37,37,37,37,37,37,37,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S218,31,10,90.0%,100.0%,16.1,B+ (3.50),B (3.03),3.03,cse,30
+38,38,38,38,38,38,38,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP18,192,68,81.3%,78.1%,14.56,B+ (3.34),B- (2.83),2.83,cse,30
+39,39,39,39,39,39,39,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),SP18,252,74,76.1%,79.7%,13.94,B (3.29),B- (2.83),2.83,cse,30
+40,40,40,40,40,40,40,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI18,126,64,80.0%,83.1%,14.04,B (3.00),C+ (2.62),2.62,cse,30
+41,41,41,41,41,41,41,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),WI18,121,60,85.5%,83.3%,15.19,B (3.19),C+ (2.62),2.62,cse,30
+42,42,42,42,42,42,42,"Politz, Joseph Gibbs",CSE 30 - Computer Organiz&Systms Progrm (A),FA17,172,155,95.5%,96.7%,11.57,B+ (3.46),B (3.22),3.22,cse,30
+43,43,43,43,43,43,43,"Politz, Joseph Gibbs",CSE 30 - Computer Organiz&Systms Progrm (B),FA17,173,139,97.1%,97.8%,11.18,B+ (3.44),B (3.22),3.22,cse,30
+44,44,44,44,44,44,44,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S217,62,37,97.3%,100.0%,12.66,B+ (3.66),,,cse,30
+45,45,45,45,45,45,45,"Eldon, John",CSE 30 - Computer Organiz&Systms Progrm (A),S117,81,21,73.7%,78.9%,10.8,B+ (3.47),B (3.26),3.26,cse,30
+46,46,46,46,46,46,46,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),SP17,106,31,76.7%,90.0%,13.93,B+ (3.32),C+ (2.66),2.66,cse,30
+47,47,47,47,47,47,47,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),SP17,191,57,90.6%,98.1%,13.88,B+ (3.55),B- (2.88),2.88,cse,30
+48,48,48,48,48,48,48,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (C),SP17,103,33,96.9%,96.9%,11.31,B+ (3.68),B- (2.88),2.88,cse,30
+49,49,49,49,49,49,49,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI17,266,97,90.8%,83.9%,13.2,B (3.23),B- (2.81),2.81,cse,30
+50,50,50,50,50,50,50,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),WI17,108,38,91.7%,91.7%,12.74,B (3.22),B- (2.81),2.81,cse,30
+51,51,51,51,51,51,51,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (B),FA16,133,52,94.0%,94.0%,10.42,B (3.24),B (3.16),3.16,cse,30
+52,52,52,52,52,52,52,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (C),FA16,183,85,95.1%,85.2%,10.33,B (3.28),B (3.16),3.16,cse,30
+53,53,53,53,53,53,53,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S116,70,58,100.0%,93.1%,11.43,B+ (3.69),B+ (3.40),3.4,cse,30
+54,54,54,54,54,54,54,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP16,98,47,95.5%,86.4%,11.86,B+ (3.58),B- (2.95),2.95,cse,30
+55,55,55,55,55,55,55,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (C),SP16,359,152,88.3%,91.0%,12.9,B+ (3.48),B (3.14),3.14,cse,30
+56,56,56,56,56,56,56,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI16,92,42,92.1%,89.5%,14.61,B (3.22),B- (2.93),2.93,cse,30
+57,57,57,57,57,57,57,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (C),WI16,166,60,94.7%,93.0%,13.86,B+ (3.40),B- (2.93),2.93,cse,30
+58,58,58,58,58,58,58,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (A),FA15,150,110,96.2%,94.3%,10.16,B+ (3.37),B- (2.99),2.99,cse,30
+59,59,59,59,59,59,59,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (B),FA15,178,118,91.5%,91.5%,10.74,B (3.26),B- (2.99),2.99,cse,30
+60,60,60,60,60,60,60,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (C),FA15,130,91,94.5%,95.6%,9.33,B (3.30),B- (2.99),2.99,cse,30
+61,61,61,61,61,61,61,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (A),S115,50,36,97.2%,97.2%,9.67,B+ (3.33),B- (2.99),2.99,cse,30
+62,62,62,62,62,62,62,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP15,161,77,100.0%,100.0%,11.04,B+ (3.50),B (3.09),3.09,cse,30
+63,63,63,63,63,63,63,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),SP15,160,72,92.6%,95.6%,10.38,B+ (3.53),B (3.09),3.09,cse,30
+64,64,64,64,64,64,64,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI15,173,64,96.6%,98.3%,11.64,B+ (3.44),B (3.17),3.17,cse,30
+65,65,65,65,65,65,65,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),WI15,125,53,93.6%,93.6%,11.35,B+ (3.62),B (3.17),3.17,cse,30
+66,66,66,66,66,66,66,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA14,112,44,89.7%,94.9%,12.86,B+ (3.32),B (3.08),3.08,cse,30
+67,67,67,67,67,67,67,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),FA14,135,48,85.0%,82.5%,13.55,B (3.30),B (3.08),3.08,cse,30
+68,68,68,68,68,68,68,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (B),S214,49,22,95.5%,100.0%,10.4,B (3.24),B- (2.99),2.99,cse,30
+69,69,69,69,69,69,69,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP14,169,63,94.8%,93.1%,12.54,B+ (3.41),B (3.26),3.26,cse,30
+70,70,70,70,70,70,70,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),SP14,137,47,95.6%,97.8%,11.34,B+ (3.61),B (3.26),3.26,cse,30
+71,71,71,71,71,71,71,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI14,174,59,96.5%,98.2%,12.85,B (3.25),B- (2.90),2.9,cse,30
+72,72,72,72,72,72,72,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (C),WI14,68,59,94.7%,89.5%,8.99,B (3.24),B (3.13),3.13,cse,30
+73,73,73,73,73,73,73,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA13,124,47,93.5%,95.7%,13.03,B+ (3.33),B- (2.91),2.91,cse,30
+74,74,74,74,74,74,74,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),FA13,183,54,83.0%,94.3%,11.41,B+ (3.32),B- (2.91),2.91,cse,30
+75,75,75,75,75,75,75,"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (B),S213,31,7,85.7%,71.4%,11.64,A- (3.71),B (3.26),3.26,cse,30
+76,76,76,76,76,76,76,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP13,194,40,89.7%,94.9%,11.97,B+ (3.43),C+ (2.70),2.7,cse,30
+77,77,77,77,77,77,77,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI13,179,62,95.0%,98.3%,12.47,B (3.29),B- (2.92),2.92,cse,30
+78,78,78,78,78,78,78,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA12,169,99,93.8%,97.9%,12.25,B+ (3.59),B (3.03),3.03,cse,30
+79,79,79,79,79,79,79,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP12,121,55,92.5%,92.3%,14.27,B (3.06),C+ (2.69),2.69,cse,30
+80,80,80,80,80,80,80,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI12,121,45,91.1%,95.5%,12.77,B (3.18),C+ (2.67),2.67,cse,30
+81,81,81,81,81,81,81,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA11,138,66,93.9%,95.5%,12.17,B+ (3.42),B (3.11),3.11,cse,30
+82,82,82,82,82,82,82,"Irturk, Ali Umut",CSE 30 - Computer Organiz&Systms Progrm (A),S211,27,8,87.5%,62.5%,14.0,B+ (3.43),B+ (3.55),3.55,cse,30
+83,83,83,83,83,83,83,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP11,96,37,94.6%,97.3%,11.26,B+ (3.35),B- (2.83),2.83,cse,30
+84,84,84,84,84,84,84,"Kastner, Ryan Charles",CSE 30 - Computer Organiz&Systms Progrm (A),WI11,136,65,89.2%,84.6%,10.93,B (3.21),B- (2.87),2.87,cse,30
+85,85,85,85,85,85,85,"Kastner, Ryan Charles",CSE 30 - Computer Organiz&Systms Progrm (A),FA10,112,58,91.4%,91.2%,10.02,B (3.21),B- (2.86),2.86,cse,30
+86,86,86,86,86,86,86,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP10,91,51,92.2%,94.1%,12.74,B+ (3.37),B (3.06),3.06,cse,30
+87,87,87,87,87,87,87,"Gupta, Rajesh K.",CSE 30 - Computer Organiz&Systms Progrm (A),WI10,80,44,75.0%,45.5%,9.68,B (3.12),B- (2.99),2.99,cse,30
+88,88,88,88,88,88,88,"Kastner, Ryan Charles",CSE 30 - Computer Organiz&Systms Progrm (A),FA09,95,68,95.5%,94.0%,7.91,B+ (3.39),B- (2.84),2.84,cse,30
+89,89,89,89,89,89,89,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP09,43,34,93.9%,93.9%,12.56,B (3.26),B- (2.76),2.76,cse,30
+90,90,90,90,90,90,90,"Gupta, Rajesh K.",CSE 30 - Computer Organiz&Systms Progrm (B),SP09,20,15,93.3%,80.0%,4.77,B+ (3.38),B (3.16),3.16,cse,30
+91,91,91,91,91,91,91,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI09,62,42,100.0%,100.0%,10.64,B+ (3.56),B- (2.91),2.91,cse,30
+92,92,92,92,92,92,92,"Kastner, Ryan Charles",CSE 30 - Computer Organiz&Systms Progrm (B),WI09,6,6,100.0%,100.0%,5.83,B+ (3.33),,,cse,30
+93,93,93,93,93,93,93,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA08,72,62,98.4%,100.0%,11.32,B+ (3.53),B (3.03),3.03,cse,30
+94,94,94,94,94,94,94,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP08,35,31,100.0%,100.0%,12.76,B+ (3.38),B- (2.85),2.85,cse,30
+95,95,95,95,95,95,95,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI08,46,30,96.7%,100.0%,10.17,B (3.10),B- (2.84),2.84,cse,30
+96,96,96,96,96,96,96,"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA07,71,72,98.6%,100.0%,11.58,B+ (3.44),B (3.05),3.05,cse,30
+97,97,97,97,97,97,97,"Kleint, John Timothy",CSE 30 - Computer Organiz&Systms Progrm (A),SU07,4,5,100.0%,100.0%,12.9,B+ (3.40),,,cse,30

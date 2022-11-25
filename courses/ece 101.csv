@@ -1,49 +1,49 @@
-,Unnamed: 0.5,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
-0,0,0,0,0,0,0,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),S222,49,38,89.5%,94.7%,9.61,B (3.00),C+ (2.62),2.62,ece,101
-1,1,1,1,1,1,1,"Bharadia, Dinesh",ECE 101 - Linear Systems Fundamentals (A),SP22,85,57,91.2%,86.0%,7.45,B (3.14),B- (2.75),2.75,ece,101
-2,2,2,2,2,2,2,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),WI22,128,87,89.7%,98.8%,7.97,B (3.27),B (3.02),3.02,ece,101
-3,3,3,3,3,3,3,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (B),FA21,103,91,85.6%,96.7%,9.78,B (3.09),B- (2.99),2.99,ece,101
-4,4,4,4,4,4,4,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),S221,54,44,97.7%,100.0%,9.14,B+ (3.32),B (3.03),3.03,ece,101
-5,5,5,5,5,5,5,"Bharadia, Dinesh",ECE 101 - Linear Systems Fundamentals (A),SP21,114,96,78.1%,62.5%,8.86,B (3.15),B (3.10),3.1,ece,101
-6,6,6,6,6,6,6,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),WI21,120,103,89.9%,100.0%,7.48,B (3.24),B (3.03),3.03,ece,101
-7,7,7,7,7,7,7,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA20,109,39,100.0%,97.4%,9.42,B (3.22),B+ (3.35),3.35,ece,101
-8,8,8,8,8,8,8,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),S220,60,44,97.7%,100.0%,10.82,B+ (3.49),B (3.03),3.03,ece,101
-9,9,9,9,9,9,9,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),SP20,186,129,96.9%,99.2%,7.45,B+ (3.60),A- (3.73),3.73,ece,101
-10,10,10,10,10,10,10,"Touri, Behrouz",ECE 101 - Linear Systems Fundamentals (A),WI20,108,43,70.7%,76.9%,8.16,B (3.10),B- (2.74),2.74,ece,101
-11,11,11,11,11,11,11,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA19,154,113,83.9%,91.1%,8.19,B- (2.90),B- (2.96),2.96,ece,101
-12,12,12,12,12,12,12,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),SP19,113,99,83.3%,84.2%,6.99,B (3.14),B- (2.87),2.87,ece,101
-13,13,13,13,13,13,13,"Touri, Behrouz",ECE 101 - Linear Systems Fundamentals (A),WI19,57,38,86.1%,94.4%,7.09,B (3.25),B+ (3.34),3.34,ece,101
-14,14,14,14,14,14,14,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA18,127,84,89.0%,95.1%,7.89,B (3.17),B (3.02),3.02,ece,101
-15,15,15,15,15,15,15,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),S218,50,42,82.9%,90.2%,9.26,B (3.12),C+ (2.63),2.63,ece,101
-16,16,16,16,16,16,16,"Touri, Behrouz",ECE 101 - Linear Systems Fundamentals (A),SP18,146,65,80.3%,86.9%,7.7,B (3.18),B- (2.97),2.97,ece,101
-17,17,17,17,17,17,17,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),WI18,87,72,94.4%,93.0%,6.94,B (3.24),C+ (2.64),2.64,ece,101
-18,18,18,18,18,18,18,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA17,178,119,85.5%,99.1%,8.19,B- (2.95),C+ (2.48),2.48,ece,101
-19,19,19,19,19,19,19,"Connelly, Joseph Michael",ECE 101 - Linear Systems Fundamentals (A),S117,95,76,82.9%,93.3%,11.37,B- (2.85),C+ (2.51),2.51,ece,101
-20,20,20,20,20,20,20,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),WI17,105,38,77.4%,87.1%,7.81,B- (2.94),C+ (2.38),2.38,ece,101
-21,21,21,21,21,21,21,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA16,207,104,83.2%,94.7%,7.86,B- (2.92),C+ (2.44),2.44,ece,101
-22,22,22,22,22,22,22,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),S216,72,54,98.1%,98.1%,10.58,B (3.20),B- (2.77),2.77,ece,101
-23,23,23,23,23,23,23,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),S116,52,6,80.0%,80.0%,9.3,B- (2.75),C (2.24),2.24,ece,101
-24,24,24,24,24,24,24,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),WI16,155,69,89.1%,95.3%,8.18,B (3.10),C+ (2.49),2.49,ece,101
-25,25,25,25,25,25,25,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),FA15,211,75,75.0%,69.1%,8.87,B- (2.84),C+ (2.35),2.35,ece,101
-26,26,26,26,26,26,26,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),S215,77,12,90.9%,100.0%,9.23,A- (3.70),C+ (2.67),2.67,ece,101
-27,27,27,27,27,27,27,"Alcantara, Eldridge Escubido",ECE 101 - Linear Systems Fundamentals (A),S115,77,75,97.3%,96.0%,11.17,B+ (3.44),B (3.19),3.19,ece,101
-28,28,28,28,28,28,28,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),WI15,138,53,84.6%,82.7%,8.54,B- (2.92),B- (2.71),2.71,ece,101
-29,29,29,29,29,29,29,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA14,207,76,91.5%,97.2%,7.88,B (3.13),C+ (2.63),2.63,ece,101
-30,30,30,30,30,30,30,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),S114,82,14,90.9%,81.8%,14.14,B (3.10),C+ (2.61),2.61,ece,101
-31,31,31,31,31,31,31,"Vardy, Alexander",ECE 101 - Linear Systems Fundamentals (A),WI14,104,37,75.0%,81.3%,8.5,B (3.20),C+ (2.62),2.62,ece,101
-32,32,32,32,32,32,32,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA13,158,89,94.2%,96.5%,8.59,B+ (3.30),C+ (2.52),2.52,ece,101
-33,33,33,33,33,33,33,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),S113,86,22,86.4%,90.9%,9.95,B (3.09),C+ (2.54),2.54,ece,101
-34,34,34,34,34,34,34,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),WI13,76,30,82.8%,89.7%,9.31,B- (2.88),C+ (2.55),2.55,ece,101
-35,35,35,35,35,35,35,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),FA12,95,20,94.1%,100.0%,9.44,B+ (3.47),C+ (2.39),2.39,ece,101
-36,36,36,36,36,36,36,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),S112,37,10,90.0%,100.0%,12.9,B+ (3.30),C+ (2.55),2.55,ece,101
-37,37,37,37,37,37,37,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),WI12,68,38,86.8%,94.7%,9.26,B (3.28),B- (2.72),2.72,ece,101
-38,38,38,38,38,38,38,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),FA11,89,37,83.8%,86.5%,8.83,B (3.17),C+ (2.62),2.62,ece,101
-39,39,39,39,39,39,39,"Chan, Ho",ECE 101 - Linear Systems Fundamentals (A),S211,50,18,94.4%,88.9%,9.39,B+ (3.35),B (3.09),3.09,ece,101
-40,40,40,40,40,40,40,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),WI11,70,25,84.0%,92.0%,7.94,B- (2.96),C+ (2.59),2.59,ece,101
-41,41,41,41,41,41,41,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA10,108,42,92.9%,92.9%,7.07,B (3.25),C+ (2.53),2.53,ece,101
-42,42,42,42,42,42,42,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),WI10,53,21,85.7%,75.0%,6.79,B+ (3.40),C+ (2.39),2.39,ece,101
-43,43,43,43,43,43,43,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA09,56,28,78.6%,100.0%,7.93,B (3.15),B- (2.79),2.79,ece,101
-44,44,44,44,44,44,44,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),WI09,52,18,88.9%,77.8%,6.06,B+ (3.44),C+ (2.45),2.45,ece,101
-45,45,45,45,45,45,45,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA08,108,66,90.6%,91.9%,9.41,B (3.08),C+ (2.65),2.65,ece,101
-46,46,46,46,46,46,46,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),WI08,65,42,95.2%,100.0%,7.83,B+ (3.40),C+ (2.50),2.5,ece,101
-47,47,47,47,47,47,47,"Vardy, Alexander",ECE 101 - Linear Systems Fundamentals (A),FA07,98,65,79.4%,79.0%,7.83,B (3.00),B- (2.85),2.85,ece,101
+,Unnamed: 0.6,Unnamed: 0.5,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,GPA,dept,num
+0,0,0,0,0,0,0,0,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),S222,49,38,89.5%,94.7%,9.61,B (3.00),C+ (2.62),2.62,ece,101
+1,1,1,1,1,1,1,1,"Bharadia, Dinesh",ECE 101 - Linear Systems Fundamentals (A),SP22,85,57,91.2%,86.0%,7.45,B (3.14),B- (2.75),2.75,ece,101
+2,2,2,2,2,2,2,2,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),WI22,128,87,89.7%,98.8%,7.97,B (3.27),B (3.02),3.02,ece,101
+3,3,3,3,3,3,3,3,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (B),FA21,103,91,85.6%,96.7%,9.78,B (3.09),B- (2.99),2.99,ece,101
+4,4,4,4,4,4,4,4,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),S221,54,44,97.7%,100.0%,9.14,B+ (3.32),B (3.03),3.03,ece,101
+5,5,5,5,5,5,5,5,"Bharadia, Dinesh",ECE 101 - Linear Systems Fundamentals (A),SP21,114,96,78.1%,62.5%,8.86,B (3.15),B (3.10),3.1,ece,101
+6,6,6,6,6,6,6,6,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),WI21,120,103,89.9%,100.0%,7.48,B (3.24),B (3.03),3.03,ece,101
+7,7,7,7,7,7,7,7,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA20,109,39,100.0%,97.4%,9.42,B (3.22),B+ (3.35),3.35,ece,101
+8,8,8,8,8,8,8,8,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),S220,60,44,97.7%,100.0%,10.82,B+ (3.49),B (3.03),3.03,ece,101
+9,9,9,9,9,9,9,9,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),SP20,186,129,96.9%,99.2%,7.45,B+ (3.60),A- (3.73),3.73,ece,101
+10,10,10,10,10,10,10,10,"Touri, Behrouz",ECE 101 - Linear Systems Fundamentals (A),WI20,108,43,70.7%,76.9%,8.16,B (3.10),B- (2.74),2.74,ece,101
+11,11,11,11,11,11,11,11,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA19,154,113,83.9%,91.1%,8.19,B- (2.90),B- (2.96),2.96,ece,101
+12,12,12,12,12,12,12,12,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),SP19,113,99,83.3%,84.2%,6.99,B (3.14),B- (2.87),2.87,ece,101
+13,13,13,13,13,13,13,13,"Touri, Behrouz",ECE 101 - Linear Systems Fundamentals (A),WI19,57,38,86.1%,94.4%,7.09,B (3.25),B+ (3.34),3.34,ece,101
+14,14,14,14,14,14,14,14,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA18,127,84,89.0%,95.1%,7.89,B (3.17),B (3.02),3.02,ece,101
+15,15,15,15,15,15,15,15,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),S218,50,42,82.9%,90.2%,9.26,B (3.12),C+ (2.63),2.63,ece,101
+16,16,16,16,16,16,16,16,"Touri, Behrouz",ECE 101 - Linear Systems Fundamentals (A),SP18,146,65,80.3%,86.9%,7.7,B (3.18),B- (2.97),2.97,ece,101
+17,17,17,17,17,17,17,17,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),WI18,87,72,94.4%,93.0%,6.94,B (3.24),C+ (2.64),2.64,ece,101
+18,18,18,18,18,18,18,18,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA17,178,119,85.5%,99.1%,8.19,B- (2.95),C+ (2.48),2.48,ece,101
+19,19,19,19,19,19,19,19,"Connelly, Joseph Michael",ECE 101 - Linear Systems Fundamentals (A),S117,95,76,82.9%,93.3%,11.37,B- (2.85),C+ (2.51),2.51,ece,101
+20,20,20,20,20,20,20,20,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),WI17,105,38,77.4%,87.1%,7.81,B- (2.94),C+ (2.38),2.38,ece,101
+21,21,21,21,21,21,21,21,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA16,207,104,83.2%,94.7%,7.86,B- (2.92),C+ (2.44),2.44,ece,101
+22,22,22,22,22,22,22,22,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A),S216,72,54,98.1%,98.1%,10.58,B (3.20),B- (2.77),2.77,ece,101
+23,23,23,23,23,23,23,23,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),S116,52,6,80.0%,80.0%,9.3,B- (2.75),C (2.24),2.24,ece,101
+24,24,24,24,24,24,24,24,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),WI16,155,69,89.1%,95.3%,8.18,B (3.10),C+ (2.49),2.49,ece,101
+25,25,25,25,25,25,25,25,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),FA15,211,75,75.0%,69.1%,8.87,B- (2.84),C+ (2.35),2.35,ece,101
+26,26,26,26,26,26,26,26,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),S215,77,12,90.9%,100.0%,9.23,A- (3.70),C+ (2.67),2.67,ece,101
+27,27,27,27,27,27,27,27,"Alcantara, Eldridge Escubido",ECE 101 - Linear Systems Fundamentals (A),S115,77,75,97.3%,96.0%,11.17,B+ (3.44),B (3.19),3.19,ece,101
+28,28,28,28,28,28,28,28,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),WI15,138,53,84.6%,82.7%,8.54,B- (2.92),B- (2.71),2.71,ece,101
+29,29,29,29,29,29,29,29,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA14,207,76,91.5%,97.2%,7.88,B (3.13),C+ (2.63),2.63,ece,101
+30,30,30,30,30,30,30,30,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),S114,82,14,90.9%,81.8%,14.14,B (3.10),C+ (2.61),2.61,ece,101
+31,31,31,31,31,31,31,31,"Vardy, Alexander",ECE 101 - Linear Systems Fundamentals (A),WI14,104,37,75.0%,81.3%,8.5,B (3.20),C+ (2.62),2.62,ece,101
+32,32,32,32,32,32,32,32,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA13,158,89,94.2%,96.5%,8.59,B+ (3.30),C+ (2.52),2.52,ece,101
+33,33,33,33,33,33,33,33,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),S113,86,22,86.4%,90.9%,9.95,B (3.09),C+ (2.54),2.54,ece,101
+34,34,34,34,34,34,34,34,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),WI13,76,30,82.8%,89.7%,9.31,B- (2.88),C+ (2.55),2.55,ece,101
+35,35,35,35,35,35,35,35,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),FA12,95,20,94.1%,100.0%,9.44,B+ (3.47),C+ (2.39),2.39,ece,101
+36,36,36,36,36,36,36,36,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),S112,37,10,90.0%,100.0%,12.9,B+ (3.30),C+ (2.55),2.55,ece,101
+37,37,37,37,37,37,37,37,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),WI12,68,38,86.8%,94.7%,9.26,B (3.28),B- (2.72),2.72,ece,101
+38,38,38,38,38,38,38,38,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),FA11,89,37,83.8%,86.5%,8.83,B (3.17),C+ (2.62),2.62,ece,101
+39,39,39,39,39,39,39,39,"Chan, Ho",ECE 101 - Linear Systems Fundamentals (A),S211,50,18,94.4%,88.9%,9.39,B+ (3.35),B (3.09),3.09,ece,101
+40,40,40,40,40,40,40,40,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),WI11,70,25,84.0%,92.0%,7.94,B- (2.96),C+ (2.59),2.59,ece,101
+41,41,41,41,41,41,41,41,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA10,108,42,92.9%,92.9%,7.07,B (3.25),C+ (2.53),2.53,ece,101
+42,42,42,42,42,42,42,42,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),WI10,53,21,85.7%,75.0%,6.79,B+ (3.40),C+ (2.39),2.39,ece,101
+43,43,43,43,43,43,43,43,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA09,56,28,78.6%,100.0%,7.93,B (3.15),B- (2.79),2.79,ece,101
+44,44,44,44,44,44,44,44,"Quest, Kevin B",ECE 101 - Linear Systems Fundamentals (A),WI09,52,18,88.9%,77.8%,6.06,B+ (3.44),C+ (2.45),2.45,ece,101
+45,45,45,45,45,45,45,45,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),FA08,108,66,90.6%,91.9%,9.41,B (3.08),C+ (2.65),2.65,ece,101
+46,46,46,46,46,46,46,46,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A),WI08,65,42,95.2%,100.0%,7.83,B+ (3.40),C+ (2.50),2.5,ece,101
+47,47,47,47,47,47,47,47,"Vardy, Alexander",ECE 101 - Linear Systems Fundamentals (A),FA07,98,65,79.4%,79.0%,7.83,B (3.00),B- (2.85),2.85,ece,101
