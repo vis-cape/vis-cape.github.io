@@ -13,7 +13,9 @@ Some interesting facts:</br>
 iteration of the course is reported as "N/A."
 - Inspired by <a href="https://waf.cs.illinois.edu/discovery/gpa_of_every_course_at_illinois/" target="_blank"> this visualization</a>.
 
-Currentl Goals:
+Current Goals:
 - Lump together departments under their school/college
 - Add an icon
 - Separate chart for time commitment of each course
+- Include course descriptions
+- Fix the bug where the tooltip squishes near the right side of the screen
