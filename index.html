@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<head>
+  <title>VCapes 🔱</title>
+</head>
 <meta charset="utf-8">
 
 <!-- Load d3.js -->
@@ -26,8 +29,8 @@
 
 // set the dimensions and margins of the graph
 var margin = {top: 40, right: 150, bottom: 60, left: 30},
-    width = 500 - margin.left - margin.right,
-    height = 700 - margin.top - margin.bottom;
+    width = 1500 - margin.left - margin.right,
+    height = 2000 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -39,7 +42,7 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 //Read the data
-d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/main/data.csv", function(data) {
+d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", function(data) {
 
   // ---------------------------//
   //       AXIS  AND SCALE      //
@@ -47,8 +50,8 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
 
   // Add X axis
   var x = d3.scaleLinear()
-    .domain([0, 10])
-    .range([ 0, width ]);
+    .domain([0, 100])
+    .range([0, width ]);
 //   svg.append("g")
 //     .attr("transform", "translate(0," + height + ")")
 //     .call(d3.axisBottom(x).ticks(3));
@@ -61,7 +64,20 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
 
   // Add Y axis
   var y = d3.scalePoint()
-    .domain(["ece", "dsc", "cse"])
+    .domain(
+      ['AAS', 'ANAR', 'ANBI', 'ANSC', 'ANTH', 'AWP', 'BENG', 'BIBC',
+       'BICD', 'BIEB', 'BILD', 'BIMM', 'BIPN', 'BISP', 'CAT', 'CCS',
+       'CENG', 'CGS', 'CHEM', 'CHIN', 'COGS', 'COMM', 'CSE', 'CSS', 'DOC',
+       'DSC', 'DSGN', 'ECE', 'ECON', 'EDS', 'ENG', 'ENVR', 'ERC', 'ESYS',
+       'ETHN', 'FMPH', 'GLBH', 'GSS', 'HDS', 'HIAF', 'HIEA', 'HIEU',
+       'HIGL', 'HILA', 'HILD', 'HINE', 'HISC', 'HITO', 'HIUS', 'HMNR',
+       'HUM', 'INTL', 'JAPN', 'JWSP', 'LATI', 'LAWS', 'LIGN', 'LIHL',
+       'LTAM', 'LTCH', 'LTCS', 'LTEA', 'LTEN', 'LTEU', 'LTFR', 'LTGK',
+       'LTGM', 'LTIT', 'LTKO', 'LTLA', 'LTRU', 'LTSP', 'LTTH', 'LTWL',
+       'LTWR', 'MAE', 'MATH', 'MGT', 'MMW', 'MUS', 'NANO', 'PHIL', 'PHYS',
+       'POLI', 'PSYC', 'RELI', 'SE', 'SIO', 'SOCI', 'SYN', 'TDAC', 'TDDE',
+       'TDDM', 'TDDR', 'TDGE', 'TDHT', 'TDMV', 'TDPF', 'TDPR', 'TDPW',
+       'TDTR', 'TWS', 'USP', 'VIS', 'WCWP'])
     .range([0, height]);
   svg.append("g")
     .call(d3.axisLeft(y));
@@ -108,7 +124,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
     //   .duration(200)
     tooltip
       .style("opacity", 1)
-      .html("Course: " + d.course + "<br />" + Math.round(d.gpa*100)/100 + " GPA avg<br />" + d.num + " yearly students")
+      .html("Course: " + d.Course + "<br />" + Math.round(d.GPA*100)/100 + " GPA avg<br />" + d.yearly_num + " yearly students")
       .style("left", (d3.mouse(this)[0]+30) + "px")
       .style("top", (d3.mouse(this)[1]+60) + "px")
     
@@ -155,11 +171,11 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
     .data(data)
     .enter()
     .append("circle")
-      .attr("class", function(d) { return "bubbles " + d.course })
-      .attr("cx", function (d) { return x(d.id); } )
+      .attr("class", function(d) { return "bubbles " + d.Course })
+      .attr("cx", function (d) { return x(d.index); } )
       .attr("cy", function (d) { return y(d.dept); } )
-      .attr("r", function (d) { return z(d.num); } )
-      .style("fill", function (d) { return myColor(d.gpa); } )
+      .attr("r", function (d) { return z(d.yearly_num); } )
+      .style("fill", function (d) { return myColor(d.GPA); } )
     // -3- Trigger the functions for hover
     .on("mouseover", showTooltip )
     .on("mousemove", moveTooltip )
@@ -173,15 +189,15 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
 
     // Add legend: circles
     var valuesToShow = [100, 1000, 2500]
-    var xCircle = 390
-    var xLabel = 440
+    var xCircle = 600
+    var xLabel = 650
     svg
       .selectAll("legend")
       .data(valuesToShow)
       .enter()
       .append("circle")
         .attr("cx", xCircle)
-        .attr("cy", function(d){ return height - 100 - z(d) } )
+        .attr("cy", function(d){ return 200 - z(d) } )
         .attr("r", function(d){ return z(d) })
         .style("fill", "none")
         .attr("stroke", "black")
@@ -194,8 +210,8 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
       .append("line")
         .attr('x1', function(d){ return xCircle + z(d) } )
         .attr('x2', xLabel)
-        .attr('y1', function(d){ return height - 100 - z(d) } )
-        .attr('y2', function(d){ return height - 100 - z(d) } )
+        .attr('y1', function(d){ return 200 - z(d) } )
+        .attr('y2', function(d){ return 200 - z(d) } )
         .attr('stroke', 'black')
         .style('stroke-dasharray', ('2,2'))
 
@@ -206,7 +222,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
       .enter()
       .append("text")
         .attr('x', xLabel)
-        .attr('y', function(d){ return height - 100 - z(d) } )
+        .attr('y', function(d){ return 200 - z(d) } )
         .text( function(d){ return d } )
         .style("font-size", 10)
         .attr('alignment-baseline', 'middle')
@@ -214,13 +230,13 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
     // Legend title
     svg.append("text")
       .attr('x', xCircle)
-      .attr("y", height - 100 +30)
+      .attr("y", 200 +30)
       .text("Num yearly students")
       .attr("text-anchor", "middle")
 
     //color title
     svg.append("text")
-        .attr('x', 390)
+        .attr('x', 600)
         .attr('y', 0)
         .text('GPA Avg')
     // Add one dot in the legend for each name.
@@ -230,7 +246,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
       .data(allgroups)
       .enter()
       .append("circle")
-        .attr("cx", 390)
+        .attr("cx", 600)
         .attr("cy", function(d,i){ return 10 + i*(size+5)}) // 100 is where the first dot appears. 25 is the distance between dots
         .attr("r", 7)
         .style("fill", function(d){ return myColor(d)})
@@ -242,7 +258,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/gpa-visualization-ucsd/m
       .data(allgroups)
       .enter()
       .append("text")
-        .attr("x", 390 + size*.8)
+        .attr("x", 600 + size*.8)
         .attr("y", function(d,i){ return i * (size + 5) + (size/2)}) // 100 is where the first dot appears. 25 is the distance between dots
         .style("fill", function(d){ return myColor(d)})
         .text(function(d){ return d})
