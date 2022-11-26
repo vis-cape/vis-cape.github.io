@@ -1,5 +1,22 @@
 <!DOCTYPE html>
 <head>
+  <title>VCapes 🔱</title>
+  <font size="+3">UCSD GPA Visualization</font></br>
+  By <a href="https://github.com/kalkulator413" target="_blank">Kalkin</a><br>
+  Each bubble represents a course. All courses with 0 yearly students are hidden.</br>
+  The color is a measure of its average GPA (of all recorded instances on CAPE)</br>
+  The size is a measure of the number of students that took 
+  the course in the 2021-2022 academic year (including summer session)</br>
+  All data available <a href="https://github.com/kalkulator413/vcapes" target="_blank">here</a>.<br>
+  </br>
+  Some interesting facts:</br>
+  USP 101 has an average GPA of 2.02<br>
+  The lowest GPA average out of any course with more than 20 yearly students is 2.47, belonging to ECE 35.</br>
+  *Note that this does not equate to the "hardest" course.<br>
+  Some courses, such as Math 188, do not show up at all because the average GPA for every
+  iteration of the course is reported as "N/A."<br>
+  Inspired by <a href="https://waf.cs.illinois.edu/discovery/gpa_of_every_course_at_illinois/" target="_blank"> this visualization</a>.
+
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-C0QC9T16Z4"></script>
   <script>
@@ -9,17 +26,17 @@
 
     gtag('config', 'G-C0QC9T16Z4');
   </script>
+  
+  <!-- Load d3.js -->
+  <script src="https://d3js.org/d3.v4.js"></script>
+
+  <!-- Load color scale -->
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+  <!-- Create a div where the graph will take place -->
+  <div id="my_dataviz"></div>
 </head>
 <meta charset="utf-8">
-
-<!-- Load d3.js -->
-<script src="https://d3js.org/d3.v4.js"></script>
-
-<!-- Load color scale -->
-<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
-
-<!-- Create a div where the graph will take place -->
-<div id="my_dataviz"></div>
 
 <!-- A bit of CSS: change stroke color of circle on hover (white -> black) -->
 <style>
@@ -36,26 +53,12 @@
 <script>
 
 // set the dimensions and margins of the graph
-var margin = {top: 250, right: 50, bottom: 60, left: 45},
+var margin = {top: 50, right: 150, bottom: 60, left: 45},
     width = 4500 - margin.left - margin.right,
     height = 4500 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
-  .html('<title>VCapes 🔱</title><font size="+3">UCSD GPA Visualization</font></br>'
-   + 'By <a href="https://github.com/kalkulator413" target="_blank">Kalkin</a><br>'
-   + 'Each bubble represents a course. All courses with 0 yearly students are hidden.</br>'
-  + 'The color is a measure of its average GPA (of all recorded instances on CAPE)</br>'
-  + 'The size is a measure of the number of students that took '
-  + 'the course in the 2021-2022 academic year (including summer session)</br>'
-  + 'All data available <a href="https://github.com/kalkulator413/vcapes" target="_blank">here</a>.<br></br>'
-  +'Some interesting facts:</br>'
-  +'USP 101 has an average GPA of 2.02<br>'
-  +'The lowest GPA average out of any course with more than 20 yearly students is 2.47, belonging to ECE 35.</br>'
-  +'*Note that this does not equate to the "hardest" course.<br>'
-  +'Some courses, such as Math 188, do not show up at all because the average GPA for every'
-  +'iteration of the course is reported as "N/A."<br>'
-  +'Inspired by <a href="https://waf.cs.illinois.edu/discovery/gpa_of_every_course_at_illinois/" target="_blank"> this visualization</a>.')
   .append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
@@ -72,7 +75,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", f
 
   // Add X axis
   var x = d3.scaleLinear()
-    .domain([0, 90])
+    .domain([0, 200])
     .range([20, width ]);
 //   svg.append("g")
 //     .attr("transform", "translate(0," + height + ")")
@@ -134,10 +137,10 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", f
       .attr("class", "tooltip")
       .style("background-color", "black")
       .style("border-radius", "5px")
+      .style("border-width", "2px")
       .style("padding", "10px")
       .style("color", "white")
-      .style("position", "absolute")
-      .attr("data-html", "true")
+      // .style("position", "absolute")
 
   // -2- Create 3 functions to show / update (when mouse move but stay on same circle) / hide the tooltip
   var showTooltip = function(d) {
@@ -148,14 +151,17 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", f
       .style("opacity", 1)
       .html("Course: " + d.Course + "<br />" + Math.round(d.GPA*100)/100 + " GPA avg<br />" + d.yearly_num + " yearly students")
       .style("left", (d3.mouse(this)[0]+30) + "px")
-      .style("top", (d3.mouse(this)[1]+30) + "px")
+      .style("top", (d3.mouse(this)[1]+120) + "px")
+      .style("position", "absolute")
     
     // console.log(d3.mouse(this));
   }
   var moveTooltip = function(d) {
     tooltip
+      .html("Course: " + d.Course + "<br />" + Math.round(d.GPA*100)/100 + " GPA avg<br />" + d.yearly_num + " yearly students")
       .style("left", (d3.mouse(this)[0]+30) + "px")
-      .style("top", (d3.mouse(this)[1]+30) + "px")
+      .style("top", (d3.mouse(this)[1]+120) + "px")
+      .style("position", "absolute")
   }
   var hideTooltip = function(d) {
     tooltip
