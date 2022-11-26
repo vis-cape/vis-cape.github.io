@@ -1,2 +1,2 @@
-Course,index,GPA,yearly_num,dept
-LAWS 101,0,3.1886249268578113,82,LAWS
+Course,GPA,yearly_num,dept,num,index
+LAWS 101,3.1886249268578113,82,LAWS,101,0

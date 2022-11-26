@@ -1,2 +1,2 @@
-Course,index,GPA,yearly_num,dept
-HIGL 127,0,3.45,50,HIGL
+Course,GPA,yearly_num,dept,num,index
+HIGL 127,3.45,50,HIGL,127,0
