@@ -150,14 +150,14 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", f
       .style("opacity", 1)
       .html("Course: " + d.Course + "<br />" + Math.round(d.GPA*100)/100 + " GPA avg<br />" + d.yearly_num + " yearly students")
       .style("left", (d3.mouse(this)[0]+30) + "px")
-      .style("top", (d3.mouse(this)[1]+60) + "px")
+      .style("top", (d3.mouse(this)[1]+210) + "px")
     
     // console.log(d3.mouse(this));
   }
   var moveTooltip = function(d) {
     tooltip
       .style("left", (d3.mouse(this)[0]+30) + "px")
-      .style("top", (d3.mouse(this)[1]+60) + "px")
+      .style("top", (d3.mouse(this)[1]+210) + "px")
   }
   var hideTooltip = function(d) {
     tooltip
