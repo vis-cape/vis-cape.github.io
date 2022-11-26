@@ -29,7 +29,7 @@
 
 // set the dimensions and margins of the graph
 var margin = {top: 40, right: 150, bottom: 60, left: 40},
-    width = 3000 - margin.left - margin.right,
+    width = 4500 - margin.left - margin.right,
     height = 4500 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
@@ -136,10 +136,10 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", f
       .style("top", (d3.mouse(this)[1]+60) + "px")
   }
   var hideTooltip = function(d) {
-    // tooltip
-    //   .transition()
-    //   .duration(2000)
-    //   .style("opacity", 0)
+    tooltip
+      // .transition()
+      // .duration(2000)
+      .style("opacity", 0)
   }
 
 
