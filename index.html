@@ -21,16 +21,16 @@
   opacity: .8
 }
 .bubbles:hover {
-  stroke: black;
+  stroke: rgb(255, 255, 255);
 }
 </style>
 
 <script>
 
 // set the dimensions and margins of the graph
-var margin = {top: 40, right: 150, bottom: 60, left: 30},
-    width = 1500 - margin.left - margin.right,
-    height = 2000 - margin.top - margin.bottom;
+var margin = {top: 40, right: 150, bottom: 60, left: 40},
+    width = 3000 - margin.left - margin.right,
+    height = 4500 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -50,8 +50,8 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", f
 
   // Add X axis
   var x = d3.scaleLinear()
-    .domain([0, 100])
-    .range([0, width ]);
+    .domain([0, 200])
+    .range([20, width ]);
 //   svg.append("g")
 //     .attr("transform", "translate(0," + height + ")")
 //     .call(d3.axisBottom(x).ticks(3));
