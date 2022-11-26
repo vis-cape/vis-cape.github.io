@@ -151,7 +151,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", f
       .style("opacity", 1)
       .html("Course: " + d.Course + "<br />" + Math.round(d.GPA*100)/100 + " GPA avg<br />" + d.yearly_num + " yearly students")
       .style("left", (d3.mouse(this)[0]+30) + "px")
-      .style("top", (d3.mouse(this)[1]+200) + "px")
+      .style("top", (d3.mouse(this)[1]+120) + "px")
       .style("position", "absolute")
     
     // console.log(d3.mouse(this));
@@ -160,7 +160,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", f
     tooltip
       .html("Course: " + d.Course + "<br />" + Math.round(d.GPA*100)/100 + " GPA avg<br />" + d.yearly_num + " yearly students")
       .style("left", (d3.mouse(this)[0]+30) + "px")
-      .style("top", (d3.mouse(this)[1]+220) + "px")
+      .style("top", (d3.mouse(this)[1]+120) + "px")
       .style("position", "absolute")
   }
   var hideTooltip = function(d) {
