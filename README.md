@@ -15,7 +15,8 @@ iteration of the course is reported as "N/A."
 
 Current Goals:
 - Lump together departments under their school/college
-- Add an icon
+- Add an favicon thingy
 - Separate chart for time commitment of each course
 - Include course descriptions
 - Fix the bug where the tooltip squishes near the right side of the screen
+- Add an arrow to the tooltip
