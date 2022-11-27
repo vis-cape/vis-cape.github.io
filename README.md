@@ -20,3 +20,4 @@ Current Goals:
 - Include course descriptions
 - Fix the bug where the tooltip squishes near the right side of the screen
 - Add an arrow to the tooltip
+- Toggle for historical GPA vs last 5 years
