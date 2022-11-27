@@ -10,10 +10,10 @@
   All data available <a href="https://github.com/kalkulator413/vcapes" target="_blank">here</a>.<br>
   </br>
   Some interesting facts:</br>
-  USP 101 has an average GPA of 2.02<br>
-  The lowest GPA average out of any course with more than 20 yearly students is 2.47, belonging to ECE 35.</br>
-  *Note that this does not equate to the "hardest" course.<br>
-  Some courses, such as Math 188, do not show up at all because the average GPA for every
+  USP 101 has a GPA of 2.02, which is the lowest out of all courses<br>
+  The lowest GPA out of any course with more than 20 yearly students is 2.47, belonging to ECE 35.</br>
+  *Note that lowest GPA does not equate to the "hardest" course.<br>
+  Some courses, such as Math 188, do not show up at all because the GPA for every
   iteration of the course is reported as "N/A."<br>
   Inspired by <a href="https://waf.cs.illinois.edu/discovery/gpa_of_every_course_at_illinois/" target="_blank"> this visualization</a>.
 
@@ -54,8 +54,8 @@
 
 // set the dimensions and margins of the graph
 var margin = {top: 50, right: 150, bottom: 60, left: 45},
-    width = 2000 - margin.left - margin.right,
-    height = 4500 - margin.top - margin.bottom;
+    width = 2500 - margin.left - margin.right,
+    height = 4000 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -76,9 +76,9 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", f
   // Add X axis
   var x = d3.scaleLinear()
     .domain([0, 90])
-    .range([20, width ]);
-//   svg.append("g")
-//     .attr("transform", "translate(0," + height + ")")
+    .range([20, width]);
+  svg.append("g")
+    .attr("transform", "translate(0," + height + ")")
 //     .call(d3.axisBottom(x).ticks(3));
 
   // Add X axis label:
@@ -117,8 +117,8 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", f
 
   // Add a scale for bubble size
   var z = d3.scaleSqrt()
-    .domain([0, 3000])
-    .range([2, 30]);
+    .domain([0, 4500])
+    .range([2, 35]);
 
   // Add a scale for bubble color
   var myColor = d3.scaleLinear()
@@ -143,24 +143,29 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", f
       // .style("position", "absolute")
 
   // -2- Create 3 functions to show / update (when mouse move but stay on same circle) / hide the tooltip
-  var showTooltip = function(d) {
+  var tt_text = function(d) {
+    return "Course: " + d.Course + "<br>" + Math.round(d.GPA*100)/100 + " GPA<br>" + d.yearly_num + " yearly students"
+  }
+  var offX = 70
+  var offY = 280
+    var showTooltip = function(d) {
     // tooltip
     //   .transition()
     //   .duration(200)
     tooltip
       .style("opacity", 1)
-      .html("Course: " + d.Course + "<br />" + Math.round(d.GPA*100)/100 + " GPA avg<br />" + d.yearly_num + " yearly students")
-      .style("left", (d3.mouse(this)[0]+30) + "px")
-      .style("top", (d3.mouse(this)[1]+120) + "px")
+      .html(tt_text(d))
+      .style("left", (d3.mouse(this)[0]+offX) + "px")
+      .style("top", (d3.mouse(this)[1]+offY) + "px")
       .style("position", "absolute")
     
     // console.log(d3.mouse(this));
   }
   var moveTooltip = function(d) {
     tooltip
-      .html("Course: " + d.Course + "<br />" + Math.round(d.GPA*100)/100 + " GPA avg<br />" + d.yearly_num + " yearly students")
-      .style("left", (d3.mouse(this)[0]+30) + "px")
-      .style("top", (d3.mouse(this)[1]+120) + "px")
+      .html(tt_text(d))
+      .style("left", (d3.mouse(this)[0]+offX) + "px")
+      .style("top", (d3.mouse(this)[1]+offY) + "px")
       .style("position", "absolute")
   }
   var hideTooltip = function(d) {
@@ -169,25 +174,6 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", f
       // .duration(2000)
       .style("opacity", 0)
   }
-
-
-  // ---------------------------//
-  //       HIGHLIGHT GROUP      //
-  // ---------------------------//
-
-  // What to do when one group is hovered
-  var highlight = function(d){
-    // reduce opacity of all groups
-    d3.selectAll(".bubbles").style("opacity", .05)
-    // expect the one that is hovered
-    d3.selectAll("."+d).style("opacity", 1)
-  }
-
-  // And when it is not hovered anymore
-  var noHighlight = function(d){
-    d3.selectAll(".bubbles").style("opacity", 1)
-  }
-
 
   // ---------------------------//
   //       CIRCLES              //
@@ -266,8 +252,8 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", f
     //color title
     svg.append("text")
         .attr('x', 600)
-        .attr('y', 0)
-        .text('GPA Avg')
+        .attr('y', -25)
+        .text('GPA')
     // Add one dot in the legend for each name.
     var size = 20
     var allgroups = [2.0, 2.5, 3, 3.5, 4]
@@ -276,11 +262,9 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", f
       .enter()
       .append("circle")
         .attr("cx", 600)
-        .attr("cy", function(d,i){ return 10 + i*(size+5)}) // 100 is where the first dot appears. 25 is the distance between dots
+        .attr("cy", function(d,i){ return -10 + i*(size+5)}) // 100 is where the first dot appears. 25 is the distance between dots
         .attr("r", 7)
         .style("fill", function(d){ return myColor(d)})
-        // .on("mouseover", highlight)
-        // .on("mouseleave", noHighlight)
 
     // Add labels beside legend dots
     svg.selectAll("mylabels")
@@ -288,12 +272,10 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", f
       .enter()
       .append("text")
         .attr("x", 600 + size*.8)
-        .attr("y", function(d,i){ return i * (size + 5) + (size/2)}) // 100 is where the first dot appears. 25 is the distance between dots
+        .attr("y", function(d,i){ return i * (size + 5) - 10}) // 100 is where the first dot appears. 25 is the distance between dots
         .style("fill", function(d){ return myColor(d)})
         .text(function(d){ return d})
         .attr("text-anchor", "left")
         .style("alignment-baseline", "middle")
-        // .on("mouseover", highlight)
-        // .on("mouseleave", noHighlight)
   })
 </script>
