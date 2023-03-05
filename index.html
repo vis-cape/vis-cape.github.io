@@ -21,23 +21,26 @@
     <link rel="stylesheet" href="style.css">
     <div class="header"><h1>UCSD GPA Visualization 🔱</h1></div>
 
-    <p>By <a href="https://github.com/kalkulator413" target="_blank">Kalkin</a> <p>
-
-    <p>Each bubble represents a course. All courses with 0 yearly students are hidden.</br>
-    The color is a measure of its average GPA (of all recorded instances on CAPE)</br>
-    The size is a measure of the number of yearly students</br>
-    All data available <a href="https://github.com/vcapes/vcapes.github.io/blob/main/scraper/data.csv" target="_blank">here</a></p>
+    <ul>
+      <li>Each bubble represents a course. All courses with 0 yearly students are hidden.</li>
+      <li>Hover over a bubble to see course data</li>
+      <li>The color is a measure of its average GPA (of all recorded instances on CAPE)</li>
+      <li>The size is a measure of the number of yearly students</li>
+      <li>All data available <a href="https://github.com/vcapes/vcapes.github.io/blob/main/scraper/data.csv" target="_blank">here</a></li>
+    </ul>
 
     <!-- Create a div where the graph will take place -->
     <div id="chart"></div>
     <div id="key"></div>
 
+    Some interesting facts:
     <ul>
-      <li>Some interesting facts:</li>
       <li>The lowest GPA out of any course taught in the last year is 2.47, belonging to ECE 35.</li>
       <li>Some courses, such as Math 188, do not show up at all because the GPA for every iteration of the course is reported as "N/A."</li>
       <li>Inspired by <a href="https://waf.cs.illinois.edu/discovery/gpa_of_every_course_at_illinois/" target="_blank"> this visualization</a>.</li>
     </ul>
+
+    <p>By <a href="https://github.com/kalkulator413" target="_blank">Kalkin</a> <p></p>
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-C0QC9T16Z4"></script>
