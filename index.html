@@ -1,281 +1,60 @@
 <!DOCTYPE html>
-<head>
-  <title>VCapes 🔱</title>
-  <font size="+3">UCSD GPA Visualization</font></br>
-  By <a href="https://github.com/kalkulator413" target="_blank">Kalkin</a><br>
-  Each bubble represents a course. All courses with 0 yearly students are hidden.</br>
-  The color is a measure of its average GPA (of all recorded instances on CAPE)</br>
-  The size is a measure of the number of students that took 
-  the course in the 2021-2022 academic year (including summer session)</br>
-  All data available <a href="https://github.com/kalkulator413/vcapes" target="_blank">here</a>.<br>
-  </br>
-  Some interesting facts:</br>
-  The lowest GPA out of any course taught in the last year is 2.47, belonging to ECE 35.</br>
-  *Note that lowest GPA does not equate to the "hardest" course.<br>
-  Some courses, such as Math 188, do not show up at all because the GPA for every
-  iteration of the course is reported as "N/A."<br>
-  Inspired by <a href="https://waf.cs.illinois.edu/discovery/gpa_of_every_course_at_illinois/" target="_blank"> this visualization</a>.
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C0QC9T16Z4"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+    <title>Vcapes</title>
+    <meta
+      name="description"
+      content="UCSD GPA Visualization"
+    />
+    <!-- favicon stuff -->
+    <link rel="apple-touch-icon" sizes="180x180" href="./img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./img/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="./img/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+  </head>
+  <body>
+    <link rel="stylesheet" href="style.css">
+    <h1>UCSD GPA Visualization 🔱</font></h1>
 
-    gtag('config', 'G-C0QC9T16Z4');
-  </script>
-  
-  <!-- Load d3.js -->
-  <script src="https://d3js.org/d3.v4.js"></script>
+    <p>By <a href="https://github.com/kalkulator413" target="_blank">Kalkin</a> <p>
 
-  <!-- Load color scale -->
-  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <p>Each bubble represents a course. All courses with 0 yearly students are hidden.</br>
+    The color is a measure of its average GPA (of all recorded instances on CAPE)</br>
+    The size is a measure of the number of yearly students</br>
+    All data available <a href="https://github.com/kalkulator413/vcapes" target="_blank">here</a></p>
 
-  <!-- Create a div where the graph will take place -->
-  <div id="my_dataviz"></div>
-</head>
-<meta charset="utf-8">
+    <!-- Create a div where the graph will take place -->
+    <div id="my_dataviz"></div>
+    <meta charset="utf-8">
 
-<!-- A bit of CSS: change stroke color of circle on hover (white -> black) -->
-<style>
-.bubbles {
-  stroke-width: 1px;
-  stroke: black;
-  opacity: .8
-}
-.bubbles:hover {
-  stroke: rgb(255, 255, 255);
-}
-</style>
+    <ul>
+      <li>Some interesting facts:</li>
+      <li>The lowest GPA out of any course taught in the last year is 2.47, belonging to ECE 35.</li>
+      <li>Some courses, such as Math 188, do not show up at all because the GPA for every iteration of the course is reported as "N/A."</li>
+      <li>Inspired by <a href="https://waf.cs.illinois.edu/discovery/gpa_of_every_course_at_illinois/" target="_blank"> this visualization</a>.</li>
+    </ul>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C0QC9T16Z4"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-<script>
-
-// set the dimensions and margins of the graph
-var margin = {top: 50, right: 150, bottom: 60, left: 45},
-    width = 2500 - margin.left - margin.right,
-    height = 4000 - margin.top - margin.bottom;
-
-// append the svg object to the body of the page
-var svg = d3.select("#my_dataviz")
-  .append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform",
-          "translate(" + margin.left + "," + margin.top + ")");
-
-//Read the data
-d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/data.csv", function(data) {
-
-  // ---------------------------//
-  //       AXIS  AND SCALE      //
-  // ---------------------------//
-
-  // Add X axis
-  var x = d3.scaleLinear()
-    .domain([0, 90])
-    .range([20, width]);
-  svg.append("g")
-    .attr("transform", "translate(0," + height + ")")
-//     .call(d3.axisBottom(x).ticks(3));
-
-  // Add X axis label:
-//   svg.append("text")
-//       .attr("text-anchor", "end")
-//       .attr("x", width)
-//       .attr("y", height+50 );
-
-  // Add Y axis
-  var y = d3.scalePoint()
-    .domain(
-      ['AAS', 'ANAR', 'ANBI', 'ANSC', 'ANTH', 'AWP', 'BENG', 'BIBC',
-       'BICD', 'BIEB', 'BILD', 'BIMM', 'BIPN', 'BISP', 'CAT', 'CCS',
-       'CENG', 'CGS', 'CHEM', 'CHIN', 'COGS', 'COMM', 'CSE', 'CSS', 'DOC',
-       'DSC', 'DSGN', 'ECE', 'ECON', 'EDS', 'ENG', 'ENVR', 'ERC', 'ESYS',
-       'ETHN', 'FMPH', 'GLBH', 'GSS', 'HDS', 'HIAF', 'HIEA', 'HIEU',
-       'HIGL', 'HILA', 'HILD', 'HINE', 'HISC', 'HITO', 'HIUS', 'HMNR',
-       'HUM', 'INTL', 'JAPN', 'JWSP', 'LATI', 'LAWS', 'LIGN', 'LIHL',
-       'LTAM', 'LTCH', 'LTCS', 'LTEA', 'LTEN', 'LTEU', 'LTFR', 'LTGK',
-       'LTGM', 'LTIT', 'LTKO', 'LTLA', 'LTRU', 'LTSP', 'LTTH', 'LTWL',
-       'LTWR', 'MAE', 'MATH', 'MGT', 'MMW', 'MUS', 'NANO', 'PHIL', 'PHYS',
-       'POLI', 'PSYC', 'RELI', 'SE', 'SIO', 'SOCI', 'SYN', 'TDAC', 'TDDE',
-       'TDDM', 'TDDR', 'TDGE', 'TDHT', 'TDMV', 'TDPF', 'TDPR', 'TDPW',
-       'TDTR', 'TWS', 'USP', 'VIS', 'WCWP'])
-    .range([0, height]);
-  svg.append("g")
-    .call(d3.axisLeft(y));
-
-  // Add Y axis label:
-  svg.append("text")
-      .attr("text-anchor", "end")
-      .attr("x", 0)
-      .attr("y", -20 )
-      .text("Department")
-      .attr("text-anchor", "start")
-
-  // Add a scale for bubble size
-  var z = d3.scaleSqrt()
-    .domain([0, 4500])
-    .range([2, 35]);
-
-  // Add a scale for bubble color
-  var myColor = d3.scaleLinear()
-    .domain([2, 4])
-    .range(d3.schemeSet1);
-
-
-  // ---------------------------//
-  //      TOOLTIP               //
-  // ---------------------------//
-
-  // -1- Create a tooltip div that is hidden by default:
-  var tooltip = d3.select("#my_dataviz")
-    .append("div")
-      .style("opacity", 0)
-      .attr("class", "tooltip")
-      .style("background-color", "black")
-      .style("border-radius", "5px")
-      .style("border-width", "2px")
-      .style("padding", "10px")
-      .style("color", "white")
-      // .style("position", "absolute")
-
-  // -2- Create 3 functions to show / update (when mouse move but stay on same circle) / hide the tooltip
-  var tt_text = function(d) {
-    return "Course: " + d.Course + "<br>" + Math.round(d.GPA*100)/100 + " GPA<br>" + d.yearly_num + " yearly students"
-  }
-  var offX = 70
-  var offY = 280
-    var showTooltip = function(d) {
-    // tooltip
-    //   .transition()
-    //   .duration(200)
-    tooltip
-      .style("opacity", 1)
-      .html(tt_text(d))
-      .style("left", (d3.mouse(this)[0]+offX) + "px")
-      .style("top", (d3.mouse(this)[1]+offY) + "px")
-      .style("position", "absolute")
+      gtag('config', 'G-C0QC9T16Z4');
+    </script>
     
-    // console.log(d3.mouse(this));
-  }
-  var moveTooltip = function(d) {
-    tooltip
-      .html(tt_text(d))
-      .style("left", (d3.mouse(this)[0]+offX) + "px")
-      .style("top", (d3.mouse(this)[1]+offY) + "px")
-      .style("position", "absolute")
-  }
-  var hideTooltip = function(d) {
-    tooltip
-      // .transition()
-      // .duration(2000)
-      .style("top", (0) + "px")
-      .style("opacity", 0)
-  }
+    <!-- Load d3.js -->
+    <script src="https://d3js.org/d3.v4.js"></script>
 
-  // ---------------------------//
-  //       CIRCLES              //
-  // ---------------------------//
+    <!-- Load color scale -->
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src = "script.js"></script>
 
-  // Add dots
-  svg.append('g')
-    .selectAll("dot")
-    .data(data)
-    .enter()
-    .append("circle")
-      .attr("class", function(d) { return "bubbles " + d.Course })
-      .attr("cx", function (d) { return x(d.index); } )
-      .attr("cy", function (d) { return y(d.dept); } )
-      .attr("r", function (d) { return z(d.yearly_num); } )
-      .style("fill", function (d) { return myColor(d.GPA); } )
-    // -3- Trigger the functions for hover
-    .on("mouseover", showTooltip )
-    .on("mousemove", moveTooltip )
-    .on("mouseleave", hideTooltip )
-
-
-
-    // ---------------------------//
-    //       LEGEND              //
-    // ---------------------------//
-
-    // Add legend: circles
-    var valuesToShow = [100, 1000, 2500]
-    var xCircle = 800
-    var xLabel = 850
-    var yLabel = 50
-    svg
-      .selectAll("legend")
-      .data(valuesToShow)
-      .enter()
-      .append("circle")
-        .attr("cx", xCircle)
-        .attr("cy", function(d){ return yLabel - z(d) } )
-        .attr("r", function(d){ return z(d) })
-        .style("fill", "none")
-        .attr("stroke", "black")
-
-    // Add legend: segments
-    svg
-      .selectAll("legend")
-      .data(valuesToShow)
-      .enter()
-      .append("line")
-        .attr('x1', function(d){ return xCircle + z(d) } )
-        .attr('x2', xLabel)
-        .attr('y1', function(d){ return yLabel - z(d) } )
-        .attr('y2', function(d){ return yLabel - z(d) } )
-        .attr('stroke', 'black')
-        .style('stroke-dasharray', ('2,2'))
-
-    // Add legend: labels
-    svg
-      .selectAll("legend")
-      .data(valuesToShow)
-      .enter()
-      .append("text")
-        .attr('x', xLabel)
-        .attr('y', function(d){ return yLabel - z(d) } )
-        .text( function(d){ return d } )
-        .style("font-size", 10)
-        .attr('alignment-baseline', 'middle')
-
-    // Legend title
-    svg.append("text")
-      .attr('x', xCircle)
-      .attr("y", yLabel +30)
-      .text("Num yearly students")
-      .attr("text-anchor", "middle")
-
-    //color title
-    svg.append("text")
-        .attr('x', 600)
-        .attr('y', -25)
-        .text('GPA')
-    // Add one dot in the legend for each name.
-    var size = 20
-    var allgroups = [2.0, 2.5, 3, 3.5, 4]
-    svg.selectAll("myrect")
-      .data(allgroups)
-      .enter()
-      .append("circle")
-        .attr("cx", 600)
-        .attr("cy", function(d,i){ return -10 + i*(size+5)}) // 100 is where the first dot appears. 25 is the distance between dots
-        .attr("r", 7)
-        .style("fill", function(d){ return myColor(d)})
-
-    // Add labels beside legend dots
-    svg.selectAll("mylabels")
-      .data(allgroups)
-      .enter()
-      .append("text")
-        .attr("x", 600 + size*.8)
-        .attr("y", function(d,i){ return i * (size + 5) - 10}) // 100 is where the first dot appears. 25 is the distance between dots
-        .style("fill", function(d){ return myColor(d)})
-        .text(function(d){ return d})
-        .attr("text-anchor", "left")
-        .style("alignment-baseline", "middle")
-  })
-</script>
+  </body>
+</html>
