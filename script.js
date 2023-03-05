@@ -249,6 +249,6 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data
       key.style.position = "fixed";
       key.style.top="0";
       key.style.right="0";
-      key.style.paddingTop = "50px";
+      key.style.paddingTop = "250px";
     }
   })
