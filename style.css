@@ -1,3 +1,32 @@
+body {
+    background-color: rgb(37, 37, 37);
+    color:rgb(206, 206, 206);
+}
+
+a {
+    color:aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+.axis line{
+    stroke: rgb(206, 206, 206);
+}
+
+.axis path{
+    stroke:rgb(206, 206, 206);
+}
+
+.axis text{
+    fill:rgb(206, 206, 206);
+}
+
+.text {
+    fill:rgb(206, 206, 206);
+}
+
 .bubbles {
     stroke-width: 1px;
     stroke: black;

@@ -4,7 +4,7 @@ var margin = {top: 50, right: 150, bottom: 60, left: 45},
     height = 4000 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
-var svg = d3.select("#my_dataviz")
+var svg = d3.select("#chart")
   .append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
@@ -51,10 +51,12 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data
        'TDTR', 'TWS', 'USP', 'VIS', 'WCWP'])
     .range([0, height]);
   svg.append("g")
+    .attr("class", "axis")
     .call(d3.axisLeft(y));
 
   // Add Y axis label:
   svg.append("text")
+      .attr("class", "text")
       .attr("text-anchor", "end")
       .attr("x", 0)
       .attr("y", -20 )
@@ -77,11 +79,11 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data
   // ---------------------------//
 
   // -1- Create a tooltip div that is hidden by default:
-  var tooltip = d3.select("#my_dataviz")
+  var tooltip = d3.select("#chart")
     .append("div")
       .style("opacity", 0)
       .attr("class", "tooltip")
-      .style("background-color", "black")
+      .style("background-color", "rgb(206, 206, 206)")
       .style("border-radius", "5px")
       .style("border-width", "2px")
       .style("padding", "10px")
@@ -101,6 +103,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data
     tooltip
       .style("opacity", 1)
       .html(tt_text(d))
+      .style("color", "black")
       .style("left", (d3.mouse(this)[0]+offX) + "px")
       .style("top", (d3.mouse(this)[1]+offY) + "px")
       .style("position", "absolute")
@@ -110,6 +113,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data
   var moveTooltip = function(d) {
     tooltip
       .html(tt_text(d))
+      .style("color", "black")
       .style("left", (d3.mouse(this)[0]+offX) + "px")
       .style("top", (d3.mouse(this)[1]+offY) + "px")
       .style("position", "absolute")
@@ -162,7 +166,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data
         .attr("cy", function(d){ return yLabel - z(d) } )
         .attr("r", function(d){ return z(d) })
         .style("fill", "none")
-        .attr("stroke", "black")
+        .attr("stroke", "white")
 
     // Add legend: segments
     svg
@@ -174,7 +178,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data
         .attr('x2', xLabel)
         .attr('y1', function(d){ return yLabel - z(d) } )
         .attr('y2', function(d){ return yLabel - z(d) } )
-        .attr('stroke', 'black')
+        .attr('stroke', 'white')
         .style('stroke-dasharray', ('2,2'))
 
     // Add legend: labels
@@ -183,6 +187,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data
       .data(valuesToShow)
       .enter()
       .append("text")
+        .attr("class", "text")
         .attr('x', xLabel)
         .attr('y', function(d){ return yLabel - z(d) } )
         .text( function(d){ return d } )
@@ -191,6 +196,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data
 
     // Legend title
     svg.append("text")
+      .attr("class", "text")
       .attr('x', xCircle)
       .attr("y", yLabel +30)
       .text("Num yearly students")
@@ -198,6 +204,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data
 
     //color title
     svg.append("text")
+        .attr("class", "text")
         .attr('x', 600)
         .attr('y', -25)
         .text('GPA')
