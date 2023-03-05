@@ -245,6 +245,10 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data
     // mobile site resize
     if (screen.width <= 720) {
       var key = document.getElementById("key");
-      key.style.transform = 'scale(0.4)';
+      key.style.transform = 'scale(0.45)';
+      key.style.position = "fixed";
+      key.style.top="0";
+      key.style.right="0";
+      key.style.paddingTop = "50px";
     }
   })
