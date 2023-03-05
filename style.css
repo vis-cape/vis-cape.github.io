@@ -1,4 +1,5 @@
 body {
+    padding-top: 5%;
     background-color: rgb(37, 37, 37);
     color:rgb(206, 206, 206);
 }
@@ -7,8 +8,19 @@ a {
     color:aqua;
 }
 
-h1 {
+.header {
+    top:0;
+    left:0;
+    position:fixed;
     text-align: center;
+    background-color: black;
+    padding:5px;
+    width:100%;
+    /* padding-top:100px; */
+}
+
+#key {
+    /* position: fixed; */
 }
 
 .axis line{

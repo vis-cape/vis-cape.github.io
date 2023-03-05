@@ -152,12 +152,22 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data
     //       LEGEND              //
     // ---------------------------//
 
+    var xoff = 100;
+    var yoff = 70;
+
+    var key = d3.select("#key")
+    .append("svg")
+      .attr("width", 400)
+      .attr("height", 200)
+    .append("g");
+    
     // Add legend: circles
     var valuesToShow = [100, 1000, 2500]
-    var xCircle = 800
-    var xLabel = 850
-    var yLabel = 50
-    svg
+    var xCircle = 200 + xoff;
+    var xLabel = 250 + xoff;
+    var yLabel = yoff;
+
+    key
       .selectAll("legend")
       .data(valuesToShow)
       .enter()
@@ -169,7 +179,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data
         .attr("stroke", "white")
 
     // Add legend: segments
-    svg
+    key
       .selectAll("legend")
       .data(valuesToShow)
       .enter()
@@ -182,7 +192,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data
         .style('stroke-dasharray', ('2,2'))
 
     // Add legend: labels
-    svg
+    key
       .selectAll("legend")
       .data(valuesToShow)
       .enter()
@@ -195,7 +205,7 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data
         .attr('alignment-baseline', 'middle')
 
     // Legend title
-    svg.append("text")
+    key.append("text")
       .attr("class", "text")
       .attr('x', xCircle)
       .attr("y", yLabel +30)
@@ -203,29 +213,29 @@ d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data
       .attr("text-anchor", "middle")
 
     //color title
-    svg.append("text")
+    key.append("text")
         .attr("class", "text")
-        .attr('x', 600)
+        .attr('x', xoff)
         .attr('y', -25)
         .text('GPA')
     // Add one dot in the legend for each name.
     var size = 20
     var allgroups = [2.0, 2.5, 3, 3.5, 4]
-    svg.selectAll("myrect")
+    key.selectAll("myrect")
       .data(allgroups)
       .enter()
       .append("circle")
-        .attr("cx", 600)
+        .attr("cx", xoff)
         .attr("cy", function(d,i){ return -10 + i*(size+5)}) // 100 is where the first dot appears. 25 is the distance between dots
         .attr("r", 7)
         .style("fill", function(d){ return myColor(d)})
 
     // Add labels beside legend dots
-    svg.selectAll("mylabels")
+    key.selectAll("mylabels")
       .data(allgroups)
       .enter()
       .append("text")
-        .attr("x", 600 + size*.8)
+        .attr("x", xoff + size*.8)
         .attr("y", function(d,i){ return i * (size + 5) - 10}) // 100 is where the first dot appears. 25 is the distance between dots
         .style("fill", function(d){ return myColor(d)})
         .text(function(d){ return d})
