@@ -1,5 +1,5 @@
 body {
-    padding-top: 5%;
+    padding-top: 80px;
     background-color: rgb(37, 37, 37);
     color:rgb(206, 206, 206);
 }
@@ -21,7 +21,7 @@ a {
 #key {
     top:0;
     right:0;
-    padding-top: 10vh;
+    padding-top: 90px;
     position: fixed;
 }
 
