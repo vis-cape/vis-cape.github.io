@@ -1,11 +1,11 @@
 # UCSD GPA Visualization
 https://vcapes.github.io/
 
-- Each bubble represents a course.</br>
-- The color is a measure of its average GPA (of all recorded instances on CAPE)
-- The size is a measure of the number of yearly students (including summer session)
+- Each bubble represents a course
+- The color is a measure of its average GPA (last 2 years, no summer)
+- The size is a measure of the number of yearly students (no summer)
 
-Some interesting facts:</br>
+Some interesting facts:
 - The lowest course GPA in the last 2 years is 2.2, belonging to Math 2.
 - The lowest course GPA of all time considering only courses that are still being taught is 2.47, belonging to ECE 35.
 - Some courses, such as Math 188, do not show up at all because the course GPA for every iteration of the course is reported as "N/A."
