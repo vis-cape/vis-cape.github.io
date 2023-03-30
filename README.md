@@ -6,7 +6,7 @@ https://vcapes.github.io/
 - The size is a measure of the number of yearly students (including summer session)
 
 Some interesting facts:</br>
-- The lowest course GPA in the last 2 years is 2.2, belonging to Math 2.
+- The lowest course GPA in the last 2 years is 2.09, belonging to Math 2.
 - The lowest course GPA of all time considering only courses that are still being taught is 2.47, belonging to ECE 35.
 - Some courses, such as Math 188, do not show up at all because the course GPA for every iteration of the course is reported as "N/A."
 - Inspired by <a href="https://waf.cs.illinois.edu/discovery/gpa_of_every_course_at_illinois/" target="_blank"> this visualization</a>.
