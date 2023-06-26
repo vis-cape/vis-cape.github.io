@@ -1,0 +1,865 @@
+,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+0,"Moses, Kelema Lee",USP 100 - Introduction to Urban Planning (A),SP23,63,22,100.0%,100.0%,2.69,A- (3.90),B+ (3.52)
+1,"Gaudette, Jennifer Colleen",USP 101 - Introduction/Policy Analysis (A),SP23,15,3,100.0%,100.0%,4.5,B+ (3.67),
+2,"Shmaryahu Yeshurun, Yael",USP 105 - Urban Sociology (A),SP23,22,10,80.0%,70.0%,2.3,A- (3.90),A- (3.83)
+3,"Lewis, Leslie R",USP 128B - CAS: Capstone Project (A),SP23,14,6,100.0%,100.0%,4.5,A- (3.83),
+4,"Lewis, Leslie R",USP 142B - Urban Chal. Homelessness II (A),SP23,17,7,100.0%,100.0%,3.07,A (4.00),
+5,"Lerner, Amy M",USP 142C - Urban Challenges: Food Systems (A),SP23,30,8,100.0%,100.0%,3.25,A- (3.88),A- (3.79)
+6,"Yaghmaee, Saman",USP 145 - Aging-Social & Health Policy (A),SP23,91,30,96.6%,82.8%,3.67,B+ (3.67),B (3.29)
+7,"Frank, Lawrence Douglas",USP 148 - Health & the Built Environment (A),SP23,19,10,70.0%,60.0%,4.7,A- (3.89),
+8,"Norr, Alex Vaughn",USP 15 - Urban Econ/Plan&Development (A),SP23,60,18,82.4%,75.0%,4.03,B+ (3.31),B- (2.85)
+9,"Devereux, Christina Schopp",USP 150 - Real Estate/Law & Regulation (A),SP23,42,12,100.0%,100.0%,5.41,B (3.27),B- (2.88)
+10,"Moeder, Nathan L",USP 158A - Adv. Special Topics in RED (B),SP23,15,6,100.0%,100.0%,6.83,A (4.00),
+11,"Moses, Kelema Lee",USP 164 - Cities in Film (A),SP23,30,7,100.0%,100.0%,2.21,A- (3.71),B+ (3.59)
+12,"Peerson, Susan",USP 172 - Graphics/Visual Communication (A),SP23,24,8,100.0%,100.0%,10.5,A (4.00),A- (3.95)
+13,"Velasco, Diego",USP 175 - Site Analysis (A),SP23,28,7,57.1%,57.1%,1.36,A- (3.71),B+ (3.60)
+14,"Velasco, Diego",USP 177A - Urban Design Practicum (A),SP23,25,12,100.0%,100.0%,5.41,A- (3.91),A- (3.74)
+15,"Peerson, Susan","USP 179 - Urban Design,Theory & Practice (A)",SP23,25,5,100.0%,100.0%,8.1,A (4.00),A- (3.71)
+16,"Lopez Ricoy, Ana Eugenia",USP 188B - Research Analysis and Report (A),SP23,29,10,100.0%,100.0%,6.28,B+ (3.67),A- (3.96)
+17,"Osias, David",USP 189 - Special Topics/Urban Planning (A),SP23,20,12,83.3%,83.3%,5.0,B+ (3.40),B (3.11)
+18,"Zhao, Ming",USP 191B - Adv. GIS for Urban Research (A),SP23,15,4,100.0%,100.0%,2.5,A- (3.75),
+19,"Martin, Isaac",USP 3 - City and Social Theory (A),SP23,119,53,100.0%,100.0%,4.69,B+ (3.44),B+ (3.48)
+20,"Polat, Soydan Alihan",USP 4 - Intro/Geographic Info Systems (A),SP23,25,9,100.0%,100.0%,3.83,A- (3.88),B+ (3.56)
+21,"Sun, Feiyang",USP 5 - Intro to Real Estate/Develmnt (A),SP23,66,13,91.7%,91.7%,3.33,A- (3.75),A- (3.92)
+22,"Shmaryahu Yeshurun, Yael",USP 105 - Urban Sociology (A),WI23,9,6,100.0%,100.0%,2.5,A- (3.83),
+23,"Devereux, Christina Schopp",USP 124 - Land Use Planning (A),WI23,45,16,80.0%,93.3%,4.5,B+ (3.36),B (3.02)
+24,"Lerner, Amy M",USP 125 - The Design of Social Research (A),WI23,25,4,100.0%,100.0%,4.5,B (3.25),B+ (3.58)
+25,"Lewis, Leslie R",USP 128A - CAS: Community Engaged Resrch (A),WI23,12,3,66.7%,66.7%,3.17,B+ (3.33),
+26,"Wartell, Julie Dara",USP 131 - Craft Breweries/Urban Economy (A),WI23,51,14,78.6%,85.7%,2.07,A (4.00),A- (3.72)
+27,"Anderson, William Raymond",USP 138 - Urban Economic Development (A),WI23,19,4,100.0%,75.0%,3.5,A- (3.75),
+28,"Lewis, Leslie R",USP 141A - Life Course Scholars Research (A),WI23,16,8,100.0%,100.0%,2.75,A (4.00),
+29,"Bussell, Mirle Rabinowitz",USP 142A - Urban Chal. Homelessness I (A),WI23,19,5,100.0%,100.0%,2.9,A (4.00),
+30,"Hinds, Juli Beth",USP 143 - The US Health Care System (A),WI23,235,102,84.7%,90.6%,5.52,B (3.28),B+ (3.49)
+31,"Yetwin, Richard Mark",USP 150 - Real Estate/Law & Regulation (A),WI23,40,11,63.6%,54.5%,4.32,B+ (3.30),B- (2.81)
+32,"Boomhower, Matthew Charles",USP 151 - Real Estate Plan & Development (A),WI23,60,14,85.7%,85.7%,3.93,A- (3.86),A- (3.81)
+33,"Moeder, Nathan L",USP 152 - Real Estate/Dev Finance&Invest (A),WI23,49,15,78.6%,64.3%,6.36,B+ (3.43),B (3.12)
+34,"Garcia, Kathleen",USP 165B - Adv.SpecTopics/Sustainability (A),WI23,15,8,87.5%,100.0%,5.25,B+ (3.50),
+35,"Shilon, Mor",USP 165B - Adv.SpecTopics/Sustainability (B),WI23,16,9,100.0%,100.0%,6.5,A- (3.88),
+36,"Lerner, Amy M",USP 171 - Sustainable Development (A),WI23,50,11,90.9%,90.9%,6.68,B+ (3.55),B (3.27)
+37,"Herzog, Lawrence",USP 173 - History/Urban Planning&Design (A),WI23,45,7,100.0%,83.3%,5.64,A (4.00),A- (3.71)
+38,"Peerson, Susan",USP 175 - Site Analysis (A),WI23,18,5,100.0%,100.0%,6.9,A- (3.80),
+39,"Velasco, Diego",USP 177A - Urban Design Practicum (A),WI23,25,6,100.0%,100.0%,3.3,A (4.00),A- (3.82)
+40,"Peerson, Susan",USP 177B - Advanced Urban Design (A),WI23,12,3,100.0%,100.0%,6.5,A (4.00),
+41,"Frank, Lawrence Douglas",USP 180 - Transportation Planning (A),WI23,19,8,100.0%,100.0%,5.25,B+ (3.50),
+42,"Martin, Isaac",USP 182 - Gentrification (A),WI23,22,3,66.7%,66.7%,4.5,B+ (3.67),B (3.01)
+43,"Boomhower, Matthew Charles",USP 185B - Real Estate Fin/Dev Studio II (A),WI23,27,8,75.0%,75.0%,15.0,B+ (3.63),B+ (3.43)
+44,"Norr, Alex Vaughn",USP 185B - Real Estate Fin/Dev Studio II (B),WI23,29,5,100.0%,100.0%,8.9,B+ (3.60),B+ (3.54)
+45,"Pezzoli, Keith",USP 187 - Senior Seq. Research Project (A),WI23,43,10,90.0%,100.0%,8.3,A- (3.90),B+ (3.50)
+46,"Andrews, Abigail Leslie",USP 188 - Field Research in Migrant Comm (A),WI23,29,10,100.0%,100.0%,6.3,A- (3.80),B+ (3.67)
+47,"Shilon, Mor",USP 189 - Special Topics/Urban Planning (B),WI23,11,6,100.0%,100.0%,3.17,B+ (3.67),
+48,"Rothberg, Scott Jacob",USP 191A - Int. GIS for Urban & Comm Plan (A),WI23,21,6,100.0%,83.3%,7.5,A (4.00),A- (3.90)
+49,"Bussell, Mirle Rabinowitz",USP 193 - San Diego Community Research (A),WI23,21,3,100.0%,100.0%,5.83,B+ (3.67),A- (3.79)
+50,"Pezzoli, Keith",USP 2 - Urban World System (A),WI23,61,32,96.8%,100.0%,4.37,B+ (3.69),A- (3.73)
+51,"Sun, Feiyang",USP 25 - Real Estate/Principle&Analysis (A),WI23,54,15,93.3%,93.3%,3.43,A- (3.87),A- (3.79)
+52,"Polat, Soydan Alihan",USP 4 - Intro/Geographic Info Systems (A),WI23,24,7,100.0%,100.0%,3.36,B (3.29),B+ (3.47)
+53,"Kwak, Nancy",USP 1 - History/US Urban Communities (A),FA22,125,37,100.0%,100.0%,4.33,A- (3.85),A- (3.87)
+54,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),FA22,71,24,95.0%,95.0%,5.07,A- (3.71),B (3.25)
+55,"Shilon, Mor",USP 125 - The Design of Social Research (A),FA22,20,11,81.8%,90.9%,3.23,B+ (3.40),B (3.17)
+56,"Devereux, Christina Schopp",USP 136 - Community Organizing (A),FA22,17,9,100.0%,100.0%,4.25,A- (3.86),
+57,"Chowdhury, Muhammed Zohir",USP 144 - Environ/Prevent Health Issues (A),FA22,138,89,79.5%,80.7%,4.95,B+ (3.55),B (3.14)
+58,"Anderson, William Raymond",USP 15 - Urban Econ/Plan&Development (A),FA22,54,13,69.2%,61.5%,3.73,B+ (3.62),B (3.08)
+59,"Boomhower, Matthew Charles",USP 151 - Real Estate Plan & Development (A),FA22,33,16,100.0%,100.0%,4.9,A- (3.93),A- (3.72)
+60,"Moeder, Nathan L",USP 152 - Real Estate/Dev Finance&Invest (A),FA22,20,4,100.0%,100.0%,6.5,B+ (3.50),B+ (3.40)
+61,"Moden, Kelly Kjestine",USP 153 - Real Estate&DevMarket Analysis (A),FA22,47,15,86.7%,73.3%,6.37,B+ (3.33),B- (2.85)
+62,"Wartell, Julie Dara",USP 161 - Environ Design & Crime Prevent (A),FA22,24,4,100.0%,100.0%,4.5,A (4.00),B (3.14)
+63,"Bajaj, Ravi Siddharth",USP 169 - Intro to Green Building (A),FA22,21,3,100.0%,100.0%,1.5,A (4.00),B+ (3.58)
+64,"Hinds, Juli Beth",USP 170 - Planning for Sustainable Comm (A),FA22,37,10,100.0%,100.0%,3.9,A- (3.90),B+ (3.39)
+65,"Lerner, Amy M",USP 171 - Sustainable Development (A),FA22,46,12,90.9%,81.8%,8.17,B+ (3.33),B (3.10)
+66,"Herzog, Lawrence",USP 176 - Plan&Dev: U.S.-Mexico Border (A),FA22,22,4,100.0%,100.0%,5.0,A- (3.75),B+ (3.43)
+67,"Peerson, Susan",USP 177A - Urban Design Practicum (A),FA22,25,6,100.0%,100.0%,5.5,B+ (3.67),B+ (3.62)
+68,"Shvartzberg Carrio, Manuel",USP 184 - Decolonizing Design (A),FA22,25,10,88.9%,100.0%,5.61,A (4.00),A (4.00)
+69,"Norr, Alex Vaughn",USP 185A - Real Estate Fin/Dev Studio I (A),FA22,29,5,80.0%,100.0%,15.3,B+ (3.40),B+ (3.37)
+70,"Boomhower, Matthew Charles",USP 185A - Real Estate Fin/Dev Studio I (B),FA22,27,8,87.5%,100.0%,17.0,B+ (3.50),B (3.27)
+71,"Pezzoli, Keith",USP 186 - Senior Sequence Resrch Proposl (A),FA22,46,7,83.3%,66.7%,5.83,B+ (3.67),B+ (3.35)
+72,"Rothberg, Scott Jacob",USP 191A - Int. GIS for Urban & Comm Plan (A),FA22,15,3,100.0%,100.0%,6.5,A (4.00),
+73,"Lerner, Amy M",USP 2 - Urban World System (A),FA22,58,16,86.7%,100.0%,3.5,B+ (3.53),B (3.17)
+74,"Shenkman, Michael Thomas",USP 25 - Real Estate/Principle&Analysis (A),FA22,69,49,98.0%,95.8%,5.64,B+ (3.55),B (3.02)
+75,"Polat, Soydan Alihan",USP 4 - Intro/Geographic Info Systems (A),FA22,25,10,88.9%,88.9%,4.5,B+ (3.67),A- (3.75)
+76,"McTague, Sarah",USP 4 - Intro/Geographic Info Systems (B),FA22,26,5,100.0%,100.0%,4.9,A (4.00),B+ (3.45)
+77,"Shenkman, Michael Thomas",USP 5 - Intro to Real Estate/Develmnt (A),FA22,64,26,100.0%,96.2%,5.81,B+ (3.69),B+ (3.50)
+78,"Martin, Isaac",USP 50 - Real Estate & Dev Colloquium (A),FA22,30,9,100.0%,100.0%,1.0,B+ (3.33),
+79,"Shvartzberg Carrio, Manuel",USP 6 - Intro to Global Architecture (A),FA22,38,16,93.3%,93.3%,3.13,B+ (3.69),A- (3.91)
+80,"Sarkar, Sheila Srilekha",USP 100 - Introduction to Urban Planning (A),S222,6,3,100.0%,100.0%,4.5,B+ (3.67),
+81,"Boomhower, Matthew Charles",USP 124 - Land Use Planning (A),S222,22,6,100.0%,83.3%,5.5,B+ (3.33),B- (2.92)
+82,"Moden, Kelly Kjestine",USP 151 - Real Estate Plan & Development (A),S222,17,4,100.0%,100.0%,4.5,B (3.00),
+83,"Bajaj, Ravi Siddharth",USP 169 - Intro to Green Building (A),S222,10,3,100.0%,100.0%,9.17,B+ (3.67),
+84,"Hinds, Juli Beth",USP 170 - Sustainable Planning (A),S222,23,7,57.1%,57.1%,9.07,B+ (3.33),B+ (3.58)
+85,"Curcio, Paul David",USP 181 - Public Transportation (A),S222,17,5,80.0%,80.0%,7.3,A- (3.80),
+86,"Kwak, Nancy",USP 1 - History/US Urban Communities (A),S122,25,4,75.0%,75.0%,8.5,A- (3.75),B+ (3.38)
+87,"Hinds, Juli Beth",USP 2 - Urban World System (A),S122,13,4,100.0%,100.0%,3.0,B+ (3.50),
+88,"Moses, Kelema Lee",USP 100 - Introduction to Urban Planning (A),SP22,55,15,80.0%,93.3%,3.5,B+ (3.64),B+ (3.54)
+89,"Bergman, Matthew Edward",USP 101 - Introduction/Policy Analysis (A),SP22,19,7,50.0%,83.3%,6.1,B+ (3.40),
+90,"Hinds, Juli Beth",USP 124 - Land Use Planning (A),SP22,57,19,94.4%,94.4%,5.5,B+ (3.61),B (3.01)
+91,"Lerner, Amy M",USP 125 - The Design of Social Research (A),SP22,20,6,100.0%,100.0%,2.83,A- (3.83),B+ (3.35)
+92,"Lewis, Leslie R",USP 128B - CAS: Capstone Project (A),SP22,10,3,100.0%,100.0%,3.83,B+ (3.33),
+93,"Lewis, Leslie R",USP 142B - Urban Chal. Homelessness II (A),SP22,17,6,100.0%,100.0%,4.17,A (4.00),
+94,"Nations, Jennifer M",USP 147 - Case Studies/Hlth Care/Poor (A),SP22,136,51,94.0%,94.0%,4.74,A- (3.71),B+ (3.53)
+95,"Frank, Lawrence Douglas",USP 148 - Health & the Built Environment (A),SP22,16,3,50.0%,50.0%,5.5,A (4.00),
+96,"Norr, Alex Vaughn",USP 15 - Urban Econ/Plan&Development (A),SP22,61,23,100.0%,100.0%,4.41,B+ (3.67),B (3.08)
+97,"Devereux, Christina Schopp",USP 150 - Real Estate/Law & Regulation (A),SP22,40,14,100.0%,92.9%,4.93,A- (3.75),B (3.07)
+98,"Shenkman, Michael Thomas",USP 153 - Real Estate&DevMarket Analysis (A),SP22,53,14,100.0%,100.0%,4.36,B+ (3.36),B (3.25)
+99,"Moeder, Nathan L",USP 158A - Adv. Special Topics in RED (A),SP22,21,7,100.0%,100.0%,9.36,A (4.00),B+ (3.38)
+100,"Wartell, Julie Dara",USP 160 - Resrch Methods/Analyzing Crime (A),SP22,16,6,100.0%,100.0%,2.5,B+ (3.67),
+101,"Moses, Kelema Lee",USP 164 - Cities in Film (A),SP22,26,8,100.0%,100.0%,4.5,B+ (3.33),B+ (3.67)
+102,"Lerner, Amy M",USP 171 - Sustainable Development (A),SP22,62,19,94.1%,94.1%,4.26,A- (3.76),B+ (3.30)
+103,"Peerson, Susan",USP 172 - Graphics/Visual Communication (A),SP22,25,10,100.0%,100.0%,5.7,A (4.00),A- (3.88)
+104,"Velasco, Diego",USP 177A - Urban Design Practicum (A),SP22,22,4,100.0%,100.0%,3.0,B+ (3.67),A- (3.97)
+105,"Peerson, Susan",USP 177B - Advanced Urban Design (A),SP22,20,7,100.0%,100.0%,7.07,A- (3.86),A- (3.73)
+106,"Shvartzberg Carrio, Manuel",USP 184 - Decolonizing Design (A),SP22,18,16,87.5%,100.0%,3.88,A- (3.92),
+107,"Osias, David",USP 189 - Special Topics/Urban Planning (A),SP22,15,11,100.0%,100.0%,3.9,B (3.00),
+108,"Rothberg, Scott Jacob",USP 191B - Adv. GIS for Urban Research (A),SP22,8,3,100.0%,100.0%,7.17,A (4.00),
+109,"Martin, Isaac",USP 3 - City and Social Theory (A),SP22,116,38,97.4%,97.4%,3.64,B+ (3.60),B (3.10)
+110,"Polat, Soydan Alihan",USP 4 - Intro/Geographic Info Systems (A),SP22,37,9,100.0%,100.0%,4.28,A (4.00),B+ (3.69)
+111,"Boomhower, Matthew Charles",USP 5 - Intro to Real Estate/Develmnt (A),SP22,59,31,100.0%,100.0%,3.85,A- (3.81),B+ (3.62)
+112,"Lerner, Amy M",USP 125 - The Design of Social Research (A),WI22,25,6,100.0%,100.0%,3.7,B+ (3.60),B (3.16)
+113,"Lewis, Leslie R",USP 128A - CAS: Community Engaged Resrch (B),WI22,12,5,100.0%,100.0%,5.3,A (4.00),
+114,"Wartell, Julie Dara",USP 131 - Craft Breweries/Urban Economy (A),WI22,45,18,100.0%,94.4%,2.94,A- (3.87),A- (3.99)
+115,"Lewis, Leslie R",USP 141A - Life Course Scholars Research (A),WI22,17,12,100.0%,100.0%,5.5,A (4.00),
+116,"Bussell, Mirle Rabinowitz",USP 142A - Urban Chal. Homelessness I (A),WI22,20,9,88.9%,88.9%,5.61,A (4.00),A- (3.93)
+117,"Hinds, Juli Beth",USP 143 - The US Health Care System (A),WI22,221,83,73.2%,74.1%,5.73,B+ (3.43),A- (3.87)
+118,"Huezo, Alexander D",USP 149 - Madness and Urbanization (A),WI22,10,4,75.0%,75.0%,4.0,A (4.00),
+119,"Yetwin, Richard Mark",USP 150 - Real Estate/Law & Regulation (A),WI22,41,17,76.5%,76.5%,4.63,B+ (3.38),B (3.17)
+120,"Boomhower, Matthew Charles",USP 151 - Real Estate Plan & Development (A),WI22,47,15,100.0%,100.0%,6.9,B+ (3.67),A- (3.74)
+121,"Moeder, Nathan L",USP 152 - Real Estate/Dev Finance&Invest (A),WI22,60,19,78.9%,77.8%,6.29,B (3.16),B (3.09)
+122,"Wartell, Julie Dara",USP 161 - Environ Design & Crime Prevent (A),WI22,19,6,100.0%,100.0%,4.17,B+ (3.40),
+123,"Garcia, Kathleen",USP 170 - Sustainable Planning (A),WI22,34,9,88.9%,88.9%,4.72,A- (3.75),B+ (3.58)
+124,"Shvartzberg Carrio, Manuel",USP 173 - History/Urban Planning&Design (A),WI22,38,31,87.1%,83.9%,3.66,B+ (3.31),B+ (3.41)
+125,"Peerson, Susan",USP 175 - Site Analysis (B),WI22,18,5,80.0%,80.0%,6.9,A- (3.80),
+126,"Velasco, Diego",USP 177A - Urban Design Practicum (A),WI22,26,6,100.0%,100.0%,3.17,A (4.00),A- (3.87)
+127,"Peerson, Susan","USP 179 - Urban Design,Theory & Practice (A)",WI22,24,9,100.0%,100.0%,6.75,A- (3.75),B+ (3.59)
+128,"Frank, Lawrence Douglas",USP 180 - Transportation Planning (A),WI22,29,9,77.8%,87.5%,6.06,B+ (3.44),B (3.22)
+129,"Martin, Isaac",USP 182 - Gentrification (A),WI22,18,8,100.0%,100.0%,5.25,A- (3.71),
+130,"Norr, Alex Vaughn",USP 185B - Real Estate Fin/Dev Studio II (A),WI22,54,10,80.0%,80.0%,11.7,B+ (3.50),B (3.14)
+131,"Pezzoli, Keith",USP 187 - Senior Seq. Research Project (A),WI22,33,10,80.0%,88.9%,11.1,B- (2.90),B (3.07)
+132,"Andrews, Abigail Leslie",USP 188 - Field Research in Migrant Comm (A),WI22,7,4,100.0%,100.0%,7.5,A- (3.75),
+133,"Rothberg, Scott Jacob",USP 191 - Int. GIS for Urban & Comm Plan (A),WI22,10,6,83.3%,100.0%,7.17,B (3.00),
+134,"Bussell, Mirle Rabinowitz",USP 193 - San Diego Community Research (A),WI22,16,6,100.0%,100.0%,7.5,A (4.00),
+135,"Pezzoli, Keith",USP 2 - Urban World System (A),WI22,99,43,86.0%,86.0%,4.22,B+ (3.63),B+ (3.48)
+136,"Polat, Soydan Alihan",USP 4 - Intro/Geographic Info Systems (A),WI22,37,10,100.0%,100.0%,4.06,A- (3.78),B (3.27)
+137,"Shvartzberg Carrio, Manuel",USP 6 - Intro to Global Architecture (A),WI22,43,28,85.7%,96.4%,4.64,B+ (3.57),B+ (3.44)
+138,"Kwak, Nancy",USP 1 - History/US Urban Communities (A),FA21,122,42,87.2%,92.3%,4.1,B+ (3.63),B (3.29)
+139,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),FA21,128,45,97.8%,100.0%,5.91,B+ (3.59),B (3.20)
+140,"Shilon, Mor",USP 125 - The Design of Social Research (A),FA21,21,4,100.0%,100.0%,3.5,B (3.25),B+ (3.68)
+141,"Nations, Jennifer M",USP 145 - Aging-Social & Health Policy (A),FA21,85,37,82.4%,88.2%,4.84,B+ (3.70),B+ (3.65)
+142,"Anderson, William Raymond",USP 15 - Urban Econ/Plan&Development (A),FA21,47,22,68.2%,59.1%,4.05,B+ (3.36),B (3.11)
+143,"Boomhower, Matthew Charles",USP 151 - Real Estate Plan & Development (A),FA21,46,15,100.0%,100.0%,5.3,B+ (3.67),A- (3.75)
+144,"Moden, Kelly Kjestine",USP 153 - Real Estate&DevMarket Analysis (A),FA21,42,8,62.5%,75.0%,3.75,B (3.25),C+ (2.67)
+145,"Shilon, Mor",USP 165B - Adv.SpecTopics/Sustainability (A),FA21,13,5,100.0%,100.0%,4.9,A (4.00),
+146,"Bajaj, Ravi Siddharth",USP 169 - Intro to Green Building (A),FA21,23,7,85.7%,85.7%,2.21,B- (2.83),B (3.19)
+147,"Lerner, Amy M",USP 171 - Sustainable Development (A),FA21,49,12,80.0%,90.0%,6.06,B+ (3.56),B (3.17)
+148,"Peerson, Susan",USP 177A - Urban Design Practicum (A),FA21,25,4,100.0%,100.0%,8.0,A- (3.75),A- (3.74)
+149,"Norr, Alex Vaughn",USP 185A - Real Estate Fin/Dev Studio I (A),FA21,54,9,100.0%,100.0%,14.94,B (3.11),B (3.29)
+150,"Pezzoli, Keith",USP 186 - Senior Sequence Resrch Proposl (A),FA21,37,9,77.8%,88.9%,8.06,B (3.00),B (3.09)
+151,"Bussell, Mirle Rabinowitz",USP 189 - Special Topics/Urban Planning (A),FA21,14,4,100.0%,100.0%,5.0,A- (3.75),
+152,"Polat, Soydan Alihan",USP 191 - Int. GIS for Urban & Comm Plan (A),FA21,11,5,100.0%,100.0%,5.3,A- (3.80),
+153,"Lerner, Amy M",USP 2 - Urban World System (A),FA21,50,26,100.0%,100.0%,3.27,B+ (3.69),B (3.15)
+154,"Adams, Zachary",USP 25 - Real Estate/Principle&Analysis (A),FA21,57,15,84.6%,92.3%,2.79,A- (3.93),B+ (3.64)
+155,"Wartell, Julie Dara",USP 4 - Intro/Geographic Info Systems (A),FA21,39,15,92.3%,84.6%,5.12,A- (3.83),B+ (3.66)
+156,"Moeder, Nathan L",USP 5 - Intro to Real Estate/Develmnt (A),FA21,60,15,92.9%,85.7%,4.07,B+ (3.50),B- (2.84)
+157,"Martin, Isaac",USP 50 - Real Estate & Dev Colloquium (A),FA21,25,8,100.0%,100.0%,0.75,A (4.00),
+158,"Kwak, Nancy",USP 1 - History/US Urban Communities (A),S221,19,4,100.0%,100.0%,4.0,B (3.00),
+159,"Boomhower, Matthew Charles",USP 124 - Land Use Planning (A),S221,19,5,100.0%,100.0%,5.7,B+ (3.50),
+160,"Hinds, Juli Beth",USP 170 - Sustainable Planning (A),S121,24,6,100.0%,100.0%,5.5,A (4.00),B+ (3.49)
+161,"Curcio, Paul David",USP 181 - Public Transportation (A),S121,14,6,100.0%,100.0%,5.17,B+ (3.67),
+162,"Herzog, Lawrence",USP 100 - Introduction to Urban Planning (A),SP21,38,13,92.3%,100.0%,5.88,A- (3.77),B+ (3.67)
+163,"Hinds, Juli Beth",USP 124 - Land Use Planning (A),SP21,50,23,86.4%,100.0%,6.32,B+ (3.39),B+ (3.61)
+164,"Shilon, Mor",USP 125 - The Design of Social Research (A),SP21,15,6,66.7%,83.3%,4.5,B+ (3.60),
+165,"Velasco, Diego",USP 137 - Housg&Comm.Dev./Policy & Prac (A),SP21,34,12,100.0%,100.0%,3.0,A- (3.92),A- (3.80)
+166,"Bussell, Mirle Rabinowitz",USP 141B - Life Course Scholars Capstone (A),SP21,13,11,100.0%,100.0%,3.77,A (4.00),
+167,"Lewis, Leslie R",USP 141B - Life Course Scholars Capstone (A),SP21,13,11,100.0%,100.0%,3.77,A (4.00),
+168,"Bussell, Mirle Rabinowitz",USP 142B - Urban Chal. Homelessness II (A),SP21,18,12,100.0%,100.0%,7.67,A- (3.75),
+169,"Lewis, Leslie R",USP 142B - Urban Chal. Homelessness II (A),SP21,18,12,100.0%,100.0%,7.67,A- (3.75),
+170,"Lewis, Leslie R",USP 147 - Case Studies/Hlth Care/Poor (A),SP21,142,68,100.0%,97.0%,3.74,A- (3.72),B+ (3.61)
+171,"Norr, Alex Vaughn",USP 15 - Urban Econ/Plan&Development (A),SP21,59,22,95.5%,95.5%,5.95,B+ (3.57),B (3.18)
+172,"Devereux, Christina Schopp",USP 150 - Real Estate/Law & Regulation (A),SP21,34,10,55.6%,77.8%,4.5,B (3.29),B- (2.92)
+173,"Boomhower, Matthew Charles",USP 151 - Real Estate Plan & Development (A),SP21,63,15,100.0%,100.0%,5.7,A- (3.77),A- (3.83)
+174,"Moeder, Nathan L",USP 152 - Real Estate/Dev Finance&Invest (A),SP21,62,19,83.3%,88.9%,5.66,B+ (3.31),B (3.07)
+175,"Gherini, Paul Pier-Carlo",USP 159B - NAIOP Challenge II (A),SP21,10,3,100.0%,100.0%,19.17,A (4.00),
+176,"Wartell, Julie Dara",USP 160 - Resrch Methods/Analyzing Crime (A),SP21,18,5,80.0%,100.0%,4.5,A- (3.75),
+177,"Garcia, Kathleen",USP 165B - Adv.SpecTopics/Sustainability (A),SP21,12,4,100.0%,100.0%,4.0,A (4.00),
+178,"Hinds, Juli Beth",USP 171 - Sustainable Development (A),SP21,75,31,77.4%,90.3%,6.18,B+ (3.33),A- (3.76)
+179,"Peerson, Susan",USP 172 - Graphics/Visual Communication (A),SP21,23,11,100.0%,100.0%,5.95,A (4.00),A- (3.83)
+180,"Wright, Nicholle Narhi",USP 177A - Urban Design Practicum (A),SP21,14,5,80.0%,80.0%,5.3,A- (3.75),
+181,"Frank, Lawrence Douglas",USP 180 - Transportation Planning (A),SP21,20,9,77.8%,88.9%,4.72,A- (3.75),A- (3.83)
+182,"Curcio, Paul David",USP 189 - Special Topics/Urban Planning (A),SP21,7,4,100.0%,100.0%,6.0,A (4.00),
+183,"Lerner, Amy M",USP 190 - Senior Honors Seminar (A),SP21,5,3,100.0%,100.0%,9.83,A (4.00),
+184,"Lerner, Amy M",USP 2 - Urban World System (A),SP21,54,20,90.0%,95.0%,4.3,B+ (3.63),B- (2.75)
+185,"Martin, Isaac",USP 3 - City and Social Theory (A),SP21,168,57,90.6%,90.4%,3.76,B+ (3.46),B- (2.99)
+186,"Polat, Soydan Alihan",USP 4 - Intro/Geographic Info Systems (A),SP21,33,12,83.3%,75.0%,5.33,B+ (3.50),B+ (3.34)
+187,"Wartell, Julie Dara",USP 131 - Craft Breweries/Urban Economy (A),WI21,48,16,87.5%,100.0%,3.0,A- (3.80),A- (3.91)
+188,"Anderson, William Raymond",USP 138 - Urban Economic Development (A),WI21,8,3,100.0%,100.0%,3.83,B+ (3.33),
+189,"Lewis, Leslie R",USP 141A - Life Course Scholars Research (A),WI21,13,13,100.0%,100.0%,3.58,A (4.00),
+190,"Bussell, Mirle Rabinowitz",USP 142A - Urban Chal. Homelessness I (A),WI21,18,14,100.0%,100.0%,6.64,A- (3.86),
+191,"Munday, Jennifer S",USP 143 - The US Health Care System (A),WI21,222,113,90.0%,91.8%,4.26,A- (3.88),A- (3.94)
+192,"Yetwin, Richard Mark",USP 150 - Real Estate/Law & Regulation (A),WI21,52,19,83.3%,77.8%,3.34,B+ (3.53),B+ (3.34)
+193,"Gherini, Paul Pier-Carlo",USP 159A - NAIOP Challenge I (A),WI21,10,4,100.0%,100.0%,6.5,A (4.00),
+194,"Wartell, Julie Dara",USP 161 - Environ Design & Crime Prevent (A),WI21,14,5,100.0%,100.0%,3.3,B+ (3.60),
+195,"Garcia, Kathleen",USP 165B - Adv.SpecTopics/Sustainability (A),WI21,4,3,100.0%,100.0%,9.83,B+ (3.67),
+196,"Shvartzberg Carrio, Manuel",USP 165D - Adv.SpecTopics/Urban Design (B),WI21,6,3,100.0%,100.0%,9.83,A (4.00),
+197,"Garcia, Kathleen",USP 170 - Sustainable Planning (A),WI21,27,10,90.0%,90.0%,3.9,B+ (3.67),B+ (3.64)
+198,"Herzog, Lawrence",USP 173 - History/Urban Planning&Design (A),WI21,36,9,88.9%,77.8%,4.72,B+ (3.67),B+ (3.53)
+199,"Peerson, Susan",USP 175 - Site Anal.-Opptys&Constraints (A),WI21,20,13,100.0%,100.0%,7.88,A- (3.85),A- (3.76)
+200,"Velasco, Diego",USP 177A - Urban Design Practicum (A),WI21,25,6,100.0%,100.0%,3.5,A- (3.83),A- (3.91)
+201,"Peerson, Susan","USP 179 - Urban Design,Theory & Practice (A)",WI21,20,12,100.0%,100.0%,6.5,A- (3.82),A- (3.83)
+202,"Curcio, Paul David",USP 181 - Public Transportation (A),WI21,12,10,80.0%,80.0%,4.3,B+ (3.60),
+203,"Martin, Isaac",USP 182 - Gentrification (A),WI21,18,11,100.0%,100.0%,5.05,B+ (3.56),
+204,"Norr, Alex Vaughn",USP 185B - Real Estate Fin/Dev Studio II (A),WI21,53,16,87.5%,87.5%,13.25,B (3.27),B (3.12)
+205,"Pezzoli, Keith",USP 187 - Senior Seq. Research Project (A),WI21,34,12,91.7%,90.0%,7.67,B+ (3.45),B+ (3.49)
+206,"Rothberg, Scott Jacob",USP 191 - Int. GIS for Urban & Comm Plan (A),WI21,8,3,100.0%,66.7%,12.5,A (4.00),
+207,"Martin, Isaac",USP 193 - San Diego Community Research (A),WI21,11,6,100.0%,100.0%,7.83,B+ (3.40),
+208,"Pezzoli, Keith",USP 2 - Urban World System (A),WI21,112,50,95.9%,93.8%,3.6,A- (3.80),B+ (3.62)
+209,"Polat, Soydan Alihan",USP 4 - Intro/Geographic Info Systems (A),WI21,14,9,88.9%,87.5%,3.17,B+ (3.43),
+210,"Moeder, Nathan L",USP 5 - Intro to Real Estate/Develmnt (A),WI21,62,15,86.7%,86.7%,3.7,B+ (3.45),B+ (3.32)
+211,"Martin, Isaac",USP 50 - Real Estate & Dev Colloquium (A),WI21,15,5,80.0%,80.0%,0.9,A (4.00),
+212,"Shvartzberg Carrio, Manuel",USP 6 - Intro to Global Architecture (A),WI21,13,6,83.3%,100.0%,3.17,A- (3.80),
+213,"Kwak, Nancy",USP 1 - History/US Urban Communities (A),FA20,117,50,91.8%,95.9%,4.05,B+ (3.66),B- (2.92)
+214,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),FA20,136,55,98.1%,98.1%,5.17,B+ (3.62),B+ (3.58)
+215,"Shilon, Mor",USP 125 - The Design of Social Research (A),FA20,24,8,87.5%,87.5%,3.0,B+ (3.50),B+ (3.59)
+216,"Harper, Heather Marie",USP 133 - Soc Inequality & Public Policy (A),FA20,29,13,100.0%,100.0%,5.88,B+ (3.69),B+ (3.59)
+217,"Devereux, Christina Schopp",USP 136 - Collaborative Comm. Leadership (A),FA20,8,4,100.0%,100.0%,3.0,A (4.00),
+218,"Lewis, Leslie R",USP 144 - Environ/Prevent Health Issues (A),FA20,143,60,94.9%,98.3%,3.65,A- (3.72),B+ (3.65)
+219,"Malmuth, David",USP 151 - Real Estate Plan & Development (A),FA20,46,14,69.2%,53.8%,7.73,B+ (3.42),B (3.19)
+220,"Edwards, Gregory S",USP 153 - Real Estate&DevMarket Analysis (A),FA20,65,17,87.5%,87.5%,7.25,B+ (3.57),B (3.28)
+221,"Bajaj, Ravi Siddharth",USP 169 - Intro to Green Building (A),FA20,8,4,100.0%,100.0%,5.5,B+ (3.50),
+222,"Peerson, Susan",USP 177A - Urban Design Practicum (A),FA20,12,9,100.0%,100.0%,7.61,B+ (3.56),
+223,"Norr, Alex Vaughn",USP 185A - Real Estate Fin/Dev Studio I (A),FA20,53,17,82.4%,82.4%,14.62,B- (2.94),B+ (3.31)
+224,"Pezzoli, Keith",USP 186 - Senior Sequence Resrch Proposl (A),FA20,35,15,93.3%,93.3%,6.37,B (3.29),B+ (3.62)
+225,"Polat, Soydan Alihan",USP 191 - Int. GIS for Urban & Comm Plan (A),FA20,10,6,100.0%,100.0%,6.17,A- (3.83),
+226,"Edwards, Gregory S",USP 25 - Real Estate/Principle&Analysis (A),FA20,65,19,89.5%,94.7%,5.13,A- (3.89),A- (3.72)
+227,"Wartell, Julie Dara",USP 4 - Intro/Geographic Info Systems (A),FA20,35,16,86.7%,100.0%,5.13,A- (3.80),B+ (3.64)
+228,"Boomhower, Matthew Charles",USP 5 - Intro to Real Estate/Develmnt (A),FA20,60,18,94.4%,100.0%,4.17,A- (3.78),B+ (3.39)
+229,"Hajrasouliha, Amir Hossein",USP 124 - Land Use Planning (A),S220,24,3,100.0%,66.7%,5.17,A (4.00),B+ (3.49)
+230,"Hajrasouliha, Amir Hossein",USP 4 - Intro/Geographic Info Systems (A),S220,11,5,100.0%,80.0%,6.1,A- (3.80),
+231,"Do, Nhat-Dang",USP 109 - Calif Government & Politics (A),S120,5,4,100.0%,100.0%,5.0,B (3.00),
+232,"Hinds, Juli Beth",USP 170 - Sustainable Planning (A),S120,20,7,100.0%,100.0%,5.07,A- (3.71),A- (3.94)
+233,"Bussell, Mirle Rabinowitz",USP 173 - History/Urban Planning&Design (A),S120,24,10,100.0%,100.0%,6.25,B+ (3.63),A- (3.70)
+234,"Peerson, Susan",USP 177A - Urban Design Practicum (A),S120,13,3,100.0%,100.0%,8.5,A (4.00),
+235,"Hinds, Juli Beth",USP 2 - Urban World System (A),S120,19,3,100.0%,100.0%,4.5,A (4.00),
+236,"Dewey, Matthew D",USP 3 - City and Social Theory (A),S120,18,3,66.7%,100.0%,8.5,A (4.00),
+237,"Herzog, Lawrence",USP 100 - Introduction to Urban Planning (A),SP20,60,23,95.7%,100.0%,4.41,B+ (3.44),B (3.25)
+238,"Nieto-Barthaburu, Augusto",USP 102 - Urban Economics (A),SP20,6,3,100.0%,100.0%,3.83,B (3.00),
+239,"Shtern, Mark",USP 105 - Urban Sociology (A),SP20,24,8,100.0%,100.0%,6.0,B (3.13),A- (3.86)
+240,"Velasco, Diego",USP 137 - Housg&Comm.Dev./Policy & Prac (A),SP20,33,13,100.0%,84.6%,3.88,A- (3.92),A- (3.86)
+241,"Bussell, Mirle Rabinowitz",USP 141B - Life Course Scholars Capstone (A),SP20,12,3,100.0%,100.0%,6.5,A (4.00),
+242,"Lewis, Leslie R",USP 141B - Life Course Scholars Capstone (A),SP20,12,3,100.0%,100.0%,6.5,A (4.00),
+243,"Lewis, Leslie R",USP 145 - Aging-Social & Health Policy (A),SP20,87,32,96.9%,100.0%,5.73,A- (3.79),A- (3.83)
+244,"Norr, Alex Vaughn",USP 15 - Urban Econ/Plan&Development (A),SP20,63,25,84.0%,76.0%,7.22,B+ (3.38),B (3.24)
+245,"Yetwin, Richard Mark",USP 150 - Real Estate/Law & Regulation (A),SP20,22,9,87.5%,75.0%,4.0,B+ (3.50),B+ (3.48)
+246,"Moeder, Nathan L",USP 152 - Real Estate/Dev Finance&Invest (A),SP20,60,20,95.0%,95.0%,7.8,B+ (3.60),B (3.03)
+247,"Peerson, Susan",USP 159B - NAIOP Challenge II (A),SP20,10,4,100.0%,100.0%,19.0,A (4.00),
+248,"Wartell, Julie Dara",USP 160 - Resrch Methods/Analyzing Crime (A),SP20,9,3,100.0%,100.0%,2.5,B+ (3.67),
+249,"Hinds, Juli Beth",USP 171 - Sustainable Development (A),SP20,69,28,85.7%,89.3%,5.5,B+ (3.44),B+ (3.49)
+250,"Peerson, Susan",USP 172 - Graphics/Visual Communication (A),SP20,24,11,100.0%,100.0%,5.77,A- (3.89),A- (3.93)
+251,"Wright, Nicholle Narhi",USP 177A - Urban Design Practicum (A),SP20,12,5,100.0%,100.0%,7.5,A- (3.75),
+252,"Peerson, Susan",USP 177B - Advanced Urban Design (A),SP20,18,7,100.0%,100.0%,8.21,A- (3.71),
+253,"Chavez, Richard Gerard",USP 180 - Transportation Planning (A),SP20,24,10,70.0%,60.0%,3.3,A (4.00),A- (3.81)
+254,"Garrison, Jessica Debats",USP 189 - Special Topics/Urban Planning (A),SP20,21,5,100.0%,100.0%,3.3,A- (3.75),A- (3.73)
+255,"Curcio, Paul David",USP 189 - Special Topics/Urban Planning (B),SP20,7,4,100.0%,100.0%,1.5,A (4.00),
+256,"Pezzoli, Keith",USP 190 - Senior Honors Seminar (A),SP20,8,3,100.0%,100.0%,15.83,A (4.00),
+257,"Rothberg, Scott Jacob",USP 191 - GIS for Urban & Community Plan (A),SP20,19,11,100.0%,72.7%,5.41,A- (3.70),
+258,"Martin, Isaac",USP 3 - City and Social Theory (A),SP20,124,45,97.7%,100.0%,4.5,B+ (3.38),B+ (3.41)
+259,"Polat, Soydan Alihan",USP 4 - Intro/Geographic Info Systems (A),SP20,25,12,100.0%,100.0%,6.5,A- (3.91),A- (3.72)
+260,"Garrison, Jessica Debats",USP 125 - The Design of Social Research (A),WI20,12,5,100.0%,100.0%,1.7,B (3.20),
+261,"Wartell, Julie Dara",USP 131 - Craft Breweries/Urban Economy (A),WI20,48,18,100.0%,100.0%,1.68,A- (3.73),A- (3.74)
+262,"Anderson, William Raymond",USP 138 - Urban Economic Development (A),WI20,16,6,100.0%,83.3%,4.17,B+ (3.40),
+263,"Bussell, Mirle Rabinowitz",USP 141A - Life Course Scholars Research (A),WI20,13,11,100.0%,100.0%,4.14,A- (3.82),
+264,"Lewis, Leslie R",USP 141A - Life Course Scholars Research (A),WI20,13,11,100.0%,100.0%,4.14,A- (3.82),
+265,"Lewis, Leslie R",USP 143 - The US Health Care System (A),WI20,213,99,84.2%,90.5%,4.84,B (3.00),B (3.09)
+266,"Devereux, Christina Schopp",USP 150 - Real Estate/Law & Regulation (A),WI20,50,15,92.3%,92.3%,6.35,B+ (3.46),B (3.25)
+267,"Edwards, Gregory S",USP 153 - Real Estate&DevMarket Analysis (A),WI20,58,23,91.3%,91.3%,4.24,B+ (3.57),B+ (3.34)
+268,"Edwards, Gregory S",USP 159A - NAIOP Challenge I (A),WI20,10,3,100.0%,100.0%,12.5,A (4.00),
+269,"Wartell, Julie Dara",USP 161 - Environ Design & Crime Prevent (A),WI20,21,10,77.8%,100.0%,1.9,A- (3.89),B+ (3.51)
+270,"Garcia, Kathleen",USP 170 - Sustainable Planning (A),WI20,32,13,100.0%,100.0%,3.0,A- (3.91),B+ (3.62)
+271,"Wright, Nicholle Narhi",USP 175 - Site Anal.-Opptys&Constraints (A),WI20,18,5,100.0%,100.0%,5.7,B (3.20),
+272,"Velasco, Diego",USP 177A - Urban Design Practicum (A),WI20,25,7,100.0%,100.0%,3.64,B+ (3.57),A- (3.93)
+273,"Peerson, Susan","USP 179 - Urban Design,Theory & Practice (A)",WI20,19,7,100.0%,100.0%,6.21,A (4.00),
+274,"Curcio, Paul David",USP 181 - Public Transportation (A),WI20,18,8,87.5%,75.0%,5.75,B+ (3.63),
+275,"Norr, Alex Vaughn",USP 185B - Real Estate Fin/Dev Studio II (A),WI20,17,3,100.0%,100.0%,13.5,B+ (3.50),
+276,"Peerson, Susan",USP 185B - Real Estate Fin/Dev Studio II (A),WI20,17,3,100.0%,100.0%,13.5,B+ (3.50),
+277,"Pezzoli, Keith",USP 187 - Senior Seq. Research Project (A),WI20,45,19,89.5%,89.5%,6.18,B+ (3.47),B+ (3.33)
+278,"Bussell, Mirle Rabinowitz",USP 189 - Special Topics/Urban Planning (B),WI20,22,19,100.0%,100.0%,5.45,A- (3.89),A- (3.93)
+279,"Lewis, Leslie R",USP 189 - Special Topics/Urban Planning (B),WI20,22,19,100.0%,100.0%,5.45,A- (3.89),A- (3.93)
+280,"Norr, Alex Vaughn",USP 193 - San Diego Community Research (A),WI20,17,6,50.0%,50.0%,5.83,B (3.17),
+281,"Pezzoli, Keith",USP 2 - Urban World System (A),WI20,99,44,79.1%,81.0%,3.57,B+ (3.67),B+ (3.62)
+282,"Moeder, Nathan L",USP 5 - Intro to Real Estate/Develmnt (A),WI20,61,16,87.5%,87.5%,4.13,B+ (3.31),B (3.09)
+283,"Bussell, Mirle Rabinowitz",USP 50 - Real Estate & Dev Colloquium (A),WI20,29,10,100.0%,100.0%,0.7,A (4.00),
+284,"Kwak, Nancy",USP 1 - History/US Urban Communities (A),FA19,117,51,93.8%,93.6%,3.96,B+ (3.34),B- (2.93)
+285,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),FA19,133,53,98.1%,94.2%,5.18,B (3.27),B (3.03)
+286,"Lewis, Leslie R",USP 144 - Environ/Prevent Health Issues (A),FA19,69,31,93.5%,96.8%,4.76,B+ (3.48),B (3.18)
+287,"Edwards, Gregory S",USP 151 - Real Estate Plan & Development (A),FA19,43,36,91.7%,91.7%,5.33,B+ (3.58),B (3.21)
+288,"Bajaj, Ravi Siddharth",USP 169 - Intro to Green Building (A),FA19,19,10,90.0%,90.0%,1.7,B+ (3.60),
+289,"Peerson, Susan",USP 177 - Urban Design Practicum (A),FA19,21,7,85.7%,85.7%,7.36,A- (3.71),A- (3.70)
+290,"Norr, Alex Vaughn",USP 185A - Real Estate Fin/Dev Studio I (A),FA19,20,11,77.8%,87.5%,13.7,B+ (3.33),B- (2.72)
+291,"Peerson, Susan",USP 185A - Real Estate Fin/Dev Studio I (A),FA19,20,11,77.8%,88.9%,13.7,B+ (3.33),B- (2.72)
+292,"Pezzoli, Keith",USP 186 - Senior Sequence Resrch Proposl (A),FA19,46,23,71.4%,76.2%,4.86,B+ (3.45),B+ (3.41)
+293,"Shtern, Mark",USP 189 - Special Topics/Urban Planning (A),FA19,7,4,100.0%,100.0%,2.5,A- (3.75),
+294,"Bussell, Mirle Rabinowitz",USP 189 - Special Topics/Urban Planning (B),FA19,26,16,100.0%,100.0%,6.79,A- (3.86),A- (3.95)
+295,"Lewis, Leslie R",USP 189 - Special Topics/Urban Planning (B),FA19,26,15,100.0%,100.0%,6.79,A- (3.86),A- (3.95)
+296,"Polat, Soydan Alihan",USP 191 - GIS for Urban & Community Plan (B),FA19,20,11,100.0%,77.8%,4.72,B+ (3.67),A- (3.71)
+297,"Edwards, Gregory S",USP 25 - Real Estate/Principle&Analysis (A),FA19,55,43,95.3%,100.0%,4.92,B+ (3.43),B (3.16)
+298,"Wartell, Julie Dara",USP 4 - Intro/Geographic Info Systems (A),FA19,24,9,88.9%,88.9%,3.25,A- (3.86),B+ (3.47)
+299,"Newton, Joshua Dean",USP 1 - History/US Urban Communities (A),S219,15,6,83.3%,100.0%,5.17,B+ (3.40),
+300,"Dewey, Matthew D",USP 3 - City and Social Theory (A),S219,20,14,92.9%,92.9%,3.93,B+ (3.50),B+ (3.41)
+301,"Hajrasouliha, Amir Hossein",USP 124 - Land Use Planning (A),S119,22,5,80.0%,80.0%,4.5,B (3.00),B (3.28)
+302,"Hajrasouliha, Amir Hossein",USP 191 - GIS for Urban & Community Plan (A),S119,15,6,50.0%,75.0%,7.0,C+ (2.50),
+303,"Hinds, Juli Beth",USP 2 - Urban World System (A),S119,16,10,100.0%,100.0%,4.9,B+ (3.67),
+304,"Garrison, Jessica Debats",USP 100 - Introduction to Urban Planning (A),SP19,69,16,100.0%,100.0%,2.9,A- (3.83),A- (3.72)
+305,"Shtern, Mark",USP 105 - Urban Sociology (A),SP19,17,7,85.7%,85.7%,3.07,B (3.14),
+306,"Bergman, Matthew Edward",USP 133 - Soc Inequality & Public Policy (A),SP19,18,8,85.7%,100.0%,4.5,B (3.25),
+307,"Linton, Mellissa Franceska",USP 135 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),SP19,15,4,75.0%,100.0%,6.0,B+ (3.67),
+308,"Velasco, Diego",USP 137 - Housg&Comm.Dev./Policy & Prac (A),SP19,35,5,100.0%,66.7%,2.5,A (4.00),A- (3.80)
+309,"Lewis, Leslie R",USP 141B - Life Course Scholars Capstone (A),SP19,24,11,100.0%,100.0%,3.05,A (4.00),A- (3.93)
+310,"Lewis, Leslie R",USP 147 - Case Studies/Hlth Care/Poor (A),SP19,146,66,97.0%,100.0%,4.38,B+ (3.42),B+ (3.31)
+311,"Norr, Alex Vaughn",USP 15 - Urban Econ/Plan&Development (A),SP19,50,16,100.0%,100.0%,5.73,B+ (3.38),B (3.03)
+312,"Moeder, Nathan L",USP 152 - Real Estate/Dev Finance&Invest (A),SP19,32,9,85.7%,57.1%,5.64,B- (2.80),B- (2.95)
+313,"Hinds, Juli Beth",USP 171 - Sustainable Development (A),SP19,70,21,84.2%,100.0%,4.4,B+ (3.53),B+ (3.34)
+314,"Peerson, Susan",USP 172 - Graphics/Visual Communication (A),SP19,29,10,87.5%,100.0%,3.64,A (4.00),A- (3.87)
+315,"Wright, Nicholle Narhi",USP 177 - Urban Design Practicum (A),SP19,18,6,100.0%,100.0%,4.5,B+ (3.60),
+316,"Chavez, Richard Gerard",USP 180 - Transportation Planning (A),SP19,21,3,66.7%,66.7%,1.83,B+ (3.67),B+ (3.66)
+317,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),SP19,20,5,100.0%,100.0%,5.0,A- (3.75),B+ (3.57)
+318,"Edwards, Gregory S",USP 25 - Real Estate/Principle&Analysis (A),SP19,25,11,100.0%,100.0%,6.14,B+ (3.50),B- (2.93)
+319,"Martin, Isaac",USP 3 - City and Social Theory (A),SP19,148,59,91.2%,94.7%,4.61,B+ (3.58),B+ (3.39)
+320,"Garrison, Jessica Debats",USP 125 - The Design of Social Research (A),WI19,13,4,100.0%,100.0%,2.5,B (3.25),
+321,"Wartell, Julie Dara",USP 131 - Craft Breweries/Urban Economy (A),WI19,53,20,94.7%,100.0%,2.71,A- (3.88),A- (3.89)
+322,"Anderson, William Raymond",USP 138 - Urban Economic Development (A),WI19,13,4,75.0%,75.0%,6.5,B (3.00),
+323,"Bussell, Mirle Rabinowitz",USP 141A - Life Course Scholars Research (A),WI19,26,14,100.0%,100.0%,4.64,A (4.00),A- (3.95)
+324,"Lewis, Leslie R",USP 143 - The US Health Care System (A),WI19,217,102,89.4%,87.9%,5.3,B (3.27),B (3.09)
+325,"Yetwin, Richard Mark",USP 150 - Real Estate/Law & Regulation (A),WI19,40,17,85.7%,92.9%,3.79,B+ (3.36),B (3.12)
+326,"Edwards, Gregory S",USP 153 - Real Estate&DevMarket Analysis (A),WI19,35,24,100.0%,100.0%,3.8,B+ (3.43),B+ (3.30)
+327,"Bussell, Mirle Rabinowitz",USP 173 - History/Urban Planning&Design (A),WI19,34,12,90.9%,100.0%,4.32,A- (3.73),B+ (3.60)
+328,"Peerson, Susan",USP 175 - Site Anal.-Opptys&Constraints (A),WI19,15,3,100.0%,100.0%,6.5,B+ (3.67),
+329,"Velasco, Diego",USP 177 - Urban Design Practicum (A),WI19,13,9,88.9%,88.9%,4.5,A- (3.89),
+330,"Peerson, Susan","USP 179 - Urban Design,Theory & Practice (A)",WI19,24,8,85.7%,85.7%,6.79,A- (3.71),A- (3.71)
+331,"Curcio, Paul David",USP 181 - Public Transportation (A),WI19,14,12,90.0%,100.0%,3.05,A- (3.80),
+332,"Pezzoli, Keith",USP 187 - Senior Seq. Research Project (A),WI19,44,22,90.0%,95.0%,7.8,B+ (3.45),B+ (3.37)
+333,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),WI19,18,7,83.3%,83.3%,3.83,B+ (3.67),
+334,"Norr, Alex Vaughn",USP 193 - San Diego Community Research (A),WI19,19,10,66.7%,77.8%,6.5,B+ (3.63),
+335,"Pezzoli, Keith",USP 2 - Urban World System (A),WI19,112,69,88.4%,91.0%,4.24,B+ (3.35),B+ (3.43)
+336,"Moeder, Nathan L",USP 5 - Intro to Real Estate/Develmnt (A),WI19,58,22,80.0%,80.0%,4.4,B+ (3.30),B- (2.71)
+337,"Kwak, Nancy",USP 1 - History/US Urban Communities (A),FA18,112,48,95.7%,97.9%,3.99,B (3.24),B- (2.87)
+338,"Hajnal, Zoltan Lloyd",USP 101 - Introduction/Policy Analysis (A),FA18,15,7,85.7%,85.7%,3.93,B- (2.86),
+339,"Newton, Joshua Dean",USP 106 - Race/Ethnicity-American Cities (A),FA18,22,10,88.9%,77.8%,1.9,B+ (3.67),B+ (3.48)
+340,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),FA18,95,44,86.0%,92.9%,5.1,B+ (3.31),B (3.18)
+341,"Blaise, Jean G",USP 129 - Research Methods/Ethnic&Racial (A),FA18,17,8,75.0%,100.0%,7.0,B+ (3.33),
+342,"Lewis, Leslie R",USP 140 - Healthy Placemaking (A),FA18,20,7,100.0%,100.0%,3.93,B+ (3.43),B+ (3.59)
+343,"Lewis, Leslie R",USP 144 - Environ/Prevent Health Issues (A),FA18,115,56,98.2%,98.1%,5.37,B (3.17),B (3.20)
+344,"Edwards, Gregory S",USP 151 - Real Estate Plan & Development (A),FA18,45,35,100.0%,97.1%,4.16,B+ (3.64),B+ (3.31)
+345,"Garcia, Kathleen",USP 170 - Sustainable Planning (A),FA18,30,13,92.3%,100.0%,3.12,B+ (3.54),B+ (3.39)
+346,"Peerson, Susan",USP 177 - Urban Design Practicum (A),FA18,20,8,87.5%,100.0%,4.75,A- (3.88),B+ (3.46)
+347,"Pezzoli, Keith",USP 186 - Senior Sequence Resrch Proposl (A),FA18,46,11,81.8%,100.0%,9.59,B+ (3.55),B+ (3.40)
+348,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),FA18,20,6,100.0%,100.0%,5.5,B+ (3.67),B+ (3.46)
+349,"Bussell, Mirle Rabinowitz",USP 50 - Real Estate & Dev Colloquium (A),FA18,24,13,92.3%,100.0%,0.5,A (4.00),
+350,"Hajrasouliha, Amir Hossein",USP 124 - Land Use Planning (A),S218,19,9,100.0%,100.0%,5.25,B+ (3.38),
+351,"Bussell, Mirle Rabinowitz",USP 173GS - History/Urban Planning&Design (A),S118,19,18,100.0%,100.0%,4.83,B+ (3.59),
+352,"Peerson, Susan",USP 183GS - Int'l Urban Design Practicum (A),S118,19,17,94.1%,100.0%,4.03,A- (3.75),
+353,"Hinds, Juli Beth",USP 2 - Urban World System (A),S118,15,11,100.0%,100.0%,3.05,B+ (3.50),
+354,"Peerson, Susan",USP 100 - Introduction to Urban Planning (A),SP18,66,25,92.0%,91.7%,5.22,B+ (3.67),B (3.22)
+355,"Blaise, Jean G",USP 105 - Urban Sociology (A),SP18,14,4,100.0%,100.0%,7.0,B+ (3.50),
+356,"Fletcher, Nathan",USP 109 - Calif Government & Politics (A),SP18,14,4,100.0%,100.0%,3.5,B- (2.75),
+357,"Ho, Lisa",USP 135 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),SP18,19,12,81.8%,81.8%,4.86,B (3.11),
+358,"Lewis, Leslie R",USP 141B - Life Course Scholars Capstone (A),SP18,15,8,100.0%,100.0%,4.5,A (4.00),
+359,"Lewis, Leslie R",USP 145 - Aging-Social & Health Policy (A),SP18,130,47,91.1%,97.7%,4.59,B+ (3.36),B+ (3.35)
+360,"Norr, Alex Vaughn",USP 15 - Urban Econ/Plan&Development (A),SP18,46,20,100.0%,94.7%,3.55,B+ (3.39),B- (2.92)
+361,"Moeder, Nathan L",USP 152 - Real Estate/Dev Finance&Invest (A),SP18,23,8,85.7%,100.0%,5.25,B+ (3.50),B (3.07)
+362,"Edwards, Gregory S",USP 153 - Real Estate&DevMarket Analysis (A),SP18,16,14,100.0%,100.0%,3.21,B+ (3.69),
+363,"Hinds, Juli Beth",USP 171 - Sustainable Development (A),SP18,66,15,93.3%,100.0%,3.7,B (3.23),B+ (3.45)
+364,"Peerson, Susan",USP 172 - Graphics/Visual Communication (A),SP18,26,12,100.0%,100.0%,5.33,A- (3.83),A- (3.85)
+365,"Chavez, Richard Gerard",USP 180 - Transportation Planning (A),SP18,20,5,100.0%,100.0%,4.1,A- (3.80),B+ (3.49)
+366,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),SP18,24,7,71.4%,85.7%,4.5,A- (3.71),B (3.19)
+367,"Bush, Barbara Ann",USP 3 - City and Social Theory (A),SP18,143,109,72.2%,80.6%,4.22,B+ (3.50),B+ (3.68)
+368,"Kwak, Nancy",USP 1 - History/US Urban Communities (A),WI18,106,50,91.7%,97.9%,4.42,B+ (3.33),B (3.20)
+369,"Erie, Steven P",USP 113 - Politics & Policymaking/L.A. (A),WI18,9,3,100.0%,100.0%,4.5,B (3.00),
+370,"McGrory, Jack",USP 120 - Urban Plan/Infrastruc/Real Est (A),WI18,23,8,83.3%,100.0%,2.83,A (4.00),A- (3.76)
+371,"Wartell, Julie Dara",USP 131 - Craft Breweries/Urban Economy (A),WI18,37,10,100.0%,100.0%,2.7,A (4.00),A- (3.78)
+372,"Calavita, Nico",USP 137 - Housg&Comm.Dev./Policy & Prac (A),WI18,18,7,71.4%,71.4%,5.36,C+ (2.57),
+373,"Bussell, Mirle Rabinowitz",USP 141A - Life Course Scholars Research (A),WI18,15,10,100.0%,100.0%,2.9,A (4.00),
+374,"Lewis, Leslie R",USP 143 - The US Health Care System (A),WI18,210,115,91.7%,98.1%,5.36,B+ (3.34),B (3.22)
+375,"Yetwin, Richard Mark",USP 150 - Real Estate/Law & Regulation (A),WI18,25,13,90.0%,90.0%,4.5,B+ (3.30),B (3.23)
+376,"Peerson, Susan",USP 175 - Site Anal.-Opptys&Constraints (B),WI18,7,5,100.0%,100.0%,6.1,B+ (3.40),
+377,"Peerson, Susan","USP 179 - Urban Design,Theory & Practice (A)",WI18,23,13,100.0%,92.3%,6.65,A- (3.92),B+ (3.64)
+378,"Curcio, Paul David",USP 181 - Public Transportation (A),WI18,15,7,100.0%,100.0%,5.64,A- (3.71),
+379,"Pezzoli, Keith",USP 187 - Urban Studies Intership (A),WI18,30,13,92.3%,84.6%,7.12,B+ (3.38),B+ (3.36)
+380,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),WI18,17,7,83.3%,83.3%,4.83,A (4.00),
+381,"Bergman, Matthew Edward",USP 193 - San Diego Community Research (A),WI18,11,5,75.0%,75.0%,6.0,B (3.25),
+382,"Moeder, Nathan L",USP 5 - Intro to Real Estate/Develmnt (A),WI18,61,33,100.0%,100.0%,3.95,B+ (3.52),B- (2.77)
+383,"Bergman, Matthew Edward",USP 101 - Introduction/Policy Analysis (A),FA17,16,5,20.0%,60.0%,6.5,C+ (2.40),
+384,"Kharputly, Nadeen Sh B",USP 104 - Ethnic Diversity & the City (A),FA17,19,7,100.0%,100.0%,3.93,B+ (3.67),
+385,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),FA17,66,25,88.0%,92.0%,5.17,B+ (3.43),B (3.07)
+386,"Nations, Jennifer M",USP 133 - Soc Inequality & Public Policy (A),FA17,8,4,75.0%,75.0%,5.0,B+ (3.50),
+387,"Lewis, Leslie R",USP 144 - Environ/Prevent Health Issues (A),FA17,136,62,95.1%,96.7%,5.68,B+ (3.35),B (3.26)
+388,"Garcia, Kathleen",USP 170 - Sustainable Planning (A),FA17,28,10,100.0%,100.0%,3.9,B+ (3.67),B+ (3.33)
+389,"Peerson, Susan",USP 177 - Urban Design Practicum (A),FA17,22,11,100.0%,100.0%,7.05,A- (3.91),A- (3.97)
+390,"Pezzoli, Keith",USP 186 - Senior Sequence Resrch Proposl (A),FA17,30,13,84.6%,84.6%,7.12,A- (3.77),B+ (3.40)
+391,"Lewis, Leslie R",USP 189 - Special Topics/Urban Planning (A),FA17,13,6,80.0%,100.0%,4.1,A (4.00),
+392,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),FA17,17,4,100.0%,100.0%,4.5,A (4.00),
+393,"Pezzoli, Keith",USP 2 - Urban World System (A),FA17,107,54,84.6%,84.3%,4.42,B+ (3.46),B+ (3.52)
+394,"Bovino, Emily Verla",USP 100 - Introduction to Urban Planning (A),S217,15,6,100.0%,100.0%,6.5,A (4.00),
+395,"Romo, Oscar",USP 171 - Sustainable Development (A),S117,30,10,80.0%,100.0%,6.1,B+ (3.67),B (3.27)
+396,"Bussell, Mirle Rabinowitz",USP 100 - Introduction to Urban Planning (A),SP17,58,24,87.5%,100.0%,4.0,A- (3.80),B+ (3.37)
+397,"Lowe, Cary D",USP 121 - Real Estate Law and Regulation (A),SP17,11,6,50.0%,33.3%,4.17,B (3.20),
+398,"Denny, Elaine Kathryn",USP 125 - The Design of Social Research (A),SP17,9,5,100.0%,100.0%,6.1,B (3.00),
+399,"Nations, Jennifer M",USP 133 - Soc Inequality & Public Policy (A),SP17,23,23,91.3%,82.6%,5.37,B+ (3.35),B+ (3.46)
+400,"Kini, Ashvin Rathnanand",USP 135 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),SP17,14,5,100.0%,75.0%,9.0,B+ (3.50),
+401,"Lewis, Leslie R",USP 141B - Life Course Scholars Capstone (A),SP17,21,7,100.0%,100.0%,6.5,A (4.00),A (4.00)
+402,"Lewis, Leslie R",USP 147 - Case Studies/Hlth Care/Poor (A),SP17,144,72,97.1%,97.1%,5.19,B+ (3.59),B+ (3.41)
+403,"Kwak, Nancy",USP 167 - History of New York City (A),SP17,16,3,100.0%,100.0%,7.17,A (4.00),
+404,"Hinds, Juli Beth",USP 171 - Sustainable Development (A),SP17,52,6,66.7%,83.3%,4.17,B (3.20),B (3.23)
+405,"Leiter, Robert A.",USP 171 - Sustainable Development (A),SP17,52,6,66.7%,83.3%,4.17,B (3.20),B (3.23)
+406,"Peerson, Susan",USP 172 - Graphics/Visual Communication (A),SP17,16,8,100.0%,100.0%,3.64,A (4.00),
+407,"Peerson, Susan",USP 177 - Urban Design Practicum (A),SP17,16,4,100.0%,100.0%,5.5,A (4.00),
+408,"Chavez, Richard Gerard",USP 180 - Transportation Planning (A),SP17,12,6,100.0%,100.0%,6.83,B+ (3.33),
+409,"Yang, Yang",USP 189 - Special Topics/Urban Planning (A),SP17,15,5,100.0%,100.0%,5.17,A- (3.75),
+410,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),SP17,16,5,100.0%,75.0%,4.0,A (4.00),
+411,"Martin, Isaac",USP 3 - City and Social Theory (A),SP17,164,54,86.0%,98.0%,4.66,B+ (3.36),B+ (3.31)
+412,"McGrory, Jack",USP 120 - Urban Plan/Infrastruc/Real Est (A),WI17,18,9,87.5%,100.0%,2.5,B+ (3.63),
+413,"Williams, Robert Zachary","USP 132 - Afrn Amer, Religions &the City (A)",WI17,7,3,100.0%,100.0%,8.5,A (4.00),
+414,"Lewis, Leslie R",USP 143 - The US Health Care System (A),WI17,204,115,91.0%,95.5%,5.53,B (3.19),B (3.14)
+415,"Bussell, Mirle Rabinowitz",USP 173 - History/Urban Planning&Design (A),WI17,30,17,100.0%,100.0%,5.75,B+ (3.47),A- (3.71)
+416,"Peerson, Susan",USP 175 - Site Anal.-Opptys&Constraints (A),WI17,21,10,100.0%,100.0%,4.5,A- (3.80),A- (3.92)
+417,"Peerson, Susan","USP 179 - Urban Design,Theory & Practice (A)",WI17,19,9,100.0%,100.0%,6.94,B+ (3.63),
+418,"Curcio, Paul David",USP 181 - Public Transportation (A),WI17,18,6,100.0%,100.0%,3.17,B+ (3.67),
+419,"Pezzoli, Keith",USP 187 - Urban Studies Intership (A),WI17,34,22,90.5%,90.5%,8.2,B (3.14),B+ (3.35)
+420,"Wartell, Julie Dara",USP 189 - Special Topics/Urban Planning (A),WI17,24,6,100.0%,100.0%,4.5,A (4.00),A- (3.84)
+421,"Bussell, Mirle Rabinowitz",USP 189 - Special Topics/Urban Planning (D),WI17,21,11,100.0%,100.0%,3.7,A (4.00),A (4.00)
+422,"Kruger, Sebastian Arvid",USP 189 - Special Topics/Urban Planning (E),WI17,6,5,100.0%,100.0%,2.5,A (4.00),
+423,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),WI17,13,3,100.0%,100.0%,8.5,B (3.00),
+424,"Bergman, Matthew Edward",USP 193 - San Diego Community Research (A),WI17,10,3,66.7%,66.7%,11.17,B (3.00),
+425,"Lewis, Leslie R",USP 2 - Urban World System (A),WI17,122,53,86.3%,96.1%,4.38,B+ (3.49),B+ (3.36)
+426,"Kwak, Nancy",USP 1 - History/US Urban Communities (A),FA16,110,52,89.8%,98.0%,4.46,B+ (3.32),B+ (3.44)
+427,"Bergman, Matthew Edward",USP 101 - Introduction/Policy Analysis (A),FA16,18,9,50.0%,87.5%,4.75,B- (2.86),
+428,"Lajevardi, Nazita",USP 107 - Urban Politics (A),FA16,8,6,80.0%,100.0%,5.7,B+ (3.40),
+429,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),FA16,65,30,96.4%,96.4%,5.39,B+ (3.52),B+ (3.33)
+430,"Lewis, Leslie R",USP 144 - Environ/Prevent Health Issues (A),FA16,139,64,93.3%,95.0%,5.08,B+ (3.37),B (3.28)
+431,"Garcia, Kathleen",USP 170 - Sustainable Planning (A),FA16,44,18,88.9%,77.8%,4.61,B+ (3.50),B (3.26)
+432,"Ducheny, Denise Moreno",USP 176 - Bi-Nationl Regional Governance (A),FA16,16,7,100.0%,83.3%,1.83,A- (3.83),
+433,"Peerson, Susan",USP 177 - Urban Design Practicum (A),FA16,21,7,100.0%,100.0%,4.5,A- (3.86),A- (3.77)
+434,"Pezzoli, Keith",USP 186 - Senior Sequence Resrch Proposl (A),FA16,35,15,100.0%,93.3%,5.36,A- (3.77),B+ (3.61)
+435,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),FA16,18,6,100.0%,100.0%,6.5,B+ (3.50),
+436,"Bussell, Mirle Rabinowitz",USP 100 - Introduction to Urban Planning (A),S216,20,10,100.0%,100.0%,6.3,A- (3.78),B+ (3.69)
+437,"Romo, Oscar",USP 171 - Sustainable Development (A),S116,45,9,87.5%,75.0%,4.75,B+ (3.57),B (3.28)
+438,"Curcio, Paul David",USP 181 - Public Transportation (A),S116,14,13,100.0%,100.0%,6.81,A- (3.85),
+439,"Mendes, Gabriel",USP 104 - Ethnic Diversity & the City (A),SP16,19,9,100.0%,75.0%,4.25,A- (3.71),
+440,"Fletcher, Nathan",USP 109 - Calif Government & Politics (A),SP16,9,3,100.0%,100.0%,3.5,B+ (3.50),
+441,"Martin, Isaac",USP 133 - Soc Inequality & Public Policy (A),SP16,31,13,100.0%,100.0%,4.19,B+ (3.46),B (3.21)
+442,"Green, Christina Estel",USP 135 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),SP16,9,5,100.0%,60.0%,5.3,A (4.00),
+443,"Lewis, Leslie R",USP 143 - The US Health Care System (A),SP16,123,54,90.4%,94.2%,4.8,B (3.28),B (3.16)
+444,"Lewis, Leslie R",USP 145 - Aging-Social & Health Policy (A),SP16,135,61,89.7%,93.1%,4.82,B+ (3.35),B+ (3.36)
+445,"Peerson, Susan",USP 177 - Urban Design Practicum (A),SP16,20,8,85.7%,100.0%,6.79,B+ (3.57),A- (3.77)
+446,"Chavez, Richard Gerard",USP 180 - Transportation Planning (A),SP16,23,7,85.7%,85.7%,3.36,A- (3.86),B+ (3.59)
+447,"Wartell, Julie Dara",USP 189 - Special Topics/Urban Planning (B),SP16,52,17,100.0%,100.0%,2.25,A- (3.85),B+ (3.69)
+448,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),SP16,18,4,75.0%,100.0%,4.5,B+ (3.50),
+449,"Bussell, Mirle Rabinowitz",USP 193 - San Diego Community Research (A),SP16,15,7,100.0%,100.0%,8.21,A- (3.71),
+450,"Martin, Isaac",USP 3 - City and Social Theory (A),SP16,169,71,97.1%,100.0%,4.44,A- (3.74),B+ (3.43)
+451,"Bovino, Emily Verla",USP 100 - Introduction to Urban Planning (A),WI16,36,30,82.8%,93.1%,6.78,A- (3.72),B+ (3.57)
+452,"McGrory, Jack",USP 120 - Urban Plan/Infrastruc/Real Est (A),WI16,18,8,85.7%,100.0%,3.93,A- (3.71),
+453,"Denny, Elaine Kathryn",USP 125 - The Design of Social Research (A),WI16,10,7,100.0%,100.0%,7.64,B+ (3.50),
+454,"Bussell, Mirle Rabinowitz",USP 137 - Housg&Comm.Dev./Policy & Prac (A),WI16,38,22,100.0%,100.0%,5.93,A- (3.82),A- (3.76)
+455,"Lewis, Leslie R",USP 143 - The US Health Care System (A),WI16,141,70,95.5%,97.0%,5.26,B+ (3.40),B (3.18)
+456,"Hinds, Juli Beth",USP 171 - Sustainable Development (A),WI16,70,29,89.3%,100.0%,3.94,A- (3.75),B+ (3.35)
+457,"Leiter, Robert A.",USP 171 - Sustainable Development (A),WI16,69,29,89.3%,92.9%,3.94,A- (3.75),B+ (3.35)
+458,"Peerson, Susan","USP 179 - Urban Design,Theory & Practice (A)",WI16,28,11,100.0%,90.9%,10.1,A- (3.80),A- (3.71)
+459,"Curcio, Paul David",USP 181 - Public Transportation (A),WI16,19,8,87.5%,50.0%,5.25,B+ (3.38),
+460,"Pezzoli, Keith",USP 187 - Urban Studies Intership (A),WI16,40,20,70.6%,82.4%,8.74,B+ (3.59),B+ (3.64)
+461,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),WI16,20,9,100.0%,100.0%,6.06,B+ (3.67),B+ (3.55)
+462,"Lewis, Leslie R",USP 2 - Urban World System (A),WI16,109,59,91.4%,96.6%,3.98,B+ (3.60),A- (3.92)
+463,"Mooney, Brian F",USP 1 - History/US Urban Communities (A),FA15,98,42,74.4%,46.2%,3.34,B+ (3.39),A- (3.71)
+464,"Hajnal, Zoltan Lloyd",USP 101 - Introduction/Policy Analysis (A),FA15,14,7,100.0%,100.0%,4.21,B (3.14),
+465,"Andrews, Abigail Leslie",USP 105 - Urban Sociology (A),FA15,19,8,100.0%,87.5%,6.5,B (3.25),
+466,"Kousser, Thad",USP 109 - Calif Government & Politics (A),FA15,9,5,100.0%,100.0%,6.9,B+ (3.40),
+467,"Lowe, Cary D",USP 121 - Real Estate Law and Regulation (A),FA15,3,3,100.0%,100.0%,3.83,B+ (3.67),
+468,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),FA15,66,39,97.4%,97.4%,5.29,B+ (3.43),B+ (3.38)
+469,"Lewis, Leslie R",USP 144 - Environ/Prevent Health Issues (A),FA15,132,45,100.0%,100.0%,6.14,B+ (3.61),B+ (3.47)
+470,"Garcia, Kathleen",USP 170 - Sustainable Planning (A),FA15,55,17,100.0%,100.0%,4.5,B+ (3.67),B+ (3.49)
+471,"Peerson, Susan",USP 177 - Urban Design Practicum (B),FA15,20,14,100.0%,92.3%,6.19,A (4.00),A (4.00)
+472,"Pezzoli, Keith",USP 186 - Senior Sequence Resrch Proposl (A),FA15,40,12,100.0%,100.0%,6.33,B+ (3.42),B+ (3.40)
+473,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),FA15,19,10,100.0%,100.0%,3.7,B+ (3.50),
+474,"Bussell, Mirle Rabinowitz",USP 100 - Introduction to Urban Planning (A),S215,19,6,80.0%,100.0%,11.7,B+ (3.60),
+475,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),S215,17,7,100.0%,100.0%,4.79,A- (3.86),
+476,"Romo, Oscar",USP 171 - Sustainable Development (A),S215,48,18,94.4%,83.3%,6.38,B+ (3.35),B+ (3.31)
+477,"Romo, Oscar",USP 2 - Urban World System (A),S115,11,4,100.0%,75.0%,2.5,A- (3.75),
+478,"Lowe, Cary D","USP 123 - Law, Planning & Public Policy (A)",SP15,6,5,80.0%,100.0%,4.5,B+ (3.40),
+479,"Watson, Paul L",USP 134 - Community Youth Development (A),SP15,5,4,100.0%,100.0%,4.0,B+ (3.67),
+480,"Lewis, Leslie R",USP 147 - Case Studies/Hlth Care/Poor (A),SP15,139,61,98.3%,100.0%,4.7,B+ (3.46),B+ (3.49)
+481,"Leiter, Robert A.",USP 171 - Sustainable Development (A),SP15,42,16,81.3%,87.5%,4.5,A- (3.80),B+ (3.43)
+482,"Bussell, Mirle Rabinowitz",USP 173 - History/Urban Planning&Design (A),SP15,36,11,100.0%,100.0%,4.68,B+ (3.30),B+ (3.42)
+483,"Leiter, Robert A.",USP 175 - Site Anal.-Opptys&Constraints (A),SP15,12,6,83.3%,50.0%,4.17,B+ (3.33),
+484,"Peerson, Susan",USP 177 - Urban Design Practicum (A),SP15,20,6,100.0%,100.0%,5.0,A (4.00),A- (3.89)
+485,"Chavez, Richard Gerard",USP 180 - Transportation Planning (A),SP15,26,4,100.0%,100.0%,3.5,B+ (3.33),B+ (3.55)
+486,"Sine, Elizabeth E",USP 190 - Senior Honors Seminar (A),SP15,5,5,100.0%,100.0%,4.9,A (4.00),
+487,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),SP15,21,7,100.0%,100.0%,5.36,A (4.00),B (3.15)
+488,"Bussell, Mirle Rabinowitz",USP 193 - San Diego Community Research (A),SP15,22,4,100.0%,100.0%,10.5,A (4.00),A- (3.72)
+489,"Martin, Isaac",USP 3 - City and Social Theory (A),SP15,138,63,88.7%,93.5%,4.27,B+ (3.55),B+ (3.43)
+490,"Bussell, Mirle Rabinowitz",USP 100 - Introduction to Urban Planning (A),WI15,57,26,100.0%,95.8%,4.67,B+ (3.60),A- (3.80)
+491,"Mendes, Gabriel",USP 104 - Ethnic Diversity & the City (A),WI15,20,17,82.4%,58.8%,4.03,A- (3.73),B+ (3.64)
+492,"Andrews, Abigail Leslie",USP 105 - Urban Sociology (A),WI15,12,7,100.0%,85.7%,3.93,B (3.20),
+493,"Fletcher, Nathan",USP 109 - Calif Government & Politics (A),WI15,9,4,100.0%,100.0%,4.0,A (4.00),
+494,"McGrory, Jack",USP 120 - Urban Plan/Infrastruc/Real Est (A),WI15,23,7,85.7%,100.0%,3.07,A- (3.71),B+ (3.57)
+495,"Denny, Elaine Kathryn",USP 125 - The Design of Social Research (A),WI15,15,13,100.0%,100.0%,6.33,B (3.25),
+496,"Martin, Isaac",USP 133 - Soc Inequality & Public Policy (A),WI15,25,15,93.3%,100.0%,5.17,B+ (3.31),B (3.19)
+497,"Lewis, Leslie R",USP 143 - The US Health Care System (A),WI15,183,85,93.6%,91.0%,5.25,B (3.22),B+ (3.32)
+498,"Peerson, Susan","USP 179 - Urban Design,Theory & Practice (A)",WI15,22,7,100.0%,100.0%,5.07,A (4.00),A- (3.90)
+499,"Curcio, Paul David",USP 181 - Public Transportation (A),WI15,20,11,88.9%,77.8%,4.94,A- (3.78),A- (3.85)
+500,"Pezzoli, Keith",USP 187 - Urban Studies Intership (A),WI15,43,23,94.1%,88.2%,8.38,A- (3.71),B+ (3.51)
+501,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),WI15,17,7,100.0%,100.0%,4.21,A- (3.83),
+502,"Curcio, Paul David",USP 2 - Urban World System (A),WI15,70,31,66.7%,46.7%,3.23,B+ (3.56),B+ (3.64)
+503,"Kwak, Nancy",USP 1 - History/US Urban Communities (A),FA14,97,47,86.0%,97.7%,4.45,B (3.26),B (3.05)
+504,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),FA14,51,21,95.0%,100.0%,4.94,B+ (3.56),A- (3.71)
+505,"Baza, Ronald L",USP 136 - Collaborative Comm. Leadership (A),FA14,10,7,71.4%,85.7%,2.79,A- (3.71),
+506,"Lewis, Leslie R",USP 144 - Environ/Prevent Health Issues (A),FA14,124,44,95.5%,100.0%,5.82,B (3.23),B+ (3.40)
+507,"Garcia, Kathleen",USP 170 - Sustainable Planning (A),FA14,23,7,85.7%,100.0%,6.5,A- (3.71),B+ (3.49)
+508,"Peerson, Susan",USP 177 - Urban Design Practicum (A),FA14,20,5,100.0%,60.0%,4.1,B+ (3.60),A- (3.84)
+509,"Chavez, Richard Gerard",USP 180 - Transportation Planning (A),FA14,23,11,100.0%,100.0%,3.83,B+ (3.67),B+ (3.47)
+510,"Pezzoli, Keith",USP 186 - Senior Sequence Resrch Proposl (A),FA14,43,15,76.9%,84.6%,6.65,B (3.15),B (3.23)
+511,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),FA14,19,3,66.7%,100.0%,7.83,B+ (3.33),
+512,"Bussell, Mirle Rabinowitz",USP 100 - Introduction to Urban Planning (A),S214,22,3,100.0%,100.0%,9.83,A (4.00),A- (3.75)
+513,"Romo, Oscar",USP 171 - Sustainable Development (A),S214,35,11,70.0%,50.0%,3.9,A- (3.89),B+ (3.35)
+514,"Chowdhury, Rumman",USP 138 - Urban Economic Development (A),S114,11,7,100.0%,100.0%,5.3,A (4.00),
+515,"Peerson, Susan",USP 100 - Introduction to Urban Planning (A),SP14,55,24,75.0%,83.3%,4.59,B+ (3.50),B (3.29)
+516,"Fletcher, Nathan",USP 109 - Calif Government & Politics (A),SP14,15,3,66.7%,100.0%,2.5,A (4.00),
+517,"McMurray-Cathcart, Kimberly Anne",USP 126 - Comp. Land Use/Resourse Mgmnt. (A),SP14,10,5,80.0%,100.0%,6.0,A- (3.75),
+518,"Bussell, Mirle Rabinowitz",USP 137 - Housg&Comm.Dev./Policy & Prac (A),SP14,17,4,100.0%,100.0%,6.0,A- (3.75),
+519,"Bliesner, James D",USP 139 - Urban Design & Econ Developmnt (A),SP14,11,6,33.3%,33.3%,5.3,B+ (3.33),
+520,"Lewis, Leslie R",USP 145 - Aging-Social & Health Policy (A),SP14,96,37,88.9%,94.4%,4.96,B+ (3.39),B+ (3.34)
+521,"Abel, David",USP 174 - Regn'l Governance/Reconsidered (A),SP14,12,4,66.7%,66.7%,4.5,B+ (3.33),
+522,"Bruvold, William Erik",USP 174 - Regn'l Governance/Reconsidered (A),SP14,12,3,66.7%,66.7%,5.17,B+ (3.33),
+523,"Chavez, Richard Gerard",USP 180 - Transportation Planning (A),SP14,27,9,77.8%,77.8%,3.5,B+ (3.56),B (3.30)
+524,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),SP14,20,10,90.0%,90.0%,5.5,B+ (3.33),B- (2.87)
+525,"Martin, Isaac",USP 3 - City and Social Theory (A),SP14,120,41,94.4%,97.2%,5.76,B+ (3.57),B+ (3.44)
+526,"Martin, Isaac",USP 105 - Urban Sociology (A),WI14,18,7,100.0%,100.0%,6.17,B (3.20),
+527,"Fuste, Jose Ignacio",USP 106 - Race/Ethnicity-American Cities (A),WI14,4,3,100.0%,100.0%,5.83,A (4.00),
+528,"Ingram, James Warren",USP 107 - Urban Politics (A),WI14,17,7,71.4%,85.7%,3.07,B+ (3.50),
+529,"McGrory, Jack",USP 120 - Urban Plan/Infrastruc/Real Est (A),WI14,24,10,100.0%,100.0%,3.3,A- (3.80),B+ (3.65)
+530,"Lewis, Leslie R",USP 143 - The US Health Care System (A),WI14,109,56,98.1%,100.0%,4.81,B (3.24),B+ (3.31)
+531,"Bussell, Mirle Rabinowitz",USP 173 - History/Urban Planning&Design (A),WI14,24,12,100.0%,100.0%,2.68,A- (3.82),B+ (3.45)
+532,"Leiter, Robert A.",USP 175 - Site Anal.-Opptys&Constraints (A),WI14,18,8,100.0%,100.0%,6.25,A- (3.75),
+533,"Peerson, Susan",USP 177 - Urban Design Practicum (A),WI14,20,9,100.0%,100.0%,5.61,A- (3.89),A- (3.78)
+534,"Curcio, Paul David",USP 181 - Public Transportation (A),WI14,20,10,100.0%,100.0%,4.5,B+ (3.60),A- (3.71)
+535,"Pezzoli, Keith",USP 187 - Urban Studies Intership (A),WI14,59,20,70.0%,65.0%,7.0,B+ (3.40),B (3.27)
+536,"Raffesberger, Wayne A.",USP 189 - Special Topics/Urban Planning (A),WI14,14,5,100.0%,100.0%,2.5,A- (3.80),
+537,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),WI14,15,6,100.0%,100.0%,4.83,A- (3.80),
+538,"Curcio, Paul David",USP 2 - Urban World System (A),WI14,121,48,75.6%,73.3%,2.87,B+ (3.66),B+ (3.63)
+539,"Kwak, Nancy",USP 1 - History/US Urban Communities (A),FA13,116,53,88.5%,96.2%,5.19,B+ (3.43),B (3.29)
+540,"Levitt, Justin M",USP 101 - Introduction/Policy Analysis (A),FA13,8,4,75.0%,100.0%,2.5,B+ (3.50),
+541,"Mendes, Gabriel",USP 104 - Ethnic Diversity & the City (A),FA13,15,4,50.0%,50.0%,6.5,B (3.25),
+542,"Ducheny, Denise Moreno",USP 116 - Calif Local Govt Finance/Admin (A),FA13,11,5,100.0%,100.0%,4.5,B+ (3.60),
+543,"Lowe, Cary D",USP 121 - Real Estate Law and Regulation (A),FA13,16,5,80.0%,60.0%,2.5,B+ (3.50),
+544,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),FA13,54,19,84.2%,94.7%,6.06,B+ (3.56),B (3.13)
+545,"Lewis, Leslie R",USP 144 - Environ/Prevent Health Issues (A),FA13,100,39,94.4%,100.0%,4.96,B+ (3.59),B (3.23)
+546,"Wilkinson, Edward C",USP 168 - History of Los Angeles (A),FA13,5,3,100.0%,100.0%,3.17,B+ (3.67),
+547,"Garcia, Kathleen",USP 170 - Sustainable Planning (A),FA13,42,14,100.0%,100.0%,3.88,A- (3.77),B+ (3.50)
+548,"Peerson, Susan",USP 177 - Urban Design Practicum (A),FA13,24,10,100.0%,100.0%,6.3,A- (3.80),B+ (3.69)
+549,"Chavez, Richard Gerard",USP 180 - Transportation Planning (A),FA13,29,9,100.0%,100.0%,3.61,A- (3.89),B (3.24)
+550,"Pezzoli, Keith",USP 186 - Senior Sequence Resrch Proposl (A),FA13,57,17,82.4%,82.4%,6.15,B- (2.94),B (3.13)
+551,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),FA13,14,6,100.0%,100.0%,5.7,B+ (3.60),
+552,"Bussell, Mirle Rabinowitz",USP 193 - San Diego Community Research (A),FA13,6,4,100.0%,100.0%,12.5,B (3.25),
+553,"Herzog, Lawrence",USP 124 - Land Use Planning (A),S213,19,4,100.0%,100.0%,7.5,B+ (3.50),
+554,"Herzog, Lawrence",USP 2 - Urban World System (A),S213,17,6,66.7%,66.7%,9.5,B (3.20),
+555,"Bussell, Mirle Rabinowitz",USP 100 - Introduction to Urban Planning (A),S113,17,6,100.0%,100.0%,4.83,B+ (3.50),
+556,"Bussell, Mirle Rabinowitz",USP 137 - Housg&Comm.Dev./Policy & Prac (A),S113,13,3,100.0%,100.0%,5.83,A (4.00),
+557,"Romo, Oscar",USP 171 - Sustainable Development (A),S113,39,20,80.0%,90.0%,5.34,A- (3.85),B+ (3.32)
+558,"Graizbord, Carlos","USP 179 - Urban Design,Theory & Practice (A)",S113,17,4,50.0%,50.0%,2.5,A (4.00),
+559,"McMurray-Cathcart, Kimberly Anne",USP 126 - Comp. Land Use/Resourse Mgmnt. (A),SP13,11,6,83.3%,100.0%,3.17,B+ (3.60),
+560,"Solomon, Amanda Lee Albaniel",USP 135 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),SP13,11,7,85.7%,100.0%,3.64,A- (3.71),
+561,"Sallis, James F",USP 146 - Built Environmnt & Activ Livng (A),SP13,6,3,100.0%,100.0%,8.5,A (4.00),
+562,"Lewis, Leslie R",USP 147 - Case Studies/Hlth Care/Poor (A),SP13,135,51,96.1%,100.0%,4.46,B+ (3.42),B+ (3.32)
+563,"Herzog, Lawrence",USP 171 - Sustainable Development (A),SP13,67,22,95.2%,95.2%,3.26,A- (3.84),B+ (3.55)
+564,"Bussell, Mirle Rabinowitz",USP 173 - History/Urban Planning&Design (A),SP13,59,20,80.0%,90.0%,3.97,B+ (3.65),B+ (3.47)
+565,"Leiter, Robert A.",USP 175 - Site Anal.-Opptys&Constraints (A),SP13,10,3,100.0%,100.0%,5.83,A (4.00),
+566,"Peerson, Susan",USP 177 - Urban Design Practicum (A),SP13,22,6,100.0%,100.0%,6.1,A- (3.83),A- (3.79)
+567,"Curcio, Paul David",USP 181 - Public Transportation (A),SP13,28,7,100.0%,71.4%,4.17,B+ (3.43),A- (3.77)
+568,"Raffesberger, Wayne A.",USP 189 - Special Topics/Urban Planning (A),SP13,13,7,100.0%,100.0%,2.79,A- (3.86),
+569,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),SP13,20,6,80.0%,100.0%,6.1,B+ (3.40),B- (2.86)
+570,"Martin, Isaac",USP 3 - City and Social Theory (A),SP13,102,28,82.1%,96.4%,5.71,B+ (3.50),B (3.06)
+571,"Bussell, Mirle Rabinowitz",USP 100 - Introduction to Urban Planning (A),WI13,52,21,90.5%,95.2%,4.98,B+ (3.68),A- (3.72)
+572,"Ingram, James Warren",USP 107 - Urban Politics (A),WI13,24,4,75.0%,75.0%,4.5,B+ (3.50),B+ (3.68)
+573,"Kousser, Thad",USP 109 - Calif Government & Politics (A),WI13,16,8,100.0%,100.0%,4.5,B+ (3.50),
+574,"Madigan, Laurie Anne",USP 115 - Poli. & Policymaking/San Diego (A),WI13,15,5,80.0%,100.0%,1.7,B+ (3.60),
+575,"Madigan, Michael D",USP 115 - Poli. & Policymaking/San Diego (A),WI13,15,5,80.0%,80.0%,1.7,B+ (3.60),
+576,"McGrory, Jack",USP 120 - Urban Plan/Infrastruc/Real Est (A),WI13,28,12,66.7%,75.0%,4.17,A- (3.75),B+ (3.62)
+577,"Martin, Isaac",USP 133 - Soc Inequality & Public Policy (A),WI13,26,13,100.0%,100.0%,5.58,B+ (3.38),B+ (3.36)
+578,"Lewis, Leslie R",USP 143 - The US Health Care System (A),WI13,110,57,98.2%,96.4%,4.02,B+ (3.62),B+ (3.44)
+579,"Wilkinson, Edward C",USP 168 - History of Los Angeles (A),WI13,9,5,100.0%,80.0%,2.5,B (3.20),
+580,"Peerson, Susan","USP 179 - Urban Design,Theory & Practice (A)",WI13,30,18,94.4%,100.0%,6.06,B+ (3.67),A- (3.72)
+581,"Pezzoli, Keith",USP 187 - Urban Studies Intership (A),WI13,80,40,90.0%,97.5%,7.4,B+ (3.56),B+ (3.45)
+582,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),WI13,17,10,100.0%,90.0%,6.5,B+ (3.33),
+583,"Pezzoli, Keith",USP 2 - Urban World System (A),WI13,187,75,79.7%,89.2%,3.68,B+ (3.59),B+ (3.39)
+584,"Kwak, Nancy",USP 1 - History/US Urban Communities (A),FA12,109,43,88.1%,92.9%,5.02,B+ (3.53),B (3.17)
+585,"White, Michelle J.",USP 102 - Urban Economics (A),FA12,4,4,50.0%,50.0%,3.0,B+ (3.50),
+586,"Fuste, Jose Ignacio",USP 104 - Ethnic Diversity & the City (A),FA12,27,19,94.4%,88.9%,6.83,B+ (3.59),B (3.29)
+587,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),FA12,71,23,82.6%,87.0%,3.98,B+ (3.55),B (3.22)
+588,"Carney, Christina J",USP 130 - Fld Wrk/Racial&Ethnic Communit (A),FA12,10,3,100.0%,100.0%,7.83,B+ (3.33),
+589,"Lewis, Leslie R",USP 144 - Environ/Prevent Health Issues (A),FA12,112,32,100.0%,93.8%,5.1,B+ (3.38),B (3.26)
+590,"Garcia, Kathleen",USP 170 - Sustainable Planning (A),FA12,63,28,80.8%,92.3%,2.66,A- (3.83),B+ (3.40)
+591,"Peerson, Susan",USP 177 - Urban Design Practicum (A),FA12,24,13,100.0%,100.0%,5.0,A- (3.91),A- (3.85)
+592,"Pezzoli, Keith",USP 186 - Senior Sequence Resrch Proposl (A),FA12,81,32,90.0%,86.7%,7.3,A- (3.73),B+ (3.47)
+593,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),FA12,20,5,80.0%,80.0%,6.1,B+ (3.50),B (3.17)
+594,"Bussell, Mirle Rabinowitz",USP 193 - San Diego Community Research (A),FA12,9,7,100.0%,100.0%,9.83,A (4.00),
+595,"Herzog, Lawrence",USP 100 - Introduction to Urban Planning (A),S212,25,4,75.0%,75.0%,4.5,B (3.00),B (3.13)
+596,"Fuste, Jose Ignacio",USP 130 - Fld Wrk/Racial&Ethnic Communit (A),S212,5,3,100.0%,100.0%,7.83,B+ (3.33),
+597,"Fuste, Jose Ignacio",USP 130 - Fld Wrk/Racial&Ethnic Communit (A),S212,10,8,100.0%,100.0%,7.25,A- (3.88),
+598,"Nieto-Barthaburu, Augusto",USP 102 - Urban Economics (A),S112,22,5,100.0%,100.0%,6.9,B (3.25),B- (2.85)
+599,"Rice, Candice T",USP 104 - Ethnic Diversity & the City (A),S112,6,4,100.0%,100.0%,8.5,A- (3.75),
+600,"Ingram, James Warren",USP 107 - Urban Politics (A),S112,5,3,66.7%,66.7%,9.17,A (4.00),
+601,"Kousser, Thad",USP 109 - Calif Government & Politics (A),S112,22,3,100.0%,100.0%,9.17,B+ (3.67),B (3.26)
+602,"Romo, Oscar",USP 171 - Sustainable Development (A),S112,53,28,92.9%,100.0%,5.0,B+ (3.46),B (3.05)
+603,"Graizbord, Carlos","USP 179 - Urban Design,Theory & Practice (A)",S112,20,4,100.0%,50.0%,5.0,A- (3.75),B+ (3.66)
+604,"Bonoff, Nicole S",USP 101 - Introduction/Policy Analysis (A),SP12,15,5,40.0%,60.0%,4.9,B (3.00),
+605,"Bonoff, Nicole S",USP 101 - Introduction/Policy Analysis (A),SP12,125,67,42.4%,15.2%,6.26,B (3.00),C (2.02)
+606,"Ingram, James Warren",USP 113 - Politics & Policymaking/L.A. (A),SP12,21,10,90.0%,80.0%,4.5,A- (3.70),A- (3.70)
+607,"Ingram, James Warren",USP 113 - Politics & Policymaking/L.A. (A),SP12,85,21,90.5%,90.5%,6.21,A- (3.70),A- (3.70)
+608,"Bussell, Mirle Rabinowitz",USP 137 - Housg&Comm.Dev./Policy & Prac (A),SP12,45,21,100.0%,100.0%,5.4,A- (3.75),A- (3.81)
+609,"Bruvold, William Erik",USP 138 - Urban Economic Development (A),SP12,19,7,85.7%,85.7%,4.5,B (3.20),
+610,"Bliesner, James D",USP 139 - Urban Design & Econ Developmnt (A),SP12,23,5,100.0%,100.0%,4.9,B+ (3.50),B+ (3.39)
+611,"Bouton, Steve R.",USP 139 - Urban Design & Econ Developmnt (A),SP12,23,5,100.0%,80.0%,5.0,B+ (3.50),B+ (3.39)
+612,"Schultz, Barry John",USP 139 - Urban Design & Econ Developmnt (A),SP12,23,5,100.0%,100.0%,4.9,B+ (3.50),B+ (3.39)
+613,"Lewis, Leslie R",USP 145 - Aging-Social & Health Policy (A),SP12,112,48,91.7%,97.9%,4.58,B+ (3.50),B (3.22)
+614,"Bussell, Mirle Rabinowitz",USP 173 - History/Urban Planning&Design (A),SP12,43,11,100.0%,100.0%,5.05,A- (3.73),B+ (3.56)
+615,"Abel, David",USP 174 - Regn'l Governance/Reconsidered (B),SP12,23,7,71.4%,71.4%,6.79,B+ (3.57),B+ (3.46)
+616,"Freeman, Gregory P",USP 174 - Regn'l Governance/Reconsidered (B),SP12,23,7,80.0%,100.0%,5.5,B+ (3.57),B+ (3.46)
+617,"Peerson, Susan",USP 177 - Urban Design Practicum (A),SP12,25,18,100.0%,100.0%,6.5,A (4.00),A- (3.80)
+618,"Sulzer, Kenneth E.",USP 180 - Transportation Planning (A),SP12,29,13,76.9%,84.6%,2.5,B+ (3.69),B+ (3.67)
+619,"Raffesberger, Wayne A.",USP 189 - Special Topics/Urban Planning (A),SP12,29,9,88.9%,100.0%,4.06,B+ (3.67),B+ (3.57)
+620,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),SP12,18,8,50.0%,62.5%,6.21,B (3.25),
+621,"Kernell, Samuel H.",USP 194 - Research Seminar/Washington DC (A),SP12,11,5,60.0%,60.0%,4.1,A (4.00),
+622,"Martin, Isaac",USP 3 - City and Social Theory (A),SP12,120,48,93.8%,95.8%,4.92,B+ (3.49),B (3.28)
+623,"Kinney, Rebecca Jo",USP 104 - Ethnic Diversity & the City (A),WI12,12,8,57.1%,42.9%,5.36,B- (2.75),
+624,"Kinney, Rebecca Jo",USP 104 - Ethnic Diversity & the City (A),WI12,26,11,72.7%,90.9%,4.68,B+ (3.64),B (3.18)
+625,"Ingram, James Warren",USP 107 - Urban Politics (A),WI12,53,21,81.0%,57.1%,4.02,B+ (3.45),B (3.15)
+626,"Ingram, James Warren",USP 107 - Urban Politics (A),WI12,57,17,82.4%,82.4%,4.74,B (3.25),B (3.15)
+627,"Kousser, Thad",USP 109 - Calif Government & Politics (A),WI12,217,77,96.0%,97.3%,5.79,B+ (3.47),B (3.06)
+628,"Kousser, Thad",USP 109 - Calif Government & Politics (A),WI12,30,11,90.9%,100.0%,4.5,B+ (3.44),B (3.06)
+629,"Madigan, Laurie Anne",USP 115 - Poli. & Policymaking/San Diego (A),WI12,31,14,85.7%,84.6%,2.35,A- (3.92),A- (3.70)
+630,"Madigan, Michael D",USP 115 - Poli. & Policymaking/San Diego (A),WI12,31,14,92.9%,100.0%,2.0,A- (3.92),A- (3.70)
+631,"Janssen, David E.",USP 116 - Calif Local Govt Finance/Admin (A),WI12,9,6,83.3%,100.0%,5.5,B+ (3.33),
+632,"McGrory, Jack",USP 120 - Urban Plan/Infrastruc/Real Est (A),WI12,41,18,88.9%,100.0%,3.39,A- (3.83),B+ (3.44)
+633,"Raffesberger, Wayne A.","USP 122 - Redevelp Plan, Policymak & Law (A)",WI12,40,20,78.9%,78.9%,2.85,B+ (3.69),B+ (3.51)
+634,"Kheshti, Roshanak",USP 129 - Research Methods/Ethnic&Racial (A),WI12,39,17,82.4%,94.1%,6.0,A- (3.82),A- (3.83)
+635,"Kheshti, Roshanak",USP 129 - Research Methods/Ethnic&Racial (A),WI12,18,5,80.0%,100.0%,4.9,A (4.00),
+636,"Martin, Isaac",USP 133 - Soc Inequality & Public Policy (A),WI12,33,14,100.0%,100.0%,5.21,B+ (3.54),B+ (3.40)
+637,"Martin, Isaac",USP 133 - Soc Inequality & Public Policy (A),WI12,48,19,78.9%,100.0%,6.06,B+ (3.50),B+ (3.40)
+638,"Kim, Grace",USP 135 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),WI12,25,14,100.0%,100.0%,5.21,A- (3.77),A- (3.83)
+639,"Kim, Grace",USP 135 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),WI12,8,4,100.0%,100.0%,10.0,A (4.00),
+640,"Lewis, Leslie R",USP 143 - The US Health Care System (A),WI12,141,55,98.2%,92.7%,5.06,B+ (3.62),B (3.24)
+641,"Peerson, Susan","USP 179 - Urban Design,Theory & Practice (A)",WI12,26,11,100.0%,100.0%,4.32,A- (3.73),B+ (3.44)
+642,"Pezzoli, Keith",USP 187 - Urban Studies Intership (A),WI12,72,27,92.0%,84.0%,8.18,A- (3.77),B (3.27)
+643,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),WI12,19,6,80.0%,100.0%,5.7,B+ (3.40),
+644,"Bussell, Mirle Rabinowitz",USP 193 - San Diego Community Research (A),WI12,17,7,100.0%,100.0%,11.93,B+ (3.43),
+645,"Kernell, Samuel H.",USP 194 - Research Seminar/Washington DC (A),WI12,16,3,66.7%,100.0%,8.5,A (4.00),
+646,"Pezzoli, Keith",USP 2 - Urban World System (A),WI12,181,76,87.8%,87.8%,3.85,B+ (3.66),B+ (3.67)
+647,"Reft, Ryan M",USP 1 - History/US Urban Communities (A),FA11,146,72,88.7%,91.4%,5.83,B+ (3.44),B+ (3.49)
+648,"White, Michelle J.",USP 102 - Urban Economics (A),FA11,79,25,83.3%,66.7%,5.17,B+ (3.38),B- (2.92)
+649,"White, Michelle J.",USP 102 - Urban Economics (A),FA11,11,6,66.7%,33.3%,6.17,B+ (3.67),
+650,"Linton, April",USP 105 - Urban Sociology (A),FA11,65,25,92.0%,88.0%,4.82,B+ (3.60),B+ (3.48)
+651,"Linton, April",USP 105 - Urban Sociology (A),FA11,77,44,88.6%,93.2%,5.09,B+ (3.56),B+ (3.48)
+652,"Lowe, Cary D",USP 121 - Real Estate Law and Regulation (A),FA11,27,15,92.9%,92.9%,4.93,B+ (3.54),B+ (3.61)
+653,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),FA11,103,58,94.8%,100.0%,5.83,B+ (3.55),B+ (3.50)
+654,"Lewis, Leslie R",USP 144 - Environ/Prevent Health Issues (A),FA11,158,68,97.0%,98.5%,4.44,B+ (3.47),B (3.25)
+655,"Garcia, Kathleen",USP 170 - Sustainable Planning (A),FA11,68,43,93.0%,93.0%,5.23,B+ (3.64),B+ (3.53)
+656,"Peerson, Susan",USP 177 - Urban Design Practicum (A),FA11,19,7,100.0%,100.0%,4.5,A (4.00),
+657,"Pezzoli, Keith",USP 186 - Senior Sequence Resrch Proposl (A),FA11,76,42,76.9%,84.2%,8.5,B+ (3.38),B+ (3.47)
+658,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),FA11,19,10,70.0%,70.0%,5.9,B+ (3.30),
+659,"Herzog, Lawrence",USP 100 - Introduction to Urban Planning (A),S211,24,11,81.8%,100.0%,7.41,B (3.10),C+ (2.46)
+660,"Ingram, James Warren",USP 113 - Politics & Policymaking/L.A. (A),S211,14,3,66.7%,66.7%,5.83,C+ (2.67),
+661,"Ingram, James Warren",USP 113 - Politics & Policymaking/L.A. (A),S211,7,3,100.0%,66.7%,7.17,B (3.00),
+662,"Herzog, Lawrence",USP 124 - Land Use Planning (A),S211,28,12,91.7%,91.7%,6.5,A- (3.75),B (3.29)
+663,"Lewis, Leslie R",USP 143 - The US Health Care System (A),S211,33,18,94.4%,100.0%,6.39,A- (3.75),A- (3.86)
+664,"Romo, Oscar",USP 171 - Sustainable Development (A),S211,38,17,94.1%,94.1%,4.74,A- (3.76),B- (2.98)
+665,"Kinney, Rebecca Jo",USP 104 - Ethnic Diversity & the City (A),S111,13,4,50.0%,50.0%,6.5,C (2.25),
+666,"Kinney, Rebecca Jo",USP 104 - Ethnic Diversity & the City (A),S111,14,5,80.0%,80.0%,8.5,B (3.25),
+667,"Ingram, James Warren",USP 107 - Urban Politics (A),S111,17,7,71.4%,85.7%,6.5,B (3.29),
+668,"Kousser, Thad",USP 109 - Calif Government & Politics (A),S111,23,8,87.5%,100.0%,8.0,B+ (3.50),B+ (3.43)
+669,"Kousser, Thad",USP 109 - Calif Government & Politics (A),S111,5,3,100.0%,100.0%,3.83,B+ (3.33),
+670,"Madigan, Lauren Nicole",USP 115 - Poli. & Policymaking/San Diego (A),S111,14,6,100.0%,100.0%,3.5,A- (3.80),
+671,"Madigan, Lauren Nicole",USP 115 - Poli. & Policymaking/San Diego (A),S111,6,3,66.7%,33.3%,3.83,B+ (3.67),
+672,"Madigan, Michael D",USP 115 - Poli. & Policymaking/San Diego (A),S111,6,3,66.7%,0.0%,5.17,B+ (3.67),
+673,"Madigan, Michael D",USP 115 - Poli. & Policymaking/San Diego (A),S111,14,6,100.0%,100.0%,5.83,A- (3.80),
+674,"Lowe, Cary D",USP 121 - Real Estate Law and Regulation (A),S111,9,6,100.0%,100.0%,7.5,B+ (3.60),
+675,"Kong, Angela Wai-Yin",USP 130 - Ethnographc Fldwk/Ethnic Cmnty (A),S111,14,3,100.0%,100.0%,3.83,B+ (3.50),
+676,"Kong, Angela Wai-Yin",USP 130 - Ethnographc Fldwk/Ethnic Cmnty (A),S111,10,4,100.0%,100.0%,6.0,A- (3.75),
+677,"Lewis, Leslie R",USP 144 - Environ/Prevent Health Issues (A),S111,27,13,100.0%,100.0%,5.27,A- (3.77),A- (3.71)
+678,"Graizbord, Carlos","USP 179 - Urban Design,Theory & Practice (A)",S111,36,10,100.0%,66.7%,4.28,A- (3.78),B+ (3.54)
+679,"Kinney, Rebecca Jo",USP 104 - Ethnic Diversity & the City (A),SP11,58,27,65.4%,52.0%,5.69,,B+ (3.40)
+680,"Linton, April",USP 105 - Urban Sociology (A),SP11,191,81,92.5%,91.4%,4.88,,B+ (3.51)
+681,"Kousser, Thad",USP 109 - Calif Government & Politics (A),SP11,280,123,97.6%,100.0%,4.65,,B (3.28)
+682,"Erie, Steven P",USP 110 - Advanced Topics/Urban Politics (A),SP11,24,10,100.0%,100.0%,7.9,,B (3.29)
+683,"Erie, Steven P",USP 113 - Politics & Policymaking/L.A. (A),SP11,173,55,81.8%,85.5%,4.83,,B- (2.78)
+684,"Martin, Isaac",USP 133 - Soc Inequality & Public Policy (A),SP11,120,54,94.3%,98.1%,5.69,,B (3.19)
+685,"Bussell, Mirle Rabinowitz",USP 137 - Housg&Comm.Dev./Policy & Prac (A),SP11,27,18,88.9%,100.0%,7.5,B+ (3.67),B+ (3.63)
+686,"Lewis, Leslie R",USP 147 - Case Studies/Hlth Care/Poor (A),SP11,176,92,95.7%,98.9%,3.61,B+ (3.47),B+ (3.38)
+687,"Garcia, Kathleen",USP 170 - Sustainable Planning (A),SP11,66,32,90.6%,93.8%,4.5,B+ (3.59),B+ (3.44)
+688,"Herzog, Lawrence",USP 171 - Sustainable Development (A),SP11,99,43,92.9%,92.9%,3.57,B+ (3.56),B (3.21)
+689,"Bussell, Mirle Rabinowitz",USP 173 - History/Urban Planning&Design (A),SP11,56,35,94.3%,97.1%,5.53,B+ (3.66),B+ (3.66)
+690,"Abel, David",USP 174 - Regn'l Governance/Reconsidered (A),SP11,13,4,100.0%,100.0%,3.0,A- (3.75),
+691,"Freeman, Gregory P",USP 174 - Regn'l Governance/Reconsidered (A),SP11,13,4,100.0%,100.0%,3.0,A- (3.75),
+692,"Peerson, Susan",USP 177 - Urban Design Practicum (A),SP11,24,11,100.0%,100.0%,7.41,A (4.00),A- (3.82)
+693,"Sulzer, Kenneth E.",USP 180 - Transportation Planning (A),SP11,39,17,94.1%,82.4%,4.26,B+ (3.56),B+ (3.41)
+694,"Mendes, Gabriel",USP 190 - Senior Honors Seminar (A),SP11,11,4,100.0%,100.0%,13.5,A (4.00),
+695,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),SP11,21,10,77.8%,88.9%,5.39,B+ (3.40),B+ (3.38)
+696,"Kernell, Samuel H.",USP 194 - Research Seminar/Washington DC (A),SP11,27,6,75.0%,75.0%,7.3,,C+ (2.30)
+697,"Martin, Isaac",USP 3 - City and Social Theory (A),SP11,193,95,87.4%,94.7%,4.98,B+ (3.55),B+ (3.44)
+698,"White, Michelle J.",USP 102 - Urban Economics (A),WI11,113,32,75.0%,46.9%,3.92,,B+ (3.30)
+699,"Ingram, James Warren",USP 107 - Urban Politics (A),WI11,78,68,77.9%,82.4%,6.18,,B (3.16)
+700,"Janssen, David E.",USP 116 - Calif Local Govt Finance/Admin (A),WI11,16,11,72.7%,72.7%,6.14,A- (3.80),
+701,"McGrory, Jack",USP 120 - Urban Plan/Infrastruc/Real Est (A),WI11,31,14,85.7%,92.9%,3.79,B+ (3.57),B+ (3.50)
+702,"Raffesberger, Wayne A.","USP 122 - Redevelp Plan, Policymak & Law (A)",WI11,36,19,89.5%,100.0%,2.61,B+ (3.58),B+ (3.37)
+703,"Mendes, Gabriel","USP 132 - Afrn Amer, Religions &the City (A)",WI11,42,20,95.0%,90.0%,5.5,,B- (2.92)
+704,"Lewis, Leslie R",USP 143 - The US Health Care System (A),WI11,168,77,94.7%,96.1%,4.6,B+ (3.50),B+ (3.45)
+705,"Peerson, Susan",USP 177 - Urban Design Practicum (A),WI11,25,13,100.0%,100.0%,7.58,A (4.00),B+ (3.70)
+706,"Peerson, Susan","USP 179 - Urban Design,Theory & Practice (A)",WI11,29,20,100.0%,100.0%,7.2,A- (3.78),B+ (3.67)
+707,"Pezzoli, Keith",USP 187 - Urban Studies Intership (A),WI11,93,48,97.9%,97.9%,8.88,B+ (3.69),A- (3.73)
+708,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),WI11,18,11,90.9%,90.9%,4.68,B+ (3.64),
+709,"Bussell, Mirle Rabinowitz",USP 193 - San Diego Community Research (A),WI11,22,12,100.0%,100.0%,11.33,A- (3.82),A- (3.70)
+710,"Kernell, Samuel H.",USP 194 - Research Seminar/Washington DC (A),WI11,23,3,100.0%,100.0%,3.83,,B+ (3.30)
+711,"Pezzoli, Keith",USP 2 - Urban World System (A),WI11,180,102,77.5%,86.3%,3.99,B+ (3.43),B (3.26)
+712,"Reft, Ryan M",USP 1 - History/US Urban Communities (A),FA10,160,91,91.2%,95.6%,5.01,B+ (3.48),B+ (3.33)
+713,"Hajnal, Zoltan Lloyd",USP 101 - Introduction/Policy Analysis (A),FA10,171,89,87.2%,89.7%,4.31,,B (3.16)
+714,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),FA10,126,84,97.6%,98.8%,5.99,B+ (3.50),B+ (3.35)
+715,"Yang, K. Wayne",USP 129 - Research Methods/Ethnic&Racial (A),FA10,62,31,100.0%,100.0%,8.05,,A- (3.94)
+716,"Kim, Grace",USP 135 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),FA10,35,14,100.0%,100.0%,6.21,,B (3.25)
+717,"Lewis, Leslie R",USP 144 - Environ/Prevent Health Issues (A),FA10,187,97,94.8%,96.9%,4.6,B+ (3.51),B+ (3.36)
+718,"Pezzoli, Keith",USP 186 - Senior Sequence Resrch Proposl (A),FA10,91,38,91.7%,91.9%,8.88,A- (3.74),B+ (3.67)
+719,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),FA10,17,9,88.9%,77.8%,6.94,B+ (3.67),
+720,"Herzog, Lawrence",USP 100 - Introduction to Urban Planning (A),SU10,25,10,100.0%,90.0%,5.9,B+ (3.67),
+721,"Nieto-Barthaburu, Augusto",USP 102 - Urban Economics (A),SU10,32,10,80.0%,100.0%,4.5,,
+722,"Ingram, James Warren",USP 107 - Urban Politics (A),SU10,41,11,100.0%,90.9%,9.05,,
+723,"Binder, Michael M",USP 109 - Calif Government & Politics (A),SU10,35,13,100.0%,92.3%,5.27,,
+724,"Bui, Long T",USP 135 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),SU10,17,8,100.0%,62.5%,5.5,,
+725,"Romo, Oscar",USP 171 - Sustainable Development (A),SU10,46,30,93.3%,83.3%,4.5,A- (3.87),
+726,"Herzog, Lawrence",USP 173 - History/Urban Planning&Design (A),SU10,10,5,100.0%,100.0%,10.5,B+ (3.60),
+727,"Pereira, Denise",USP 178 - Urban Design for Redevelopment (A),SU10,9,5,100.0%,100.0%,3.7,A (4.00),
+728,"Graizbord, Carlos","USP 179 - Urban Design,Theory & Practice (A)",SU10,35,12,100.0%,81.8%,5.05,B+ (3.64),
+729,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),SU10,18,11,100.0%,100.0%,8.9,B+ (3.36),
+730,"Linton, April",USP 105 - Urban Sociology (A),SP10,144,59,91.5%,93.2%,5.25,,B- (2.99)
+731,"Erie, Steven P",USP 113 - Politics & Policymaking/L.A. (A),SP10,135,52,84.6%,92.2%,3.85,,C+ (2.64)
+732,"Bruvold, William Erik",USP 115 - Poli. & Policymaking/San Diego (A),SP10,121,44,88.6%,88.6%,3.88,,B- (2.98)
+733,"Raffesberger, Wayne A.","USP 122 - Redevelp Plan, Policymak & Law (A)",SP10,21,12,91.7%,91.7%,3.33,B+ (3.67),B+ (3.43)
+734,"Kheshti, Roshanak",USP 130 - Ethnographc Fldwk/Ethnic Cmnty (A),SP10,39,12,100.0%,100.0%,6.0,,B+ (3.52)
+735,"Bussell, Mirle Rabinowitz",USP 137 - Housg&Comm.Dev./Policy & Prac (A),SP10,35,22,95.5%,100.0%,4.95,B+ (3.65),B+ (3.46)
+736,"Lewis, Leslie R",USP 145 - Aging-Social & Health Policy (A),SP10,85,41,97.6%,100.0%,3.57,B+ (3.55),B+ (3.53)
+737,"Shragge, Abraham Joseph",USP 165 - History of the American Suburb (A),SP10,86,42,95.0%,97.5%,4.15,,B- (2.98)
+738,"Garcia, Kathleen",USP 170 - Sustainable Planning (A),SP10,86,37,97.3%,94.4%,4.55,A- (3.70),B+ (3.36)
+739,"Herzog, Lawrence",USP 171 - Sustainable Development (A),SP10,109,46,95.7%,91.1%,3.8,B+ (3.60),B (3.27)
+740,"Abel, David",USP 174 - Regn'l Governance/Reconsidered (A),SP10,12,6,66.7%,66.7%,9.83,B (3.25),
+741,"Freeman, Gregory P",USP 174 - Regn'l Governance/Reconsidered (A),SP10,12,6,66.7%,66.7%,9.5,B (3.25),
+742,"Peerson, Susan",USP 177 - Urban Design Practicum (A),SP10,24,14,100.0%,100.0%,6.07,A- (3.86),A- (3.83)
+743,"Sulzer, Kenneth E.",USP 180 - Transportation Planning (A),SP10,52,21,90.5%,90.5%,3.34,B+ (3.56),B+ (3.36)
+744,"Mendes, Gabriel",USP 190 - Senior Honors Seminar (A),SP10,8,3,100.0%,33.3%,9.83,A (4.00),
+745,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),SP10,20,9,88.9%,66.7%,4.0,B+ (3.44),B (3.16)
+746,"Martin, Isaac",USP 3 - City and Social Theory (A),SP10,148,71,80.3%,92.9%,4.84,B+ (3.63),B+ (3.43)
+747,"Molina, Natalia Margarita",USP 104 - Ethnic Diversity & the City (A),WI10,92,31,83.9%,90.3%,5.27,,B (3.23)
+748,"Janssen, David E.",USP 116 - Calif Local Govt Finance/Admin (A),WI10,20,12,100.0%,100.0%,4.5,B (3.18),B (3.16)
+749,"McGrory, Jack",USP 120 - Urban Plan/Infrastruc/Real Est (A),WI10,22,10,100.0%,100.0%,4.3,B+ (3.63),B+ (3.59)
+750,"Yang, K. Wayne",USP 129 - Research Methods/Ethnic&Racial (A),WI10,67,28,100.0%,100.0%,6.71,,A (4.00)
+751,"Martin, Isaac",USP 133 - Soc Inequality & Public Policy (A),WI10,114,44,90.9%,100.0%,4.5,,B (3.21)
+752,"Kim, Grace",USP 135 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),WI10,41,15,100.0%,100.0%,5.43,,B+ (3.55)
+753,"Lewis, Leslie R",USP 143 - The US Health Care System (A),WI10,161,78,96.1%,93.5%,3.98,B+ (3.42),B (3.29)
+754,"Bussell, Mirle Rabinowitz",USP 173 - History/Urban Planning&Design (A),WI10,64,33,100.0%,100.0%,4.98,B+ (3.69),B+ (3.43)
+755,"Peerson, Susan","USP 179 - Urban Design,Theory & Practice (A)",WI10,39,20,95.0%,95.0%,7.5,A- (3.74),B (3.28)
+756,"Pezzoli, Keith",USP 187 - Urban Studies Intership (A),WI10,59,26,92.0%,100.0%,9.3,B+ (3.52),B+ (3.43)
+757,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),WI10,19,7,85.7%,100.0%,6.21,A- (3.86),
+758,"Bussell, Mirle Rabinowitz",USP 193 - San Diego Community Research (A),WI10,12,8,87.5%,100.0%,8.5,B+ (3.50),
+759,"Kernell, Samuel H.",USP 194 - Research Seminar/Washington DC (A),WI10,23,3,100.0%,33.3%,2.5,,B (3.00)
+760,"Shragge, Abraham Joseph",USP 2 - Urban World System (A),WI10,152,63,82.5%,79.4%,5.17,B+ (3.58),B+ (3.54)
+761,"Kwak, Nancy",USP 1 - History/US Urban Communities (A),FA09,140,91,72.2%,76.7%,4.63,B+ (3.46),B (3.03)
+762,"Hajnal, Zoltan Lloyd",USP 101 - Introduction/Policy Analysis (A),FA09,148,89,84.9%,90.8%,3.94,,B- (2.80)
+763,"White, Michelle J.",USP 102 - Urban Economics (A),FA09,128,51,82.0%,70.0%,3.66,,B- (2.78)
+764,"Ingram, James Warren",USP 107 - Urban Politics (A),FA09,86,35,82.9%,94.3%,5.19,,B- (2.90)
+765,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),FA09,93,78,94.8%,97.4%,4.47,B+ (3.41),B (3.18)
+766,"Lewis, Leslie R",USP 144 - Environ/Prevent Health Issues (A),FA09,128,83,93.8%,97.5%,3.33,B+ (3.51),B (3.10)
+767,"Shragge, Abraham Joseph",USP 166 - History of San Diego (A),FA09,27,17,100.0%,94.1%,4.03,B+ (3.47),B (3.13)
+768,"Peerson, Susan",USP 177 - Urban Design Practicum (A),FA09,22,17,100.0%,100.0%,3.79,A- (3.82),B+ (3.65)
+769,"Pereira, Denise",USP 178 - Urban Design for Redevelopment (A),FA09,34,26,92.3%,76.0%,3.04,A- (3.78),B+ (3.59)
+770,"Pezzoli, Keith",USP 186 - Senior Sequence Resrch Proposl (A),FA09,59,18,88.9%,94.4%,6.72,B+ (3.65),B+ (3.56)
+771,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),FA09,14,10,90.0%,100.0%,6.7,B+ (3.56),
+772,"Herzog, Lawrence",USP 100 - Introduction to Urban Planning (A),SU09,39,12,66.7%,75.0%,6.0,B (3.20),
+773,"Ingram, James Warren",USP 107 - Urban Politics (A),SU09,28,8,87.5%,87.5%,5.07,,
+774,"Graizbord, Carlos",USP 124 - Land Use Planning (A),SU09,19,5,60.0%,20.0%,6.9,B+ (3.60),
+775,"Gutierrez, Michelle R.",USP 135 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),SU09,21,5,100.0%,100.0%,4.5,,
+776,"Romo, Oscar",USP 171 - Sustainable Development (A),SU09,41,22,95.5%,100.0%,4.5,B+ (3.59),
+777,"Graizbord, Carlos","USP 179 - Urban Design,Theory & Practice (A)",SU09,22,8,100.0%,87.5%,9.25,A- (3.88),
+778,"Troutman, Philip P",USP 105 - Urban Sociology (A),SP09,74,54,71.2%,75.5%,3.61,,B (3.17)
+779,"Ingram, James Warren",USP 113 - Politics & Policymaking/L.A. (A),SP09,94,35,87.9%,72.7%,4.39,,B- (2.74)
+780,"Bruvold, William Erik",USP 115 - Poli. & Policymaking/San Diego (A),SP09,112,53,100.0%,98.1%,3.85,,B+ (3.39)
+781,"Mendes, Gabriel","USP 132 - Afrn Amer, Religions &the City (A)",SP09,17,14,100.0%,100.0%,6.93,,
+782,"Bussell, Mirle Rabinowitz",USP 137 - Housg&Comm.Dev./Policy & Prac (A),SP09,36,23,95.5%,100.0%,6.15,B+ (3.68),B (3.22)
+783,"Brody, Barbara L",USP 147 - Case Studies/Hlth Care/Poor (A),SP09,122,73,93.1%,90.4%,3.02,B+ (3.61),B+ (3.38)
+784,"Shragge, Abraham Joseph",USP 165 - History of the American Suburb (A),SP09,65,36,94.1%,97.1%,4.39,,B+ (3.52)
+785,"Garcia, Kathleen",USP 170 - Sustainable Planning (A),SP09,56,37,97.3%,97.3%,3.61,B+ (3.67),B+ (3.56)
+786,"Herzog, Lawrence",USP 171 - Sustainable Development (A),SP09,139,91,97.8%,96.7%,3.82,B+ (3.64),B+ (3.36)
+787,"Abel, David",USP 174 - Regn'l Governance/Reconsidered (A),SP09,16,13,100.0%,100.0%,4.96,B+ (3.42),
+788,"Freeman, Gregory P",USP 174 - Regn'l Governance/Reconsidered (A),SP09,16,13,100.0%,100.0%,4.96,B+ (3.42),
+789,"Peerson, Susan",USP 177 - Urban Design Practicum (A),SP09,24,20,100.0%,100.0%,6.8,A- (3.84),A- (3.70)
+790,"Graizbord, Carlos","USP 179 - Urban Design,Theory & Practice (A)",SP09,29,22,100.0%,86.4%,4.21,A- (3.85),A- (3.75)
+791,"Sulzer, Kenneth E.",USP 180 - Transportation Planning (A),SP09,33,23,100.0%,100.0%,3.28,B+ (3.65),B+ (3.54)
+792,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),SP09,17,13,92.3%,92.3%,6.86,B+ (3.56),
+793,"Bussell, Mirle Rabinowitz",USP 193 - San Diego Community Research (A),SP09,24,20,95.0%,100.0%,10.5,A- (3.80),A- (3.73)
+794,"Martin, Isaac",USP 3 - City and Social Theory (A),SP09,139,67,82.1%,91.0%,4.29,B+ (3.46),B (3.09)
+795,"Hajnal, Zoltan Lloyd",USP 101 - Introduction/Policy Analysis (A),WI09,139,93,78.7%,94.4%,3.8,,B (3.16)
+796,"Kwak, Nancy",USP 103 - American Cities/20th Century (A),WI09,99,60,81.7%,84.7%,4.27,,B (3.04)
+797,"Molina, Natalia Margarita",USP 104 - Ethnic Diversity & the City (A),WI09,68,45,86.7%,77.8%,4.63,,B- (2.86)
+798,"Janssen, David E.",USP 116 - Calif Local Govt Finance/Admin (A),WI09,19,16,92.9%,80.0%,3.75,B+ (3.53),
+799,"Mendes, Gabriel",USP 129 - Research Methods/Ethnic&Racial (A),WI09,47,39,64.1%,33.3%,3.63,,C+ (2.60)
+800,"Martin, Isaac",USP 133 - Soc Inequality & Public Policy (A),WI09,94,62,87.1%,85.5%,3.98,,B (3.20)
+801,"Brody, Barbara L",USP 143 - The US Health Care System (A),WI09,115,67,95.5%,92.5%,3.41,B+ (3.40),B (3.29)
+802,"Shragge, Abraham Joseph",USP 166 - History of San Diego (A),WI09,34,16,93.8%,100.0%,4.13,B+ (3.63),B (3.08)
+803,"Bussell, Mirle Rabinowitz",USP 173 - History/Urban Planning&Design (A),WI09,19,15,93.3%,100.0%,5.3,B+ (3.36),
+804,"Pezzoli, Keith",USP 187 - Urban Studies Intership (A),WI09,55,35,85.3%,87.9%,9.36,B+ (3.47),B (3.18)
+805,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),WI09,19,15,86.7%,73.3%,4.1,B+ (3.57),
+806,"Pezzoli, Keith",USP 2 - Urban World System (A),WI09,101,30,96.7%,93.3%,4.37,B+ (3.48),B+ (3.33)
+807,"Shragge, Abraham Joseph",USP 1 - History/US Urban Communities (A),FA08,139,71,85.7%,85.7%,4.19,B+ (3.33),B (3.03)
+808,"White, Michelle J.",USP 102 - Urban Economics (A),FA08,131,59,87.9%,84.5%,3.01,,B+ (3.32)
+809,"Ingram, James Warren",USP 107 - Urban Politics (A),FA08,102,49,68.1%,83.0%,5.75,,B (3.06)
+810,"Kousser, Thad",USP 109 - Calif Government & Politics (A),FA08,169,122,97.5%,99.2%,3.84,,B (3.16)
+811,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),FA08,77,53,98.1%,96.2%,5.44,B+ (3.55),B (3.22)
+812,"Suarez, Harrod",USP 135 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),FA08,40,24,79.2%,91.7%,3.83,,B (3.10)
+813,"Brody, Barbara L",USP 144 - Environ/Prevent Health Issues (A),FA08,107,50,84.0%,80.0%,3.54,B (3.27),B (3.26)
+814,"Peerson, Susan",USP 177 - Urban Design Practicum (A),FA08,29,20,100.0%,95.0%,4.2,B+ (3.65),B+ (3.51)
+815,"Pezzoli, Keith",USP 186 - Senior Sequence Resrch Proposl (A),FA08,59,36,94.1%,91.7%,5.17,B+ (3.59),B (3.05)
+816,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),FA08,21,15,100.0%,100.0%,6.9,B+ (3.54),B+ (3.42)
+817,"Kousser, Thad",USP 109 - Calif Government & Politics (A),SU08,39,27,96.0%,100.0%,4.42,,
+818,"Vo Dang, Thanh Thuy T.",USP 130 - Ethnographc Fldwk/Ethnic Cmnty (A),SU08,19,20,90.0%,100.0%,5.87,,
+819,"Gutierrez, Michelle R.",USP 135 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),SU08,13,13,100.0%,100.0%,5.73,,
+820,"Romo, Oscar",USP 171 - Sustainable Development (A),SU08,36,27,96.3%,100.0%,4.94,B+ (3.54),
+821,"Graizbord, Carlos","USP 179 - Urban Design,Theory & Practice (A)",SU08,16,13,92.3%,92.3%,3.5,A- (3.85),
+822,"Herzog, Lawrence",USP 2 - Urban World System (A),SU08,20,16,100.0%,100.0%,7.38,B+ (3.36),
+823,"Herzog, Lawrence",USP 3 - City and Social Theory (A),SU08,26,18,100.0%,100.0%,5.72,B (3.20),
+824,"Linton, April",USP 105 - Urban Sociology (A),SP08,117,75,97.3%,98.6%,3.54,,B+ (3.55)
+825,"Kousser, Thad",USP 109 - Calif Government & Politics (A),SP08,178,110,95.5%,100.0%,4.04,,B (3.09)
+826,"Erie, Steven P",USP 113 - Politics & Policymaking/L.A. (A),SP08,125,52,98.0%,94.0%,4.1,,B (3.14)
+827,"Bruvold, William Erik",USP 115 - Poli. & Policymaking/San Diego (A),SP08,63,27,100.0%,100.0%,3.46,,B+ (3.49)
+828,"Brody, Barbara L",USP 145 - Aging-Social & Health Policy (A),SP08,116,76,85.5%,78.9%,2.79,B+ (3.30),B+ (3.50)
+829,"Garcia, Kathleen",USP 170 - Sustainable Planning (A),SP08,63,38,94.4%,81.1%,4.34,B+ (3.68),B+ (3.41)
+830,"Bussell, Mirle Rabinowitz",USP 173 - History/Urban Planning&Design (A),SP08,60,41,92.7%,97.6%,3.96,B+ (3.44),B+ (3.34)
+831,"Abel, David",USP 174 - Regn'l Governance/Reconsidered (A),SP08,14,13,91.7%,92.3%,3.73,A- (3.75),
+832,"Freeman, Gregory P",USP 174 - Regn'l Governance/Reconsidered (A),SP08,14,13,91.7%,92.3%,3.73,A- (3.75),
+833,"Graizbord, Carlos","USP 179 - Urban Design,Theory & Practice (A)",SP08,34,21,95.0%,85.7%,5.93,A- (3.70),B+ (3.62)
+834,"Sulzer, Kenneth E.",USP 180 - Transportation Planning (A),SP08,38,27,100.0%,100.0%,2.35,A- (3.85),B+ (3.60)
+835,"White, Michelle J.",USP 190 - Senior Honors Seminar (A),SP08,7,4,100.0%,100.0%,5.5,A- (3.75),
+836,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (B),SP08,15,11,100.0%,100.0%,3.59,B+ (3.44),
+837,"Bussell, Mirle Rabinowitz",USP 193 - San Diego Community Research (A),SP08,14,9,100.0%,100.0%,10.5,B+ (3.43),
+838,"White, Michelle J.",USP 102 - Urban Economics (A),WI08,131,49,86.7%,75.0%,3.56,,B- (2.94)
+839,"Strathman, Theodore A",USP 103 - American Cities/20th Century (A),WI08,165,99,84.5%,92.8%,3.79,,B- (2.93)
+840,"Washington, Patricia",USP 104 - Ethnic Diversity & the City (A),WI08,51,31,87.1%,93.1%,3.95,,B+ (3.48)
+841,"Bussell, Mirle Rabinowitz",USP 124 - Land Use Planning (A),WI08,75,51,94.0%,93.9%,4.89,B+ (3.38),B (3.03)
+842,"Martin, Isaac",USP 125 - The Design of Social Research (A),WI08,13,11,100.0%,100.0%,5.41,B+ (3.44),
+843,"Vo Dang, Thanh Thuy T.",USP 129 - Research Methods/Ethnic&Racial (A),WI08,46,31,83.3%,76.7%,4.63,,B+ (3.44)
+844,"Martin, Isaac",USP 133 - Soc Inequality & Public Policy (A),WI08,49,30,96.7%,100.0%,4.83,,B+ (3.43)
+845,"Bussell, Mirle Rabinowitz",USP 137 - Housg&Comm.Dev./Policy & Prac (A),WI08,29,20,100.0%,100.0%,5.76,B+ (3.50),B (3.08)
+846,"Brody, Barbara L",USP 143 - The US Health Care System (A),WI08,96,61,98.3%,89.7%,4.29,B+ (3.48),B+ (3.45)
+847,"Shragge, Abraham Joseph",USP 166 - History of San Diego (A),WI08,30,22,90.9%,95.5%,2.59,B+ (3.63),B+ (3.45)
+848,"Pezzoli, Keith",USP 187 - Urban Studies Intership (A),WI08,75,56,94.5%,94.4%,6.2,B+ (3.51),B+ (3.54)
+849,"Wartell, Julie Dara",USP 191 - GIS for Urban & Community Plan (A),WI08,15,14,100.0%,92.3%,3.88,B+ (3.54),
+850,"Romo, Oscar",USP 2 - Urban World System (A),WI08,92,50,81.6%,51.0%,2.34,B+ (3.41),B+ (3.44)
+851,"Strathman, Theodore A",USP 1 - History/US Urban Communities (A),FA07,140,95,82.8%,78.3%,3.86,B+ (3.44),B (3.08)
+852,"Hajnal, Zoltan Lloyd",USP 101 - Introduction/Policy Analysis (A),FA07,115,66,82.5%,95.2%,4.18,,B- (2.90)
+853,"Ingram, James Warren",USP 107 - Urban Politics (A),FA07,88,50,91.3%,91.3%,4.58,,B (3.11)
+854,"Williams, Randall Jay",USP 135 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),FA07,81,53,88.5%,90.4%,4.31,,B- (2.88)
+855,"Brody, Barbara L",USP 144 - Environ/Prevent Health Issues (A),FA07,94,61,96.6%,98.3%,3.48,B+ (3.47),B+ (3.44)
+856,"Pezzoli, Keith",USP 186 - Senior Sequence Resrch Proposl (A),FA07,79,47,76.7%,95.2%,6.2,B+ (3.44),B- (2.96)
+857,"Park, Lisa Sun-Hee",USP 3 - City and Social Theory (A),FA07,107,84,79.5%,87.3%,4.18,B (3.07),B- (2.92)
+858,"Linton, April",USP 105 - Urban Sociology (A),SU07,44,26,95.8%,92.0%,5.92,,
+859,"Ingram, James Warren",USP 107 - Urban Politics (A),SU07,31,12,91.7%,83.3%,7.0,,
+860,"Kousser, Thad",USP 109 - Calif Government & Politics (A),SU07,49,34,100.0%,100.0%,5.69,,
+861,"Romo, Oscar",USP 171 - Sustainable Development (A),SU07,22,21,95.2%,90.5%,3.74,B+ (3.53),
+862,"Herzog, Lawrence",USP 2 - Urban World System (A),SU07,23,12,100.0%,100.0%,6.83,B+ (3.36),
+863,"Herzog, Lawrence",USP 3 - City and Social Theory (A),SU07,16,11,100.0%,100.0%,7.59,B+ (3.36),

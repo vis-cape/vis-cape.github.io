@@ -1,0 +1,996 @@
+,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+0,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (A),SP23,31,14,100.0%,100.0%,0.93,A (4.00),A- (3.98)
+1,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (B),SP23,36,18,100.0%,100.0%,1.0,A- (3.92),A- (3.92)
+2,"Smith, Alison D",TDMV 110 - Intermediate Ballet (A),SP23,27,11,100.0%,100.0%,2.32,A (4.00),A- (3.82)
+3,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (A),SP23,27,6,100.0%,60.0%,1.7,A (4.00),A (4.00)
+4,"Weinberg, Sadie",TDMV 122 - Advanced Contemporary Dance (A),SP23,28,13,92.3%,92.3%,1.12,A- (3.92),B+ (3.66)
+5,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),SP23,19,6,100.0%,100.0%,1.5,A (4.00),
+6,"Alvarez, Ana Maria",TDMV 141 - Adv Dances of the World (A),SP23,15,6,100.0%,100.0%,2.5,A (4.00),
+7,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),SP23,43,10,100.0%,100.0%,2.5,A- (3.88),A (4.00)
+8,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),SP23,33,15,100.0%,100.0%,4.21,A- (3.92),A- (3.95)
+9,"Foster-King, Sandra",TDMV 143 - West African Dance (A),SP23,58,9,100.0%,88.9%,2.72,A- (3.89),
+10,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),SP23,36,9,100.0%,100.0%,3.17,A (4.00),A- (3.95)
+11,"Jun, Grace Shin Hae",TDMV 148 - Intermediate Hip Hop (A),SP23,52,16,100.0%,100.0%,3.5,A (4.00),A- (3.87)
+12,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (A),SP23,30,9,100.0%,87.5%,1.0,A (4.00),A- (3.74)
+13,"Duran, Marcos Antonio",TDMV 2 - Beginning Contemporary Dance (B),SP23,34,13,100.0%,100.0%,2.67,A (4.00),A- (3.88)
+14,"Alvarez, Ana Maria",TDMV 20 - Movement Lab (A),SP23,38,6,83.3%,100.0%,2.17,A (4.00),A- (3.82)
+15,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (A),SP23,32,12,100.0%,100.0%,1.5,A- (3.82),A- (3.77)
+16,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (A),WI23,29,12,100.0%,100.0%,2.33,A- (3.83),A- (3.91)
+17,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (B),WI23,25,15,100.0%,100.0%,1.83,A (4.00),A- (3.89)
+18,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),WI23,29,11,100.0%,100.0%,1.59,B+ (3.60),B+ (3.56)
+19,"Smith, Alison D",TDMV 110 - Intermediate Ballet (A),WI23,20,6,100.0%,100.0%,3.83,A (4.00),A- (3.94)
+20,"Caligagan, Maria T.",TDMV 110 - Intermediate Ballet (B),WI23,29,16,100.0%,100.0%,2.38,A (4.00),A- (3.96)
+21,"Weinberg, Sadie",TDMV 111 - Advanced Ballet (A),WI23,16,5,100.0%,100.0%,0.9,A- (3.80),
+22,"Duran, Marcos Antonio",TDMV 120 - Intermediate Contemp Dance (A),WI23,20,8,100.0%,100.0%,2.25,A (4.00),A- (3.95)
+23,"Duran, Marcos Antonio",TDMV 122 - Advanced Contemporary Dance (A),WI23,19,7,100.0%,100.0%,1.36,A (4.00),
+24,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),WI23,27,8,100.0%,100.0%,2.25,A (4.00),A (4.00)
+25,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),WI23,54,14,100.0%,100.0%,1.79,A- (3.93),A- (3.94)
+26,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),WI23,53,18,100.0%,94.4%,3.06,A- (3.88),A- (3.99)
+27,"Foster-King, Sandra",TDMV 143 - West African Dance (A),WI23,37,6,100.0%,83.3%,5.5,A- (3.80),A- (3.94)
+28,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),WI23,21,9,100.0%,66.7%,4.06,A (4.00),A- (3.93)
+29,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (A),WI23,35,10,87.5%,88.9%,1.25,A (4.00),A- (3.99)
+30,"Duran, Marcos Antonio",TDMV 2 - Beginning Contemporary Dance (B),WI23,24,10,100.0%,100.0%,0.94,A (4.00),A (4.00)
+31,"Weinberg, Sadie",TDMV 1 - Beginning Ballet (A),FA22,36,6,100.0%,100.0%,1.3,A (4.00),A- (3.90)
+32,"Smith, Alison D",TDMV 120 - Intermediate Contemp Dance (A),FA22,29,13,100.0%,100.0%,1.88,A (4.00),A- (3.90)
+33,"Sammartano, Tonnie",TDMV 122 - Advanced Contemporary Dance (B),FA22,20,7,100.0%,100.0%,1.64,A (4.00),A- (3.77)
+34,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),FA22,20,8,75.0%,62.5%,1.5,A (4.00),A (4.00)
+35,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),FA22,50,13,100.0%,100.0%,1.42,A (4.00),A- (3.98)
+36,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),FA22,38,9,100.0%,100.0%,2.75,A (4.00),A- (3.98)
+37,"Foster-King, Sandra",TDMV 143 - West African Dance (A),FA22,46,10,90.0%,70.0%,0.9,A (4.00),A (4.00)
+38,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),FA22,18,5,100.0%,100.0%,2.5,A (4.00),
+39,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),FA22,29,14,100.0%,100.0%,0.93,A- (3.86),A- (3.93)
+40,"Duran, Marcos Antonio",TDMV 2 - Beginning Contemporary Dance (B),FA22,33,18,100.0%,94.1%,1.06,A (4.00),A (4.00)
+41,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (A),FA22,27,7,100.0%,100.0%,1.36,A (4.00),A- (3.81)
+42,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (B),S222,16,5,80.0%,80.0%,3.7,A- (3.75),
+43,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),S222,31,8,100.0%,100.0%,4.79,A- (3.86),A (4.00)
+44,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),S222,13,4,100.0%,100.0%,3.83,A (4.00),
+45,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),S222,18,5,100.0%,100.0%,2.5,A (4.00),
+46,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (A),S122,15,3,100.0%,100.0%,1.17,A (4.00),
+47,"Weinberg, Sadie",TDMV 2 - Beginning Contemporary Dance (A),S122,21,7,100.0%,100.0%,1.3,A (4.00),A- (3.95)
+48,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),S122,23,3,100.0%,100.0%,2.5,B+ (3.50),A- (3.99)
+49,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (A),SP22,37,8,100.0%,100.0%,2.75,A (4.00),A- (3.92)
+50,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (B),SP22,33,12,100.0%,100.0%,3.67,A- (3.89),A- (3.83)
+51,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),SP22,29,11,100.0%,100.0%,2.14,A- (3.88),B+ (3.67)
+52,"Weinberg, Sadie",TDMV 110 - Intermediate Ballet (A),SP22,33,14,100.0%,100.0%,1.67,A (4.00),A- (3.70)
+53,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (A),SP22,29,7,100.0%,100.0%,1.5,A (4.00),A- (3.96)
+54,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (B),SP22,18,6,100.0%,83.3%,2.9,A (4.00),
+55,"Chaleff, Rebecca",TDMV 122 - Advanced Contemporary Dance (A),SP22,21,6,100.0%,100.0%,0.83,A (4.00),B+ (3.66)
+56,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),SP22,22,7,100.0%,100.0%,2.5,A- (3.86),A- (3.93)
+57,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),SP22,51,15,93.3%,93.3%,2.9,A (4.00),A (4.00)
+58,"Foster-King, Sandra",TDMV 143 - West African Dance (A),SP22,24,5,80.0%,60.0%,3.0,A (4.00),A- (3.96)
+59,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),SP22,34,10,80.0%,50.0%,2.7,A (4.00),A- (3.98)
+60,"Jun, Grace Shin Hae",TDMV 149 - Advanced Hip-Hop (A),SP22,29,6,100.0%,100.0%,0.83,A (4.00),A- (3.98)
+61,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (A),SP22,32,11,100.0%,100.0%,1.3,A (4.00),A (4.00)
+62,"Smith, Alison D",TDMV 2 - Beginning Contemporary Dance (B),SP22,32,8,100.0%,100.0%,1.5,A (4.00),A- (3.95)
+63,"Weinberg, Sadie",TDMV 2 - Beginning Contemporary Dance (C),SP22,34,9,100.0%,100.0%,1.17,A (4.00),A- (3.92)
+64,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (A),WI22,38,15,100.0%,100.0%,1.79,A- (3.80),A- (3.82)
+65,"Weinberg, Sadie",TDMV 110 - Intermediate Ballet (A),WI22,25,9,88.9%,100.0%,2.5,A- (3.89),A- (3.94)
+66,"Smith, Alison D",TDMV 120 - Intermediate Contemp Dance (A),WI22,23,12,100.0%,100.0%,1.33,A- (3.92),A- (3.83)
+67,"Smith, Alison D",TDMV 122 - Advanced Contemporary Dance (A),WI22,16,7,100.0%,100.0%,1.64,A (4.00),
+68,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),WI22,12,6,100.0%,100.0%,2.17,A (4.00),
+69,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),WI22,34,12,91.7%,75.0%,3.33,A- (3.90),A- (3.94)
+70,"Foster-King, Sandra",TDMV 143 - West African Dance (A),WI22,35,10,77.8%,87.5%,3.39,A (4.00),A- (3.98)
+71,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),WI22,20,3,100.0%,100.0%,3.83,A (4.00),A- (3.98)
+72,"Jun, Grace Shin Hae",TDMV 148 - Intermediate Hip Hop (A),WI22,37,12,100.0%,100.0%,1.83,A (4.00),A- (3.98)
+73,"Cisneros, Melissa",TDMV 2 - Beginning Contemporary Dance (A),WI22,28,10,90.0%,80.0%,4.1,A- (3.90),A- (3.90)
+74,"Jun, Grace Shin Hae",TDMV 20 - Movement Lab (A),WI22,35,10,100.0%,100.0%,1.5,A (4.00),A- (3.98)
+75,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (A),WI22,23,8,87.5%,100.0%,1.5,A- (3.83),B (3.28)
+76,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (A),FA21,28,20,95.0%,100.0%,1.8,A- (3.89),A- (3.94)
+77,"Weinberg, Sadie",TDMV 1 - Beginning Ballet (B),FA21,30,7,100.0%,100.0%,0.83,A (4.00),A- (3.73)
+78,"Caligagan, Maria T.",TDMV 110 - Intermediate Ballet (A),FA21,18,6,100.0%,100.0%,1.83,A- (3.83),
+79,"Weinberg, Sadie",TDMV 110 - Intermediate Ballet (B),FA21,18,8,100.0%,100.0%,0.5,A (4.00),
+80,"Smith, Alison D",TDMV 120 - Intermediate Contemp Dance (B),FA21,32,14,100.0%,100.0%,1.79,A (4.00),A- (3.81)
+81,"Chaleff, Rebecca",TDMV 122 - Advanced Contemporary Dance (A),FA21,20,10,100.0%,100.0%,1.61,A (4.00),A- (3.90)
+82,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),FA21,12,5,100.0%,100.0%,0.9,B+ (3.60),
+83,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),FA21,49,16,100.0%,100.0%,2.5,A- (3.93),A (4.00)
+84,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),FA21,39,11,100.0%,100.0%,2.68,A- (3.91),A- (3.99)
+85,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),FA21,29,8,100.0%,100.0%,3.25,A- (3.86),A- (3.88)
+86,"Foster-King, Sandra",TDMV 143 - West African Dance (A),FA21,41,12,90.0%,80.0%,2.7,A (4.00),A (4.00)
+87,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (B),FA21,14,7,100.0%,85.7%,3.07,A- (3.86),
+88,"Cisneros, Melissa",TDMV 2 - Beginning Contemporary Dance (B),FA21,35,23,95.7%,86.4%,2.07,A (4.00),A- (3.87)
+89,"Smith, Alison D",TDMV 2 - Beginning Contemporary Dance (C),FA21,33,15,93.3%,100.0%,1.57,A (4.00),A (4.00)
+90,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (A),FA21,23,8,100.0%,100.0%,1.0,A- (3.86),B+ (3.64)
+91,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),S221,7,3,66.7%,66.7%,3.17,B+ (3.33),
+92,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (A),S221,23,6,100.0%,80.0%,2.5,B+ (3.33),B- (2.73)
+93,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),S121,12,5,100.0%,80.0%,3.7,A (4.00),
+94,"Arcidiacono, Kristin",TDMV 2 - Beginning Contemporary Dance (B),S121,21,5,60.0%,80.0%,5.3,B+ (3.60),B+ (3.43)
+95,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),S121,16,4,66.7%,66.7%,1.83,B+ (3.67),
+96,"Cisneros, Melissa",TDMV 5 - Yoga for Dance (A),S121,20,13,92.3%,92.3%,3.12,A (4.00),B+ (3.63)
+97,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (A),SP21,28,11,100.0%,100.0%,1.95,A (4.00),A- (3.91)
+98,"Weinberg, Sadie",TDMV 110 - Intermediate Ballet (A),SP21,13,4,100.0%,100.0%,2.0,A- (3.75),
+99,"Weinberg, Sadie",TDMV 111 - Advanced Ballet (A),SP21,7,5,100.0%,100.0%,2.9,A (4.00),
+100,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (A),SP21,15,6,100.0%,80.0%,2.83,A- (3.83),
+101,"Chang, Ching-I",TDMV 122 - Advanced Contemporary Dance (A),SP21,12,7,100.0%,100.0%,2.79,A (4.00),
+102,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),SP21,17,5,100.0%,100.0%,4.0,A (4.00),
+103,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),SP21,46,22,90.9%,76.2%,4.32,B+ (3.65),A- (3.88)
+104,"Foster-King, Sandra",TDMV 143 - West African Dance (A),SP21,40,11,100.0%,100.0%,3.5,A (4.00),A- (3.95)
+105,"Jun, Grace Shin Hae",TDMV 148 - Intermediate Hip Hop (A),SP21,23,5,100.0%,100.0%,2.5,A (4.00),A (4.00)
+106,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (A),SP21,34,10,90.0%,100.0%,1.1,A (4.00),A (4.00)
+107,"Smith, Alison D",TDMV 2 - Beginning Contemporary Dance (B),SP21,35,8,100.0%,100.0%,2.0,A (4.00),A- (3.70)
+108,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (C),SP21,36,11,100.0%,100.0%,1.41,A- (3.91),A- (3.95)
+109,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (A),SP21,28,13,92.3%,92.3%,3.12,A (4.00),B+ (3.59)
+110,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (A),WI21,24,14,100.0%,100.0%,2.35,A (4.00),B+ (3.47)
+111,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (B),WI21,26,11,100.0%,100.0%,3.05,A (4.00),A- (3.74)
+112,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),WI21,24,10,80.0%,80.0%,3.3,A (4.00),B+ (3.68)
+113,"Smith, Alison D",TDMV 110 - Intermediate Ballet (A),WI21,10,4,100.0%,100.0%,1.0,A (4.00),
+114,"Clancy, Liam",TDMV 120 - Intermediate Contemp Dance (B),WI21,15,7,100.0%,100.0%,2.21,A (4.00),
+115,"Chaleff, Rebecca",TDMV 122 - Advanced Contemporary Dance (A),WI21,13,6,100.0%,100.0%,1.83,A (4.00),
+116,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),WI21,10,5,100.0%,100.0%,1.7,A (4.00),
+117,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),WI21,35,11,100.0%,100.0%,3.7,A (4.00),A (4.00)
+118,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),WI21,33,12,100.0%,100.0%,4.67,A- (3.92),A- (3.93)
+119,"Foster-King, Sandra",TDMV 143 - West African Dance (A),WI21,31,10,100.0%,90.0%,2.9,A- (3.90),A- (3.98)
+120,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),WI21,8,6,100.0%,100.0%,4.17,A (4.00),
+121,"Smith, Alison D",TDMV 2 - Beginning Contemporary Dance (A),WI21,22,8,100.0%,100.0%,1.75,A- (3.88),A (4.00)
+122,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (B),WI21,18,11,80.0%,70.0%,2.06,A (4.00),
+123,"Weinberg, Sadie",TDMV 2 - Beginning Contemporary Dance (C),WI21,21,6,66.7%,66.7%,3.5,A- (3.83),A- (3.98)
+124,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),WI21,25,11,100.0%,100.0%,3.3,A- (3.90),A- (3.99)
+125,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (A),FA20,18,8,100.0%,100.0%,3.5,A (4.00),
+126,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (B),FA20,15,5,100.0%,100.0%,2.9,A (4.00),
+127,"Weinberg, Sadie",TDMV 110 - Intermediate Ballet (A),FA20,23,8,100.0%,100.0%,3.0,A (4.00),A- (3.70)
+128,"Clancy, Liam",TDMV 120 - Intermediate Contemp Dance (B),FA20,11,5,100.0%,100.0%,1.3,A (4.00),
+129,"Smith, Alison D",TDMV 120 - Intermediate Contemp Dance (C),FA20,10,6,100.0%,100.0%,2.5,A- (3.83),
+130,"Geiger, Eric",TDMV 122 - Advanced Contemporary Dance (A),FA20,11,5,100.0%,100.0%,1.3,A (4.00),
+131,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),FA20,41,17,100.0%,100.0%,3.09,A- (3.93),A- (3.97)
+132,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),FA20,41,18,94.1%,94.1%,2.97,A- (3.88),A- (3.86)
+133,"Foster-King, Sandra",TDMV 143 - West African Dance (A),FA20,24,8,100.0%,100.0%,3.0,A (4.00),A- (3.95)
+134,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),FA20,11,6,100.0%,100.0%,2.1,A- (3.80),
+135,"Weinberg, Sadie",TDMV 2 - Beginning Contemporary Dance (A),FA20,28,12,72.7%,72.7%,3.59,A (4.00),A- (3.86)
+136,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (B),FA20,33,16,100.0%,93.8%,0.88,A (4.00),A- (3.82)
+137,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (C),FA20,27,8,100.0%,85.7%,2.21,A (4.00),A (4.00)
+138,"Geiger, Eric",TDMV 20 - Movement Lab (A),FA20,17,5,80.0%,100.0%,1.3,A- (3.75),
+139,"Rincon, Alicia",TDMV 3 - Beginning Jazz (B),FA20,17,7,100.0%,100.0%,2.79,A- (3.86),
+140,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (C),FA20,24,7,100.0%,100.0%,3.07,A (4.00),A- (3.84)
+141,"Arcidiacono, Kristin",TDMV 1 - Beginning Ballet (A),S220,29,3,100.0%,100.0%,3.5,A (4.00),B+ (3.59)
+142,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),S220,32,6,100.0%,100.0%,1.5,A (4.00),A- (3.99)
+143,"Geiger, Eric",TDMV 5 - Yoga for Dance (A),S220,20,4,100.0%,100.0%,5.83,A (4.00),A- (3.96)
+144,"Caligagan, Maria T.",TDMV 110 - Intermediate Ballet (A),S120,9,3,100.0%,100.0%,7.5,B+ (3.50),
+145,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),S120,30,5,100.0%,100.0%,6.5,A- (3.80),A (4.00)
+146,"Arcidiacono, Kristin",TDMV 2 - Beginning Contemporary Dance (A),S120,33,7,100.0%,83.3%,6.17,A- (3.80),A- (3.77)
+147,"Weinberg, Sadie",TDMV 2 - Beginning Contemporary Dance (B),S120,5,3,100.0%,100.0%,2.5,A (4.00),
+148,"Geiger, Eric",TDMV 20 - Movement Lab (A),S120,21,6,80.0%,80.0%,2.1,A- (3.80),A- (3.96)
+149,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),S120,32,7,100.0%,100.0%,1.36,A (4.00),A- (3.96)
+150,"Rincon, Alicia",TDMV 3 - Beginning Jazz (B),S120,12,4,100.0%,100.0%,2.5,A (4.00),
+151,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (A),SP20,24,8,100.0%,100.0%,3.0,A (4.00),A- (3.97)
+152,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (B),SP20,25,7,100.0%,100.0%,1.64,A- (3.86),A- (3.96)
+153,"Weinberg, Sadie",TDMV 111 - Advanced Ballet (A),SP20,13,7,100.0%,100.0%,1.93,A (4.00),
+154,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (A),SP20,17,5,80.0%,100.0%,1.3,A (4.00),
+155,"Chaleff, Rebecca",TDMV 120 - Intermediate Contemp Dance (B),SP20,6,3,100.0%,100.0%,2.5,A (4.00),
+156,"Geiger, Eric",TDMV 122 - Advanced Contemporary Dance (A),SP20,19,9,100.0%,100.0%,2.72,A- (3.89),
+157,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),SP20,24,7,100.0%,85.7%,2.21,A (4.00),A (4.00)
+158,"Caligagan, Tony",TDMV 141 - Adv Dances of the World (A),SP20,17,5,100.0%,100.0%,3.7,A (4.00),
+159,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),SP20,45,13,83.3%,75.0%,3.33,A- (3.92),A- (3.94)
+160,"Foster-King, Sandra",TDMV 143 - West African Dance (A),SP20,48,12,100.0%,100.0%,3.33,A- (3.92),A- (3.97)
+161,"Jun, Grace Shin Hae",TDMV 148 - Intermediate Hip Hop (A),SP20,32,7,100.0%,100.0%,3.36,A- (3.71),A (4.00)
+162,"Jun, Grace Shin Hae",TDMV 149 - Advanced Hip-Hop (A),SP20,14,3,100.0%,100.0%,1.17,A (4.00),
+163,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),SP20,26,12,100.0%,100.0%,1.83,A (4.00),A (4.00)
+164,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (C),SP20,19,5,60.0%,80.0%,0.9,A (4.00),
+165,"Aust, Emily C",TDMV 2 - Beginning Contemporary Dance (D),SP20,17,6,100.0%,100.0%,2.17,A (4.00),
+166,"Weinberg, Sadie",TDMV 1 - Beginning Ballet (A),WI20,35,14,100.0%,84.6%,0.79,A- (3.93),A- (3.76)
+167,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (C),WI20,37,13,100.0%,100.0%,2.19,A- (3.91),A- (3.94)
+168,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),WI20,29,17,100.0%,100.0%,1.44,A (4.00),A- (3.97)
+169,"Weinberg, Sadie",TDMV 110 - Intermediate Ballet (A),WI20,26,12,100.0%,100.0%,1.41,A (4.00),A- (3.86)
+170,"Weinberg, Sadie",TDMV 111 - Advanced Ballet (A),WI20,12,8,100.0%,100.0%,0.5,A- (3.86),
+171,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (A),WI20,28,16,100.0%,85.7%,1.03,A- (3.87),A (4.00)
+172,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (B),WI20,16,8,100.0%,100.0%,1.0,A (4.00),
+173,"Chaleff, Rebecca",TDMV 122 - Advanced Contemporary Dance (A),WI20,26,14,92.9%,92.3%,1.36,A (4.00),A- (3.98)
+174,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),WI20,28,12,100.0%,100.0%,2.0,A- (3.80),A (4.00)
+175,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (B),WI20,38,13,100.0%,100.0%,2.04,A- (3.83),A- (3.99)
+176,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),WI20,59,20,100.0%,94.1%,3.06,A- (3.94),A- (3.99)
+177,"Foster-King, Sandra",TDMV 143 - West African Dance (A),WI20,48,14,92.3%,92.3%,2.81,A (4.00),A- (3.94)
+178,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),WI20,32,15,100.0%,100.0%,2.21,A (4.00),A- (3.99)
+179,"Jun, Grace Shin Hae",TDMV 148 - Intermediate Hip Hop (A),WI20,21,6,100.0%,100.0%,1.17,A- (3.80),B+ (3.52)
+180,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (A),WI20,21,16,92.9%,92.9%,1.64,A- (3.93),B+ (3.67)
+181,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (B),WI20,31,17,93.8%,93.8%,1.0,A (4.00),A- (3.95)
+182,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (C),WI20,26,9,100.0%,77.8%,1.17,A- (3.89),A- (3.94)
+183,"Geiger, Eric",TDMV 20 - Movement Lab (A),WI20,27,10,100.0%,100.0%,0.9,A (4.00),A (4.00)
+184,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),WI20,29,12,90.9%,90.9%,1.41,A (4.00),A (4.00)
+185,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (A),FA19,30,13,100.0%,100.0%,1.88,A (4.00),A- (3.94)
+186,"Caligagan, Maria T.",TDMV 110 - Intermediate Ballet (A),FA19,21,6,100.0%,100.0%,1.5,A (4.00),A- (3.95)
+187,"Smith, Alison D",TDMV 110 - Intermediate Ballet (B),FA19,15,7,100.0%,100.0%,1.3,A (4.00),
+188,"Weinberg, Sadie",TDMV 111 - Advanced Ballet (A),FA19,11,4,100.0%,100.0%,1.0,A (4.00),
+189,"Chaleff, Rebecca",TDMV 120 - Intermediate Contemp Dance (A),FA19,27,13,100.0%,100.0%,1.17,A- (3.92),A- (3.87)
+190,"Gehman, Anne Douglas",TDMV 120 - Intermediate Contemp Dance (B),FA19,25,15,100.0%,100.0%,1.17,A (4.00),A- (3.84)
+191,"Gehman, Anne Douglas",TDMV 122 - Advanced Contemporary Dance (A),FA19,9,5,100.0%,100.0%,1.7,A- (3.80),
+192,"Geiger, Eric",TDMV 123 - Contact Improvisation (A),FA19,31,28,100.0%,100.0%,2.02,A- (3.92),A- (3.99)
+193,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),FA19,38,10,100.0%,100.0%,1.7,A- (3.71),A- (3.98)
+194,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),FA19,55,15,100.0%,100.0%,2.93,A (4.00),A- (3.95)
+195,"Foster-King, Sandra",TDMV 143 - West African Dance (A),FA19,54,13,92.3%,92.3%,2.35,A (4.00),A- (3.98)
+196,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),FA19,17,3,100.0%,100.0%,3.17,A (4.00),
+197,"Jun, Grace Shin Hae",TDMV 148 - Intermediate Hip Hop (A),FA19,29,11,100.0%,100.0%,1.77,A (4.00),A- (3.92)
+198,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (A),FA19,31,28,92.3%,96.2%,2.28,A- (3.83),A- (3.78)
+199,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (B),FA19,29,15,92.9%,92.9%,1.36,A- (3.92),A- (3.95)
+200,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (C),FA19,29,21,95.0%,100.0%,1.7,A- (3.95),A- (3.96)
+201,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (D),FA19,31,13,100.0%,90.0%,1.9,A (4.00),A- (3.73)
+202,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),FA19,24,14,100.0%,100.0%,1.27,A (4.00),A (4.00)
+203,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),FA19,32,16,100.0%,93.8%,1.38,A- (3.94),A- (3.78)
+204,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),S219,36,17,100.0%,100.0%,0.9,A- (3.93),A- (3.80)
+205,"Arcidiacono, Kristin",TDMV 2 - Beginning Contemporary Dance (B),S219,34,9,100.0%,100.0%,2.79,A (4.00),A- (3.84)
+206,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (A),S219,35,12,100.0%,100.0%,2.17,A- (3.78),A- (3.76)
+207,"Arcidiacono, Kristin",TDMV 1 - Beginning Ballet (A),S119,36,9,100.0%,100.0%,1.25,A (4.00),A- (3.91)
+208,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),S119,28,5,100.0%,100.0%,2.0,A (4.00),A- (3.95)
+209,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (A),S119,38,10,100.0%,100.0%,3.0,A (4.00),A- (3.97)
+210,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (B),S119,44,13,100.0%,100.0%,3.0,A- (3.92),A- (3.84)
+211,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),S119,15,4,100.0%,100.0%,5.5,A (4.00),
+212,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),S119,31,13,100.0%,100.0%,0.67,A (4.00),A- (3.85)
+213,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),S119,25,4,100.0%,100.0%,0.5,A (4.00),A (4.00)
+214,"Rincon, Alicia",TDMV 3 - Beginning Jazz (B),S119,40,9,100.0%,100.0%,2.72,A- (3.89),A (4.00)
+215,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (A),SP19,36,12,100.0%,100.0%,2.5,A (4.00),A- (3.88)
+216,"Smith, Alison D",TDMV 110 - Intermediate Ballet (A),SP19,19,15,100.0%,100.0%,1.83,A- (3.71),
+217,"Weinberg, Sadie",TDMV 111 - Advanced Ballet (A),SP19,5,4,100.0%,100.0%,1.83,A (4.00),
+218,"Snaith, Yolande",TDMV 120 - Intermediate Contemp Dance (A),SP19,23,9,87.5%,87.5%,1.0,A (4.00),A (4.00)
+219,"Wilson, Terry A.",TDMV 120 - Intermediate Contemp Dance (B),SP19,33,19,100.0%,93.8%,2.5,A- (3.87),A- (3.90)
+220,"Geiger, Eric",TDMV 122 - Advanced Contemporary Dance (A),SP19,17,3,100.0%,100.0%,0.5,B+ (3.50),
+221,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),SP19,35,12,100.0%,100.0%,2.68,A (4.00),A (4.00)
+222,"Caligagan, Maria T.",TDMV 133 - Advanced Jazz Dance (A),SP19,14,5,100.0%,100.0%,2.5,A (4.00),
+223,"Caligagan, Tony",TDMV 141 - Adv Dances of the World (A),SP19,25,8,100.0%,100.0%,4.75,A (4.00),A- (3.89)
+224,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),SP19,66,24,100.0%,100.0%,3.68,A (4.00),A- (3.97)
+225,"Foster-King, Sandra",TDMV 143 - West African Dance (A),SP19,50,12,81.8%,81.8%,2.32,A (4.00),A (4.00)
+226,"Jun, Grace Shin Hae",TDMV 148 - Intermediate Hip Hop (A),SP19,46,22,100.0%,100.0%,1.93,A- (3.70),A- (3.83)
+227,"Jun, Grace Shin Hae",TDMV 149 - Advanced Hip-Hop (A),SP19,12,4,100.0%,100.0%,3.0,A (4.00),
+228,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),SP19,35,14,90.9%,100.0%,1.05,A- (3.73),A- (3.71)
+229,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (B),SP19,35,27,95.8%,100.0%,1.5,A- (3.95),A- (3.89)
+230,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (C),SP19,31,7,85.7%,85.7%,1.36,A- (3.86),A- (3.99)
+231,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (D),SP19,34,30,96.6%,96.6%,0.78,A- (3.86),A- (3.97)
+232,"Snaith, Yolande",TDMV 20 - Movement Lab (A),SP19,30,8,100.0%,100.0%,1.5,A (4.00),A- (3.88)
+233,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (A),SP19,31,8,100.0%,100.0%,4.5,A- (3.83),A- (3.75)
+234,"Glabe, Heather G.",TDMV 1 - Beginning Ballet (A),WI19,35,13,100.0%,91.7%,0.67,A (4.00),A- (3.79)
+235,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),WI19,38,14,100.0%,100.0%,1.42,A- (3.77),A- (3.92)
+236,"Caligagan, Maria T.",TDMV 110 - Intermediate Ballet (A),WI19,21,7,100.0%,100.0%,1.36,A (4.00),A- (3.92)
+237,"Weinberg, Sadie",TDMV 111 - Advanced Ballet (A),WI19,9,6,100.0%,100.0%,0.5,A (4.00),
+238,"Snaith, Yolande",TDMV 120 - Intermediate Contemp Dance (A),WI19,18,6,100.0%,100.0%,2.1,A- (3.80),
+239,"Smith, Alison D",TDMV 120 - Intermediate Contemp Dance (B),WI19,27,20,100.0%,100.0%,1.55,A- (3.84),A- (3.91)
+240,"Sammartano, Tonnie",TDMV 122 - Advanced Contemporary Dance (A),WI19,15,6,100.0%,100.0%,3.17,A (4.00),
+241,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),WI19,22,9,87.5%,87.5%,1.5,A- (3.88),A- (3.97)
+242,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),WI19,33,12,91.7%,100.0%,2.67,A- (3.90),A- (3.87)
+243,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),WI19,54,19,100.0%,88.2%,3.83,A (4.00),A- (3.99)
+244,"Foster-King, Sandra",TDMV 143 - West African Dance (A),WI19,41,7,100.0%,100.0%,3.36,A (4.00),A- (3.97)
+245,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),WI19,32,11,100.0%,100.0%,3.95,B+ (3.56),A- (3.83)
+246,"Jun, Grace Shin Hae",TDMV 148 - Intermediate Hip Hop (A),WI19,19,3,100.0%,100.0%,0.5,A (4.00),
+247,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (A),WI19,24,22,100.0%,100.0%,1.1,A- (3.94),A- (3.73)
+248,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (B),WI19,24,13,84.6%,92.3%,1.12,A- (3.92),A- (3.96)
+249,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (C),WI19,34,10,100.0%,100.0%,1.61,A (4.00),A- (3.95)
+250,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),WI19,27,13,100.0%,100.0%,1.0,A- (3.92),A- (3.95)
+251,"Caligagan, Maria T.",TDMV 1 - Beginning Ballet (A),FA18,33,21,100.0%,94.7%,1.55,A- (3.94),A- (3.85)
+252,"Smith, Alison D",TDMV 110 - Intermediate Ballet (B),FA18,15,10,100.0%,100.0%,1.9,A (4.00),
+253,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (A),FA18,16,4,75.0%,75.0%,5.5,A (4.00),
+254,"Wilson, Terry A.",TDMV 120 - Intermediate Contemp Dance (B),FA18,21,11,100.0%,100.0%,2.32,A- (3.91),A- (3.74)
+255,"Geiger, Eric",TDMV 123 - Contact Improvisation (A),FA18,31,9,100.0%,100.0%,0.5,A (4.00),A- (3.97)
+256,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),FA18,39,14,100.0%,100.0%,2.96,A (4.00),A (4.00)
+257,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),FA18,43,21,100.0%,100.0%,3.0,A- (3.89),A- (3.84)
+258,"Valero, Oscar",TDMV 142 - Latin Dance of the World (B),FA18,37,12,90.9%,90.9%,2.5,A- (3.73),A- (3.89)
+259,"Foster-King, Sandra",TDMV 143 - West African Dance (A),FA18,44,39,100.0%,100.0%,2.04,A- (3.97),A (4.00)
+260,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (B),FA18,14,6,83.3%,83.3%,3.17,A- (3.83),
+261,"Jun, Grace Shin Hae",TDMV 148 - Intermediate Hip Hop (A),FA18,23,9,100.0%,100.0%,1.25,A- (3.88),A- (3.94)
+262,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (A),FA18,23,20,100.0%,100.0%,1.1,A- (3.94),A- (3.81)
+263,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (B),FA18,31,15,100.0%,92.9%,2.07,A- (3.85),A- (3.94)
+264,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (C),FA18,21,14,100.0%,85.7%,1.07,A (4.00),A- (3.95)
+265,"Rincon, Patricia A.",TDMV 2 - Beginning Contemporary Dance (D),FA18,29,13,100.0%,100.0%,1.33,A (4.00),B+ (3.69)
+266,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),FA18,28,14,91.7%,91.7%,1.33,A- (3.82),A (4.00)
+267,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),FA18,23,5,100.0%,100.0%,1.3,A- (3.80),B+ (3.65)
+268,"Weinberg, Sadie",TDMV 1 - Beginning Ballet (A),S218,29,10,100.0%,100.0%,2.1,A- (3.90),A- (3.92)
+269,"Arcidiacono, Kristin",TDMV 1 - Beginning Ballet (B),S218,31,10,90.0%,90.0%,2.5,A (4.00),A (4.00)
+270,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),S218,22,6,100.0%,100.0%,0.83,A- (3.80),A- (3.80)
+271,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (B),S218,25,5,100.0%,100.0%,0.9,A (4.00),A- (3.80)
+272,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (A),S218,25,13,100.0%,100.0%,1.5,A- (3.80),A- (3.93)
+273,"Weinberg, Sadie",TDMV 1 - Beginning Ballet (A),S118,27,5,100.0%,100.0%,1.7,A (4.00),A- (3.98)
+274,"Arcidiacono, Kristin",TDMV 1 - Beginning Ballet (B),S118,30,10,90.0%,90.0%,3.1,A- (3.90),A (4.00)
+275,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),S118,30,15,92.3%,100.0%,1.21,A (4.00),A- (3.88)
+276,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),S118,35,10,100.0%,100.0%,5.61,A- (3.89),A- (3.96)
+277,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),S118,39,9,100.0%,100.0%,5.0,A- (3.88),A- (3.98)
+278,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),S118,37,5,100.0%,100.0%,1.5,A (4.00),A- (3.92)
+279,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),S118,34,11,100.0%,100.0%,1.77,A (4.00),A- (3.91)
+280,"Rincon, Alicia",TDMV 3 - Beginning Jazz (B),S118,31,6,100.0%,100.0%,2.0,A (4.00),A- (3.91)
+281,"Weinberg, Sadie",TDMV 1 - Beginning Ballet (A),SP18,26,10,100.0%,100.0%,2.28,A (4.00),A- (3.98)
+282,"Glabe, Heather G.",TDMV 1 - Beginning Ballet (B),SP18,26,7,100.0%,100.0%,1.64,A- (3.71),A- (3.84)
+283,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (B),SP18,29,15,100.0%,100.0%,2.37,A (4.00),A- (3.92)
+284,"Smith, Alison D",TDMV 110 - Intermediate Ballet (A),SP18,16,11,100.0%,100.0%,0.9,A- (3.82),
+285,"Glabe, Heather G.",TDMV 110 - Intermediate Ballet (B),SP18,21,10,100.0%,100.0%,1.9,A- (3.88),A- (3.81)
+286,"Smith, Alison D",TDMV 120 - Intermediate Contemp Dance (A),SP18,19,9,100.0%,100.0%,0.94,A (4.00),
+287,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (B),SP18,21,9,100.0%,87.5%,1.5,A (4.00),A- (3.95)
+288,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),SP18,24,7,100.0%,100.0%,1.17,A (4.00),A- (3.96)
+289,"Devaguptapu, Divya",TDMV 140 - Dances Of The World (A),SP18,46,17,94.1%,94.1%,2.15,A (4.00),A- (3.99)
+290,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),SP18,36,12,100.0%,100.0%,3.5,A- (3.91),A- (3.98)
+291,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),SP18,38,18,100.0%,94.4%,4.06,A- (3.94),A- (3.96)
+292,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (C),SP18,37,10,100.0%,100.0%,4.1,A- (3.86),A- (3.96)
+293,"Foster-King, Sandra",TDMV 143 - West African Dance (A),SP18,44,7,100.0%,60.0%,4.5,A (4.00),A- (3.73)
+294,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),SP18,38,10,87.5%,87.5%,2.5,A- (3.86),A- (3.98)
+295,"Jun, Grace Shin Hae",TDMV 148 - Intermediate Hip Hop (A),SP18,40,10,77.8%,77.8%,2.5,B+ (3.60),A- (3.87)
+296,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),SP18,29,8,100.0%,100.0%,2.0,A (4.00),A- (3.91)
+297,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (B),SP18,23,11,100.0%,100.0%,0.7,A (4.00),A- (3.88)
+298,"Rincon, Patricia A.",TDMV 2 - Beginning Contemporary Dance (C),SP18,31,17,93.3%,85.7%,2.1,A- (3.93),A- (3.96)
+299,"Snaith, Yolande",TDMV 20 - Movement Lab (A),SP18,21,5,75.0%,75.0%,2.0,A (4.00),A (4.00)
+300,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),SP18,27,13,100.0%,100.0%,2.65,A- (3.92),A- (3.96)
+301,"Weinberg, Sadie",TDMV 1 - Beginning Ballet (A),WI18,34,17,100.0%,100.0%,1.56,A- (3.73),A- (3.79)
+302,"Smith, Alison D",TDMV 110 - Intermediate Ballet (A),WI18,14,13,100.0%,100.0%,2.83,A (4.00),
+303,"Weinberg, Sadie",TDMV 111 - Advanced Ballet (A),WI18,12,10,100.0%,100.0%,2.3,A- (3.88),
+304,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (A),WI18,14,4,100.0%,100.0%,2.0,A (4.00),
+305,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (B),WI18,28,12,100.0%,90.0%,1.3,A (4.00),A- (3.97)
+306,"Geiger, Eric",TDMV 122 - Advanced Contemporary Dance (A),WI18,10,5,100.0%,100.0%,0.9,A- (3.80),
+307,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),WI18,30,12,100.0%,100.0%,2.17,A (4.00),A- (3.98)
+308,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),WI18,43,18,100.0%,100.0%,3.32,A (4.00),A- (3.84)
+309,"Valero, Oscar",TDMV 142 - Latin Dance of the World (B),WI18,41,17,87.5%,87.5%,2.0,A- (3.87),A- (3.88)
+310,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (C),WI18,42,21,100.0%,100.0%,4.18,A (4.00),A- (3.96)
+311,"Foster-King, Sandra",TDMV 143 - West African Dance (A),WI18,53,16,93.8%,87.5%,3.38,A (4.00),B+ (3.59)
+312,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),WI18,34,10,100.0%,100.0%,4.1,A (4.00),A- (3.97)
+313,"Jun, Grace Shin Hae",TDMV 148 - Intermediate Hip Hop (A),WI18,30,8,100.0%,100.0%,1.0,A- (3.86),A- (3.79)
+314,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (A),WI18,28,19,100.0%,100.0%,1.06,A- (3.94),A- (3.93)
+315,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (B),WI18,31,18,88.9%,94.1%,1.17,A- (3.94),A- (3.73)
+316,"Rincon, Patricia A.",TDMV 2 - Beginning Contemporary Dance (C),WI18,25,8,100.0%,100.0%,1.07,A (4.00),A (4.00)
+317,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (A),WI18,36,17,93.8%,93.8%,1.21,A (4.00),A- (3.93)
+318,"Rincon, Alicia",TDMV 3 - Beginning Jazz (B),WI18,25,10,100.0%,80.0%,2.1,A (4.00),A- (3.95)
+319,"Glabe, Heather G.",TDMV 1 - Beginning Ballet (A),FA17,30,8,100.0%,85.7%,1.36,A (4.00),A- (3.85)
+320,"Glabe, Heather G.",TDMV 1 - Beginning Ballet (B),FA17,33,12,91.7%,100.0%,3.05,B+ (3.60),A- (3.85)
+321,"Weinberg, Sadie",TDMV 110 - Intermediate Ballet (A),FA17,14,12,100.0%,100.0%,1.67,A- (3.91),
+322,"Glabe, Heather G.",TDMV 110 - Intermediate Ballet (B),FA17,21,7,100.0%,100.0%,0.83,A- (3.86),A- (3.74)
+323,"Smith, Alison D",TDMV 120 - Intermediate Contemp Dance (A),FA17,23,20,100.0%,100.0%,1.5,A- (3.95),A- (3.90)
+324,"Wilson, Terry A.",TDMV 120 - Intermediate Contemp Dance (B),FA17,18,12,100.0%,100.0%,1.7,A- (3.91),
+325,"Sorensen, Jonathan Kyle",TDMV 122 - Advanced Contemporary Dance (A),FA17,15,6,100.0%,80.0%,0.83,A (4.00),
+326,"Geiger, Eric",TDMV 123 - Contact Improvisation (A),FA17,32,28,100.0%,100.0%,1.07,A- (3.93),A- (3.96)
+327,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),FA17,10,5,100.0%,100.0%,1.5,A (4.00),
+328,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),FA17,36,11,100.0%,100.0%,2.5,A (4.00),A- (3.84)
+329,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (B),FA17,36,13,100.0%,100.0%,2.19,A- (3.92),A- (3.84)
+330,"Valero, Oscar",TDMV 142 - Latin Dance of the World (A),FA17,41,12,100.0%,100.0%,1.83,A- (3.88),B+ (3.68)
+331,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),FA17,44,18,100.0%,100.0%,3.56,A (4.00),A- (3.95)
+332,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (C),FA17,46,14,91.7%,91.7%,3.67,B+ (3.67),A- (3.95)
+333,"Foster-King, Sandra",TDMV 143 - West African Dance (A),FA17,41,17,93.3%,93.3%,5.3,A (4.00),A- (3.82)
+334,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (A),FA17,22,16,100.0%,100.0%,1.67,A- (3.92),A (4.00)
+335,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (B),FA17,33,12,90.0%,90.0%,1.5,A (4.00),A- (3.95)
+336,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (C),FA17,34,20,100.0%,100.0%,1.4,A (4.00),B+ (3.68)
+337,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),FA17,32,7,100.0%,83.3%,0.83,B (3.20),A- (3.96)
+338,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),FA17,32,11,100.0%,100.0%,3.23,A (4.00),A- (3.79)
+339,"Arcidiacono, Kristin",TDMV 1 - Beginning Ballet (A),S217,33,14,100.0%,100.0%,1.58,A (4.00),
+340,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),S217,33,7,100.0%,100.0%,1.64,A (4.00),A- (3.98)
+341,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (B),S217,34,11,100.0%,100.0%,1.83,A (4.00),A- (3.98)
+342,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (A),S217,34,14,91.7%,90.9%,3.67,A- (3.92),
+343,"Arcidiacono, Kristin",TDMV 1 - Beginning Ballet (A),S117,24,7,100.0%,100.0%,1.93,A (4.00),A (4.00)
+344,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),S117,21,4,100.0%,100.0%,5.17,A (4.00),A- (3.86)
+345,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),S117,30,8,100.0%,83.3%,4.5,A (4.00),A- (3.91)
+346,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),S117,33,10,100.0%,100.0%,3.61,A (4.00),A- (3.93)
+347,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),S117,25,7,80.0%,80.0%,2.1,A (4.00),A (4.00)
+348,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (B),S117,29,3,100.0%,100.0%,0.5,A (4.00),A (4.00)
+349,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),S117,27,4,100.0%,100.0%,1.5,A- (3.75),A- (3.94)
+350,"Rincon, Alicia",TDMV 3 - Beginning Jazz (B),S117,30,10,100.0%,100.0%,1.9,A- (3.90),A- (3.94)
+351,"Glabe, Heather G.",TDMV 1 - Beginning Ballet (A),SP17,27,7,100.0%,85.7%,2.17,A- (3.80),A- (3.92)
+352,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (B),SP17,29,9,100.0%,100.0%,2.5,A (4.00),A- (3.87)
+353,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),SP17,26,17,100.0%,100.0%,0.85,A- (3.94),A- (3.77)
+354,"Weinberg, Sadie",TDMV 110 - Intermediate Ballet (A),SP17,21,12,100.0%,100.0%,1.3,A- (3.90),A- (3.90)
+355,"Smith, Alison D",TDMV 110 - Intermediate Ballet (B),SP17,15,14,100.0%,100.0%,1.93,A- (3.92),
+356,"Weinberg, Sadie",TDMV 111 - Advanced Ballet (A),SP17,11,5,100.0%,100.0%,1.7,A (4.00),
+357,"Smith, Alison D",TDMV 120 - Intermediate Contemp Dance (A),SP17,23,18,100.0%,100.0%,1.39,A- (3.94),A- (3.97)
+358,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (B),SP17,23,9,100.0%,100.0%,2.28,A- (3.89),A- (3.78)
+359,"Sorensen, Jonathan Kyle",TDMV 122 - Advanced Contemporary Dance (A),SP17,9,3,100.0%,100.0%,1.17,A (4.00),
+360,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),SP17,22,11,90.0%,80.0%,0.9,A- (3.78),A- (3.89)
+361,"Sorensen, Jonathan Kyle",TDMV 133 - Advanced Jazz Dance (A),SP17,8,4,100.0%,100.0%,1.5,A (4.00),
+362,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),SP17,43,13,100.0%,100.0%,1.42,A (4.00),A- (3.78)
+363,"Devaguptapu, Divya",TDMV 140 - Dances Of The World (A),SP17,42,8,100.0%,100.0%,2.75,A- (3.88),A- (3.98)
+364,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (A),SP17,34,13,100.0%,100.0%,2.68,A (4.00),A- (3.94)
+365,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),SP17,41,14,100.0%,92.9%,4.81,A- (3.92),A- (3.94)
+366,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (C),SP17,60,16,100.0%,93.3%,3.17,A- (3.92),A- (3.93)
+367,"Foster-King, Sandra",TDMV 143 - West African Dance (A),SP17,42,16,93.3%,93.3%,4.9,A- (3.93),A (4.00)
+368,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),SP17,28,9,100.0%,77.8%,3.25,A- (3.83),A- (3.91)
+369,"Jun, Grace Shin Hae",TDMV 148 - Intermediate Hip Hop (A),SP17,45,8,100.0%,100.0%,2.25,A (4.00),A- (3.79)
+370,"Rincon, Patricia A.",TDMV 2 - Beginning Contemporary Dance (A),SP17,29,10,100.0%,100.0%,1.61,A- (3.86),A- (3.92)
+371,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (B),SP17,34,10,100.0%,100.0%,1.3,A (4.00),A- (3.82)
+372,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (C),SP17,26,21,94.4%,83.3%,1.21,A (4.00),A (4.00)
+373,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),SP17,24,11,100.0%,100.0%,2.3,A (4.00),A- (3.99)
+374,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),WI17,27,22,100.0%,100.0%,2.2,A- (3.90),A- (3.94)
+375,"Glabe, Heather G.",TDMV 1 - Beginning Ballet (B),WI17,28,15,100.0%,84.6%,1.33,A- (3.75),A- (3.82)
+376,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),WI17,15,8,100.0%,100.0%,3.75,A- (3.75),
+377,"Smith, Alison D",TDMV 110 - Intermediate Ballet (B),WI17,8,5,100.0%,100.0%,1.3,A (4.00),
+378,"Sharp, Judith A Emile",TDMV 111 - Advanced Ballet (A),WI17,15,7,100.0%,100.0%,1.64,A (4.00),
+379,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (A),WI17,20,7,100.0%,80.0%,2.5,A (4.00),A- (3.97)
+380,"Clancy, Liam",TDMV 120 - Intermediate Contemp Dance (B),WI17,22,13,100.0%,100.0%,0.81,A (4.00),A- (3.99)
+381,"Weinberg, Sadie",TDMV 122 - Advanced Contemporary Dance (A),WI17,16,10,100.0%,100.0%,0.72,A (4.00),
+382,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),WI17,37,19,100.0%,100.0%,1.32,A- (3.94),A- (3.86)
+383,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),WI17,45,16,100.0%,87.5%,3.63,A- (3.80),A- (3.96)
+384,"Valero, Oscar",TDMV 142 - Latin Dance of the World (B),WI17,39,13,100.0%,100.0%,3.5,A- (3.89),A- (3.91)
+385,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (C),WI17,48,20,100.0%,100.0%,4.18,A- (3.94),A- (3.90)
+386,"Foster-King, Sandra",TDMV 143 - West African Dance (A),WI17,35,8,100.0%,100.0%,2.79,B+ (3.67),B+ (3.69)
+387,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),WI17,39,8,100.0%,100.0%,2.79,A (4.00),A- (3.77)
+388,"Rincon, Patricia A.",TDMV 2 - Beginning Contemporary Dance (A),WI17,30,11,90.0%,80.0%,1.61,A- (3.78),A- (3.90)
+389,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (B),WI17,32,18,100.0%,100.0%,1.3,A (4.00),A- (3.94)
+390,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (C),WI17,27,23,100.0%,100.0%,0.88,A- (3.90),A- (3.89)
+391,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),WI17,27,10,100.0%,100.0%,0.94,A (4.00),A- (3.99)
+392,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),WI17,25,11,100.0%,100.0%,2.7,A (4.00),A- (3.88)
+393,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),FA16,28,19,94.7%,94.7%,1.83,A- (3.75),A- (3.90)
+394,"Weinberg, Sadie",TDMV 1 - Beginning Ballet (B),FA16,30,17,100.0%,94.1%,1.17,A- (3.94),A- (3.92)
+395,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),FA16,12,4,100.0%,100.0%,2.0,A (4.00),
+396,"Smith, Alison D",TDMV 110 - Intermediate Ballet (B),FA16,12,10,100.0%,90.0%,0.7,A (4.00),
+397,"Sharp, Judith A Emile",TDMV 111 - Advanced Ballet (A),FA16,18,8,100.0%,100.0%,1.07,A (4.00),
+398,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (A),FA16,14,9,100.0%,87.5%,1.5,A (4.00),
+399,"Wilson, Terry A.",TDMV 120 - Intermediate Contemp Dance (B),FA16,29,20,100.0%,94.7%,1.24,A- (3.94),A- (3.83)
+400,"Geiger, Eric",TDMV 123 - Contact Improvisation (A),FA16,18,15,100.0%,100.0%,3.03,A- (3.93),
+401,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),FA16,16,5,100.0%,100.0%,1.3,A (4.00),
+402,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),FA16,33,10,100.0%,100.0%,1.5,A- (3.90),A- (3.88)
+403,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (B),FA16,33,13,92.3%,100.0%,1.73,A (4.00),A- (3.88)
+404,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),FA16,46,18,100.0%,88.9%,4.38,A- (3.94),A- (3.88)
+405,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (B),FA16,47,19,100.0%,78.9%,2.61,A- (3.94),A- (3.88)
+406,"Foster-King, Sandra",TDMV 143 - West African Dance (A),FA16,42,14,92.9%,71.4%,4.35,A- (3.92),A- (3.95)
+407,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (A),FA16,22,12,100.0%,100.0%,1.5,A- (3.89),A (4.00)
+408,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (B),FA16,37,16,93.3%,100.0%,1.57,A (4.00),A- (3.86)
+409,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (C),FA16,24,22,100.0%,100.0%,1.55,A- (3.90),A- (3.88)
+410,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (D),FA16,21,11,80.0%,70.0%,1.17,A (4.00),A- (3.89)
+411,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (A),FA16,33,17,100.0%,100.0%,2.38,A- (3.92),A- (3.89)
+412,"Rincon, Alicia",TDMV 3 - Beginning Jazz (B),FA16,24,9,100.0%,100.0%,0.5,A (4.00),A- (3.99)
+413,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),S216,32,3,100.0%,100.0%,0.5,A (4.00),A- (3.95)
+414,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (B),S216,25,20,100.0%,100.0%,2.25,A- (3.93),A- (3.95)
+415,"Cho, Hyunmi",TDMV 144 - Asian Dance (A),S216,29,8,100.0%,75.0%,3.75,B+ (3.67),A- (3.85)
+416,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),S216,32,11,100.0%,100.0%,2.06,A (4.00),A- (3.98)
+417,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (A),S216,34,10,100.0%,100.0%,3.3,A (4.00),A- (3.94)
+418,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),S116,29,5,80.0%,100.0%,1.3,A (4.00),B+ (3.67)
+419,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (B),S116,19,6,100.0%,100.0%,2.1,A (4.00),
+420,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),S116,24,3,100.0%,100.0%,2.5,A (4.00),A (4.00)
+421,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),S116,32,6,100.0%,100.0%,5.83,A (4.00),A- (3.89)
+422,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (B),S116,33,3,100.0%,100.0%,7.5,A (4.00),A- (3.89)
+423,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),S116,24,5,100.0%,100.0%,0.9,A (4.00),A- (3.97)
+424,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),S116,34,4,100.0%,100.0%,3.5,A (4.00),B+ (3.67)
+425,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),SP16,24,18,94.4%,88.9%,2.5,A- (3.88),A- (3.75)
+426,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (B),SP16,26,22,100.0%,100.0%,1.5,A- (3.86),A- (3.75)
+427,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),SP16,20,13,100.0%,100.0%,1.41,B+ (3.64),B+ (3.66)
+428,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),SP16,31,16,100.0%,100.0%,2.75,A- (3.93),A- (3.74)
+429,"Smith, Alison D",TDMV 110 - Intermediate Ballet (B),SP16,20,18,100.0%,100.0%,1.5,A- (3.94),A- (3.93)
+430,"Sharp, Judith A Emile",TDMV 111 - Advanced Ballet (A),SP16,9,6,100.0%,100.0%,0.83,A (4.00),
+431,"Weinberg, Sadie",TDMV 120 - Intermediate Contemp Dance (A),SP16,27,9,100.0%,100.0%,2.5,A (4.00),A- (3.98)
+432,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (B),SP16,26,14,100.0%,92.9%,2.07,A (4.00),B+ (3.68)
+433,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),SP16,19,6,100.0%,100.0%,1.3,A (4.00),
+434,"Sorensen, Jonathan Kyle",TDMV 133 - Advanced Jazz Dance (A),SP16,8,4,100.0%,100.0%,3.0,A (4.00),
+435,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),SP16,45,15,93.3%,100.0%,2.5,A (4.00),A- (3.91)
+436,"Devaguptapu, Divya",TDMV 140 - Dances Of The World (A),SP16,33,10,90.0%,100.0%,1.39,A (4.00),A- (3.99)
+437,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (A),SP16,51,20,100.0%,100.0%,4.15,B+ (3.67),A- (3.90)
+438,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),SP16,40,21,100.0%,100.0%,3.5,A (4.00),A- (3.90)
+439,"Foster-King, Sandra",TDMV 143 - West African Dance (A),SP16,55,16,93.8%,100.0%,2.75,A- (3.80),A- (3.77)
+440,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),SP16,32,8,100.0%,85.7%,2.5,A- (3.86),A- (3.99)
+441,"Jun, Grace Shin Hae",TDMV 148 - Intermediate Hip Hop (A),SP16,41,14,100.0%,100.0%,3.33,A (4.00),A- (3.86)
+442,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (A),SP16,26,15,100.0%,83.3%,2.83,A (4.00),A- (3.99)
+443,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (B),SP16,31,8,100.0%,100.0%,1.25,A (4.00),A- (3.89)
+444,"Rincon, Patricia A.",TDMV 2 - Beginning Contemporary Dance (C),SP16,27,21,100.0%,100.0%,1.83,A- (3.88),A- (3.73)
+445,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),SP16,31,7,100.0%,100.0%,0.79,A- (3.83),A- (3.94)
+446,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),WI16,28,16,91.7%,83.3%,1.67,A- (3.82),A- (3.85)
+447,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (B),WI16,28,27,100.0%,100.0%,1.91,A- (3.78),A- (3.85)
+448,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),WI16,12,7,100.0%,100.0%,2.79,A- (3.86),
+449,"Weinberg, Sadie",TDMV 110 - Intermediate Ballet (B),WI16,22,10,100.0%,100.0%,1.25,A (4.00),A- (3.95)
+450,"Sharp, Judith A Emile",TDMV 111 - Advanced Ballet (A),WI16,8,3,100.0%,100.0%,0.5,A (4.00),
+451,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (A),WI16,14,6,100.0%,100.0%,1.7,A (4.00),
+452,"Wilson, Terry A.",TDMV 120 - Intermediate Contemp Dance (B),WI16,18,8,100.0%,100.0%,3.17,A (4.00),
+453,"Geiger, Eric",TDMV 123 - Contact Improvisation (A),WI16,15,14,100.0%,100.0%,2.19,A (4.00),
+454,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),WI16,12,6,100.0%,100.0%,2.5,A (4.00),
+455,"Sorensen, Jonathan Kyle",TDMV 133 - Advanced Jazz Dance (B),WI16,9,4,100.0%,100.0%,3.17,B+ (3.67),
+456,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),WI16,30,13,100.0%,100.0%,1.5,A- (3.91),A- (3.86)
+457,"Valero, Oscar",TDMV 142 - Latin Dance of the World (A),WI16,41,13,92.3%,84.6%,2.65,B+ (3.58),A- (3.79)
+458,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),WI16,41,19,100.0%,100.0%,4.61,A- (3.93),A- (3.91)
+459,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (C),WI16,44,14,100.0%,92.3%,3.88,A- (3.82),A- (3.93)
+460,"Foster-King, Sandra",TDMV 143 - West African Dance (A),WI16,44,10,90.0%,100.0%,1.9,A (4.00),A- (3.71)
+461,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),WI16,29,8,100.0%,85.7%,3.07,A (4.00),A- (3.95)
+462,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (A),WI16,31,21,94.4%,100.0%,3.17,A- (3.81),A- (3.76)
+463,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (B),WI16,25,8,100.0%,100.0%,4.83,A- (3.75),A- (3.76)
+464,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (C),WI16,27,14,100.0%,100.0%,0.96,A (4.00),B+ (3.69)
+465,"Smith, Alison D",TDMV 2 - Beginning Contemporary Dance (D),WI16,10,4,100.0%,100.0%,2.5,A (4.00),
+466,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),WI16,30,9,100.0%,100.0%,0.5,A- (3.75),A- (3.96)
+467,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),WI16,32,18,100.0%,100.0%,2.28,A (4.00),A- (3.96)
+468,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),FA15,34,19,94.1%,88.2%,1.21,A- (3.94),A- (3.94)
+469,"Clancy, Liam",TDMV 1 - Beginning Ballet (C),FA15,23,5,100.0%,100.0%,0.9,A (4.00),A- (3.81)
+470,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),FA15,16,9,100.0%,100.0%,1.5,A (4.00),
+471,"Smith, Alison D",TDMV 110 - Intermediate Ballet (B),FA15,16,15,100.0%,93.3%,2.5,A (4.00),
+472,"Sharp, Judith A Emile",TDMV 111 - Advanced Ballet (A),FA15,9,3,100.0%,100.0%,1.17,A (4.00),
+473,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (A),FA15,22,11,100.0%,100.0%,1.59,A- (3.91),A- (3.85)
+474,"Wilson, Terry A.",TDMV 120 - Intermediate Contemp Dance (B),FA15,21,11,100.0%,100.0%,0.86,A- (3.91),A- (3.94)
+475,"Geiger, Eric",TDMV 122 - Advanced Contemporary Dance (A),FA15,8,8,100.0%,100.0%,2.25,A (4.00),
+476,"Geiger, Eric",TDMV 123 - Contact Improvisation (A),FA15,17,12,100.0%,100.0%,2.0,A (4.00),
+477,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),FA15,14,6,100.0%,100.0%,2.17,A- (3.80),
+478,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),FA15,28,11,90.9%,90.9%,1.23,A (4.00),A- (3.88)
+479,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (B),FA15,30,11,100.0%,100.0%,2.68,A (4.00),A- (3.88)
+480,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (A),FA15,47,12,100.0%,100.0%,5.3,A- (3.89),A- (3.93)
+481,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),FA15,41,14,100.0%,92.9%,3.07,A- (3.86),A- (3.93)
+482,"Foster-King, Sandra",TDMV 143 - West African Dance (A),FA15,46,42,100.0%,100.0%,2.5,A- (3.98),A- (3.96)
+483,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (A),FA15,20,12,100.0%,100.0%,4.9,A- (3.91),A- (3.80)
+484,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (B),FA15,31,18,94.4%,100.0%,1.63,A- (3.94),A- (3.90)
+485,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (C),FA15,27,11,100.0%,90.0%,2.5,A- (3.89),A- (3.90)
+486,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),FA15,29,6,100.0%,100.0%,1.17,A (4.00),A- (3.88)
+487,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),FA15,30,14,92.3%,92.3%,2.65,A- (3.91),B+ (3.70)
+488,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),S215,30,22,95.5%,100.0%,1.95,A- (3.94),A- (3.93)
+489,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),S215,26,10,100.0%,100.0%,2.3,A (4.00),A- (3.92)
+490,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (A),S215,28,8,100.0%,100.0%,5.93,A- (3.83),A- (3.99)
+491,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),S115,21,6,100.0%,83.3%,1.17,A (4.00),A- (3.89)
+492,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),S115,38,9,100.0%,100.0%,3.61,B+ (3.67),A- (3.79)
+493,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),S115,34,6,100.0%,100.0%,3.5,A- (3.83),A- (3.96)
+494,"Rincon, Alicia",TDMV 3 - Beginning Jazz (B),S115,39,15,100.0%,100.0%,4.21,A- (3.85),A- (3.96)
+495,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),SP15,26,11,90.9%,100.0%,1.05,A- (3.82),A- (3.95)
+496,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (B),SP15,25,9,100.0%,100.0%,2.0,A- (3.80),A- (3.95)
+497,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),SP15,26,11,100.0%,90.9%,1.95,A (4.00),A- (3.74)
+498,"Weinberg, Sadie",TDMV 110 - Intermediate Ballet (A),SP15,17,5,100.0%,100.0%,1.0,A (4.00),
+499,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (B),SP15,16,6,100.0%,100.0%,0.83,A- (3.83),
+500,"Sharp, Judith A Emile",TDMV 111 - Advanced Ballet (A),SP15,16,7,100.0%,100.0%,1.36,A (4.00),
+501,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (A),SP15,28,11,90.0%,60.0%,3.1,A- (3.78),A- (3.84)
+502,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (B),SP15,30,18,94.1%,88.2%,1.09,A (4.00),A- (3.89)
+503,"Geiger, Eric",TDMV 122 - Advanced Contemporary Dance (A),SP15,13,13,100.0%,100.0%,2.04,A- (3.75),
+504,"Frank, Lisa Joyce",TDMV 123 - Contact Improvisation (A),SP15,20,9,88.9%,88.9%,1.61,A (4.00),A- (3.91)
+505,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),SP15,25,8,100.0%,100.0%,1.25,A (4.00),A- (3.96)
+506,"Jun, Grace Shin Hae",TDMV 138 - Beginning Hip Hop (A),SP15,49,19,100.0%,100.0%,2.39,A- (3.88),A- (3.96)
+507,"Devaguptapu, Divya",TDMV 140 - Dances Of The World (A),SP15,40,12,90.9%,90.9%,2.32,A (4.00),A- (3.78)
+508,"Caligagan, Tony",TDMV 141 - Adv Dances of the World (A),SP15,12,6,83.3%,100.0%,5.17,A (4.00),
+509,"Valero, Oscar",TDMV 142 - Latin Dance of the World (A),SP15,35,11,100.0%,81.8%,1.95,A- (3.80),A- (3.87)
+510,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),SP15,53,19,100.0%,100.0%,3.34,A- (3.88),A- (3.90)
+511,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (C),SP15,51,16,100.0%,100.0%,3.5,A- (3.85),A- (3.90)
+512,"Foster-King, Sandra",TDMV 143 - West African Dance (A),SP15,50,48,97.9%,100.0%,2.71,A- (3.96),A- (3.84)
+513,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),SP15,39,11,100.0%,90.0%,3.9,A- (3.80),A- (3.86)
+514,"Jun, Grace Shin Hae",TDMV 148 - Intermediate Hip Hop (A),SP15,42,16,100.0%,100.0%,1.79,A (4.00),A- (3.90)
+515,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (A),SP15,29,15,100.0%,100.0%,1.07,A (4.00),A- (3.97)
+516,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (B),SP15,28,12,100.0%,100.0%,1.17,A (4.00),A- (3.87)
+517,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),SP15,25,7,100.0%,100.0%,1.07,A (4.00),A- (3.93)
+518,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),WI15,26,23,100.0%,100.0%,1.5,A (4.00),B+ (3.65)
+519,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (B),WI15,27,23,91.3%,100.0%,1.02,A- (3.79),B+ (3.65)
+520,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (B),WI15,15,6,80.0%,80.0%,0.9,B+ (3.50),
+521,"Sharp, Judith A Emile",TDMV 111 - Advanced Ballet (A),WI15,17,11,100.0%,100.0%,1.59,A- (3.90),
+522,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (A),WI15,27,12,90.0%,80.0%,1.3,A- (3.89),A- (3.96)
+523,"Wilson, Terry A.",TDMV 120 - Intermediate Contemp Dance (B),WI15,22,8,85.7%,85.7%,0.5,A- (3.86),A- (3.92)
+524,"Smith, Alison D",TDMV 122 - Advanced Contemporary Dance (A),WI15,16,6,83.3%,83.3%,2.17,A- (3.83),
+525,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),WI15,24,11,90.0%,80.0%,1.39,A- (3.89),A- (3.94)
+526,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),WI15,14,6,100.0%,100.0%,5.17,A- (3.83),
+527,"Jun, Grace Shin Hae",TDMV 138 - Hip Hop (A),WI15,35,14,100.0%,100.0%,3.0,A- (3.92),A- (3.96)
+528,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (A),WI15,51,15,100.0%,100.0%,5.3,A- (3.85),A- (3.91)
+529,"Foster-King, Sandra",TDMV 143 - West African Dance (A),WI15,59,50,100.0%,95.9%,3.22,A- (3.94),A- (3.81)
+530,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),WI15,31,13,100.0%,83.3%,3.33,A (4.00),A- (3.96)
+531,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (A),WI15,32,17,100.0%,100.0%,2.25,A- (3.93),B+ (3.63)
+532,"Rincon, Patricia A.",TDMV 2 - Beginning Contemporary Dance (B),WI15,27,15,100.0%,75.0%,2.1,A- (3.92),A- (3.95)
+533,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (C),WI15,16,10,100.0%,100.0%,0.72,A (4.00),
+534,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (D),WI15,30,12,100.0%,100.0%,2.5,A (4.00),B+ (3.63)
+535,"Rincon, Patricia A.",TDMV 2 - Beginning Contemporary Dance (E),WI15,34,18,100.0%,94.1%,2.63,A (4.00),A- (3.95)
+536,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),WI15,29,13,100.0%,100.0%,0.83,A (4.00),A- (3.97)
+537,"Rincon, Patricia A.",TDMV 3 - Beginning Jazz (B),WI15,29,25,100.0%,95.8%,1.92,A- (3.96),A- (3.88)
+538,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (C),WI15,29,12,100.0%,100.0%,1.17,A (4.00),A- (3.77)
+539,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),FA14,20,18,100.0%,100.0%,1.58,A (4.00),A (4.00)
+540,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (B),FA14,22,15,92.9%,85.7%,2.5,A- (3.86),A (4.00)
+541,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),FA14,21,6,100.0%,100.0%,1.83,A (4.00),A- (3.97)
+542,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (B),FA14,15,6,100.0%,100.0%,2.83,A- (3.83),
+543,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (A),FA14,15,4,100.0%,100.0%,2.5,A (4.00),
+544,"Wilson, Terry A.",TDMV 120 - Intermediate Contemp Dance (B),FA14,16,5,100.0%,80.0%,1.7,A (4.00),
+545,"Smith, Alison D",TDMV 122 - Advanced Contemporary Dance (A),FA14,21,7,100.0%,100.0%,1.64,A (4.00),A- (3.96)
+546,"Jun, Grace Shin Hae",TDMV 138 - Hip Hop (A),FA14,33,13,92.3%,92.3%,3.58,A (4.00),A- (3.89)
+547,"Rincon, Patricia A.",TDMV 138 - Hip Hop (B),FA14,19,9,100.0%,71.4%,1.83,A (4.00),
+548,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),FA14,45,13,92.3%,76.9%,4.81,A- (3.92),A- (3.90)
+549,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (B),FA14,27,16,93.8%,87.5%,4.37,A (4.00),A- (3.90)
+550,"Foster-King, Sandra",TDMV 143 - West African Dance (A),FA14,56,56,100.0%,100.0%,2.86,A (4.00),A- (3.80)
+551,"Cho, Hyunmi",TDMV 144 - Asian Dance (A),FA14,33,12,72.7%,63.6%,4.28,A- (3.89),A- (3.82)
+552,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (A),FA14,25,8,100.0%,100.0%,0.83,A (4.00),A- (3.90)
+553,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (B),FA14,30,17,100.0%,100.0%,1.38,A- (3.93),A- (3.80)
+554,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (C),FA14,31,19,94.4%,100.0%,0.94,A- (3.94),A- (3.90)
+555,"Rincon, Patricia A.",TDMV 2 - Beginning Contemporary Dance (D),FA14,27,16,100.0%,100.0%,1.83,A (4.00),A- (3.98)
+556,"Rincon, Patricia A.",TDMV 2 - Beginning Contemporary Dance (E),FA14,30,16,90.9%,90.9%,2.72,A (4.00),A- (3.98)
+557,"Rincon, Patricia A.",TDMV 3 - Beginning Jazz (A),FA14,30,17,100.0%,100.0%,2.26,A (4.00),A- (3.83)
+558,"Rincon, Alicia",TDMV 3 - Beginning Jazz (B),FA14,32,15,92.9%,92.9%,2.5,A (4.00),A- (3.93)
+559,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (C),FA14,28,14,92.9%,92.9%,1.73,A (4.00),A- (3.83)
+560,"Rincon, Alicia",TDMV 3 - Beginning Jazz (D),FA14,33,18,100.0%,100.0%,2.72,A- (3.88),A- (3.93)
+561,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),S214,24,17,100.0%,94.1%,1.56,A- (3.94),A- (3.97)
+562,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),S214,14,4,100.0%,100.0%,3.0,A- (3.75),
+563,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),S214,34,4,100.0%,50.0%,3.5,A (4.00),A- (3.92)
+564,"Cho, Hyunmi",TDMV 144 - Asian Dance (A),S214,34,10,80.0%,50.0%,4.3,A- (3.90),B+ (3.69)
+565,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (A),S214,17,4,100.0%,100.0%,2.0,A (4.00),
+566,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),S114,42,9,100.0%,85.7%,7.17,A- (3.86),A- (3.70)
+567,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),S114,30,15,100.0%,100.0%,2.79,A (4.00),A (4.00)
+568,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),S114,20,13,92.3%,92.3%,3.67,A- (3.92),A- (3.95)
+569,"Rincon, Alicia",TDMV 3 - Beginning Jazz (B),S114,23,17,94.1%,100.0%,1.56,A- (3.94),A- (3.95)
+570,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),SP14,33,19,94.4%,88.9%,1.06,A (4.00),A- (3.93)
+571,"Weinberg, Sadie",TDMV 1 - Beginning Ballet (B),SP14,30,13,100.0%,100.0%,2.04,A (4.00),A- (3.97)
+572,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (B),SP14,28,16,100.0%,100.0%,2.77,A- (3.93),A- (3.82)
+573,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),SP14,25,8,100.0%,100.0%,1.75,A- (3.86),A- (3.82)
+574,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (B),SP14,26,6,100.0%,100.0%,1.5,A (4.00),A- (3.82)
+575,"Smith, Alison D",TDMV 111 - Advanced Ballet (A),SP14,9,5,100.0%,100.0%,0.5,A (4.00),
+576,"Snaith, Yolande",TDMV 120 - Intermediate Contemp Dance (A),SP14,25,12,83.3%,91.7%,1.0,A (4.00),A- (3.97)
+577,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (B),SP14,31,13,100.0%,100.0%,2.14,A (4.00),A- (3.83)
+578,"Geiger, Eric",TDMV 122 - Advanced Contemporary Dance (A),SP14,8,7,100.0%,100.0%,3.64,A (4.00),
+579,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),SP14,19,14,100.0%,92.9%,1.64,A- (3.85),
+580,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),SP14,20,8,83.3%,83.3%,1.5,A (4.00),A- (3.96)
+581,"Rincon, Patricia A.",TDMV 138 - Hip Hop (A),SP14,40,15,100.0%,92.9%,2.93,A- (3.92),A- (3.94)
+582,"Caligagan, Tony",TDMV 141 - Adv Dances of the World (A),SP14,19,8,85.7%,85.7%,3.17,B+ (3.67),
+583,"Devaguptapu, Divya",TDMV 141 - Adv Dances of the World (B),SP14,25,6,100.0%,100.0%,0.9,A (4.00),A- (3.89)
+584,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (A),SP14,49,16,100.0%,100.0%,2.75,A (4.00),A- (3.89)
+585,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),SP14,48,20,100.0%,100.0%,3.24,A (4.00),A- (3.89)
+586,"Foster-King, Sandra",TDMV 143 - West African Dance (A),SP14,56,34,100.0%,93.8%,2.31,A (4.00),A- (3.84)
+587,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (A),SP14,25,10,85.7%,85.7%,1.07,A (4.00),A- (3.97)
+588,"Rincon, Patricia A.",TDMV 2 - Beginning Contemporary Dance (B),SP14,33,10,100.0%,100.0%,0.75,A (4.00),A- (3.98)
+589,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (C),SP14,19,7,57.1%,85.7%,1.5,A- (3.86),
+590,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (D),SP14,31,10,100.0%,100.0%,2.28,A (4.00),A (4.00)
+591,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),SP14,30,17,100.0%,100.0%,1.91,A- (3.81),A- (3.96)
+592,"Rincon, Patricia A.",TDMV 3 - Beginning Jazz (B),SP14,26,12,100.0%,100.0%,1.39,A (4.00),A- (3.99)
+593,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),WI14,23,17,100.0%,100.0%,1.38,A- (3.80),A- (3.80)
+594,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (B),WI14,30,25,96.0%,96.0%,0.98,A- (3.86),A- (3.80)
+595,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),WI14,17,9,100.0%,100.0%,1.61,A (4.00),
+596,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (B),WI14,26,12,100.0%,100.0%,0.83,A- (3.91),A- (3.91)
+597,"Smith, Alison D",TDMV 111 - Advanced Ballet (A),WI14,10,5,100.0%,100.0%,3.7,A (4.00),
+598,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (A),WI14,22,7,100.0%,100.0%,1.64,B+ (3.50),A- (3.83)
+599,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (B),WI14,22,7,100.0%,100.0%,0.5,A (4.00),A- (3.93)
+600,"Weinberg, Sadie",TDMV 122 - Advanced Contemporary Dance (A),WI14,15,7,100.0%,100.0%,1.07,A (4.00),
+601,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),WI14,12,8,100.0%,100.0%,1.25,A- (3.88),
+602,"Rincon, Patricia A.",TDMV 138 - Hip Hop (A),WI14,35,18,100.0%,100.0%,1.93,A (4.00),A- (3.92)
+603,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (A),WI14,46,23,95.7%,95.7%,3.54,A- (3.95),A- (3.96)
+604,"Ocampo, Cihtli",TDMV 142 - Latin Dance of the World (B),WI14,35,34,100.0%,100.0%,1.97,A- (3.97),A- (3.96)
+605,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (C),WI14,34,8,85.7%,71.4%,3.17,A (4.00),A- (3.91)
+606,"Foster-King, Sandra",TDMV 143 - West African Dance (A),WI14,62,17,93.8%,93.8%,3.13,A- (3.75),A- (3.80)
+607,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),WI14,25,10,100.0%,100.0%,2.94,A (4.00),A- (3.89)
+608,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (A),WI14,26,14,92.3%,84.6%,1.5,A (4.00),A- (3.88)
+609,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (B),WI14,30,18,100.0%,100.0%,0.9,A- (3.80),A- (3.97)
+610,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (C),WI14,25,16,85.7%,92.9%,2.79,A (4.00),A- (3.82)
+611,"Rincon, Patricia A.",TDMV 2 - Beginning Contemporary Dance (D),WI14,24,7,100.0%,83.3%,1.17,A (4.00),A- (3.80)
+612,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),WI14,32,20,100.0%,90.0%,1.0,A- (3.95),A (4.00)
+613,"Rincon, Patricia A.",TDMV 3 - Beginning Jazz (B),WI14,29,12,100.0%,100.0%,1.39,A- (3.90),A- (3.86)
+614,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (C),WI14,28,18,100.0%,100.0%,2.06,A (4.00),A- (3.94)
+615,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),FA13,24,12,100.0%,90.9%,1.23,A- (3.90),A (4.00)
+616,"Weinberg, Sadie",TDMV 1 - Beginning Ballet (B),FA13,27,17,100.0%,100.0%,1.25,A (4.00),A- (3.96)
+617,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),FA13,27,17,100.0%,100.0%,1.44,A- (3.81),A- (3.96)
+618,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (B),FA13,25,17,100.0%,100.0%,1.32,A- (3.87),A- (3.96)
+619,"Smith, Alison D",TDMV 111 - Advanced Ballet (A),FA13,12,4,100.0%,100.0%,0.5,A (4.00),
+620,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (A),FA13,19,9,100.0%,88.9%,0.5,A (4.00),
+621,"Wilson, Terry A.",TDMV 120 - Intermediate Contemp Dance (B),FA13,23,11,100.0%,100.0%,1.5,A- (3.90),A- (3.92)
+622,"Geiger, Eric",TDMV 122 - Advanced Contemporary Dance (A),FA13,16,7,100.0%,100.0%,3.07,A (4.00),
+623,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),FA13,14,13,100.0%,100.0%,1.27,A- (3.92),
+624,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),FA13,5,4,100.0%,100.0%,1.0,A (4.00),
+625,"Rincon, Patricia A.",TDMV 138 - Hip Hop (A),FA13,23,7,100.0%,100.0%,1.93,A (4.00),A- (3.85)
+626,"Rincon, Patricia A.",TDMV 138 - Hip Hop (B),FA13,12,7,100.0%,100.0%,2.17,A (4.00),
+627,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),FA13,42,18,100.0%,93.8%,4.0,A (4.00),A- (3.92)
+628,"Foster-King, Sandra",TDMV 143 - West African Dance (A),FA13,50,42,100.0%,100.0%,2.56,A- (3.94),A- (3.84)
+629,"Cho, Hyunmi",TDMV 144 - Asian Dance (A),FA13,39,11,63.6%,63.6%,2.86,A- (3.82),A- (3.79)
+630,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (A),FA13,27,12,100.0%,90.0%,1.7,A (4.00),B+ (3.58)
+631,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (B),FA13,32,18,100.0%,100.0%,1.38,A (4.00),A- (3.82)
+632,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (C),FA13,26,18,100.0%,82.4%,1.68,A- (3.92),A- (3.82)
+633,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (D),FA13,32,13,100.0%,100.0%,3.33,A (4.00),A- (3.82)
+634,"Rincon, Alicia",TDMV 3 - Beginning Jazz (B),FA13,30,18,94.4%,83.3%,1.09,A- (3.94),A (4.00)
+635,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (C),FA13,26,15,100.0%,100.0%,1.67,A- (3.83),A- (3.96)
+636,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),S213,19,4,75.0%,75.0%,1.17,B+ (3.50),
+637,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),S213,30,4,100.0%,100.0%,3.5,A (4.00),A- (3.95)
+638,"Cho, Hyunmi",TDMV 144 - Asian Dance (A),S213,27,5,50.0%,50.0%,7.0,A (4.00),A- (3.88)
+639,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (A),S213,18,3,100.0%,100.0%,0.5,A (4.00),
+640,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),S113,25,5,100.0%,100.0%,1.0,A (4.00),A- (3.99)
+641,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),S113,31,4,100.0%,100.0%,4.0,A- (3.75),A- (3.90)
+642,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),S113,25,6,100.0%,100.0%,3.17,A (4.00),A- (3.83)
+643,"Rincon, Alicia",TDMV 3 - Beginning Jazz (B),S113,19,6,100.0%,100.0%,1.5,A- (3.83),
+644,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (A),SP13,27,19,100.0%,100.0%,1.28,A- (3.81),A- (3.94)
+645,"Valerdi, Natalia",TDMV 1 - Beginning Ballet (B),SP13,33,25,96.0%,96.0%,1.14,A- (3.95),A- (3.94)
+646,"Sorensen, Jonathan Kyle",TDMV 11 - Theatrical Tap (A),SP13,30,15,100.0%,93.3%,1.79,A- (3.93),A- (3.75)
+647,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),SP13,27,19,100.0%,100.0%,1.94,A- (3.94),A- (3.81)
+648,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (B),SP13,28,13,100.0%,100.0%,1.83,A- (3.73),A- (3.81)
+649,"Smith, Alison D",TDMV 111 - Advanced Ballet (A),SP13,11,4,100.0%,100.0%,0.5,A (4.00),
+650,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (A),SP13,16,6,100.0%,83.3%,3.3,A (4.00),
+651,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (B),SP13,29,24,90.9%,95.5%,1.77,A (4.00),A- (3.97)
+652,"Clancy, Liam",TDMV 122 - Advanced Contemporary Dance (A),SP13,19,8,100.0%,100.0%,4.5,A (4.00),
+653,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),SP13,15,14,100.0%,92.3%,1.12,A (4.00),
+654,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),SP13,15,5,100.0%,100.0%,1.7,A (4.00),
+655,"Snaith, Yolande",TDMV 138 - Hip Hop (A),SP13,33,12,91.7%,75.0%,3.41,A- (3.82),A- (3.91)
+656,"Caligagan, Tony",TDMV 141 - Adv Dances of the World (A),SP13,28,11,100.0%,88.9%,2.72,A (4.00),A- (3.83)
+657,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (A),SP13,45,15,93.3%,93.3%,2.5,A- (3.92),A- (3.86)
+658,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),SP13,49,23,100.0%,100.0%,3.41,A- (3.95),A- (3.86)
+659,"Foster-King, Sandra",TDMV 143 - West African Dance (A),SP13,57,27,96.0%,92.0%,1.7,A- (3.86),A- (3.85)
+660,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (A),SP13,25,10,100.0%,90.0%,2.28,B+ (3.63),B+ (3.58)
+661,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (B),SP13,35,22,100.0%,95.5%,2.02,A- (3.76),A- (3.84)
+662,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (C),SP13,21,12,100.0%,100.0%,0.83,A- (3.91),A- (3.95)
+663,"Rincon, Patricia A.",TDMV 3 - Beginning Jazz (A),SP13,31,9,100.0%,100.0%,0.83,A (4.00),A- (3.95)
+664,"Rincon, Alicia",TDMV 3 - Beginning Jazz (B),SP13,28,17,100.0%,100.0%,1.21,A- (3.93),A- (3.86)
+665,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (C),SP13,28,6,100.0%,100.0%,2.5,A- (3.83),A- (3.91)
+666,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (A),WI13,32,18,88.9%,100.0%,0.72,A- (3.86),A- (3.93)
+667,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (B),WI13,32,14,100.0%,100.0%,1.5,A- (3.79),A- (3.93)
+668,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),WI13,24,13,92.3%,92.3%,0.96,A (4.00),A- (3.87)
+669,"Weinberg, Sadie",TDMV 110 - Intermediate Ballet (B),WI13,11,7,100.0%,85.7%,1.07,A- (3.86),
+670,"Smith, Alison D",TDMV 111 - Advanced Ballet (A),WI13,18,11,100.0%,100.0%,1.05,A (4.00),
+671,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (A),WI13,16,7,100.0%,100.0%,1.07,A (4.00),
+672,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (B),WI13,15,9,100.0%,100.0%,1.75,A (4.00),
+673,"Smith, Alison D",TDMV 122 - Advanced Contemporary Dance (A),WI13,12,10,90.0%,100.0%,0.72,A (4.00),
+674,"Geiger, Eric",TDMV 123 - Contact Improvisation (A),WI13,21,13,100.0%,100.0%,3.27,A (4.00),A- (3.96)
+675,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),WI13,17,10,100.0%,80.0%,1.1,A- (3.90),
+676,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),WI13,8,5,100.0%,100.0%,0.5,A (4.00),
+677,"Rincon, Patricia A.",TDMV 138 - Hip Hop (A),WI13,35,24,100.0%,91.3%,1.55,A (4.00),A- (3.88)
+678,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (A),WI13,52,30,100.0%,100.0%,4.77,A- (3.97),A- (3.86)
+679,"Foster-King, Sandra",TDMV 143 - West African Dance (A),WI13,58,19,100.0%,89.5%,2.82,A (4.00),A- (3.91)
+680,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),WI13,20,11,100.0%,72.7%,2.5,A- (3.91),A- (3.95)
+681,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (A),WI13,23,11,70.0%,70.0%,1.3,A (4.00),A- (3.80)
+682,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (B),WI13,29,17,94.1%,94.1%,2.15,A- (3.82),A- (3.79)
+683,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (C),WI13,33,13,100.0%,100.0%,0.96,A- (3.83),A- (3.89)
+684,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),WI13,32,16,100.0%,100.0%,1.17,A- (3.73),A- (3.94)
+685,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),WI13,31,12,100.0%,91.7%,2.0,A- (3.92),A- (3.87)
+686,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (A),FA12,32,14,92.3%,92.3%,1.42,A (4.00),A- (3.92)
+687,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (B),FA12,28,10,100.0%,100.0%,0.9,A (4.00),A- (3.92)
+688,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),FA12,32,12,100.0%,100.0%,1.23,A (4.00),A- (3.90)
+689,"Marshall, Daniel D.",TDMV 110 - Intermediate Ballet (B),FA12,9,4,100.0%,100.0%,0.5,A (4.00),
+690,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (A),FA12,21,9,100.0%,100.0%,1.5,A (4.00),A- (3.91)
+691,"Geiger, Eric",TDMV 122 - Advanced Contemporary Dance (A),FA12,14,3,100.0%,100.0%,1.83,A (4.00),
+692,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),FA12,17,5,100.0%,100.0%,2.5,A (4.00),
+693,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),FA12,10,5,100.0%,100.0%,0.5,A (4.00),
+694,"Rincon, Patricia A.",TDMV 138 - Hip Hop (A),FA12,25,9,100.0%,100.0%,1.39,A- (3.78),B+ (3.64)
+695,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),FA12,51,23,95.7%,78.3%,5.02,A- (3.96),A- (3.93)
+696,"Foster-King, Sandra",TDMV 143 - West African Dance (A),FA12,62,27,96.0%,88.0%,2.83,A (4.00),A- (3.80)
+697,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (A),FA12,24,11,81.8%,90.9%,2.68,A- (3.88),A- (3.81)
+698,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (B),FA12,29,12,91.7%,75.0%,1.17,A (4.00),A (4.00)
+699,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),FA12,31,12,90.9%,81.8%,1.3,B+ (3.67),A- (3.78)
+700,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),FA12,32,18,100.0%,100.0%,1.13,A- (3.86),A- (3.99)
+701,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),S212,36,7,100.0%,100.0%,5.07,A (4.00),B+ (3.66)
+702,"Cho, Hyunmi",TDMV 144 - Asian Dance (A),S212,33,9,100.0%,66.7%,6.94,A- (3.88),A- (3.87)
+703,"Cloud, Anya Elizabeth",TDMV 2 - Beginning Contemporary Dance (A),S212,33,4,100.0%,100.0%,2.0,A (4.00),A (4.00)
+704,"Green, Allyson",TDMV 120 - Intermediate Contemp Dance (A),S112,14,5,100.0%,100.0%,4.1,A (4.00),
+705,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),S112,26,7,100.0%,100.0%,2.79,A- (3.83),A (4.00)
+706,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (A),SP12,32,17,100.0%,100.0%,1.91,A (4.00),A- (3.88)
+707,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (B),SP12,36,20,100.0%,100.0%,2.2,A- (3.89),A- (3.88)
+708,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),SP12,27,14,100.0%,92.9%,0.5,A- (3.91),A- (3.81)
+709,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),SP12,25,8,100.0%,100.0%,2.5,A- (3.80),A- (3.77)
+710,"Smith, Alison D",TDMV 110 - Intermediate Ballet (B),SP12,25,9,100.0%,100.0%,1.83,A (4.00),A- (3.97)
+711,"Smith, Alison D",TDMV 111 - Advanced Ballet (A),SP12,22,12,100.0%,90.9%,1.05,A- (3.82),A- (3.85)
+712,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (A),SP12,28,11,100.0%,100.0%,1.41,A- (3.91),A- (3.95)
+713,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (B),SP12,26,12,100.0%,91.7%,1.33,A- (3.88),A- (3.84)
+714,"Geiger, Eric",TDMV 122 - Advanced Contemporary Dance (A),SP12,25,9,100.0%,100.0%,2.5,A- (3.89),A (4.00)
+715,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),SP12,18,6,100.0%,100.0%,1.5,A (4.00),
+716,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),SP12,13,6,100.0%,83.3%,1.83,A (4.00),
+717,"Rincon, Patricia A.",TDMV 138 - Hip Hop (A),SP12,47,16,100.0%,100.0%,3.03,A- (3.85),A- (3.77)
+718,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (A),SP12,45,18,100.0%,100.0%,5.17,A (4.00),A- (3.86)
+719,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),SP12,43,16,100.0%,100.0%,4.13,A (4.00),A- (3.86)
+720,"Foster-King, Sandra",TDMV 143 - West African Dance (A),SP12,56,25,100.0%,100.0%,3.25,A (4.00),A- (3.88)
+721,"Caligagan, Tony",TDMV 146 - Intermediate Latin Dance (A),SP12,45,11,100.0%,100.0%,3.05,A- (3.90),A- (3.96)
+722,"Rincon, Patricia A.",TDMV 2 - Beginning Contemporary Dance (A),SP12,27,17,100.0%,100.0%,1.38,A- (3.94),A- (3.95)
+723,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (B),SP12,31,12,100.0%,100.0%,1.83,A- (3.92),A- (3.85)
+724,"Green, Allyson",TDMV 3 - Beginning Jazz (A),SP12,35,11,100.0%,100.0%,0.7,A (4.00),A- (3.93)
+725,"Rincon, Alicia",TDMV 3 - Beginning Jazz (B),SP12,30,11,100.0%,100.0%,0.86,A (4.00),A- (3.94)
+726,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (A),WI12,28,14,92.9%,100.0%,0.96,A- (3.91),A- (3.85)
+727,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (B),WI12,31,22,100.0%,100.0%,1.5,A- (3.89),A- (3.85)
+728,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),WI12,24,15,100.0%,100.0%,0.9,A (4.00),A- (3.92)
+729,"Smith, Alison D",TDMV 110 - Intermediate Ballet (B),WI12,22,9,100.0%,87.5%,1.25,A (4.00),A (4.00)
+730,"Geiger, Eric",TDMV 112 - Adv Ballet-Contemp Dancers (A),WI12,13,5,80.0%,100.0%,0.5,A (4.00),
+731,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (A),WI12,13,5,100.0%,100.0%,0.9,A (4.00),
+732,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (B),WI12,21,9,100.0%,100.0%,2.25,A (4.00),A- (3.97)
+733,"Green, Allyson",TDMV 122 - Advanced Contemporary Dance (A),WI12,18,9,100.0%,88.9%,1.83,A (4.00),
+734,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),WI12,16,4,100.0%,100.0%,1.0,A (4.00),
+735,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),WI12,15,8,100.0%,100.0%,1.5,A (4.00),
+736,"Clancy, Liam",TDMV 138 - Hip Hop (A),WI12,21,7,100.0%,100.0%,0.79,A (4.00),A- (3.96)
+737,"Rincon, Patricia A.",TDMV 138 - Hip Hop (B),WI12,35,13,100.0%,100.0%,1.73,A- (3.91),A- (3.94)
+738,"Caligagan, Tony",TDMV 141 - Adv Dances of the World (A),WI12,25,10,100.0%,100.0%,5.5,A (4.00),A- (3.95)
+739,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (A),WI12,49,22,100.0%,100.0%,4.32,A- (3.90),A- (3.91)
+740,"Foster-King, Sandra",TDMV 143 - West African Dance (A),WI12,57,18,94.4%,88.9%,2.39,A (4.00),A- (3.92)
+741,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (A),WI12,24,12,100.0%,100.0%,1.5,A- (3.83),A (4.00)
+742,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (B),WI12,30,13,100.0%,100.0%,1.0,A (4.00),A- (3.98)
+743,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (C),WI12,30,17,100.0%,100.0%,0.5,B+ (3.60),A- (3.96)
+744,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),WI12,32,14,100.0%,100.0%,1.88,A- (3.86),A- (3.94)
+745,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),WI12,33,19,100.0%,94.7%,2.18,A- (3.94),A- (3.99)
+746,"Geiger, Eric",TDMV 1 - Beginning Ballet (A),FA11,32,18,100.0%,77.8%,2.17,A (4.00),A- (3.88)
+747,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (B),FA11,32,19,100.0%,100.0%,1.03,A- (3.88),A- (3.84)
+748,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (C),FA11,28,14,100.0%,100.0%,1.07,A- (3.91),A- (3.84)
+749,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),FA11,23,13,100.0%,100.0%,2.35,A- (3.85),A- (3.84)
+750,"Smith, Alison D",TDMV 110 - Intermediate Ballet (B),FA11,15,5,100.0%,100.0%,2.1,A (4.00),
+751,"Smith, Alison D",TDMV 111 - Advanced Ballet (A),FA11,11,7,100.0%,100.0%,2.5,A- (3.83),
+752,"Clancy, Liam",TDMV 120 - Intermediate Contemp Dance (A),FA11,28,12,100.0%,100.0%,2.17,A- (3.92),A- (3.99)
+753,"Wilson, Terry A.",TDMV 120 - Intermediate Contemp Dance (B),FA11,30,15,93.3%,86.7%,1.7,A (4.00),A- (3.87)
+754,"Geiger, Eric",TDMV 122 - Advanced Contemporary Dance (A),FA11,13,7,100.0%,100.0%,0.79,A (4.00),
+755,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),FA11,17,8,100.0%,100.0%,2.5,A- (3.86),
+756,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),FA11,14,6,100.0%,83.3%,1.17,B+ (3.67),
+757,"Rincon, Patricia A.",TDMV 138 - Hip Hop (A),FA11,37,12,100.0%,100.0%,1.41,A- (3.91),A- (3.95)
+758,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),FA11,44,17,100.0%,100.0%,5.0,A- (3.94),A- (3.92)
+759,"Foster-King, Sandra",TDMV 143 - West African Dance (A),FA11,57,25,100.0%,95.8%,2.17,A (4.00),A- (3.80)
+760,"Baskel, Alicia Peterson",TDMV 2 - Beginning Contemporary Dance (A),FA11,30,18,94.4%,94.4%,2.06,A (4.00),A- (3.88)
+761,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (B),FA11,28,11,100.0%,100.0%,1.77,A- (3.89),A- (3.79)
+762,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (C),FA11,23,12,100.0%,91.7%,3.33,A (4.00),A- (3.98)
+763,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),FA11,29,15,100.0%,100.0%,1.97,A- (3.91),A- (3.98)
+764,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),FA11,26,12,100.0%,100.0%,2.17,A- (3.82),A- (3.77)
+765,"Weinberg, Sadie",TDMV 1 - Beginning Ballet (A),S211,26,12,100.0%,91.7%,1.41,A (4.00),A- (3.91)
+766,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),S211,38,14,92.9%,78.6%,5.36,A- (3.90),A- (3.81)
+767,"Cho, Hyunmi",TDMV 144 - Asian Dance (A),S211,27,11,81.8%,72.7%,5.05,A (4.00),A- (3.80)
+768,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),S111,16,9,88.9%,88.9%,3.61,A- (3.75),
+769,"Green, Allyson",TDMV 120 - Intermediate Contemp Dance (A),S111,14,7,100.0%,100.0%,2.21,A (4.00),
+770,"Hayatshahi, Janet",TDMV 2 - Beginning Contemporary Dance (A),S111,15,6,100.0%,100.0%,2.5,A- (3.83),
+771,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),S111,23,11,100.0%,100.0%,1.95,A (4.00),A- (3.88)
+772,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (A),SP11,37,16,93.8%,100.0%,3.0,A (4.00),A- (3.85)
+773,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (B),SP11,38,17,94.1%,94.1%,1.56,B+ (3.67),A- (3.85)
+774,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),SP11,31,15,100.0%,100.0%,1.7,A- (3.93),A- (3.96)
+775,"Smith, Alison D",TDMV 110 - Intermediate Ballet (A),SP11,36,16,100.0%,100.0%,1.75,A- (3.93),A- (3.98)
+776,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (B),SP11,30,16,100.0%,100.0%,1.7,A- (3.87),A- (3.83)
+777,"Smith, Alison D",TDMV 111 - Advanced Ballet (A),SP11,18,8,100.0%,100.0%,2.0,A- (3.75),
+778,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (A),SP11,32,10,100.0%,88.9%,1.39,A (4.00),A- (3.96)
+779,"Wilson, Terry A.",TDMV 120 - Intermediate Contemp Dance (B),SP11,27,8,100.0%,100.0%,1.25,A- (3.86),A- (3.87)
+780,"Green, Allyson",TDMV 122 - Advanced Contemporary Dance (A),SP11,17,10,100.0%,100.0%,1.39,A- (3.89),
+781,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),SP11,26,13,100.0%,100.0%,1.27,A- (3.91),A- (3.99)
+782,"Green, Allyson",TDMV 138 - Hip Hop (A),SP11,42,14,100.0%,100.0%,1.79,A- (3.92),A- (3.84)
+783,"Caligagan, Tony",TDMV 141 - Adv Dances of the World (A),SP11,39,13,100.0%,92.3%,4.65,A- (3.75),A- (3.98)
+784,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (A),SP11,47,19,100.0%,100.0%,5.21,A- (3.94),A- (3.77)
+785,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),SP11,43,18,100.0%,100.0%,5.94,A- (3.94),A- (3.77)
+786,"Foster-King, Sandra",TDMV 143 - West African Dance (A),SP11,59,21,90.5%,95.2%,2.31,A- (3.88),B+ (3.69)
+787,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (A),SP11,24,9,100.0%,100.0%,1.39,A (4.00),A- (3.92)
+788,"Rincon, Patricia A.",TDMV 2 - Beginning Contemporary Dance (B),SP11,35,12,100.0%,100.0%,0.67,A (4.00),A- (3.85)
+789,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),SP11,39,17,100.0%,94.1%,2.38,B+ (3.65),A- (3.92)
+790,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (A),WI11,33,19,100.0%,100.0%,2.39,A- (3.92),A- (3.87)
+791,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),WI11,40,23,100.0%,100.0%,1.02,A- (3.84),A- (3.91)
+792,"Smith, Alison D",TDMV 110 - Intermediate Ballet (B),WI11,27,11,100.0%,100.0%,3.5,A (4.00),A- (3.94)
+793,"Geiger, Eric",TDMV 112 - Adv Ballet-Contemp Dancers (A),WI11,15,7,100.0%,71.4%,2.21,A (4.00),
+794,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (A),WI11,24,10,100.0%,100.0%,0.9,A- (3.80),A- (3.78)
+795,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (B),WI11,18,5,100.0%,100.0%,1.7,A (4.00),
+796,"Green, Allyson",TDMV 122 - Advanced Contemporary Dance (A),WI11,21,6,100.0%,100.0%,1.5,A (4.00),A- (3.74)
+797,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),WI11,18,4,100.0%,100.0%,1.5,A (4.00),
+798,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),WI11,15,5,100.0%,80.0%,0.9,A (4.00),
+799,"Green, Allyson",TDMV 138 - Hip Hop (A),WI11,39,14,100.0%,100.0%,2.21,A (4.00),A- (3.91)
+800,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),WI11,41,14,92.3%,100.0%,4.5,A- (3.92),A- (3.92)
+801,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),WI11,42,19,100.0%,100.0%,4.39,A- (3.94),A- (3.83)
+802,"Foster-King, Sandra",TDMV 143 - West African Dance (A),WI11,55,19,100.0%,100.0%,2.39,A (4.00),A- (3.84)
+803,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (A),WI11,30,17,100.0%,100.0%,1.09,A- (3.87),A- (3.98)
+804,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (B),WI11,30,14,92.9%,85.7%,2.21,A- (3.85),A- (3.73)
+805,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (C),WI11,30,11,100.0%,100.0%,1.23,A- (3.80),A- (3.95)
+806,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),WI11,34,12,100.0%,91.7%,1.5,A- (3.80),A- (3.94)
+807,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),WI11,39,17,94.1%,94.1%,2.5,A (4.00),A- (3.80)
+808,"Geiger, Eric",TDMV 1 - Beginning Ballet (A),FA10,28,15,100.0%,93.3%,1.97,A- (3.89),A- (3.92)
+809,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (B),FA10,29,13,100.0%,100.0%,1.77,A- (3.85),A- (3.85)
+810,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),FA10,19,13,100.0%,100.0%,1.42,B+ (3.69),
+811,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (B),FA10,32,18,100.0%,100.0%,1.17,A- (3.93),A- (3.85)
+812,"Clancy, Liam",TDMV 120 - Intermediate Contemp Dance (A),FA10,23,6,100.0%,100.0%,0.83,A (4.00),A- (3.80)
+813,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (B),FA10,20,12,91.7%,100.0%,2.0,A- (3.92),A- (3.92)
+814,"Geiger, Eric",TDMV 122 - Advanced Contemporary Dance (A),FA10,32,12,100.0%,100.0%,1.5,A (4.00),A (4.00)
+815,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),FA10,16,8,100.0%,75.0%,1.25,A (4.00),
+816,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),FA10,14,7,100.0%,85.7%,0.5,A- (3.71),
+817,"Green, Allyson",TDMV 138 - Hip Hop (A),FA10,24,12,91.7%,91.7%,2.17,A- (3.83),B (3.30)
+818,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),FA10,42,19,100.0%,100.0%,4.83,A- (3.88),A- (3.98)
+819,"Foster-King, Sandra",TDMV 143 - West African Dance (A),FA10,56,19,94.7%,94.7%,1.66,A (4.00),A- (3.75)
+820,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (A),FA10,25,15,100.0%,100.0%,1.58,A- (3.79),A- (3.88)
+821,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (B),FA10,29,20,100.0%,100.0%,1.8,A (4.00),A- (3.90)
+822,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (C),FA10,30,14,100.0%,92.3%,1.73,A- (3.92),A- (3.88)
+823,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),FA10,26,11,100.0%,100.0%,1.59,A- (3.78),A- (3.95)
+824,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),FA10,32,18,100.0%,88.9%,1.68,A- (3.94),A- (3.88)
+825,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),SU10,15,7,100.0%,100.0%,3.64,A- (3.86),
+826,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),SU10,29,8,100.0%,100.0%,9.36,A- (3.71),
+827,"Cho, Hyunmi",TDMV 144 - Asian Dance (A),SU10,35,10,90.0%,90.0%,6.5,A (4.00),
+828,"Humphrey, Jessica",TDMV 2 - Beginning Contemporary Dance (A),SU10,19,7,100.0%,100.0%,1.83,A (4.00),
+829,"Jun, Grace Shin Hae",TDMV 2 - Beginning Contemporary Dance (B),SU10,29,15,100.0%,100.0%,3.79,A- (3.92),
+830,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),SU10,33,11,100.0%,100.0%,2.5,B+ (3.57),
+831,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (A),SP10,29,12,100.0%,100.0%,1.17,A (4.00),A- (3.80)
+832,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (B),SP10,31,12,100.0%,81.8%,2.0,A- (3.82),A- (3.80)
+833,"Rincon, Patricia A.",TDMV 1 - Beginning Ballet (C),SP10,37,18,100.0%,100.0%,1.28,A- (3.94),A- (3.81)
+834,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),SP10,26,12,100.0%,100.0%,1.0,A (4.00),A- (3.95)
+835,"Weinberg, Sadie",TDMV 110 - Intermediate Ballet (A),SP10,17,7,85.7%,85.7%,0.5,A- (3.86),
+836,"Smith, Alison D",TDMV 110 - Intermediate Ballet (B),SP10,34,18,100.0%,100.0%,1.17,A- (3.94),A (4.00)
+837,"Sharp, Judith A Emile",TDMV 111 - Advanced Ballet (A),SP10,24,9,100.0%,100.0%,1.39,A- (3.89),A- (3.76)
+838,"Smith, Alison D",TDMV 112 - Adv Ballet-Contemp Dancers (A),SP10,22,8,100.0%,100.0%,1.5,A (4.00),A (4.00)
+839,"Sammartano, Tonnie",TDMV 120 - Intermediate Contemp Dance (B),SP10,37,16,93.8%,100.0%,1.63,A- (3.94),A- (3.97)
+840,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (C),SP10,36,13,100.0%,90.9%,1.0,A- (3.85),A- (3.86)
+841,"Geiger, Eric",TDMV 122 - Advanced Contemporary Dance (A),SP10,24,9,100.0%,100.0%,1.61,A (4.00),A- (3.97)
+842,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),SP10,17,7,100.0%,100.0%,1.36,B+ (3.67),
+843,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),SP10,24,10,80.0%,80.0%,1.1,A- (3.90),A- (3.77)
+844,"Green, Allyson",TDMV 138 - Hip Hop (A),SP10,53,23,100.0%,100.0%,3.5,A- (3.79),A- (3.93)
+845,"Caligagan, Tony",TDMV 141 - Adv Dances of the World (A),SP10,24,10,100.0%,90.0%,5.9,A- (3.86),A- (3.98)
+846,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (A),SP10,42,20,100.0%,100.0%,4.18,A- (3.94),A- (3.88)
+847,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),SP10,44,21,95.2%,100.0%,4.4,A- (3.80),A- (3.88)
+848,"Foster-King, Sandra",TDMV 143 - West African Dance (A),SP10,56,25,100.0%,100.0%,2.58,A- (3.95),A- (3.80)
+849,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (A),SP10,40,26,100.0%,100.0%,1.27,A- (3.95),A- (3.74)
+850,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (B),SP10,30,15,100.0%,92.9%,0.9,A- (3.93),A- (3.93)
+851,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),SP10,27,21,85.7%,71.4%,0.98,A- (3.88),A- (3.87)
+852,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (A),WI10,30,9,100.0%,100.0%,0.94,A (4.00),A- (3.82)
+853,"Snaith, Yolande",TDMV 1 - Beginning Ballet (B),WI10,36,10,100.0%,88.9%,1.3,A (4.00),B+ (3.60)
+854,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (C),WI10,33,16,93.8%,87.5%,0.75,A- (3.83),A- (3.82)
+855,"Geiger, Eric",TDMV 110 - Intermediate Ballet (A),WI10,35,16,100.0%,100.0%,0.75,A (4.00),A- (3.94)
+856,"Smith, Alison D",TDMV 110 - Intermediate Ballet (B),WI10,31,11,100.0%,90.9%,1.05,A- (3.89),A- (3.84)
+857,"Sharp, Judith A Emile",TDMV 111 - Advanced Ballet (A),WI10,15,6,100.0%,100.0%,2.17,A- (3.83),
+858,"Clancy, Liam",TDMV 120 - Intermediate Contemp Dance (A),WI10,26,11,100.0%,100.0%,1.05,A (4.00),A- (3.89)
+859,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (B),WI10,22,13,100.0%,92.3%,1.42,A- (3.90),A- (3.81)
+860,"Snaith, Yolande",TDMV 122 - Advanced Contemporary Dance (A),WI10,21,5,100.0%,100.0%,0.5,A (4.00),B+ (3.51)
+861,"Wilson, Terry A.",TDMV 122 - Advanced Contemporary Dance (A),WI10,21,5,100.0%,100.0%,0.5,A (4.00),B+ (3.51)
+862,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),WI10,19,7,71.4%,57.1%,0.5,A (4.00),
+863,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),WI10,18,7,100.0%,100.0%,0.83,A (4.00),
+864,"Green, Allyson",TDMV 138 - Hip Hop (A),WI10,34,9,100.0%,100.0%,1.39,A (4.00),A- (3.93)
+865,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),WI10,45,14,100.0%,100.0%,4.93,A (4.00),A- (3.97)
+866,"Foster-King, Sandra",TDMV 143 - West African Dance (A),WI10,50,10,90.0%,80.0%,3.83,A- (3.75),A- (3.91)
+867,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (A),WI10,33,11,100.0%,100.0%,0.5,A (4.00),B+ (3.58)
+868,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (B),WI10,28,10,100.0%,100.0%,1.3,A (4.00),A- (3.94)
+869,"Clancy, Liam",TDMV 2 - Beginning Contemporary Dance (C),WI10,31,16,100.0%,100.0%,1.0,A- (3.92),A- (3.76)
+870,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),WI10,26,7,100.0%,100.0%,0.79,A (4.00),A (4.00)
+871,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),WI10,35,17,100.0%,100.0%,1.44,A- (3.94),A- (3.84)
+872,"Rincon, Patricia A.",TDMV 1 - Beginning Ballet (A),FA09,25,23,95.7%,87.0%,1.02,A- (3.95),A- (3.86)
+873,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (B),FA09,24,19,100.0%,100.0%,1.24,A- (3.81),A- (3.89)
+874,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (D),FA09,34,29,100.0%,100.0%,1.12,A- (3.85),A- (3.89)
+875,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),FA09,32,30,100.0%,96.6%,1.67,A- (3.89),A- (3.78)
+876,"Smith, Alison D",TDMV 110 - Intermediate Ballet (B),FA09,27,26,100.0%,92.0%,1.14,A- (3.95),A- (3.92)
+877,"Geiger, Eric",TDMV 111 - Advanced Ballet (A),FA09,19,17,100.0%,100.0%,1.88,A- (3.93),
+878,"Clancy, Liam",TDMV 120 - Intermediate Contemp Dance (A),FA09,20,19,100.0%,100.0%,1.03,A- (3.94),A- (3.95)
+879,"Humphrey, Jessica",TDMV 120 - Intermediate Contemp Dance (B),FA09,16,15,100.0%,100.0%,1.03,A- (3.93),
+880,"Geiger, Eric",TDMV 120 - Intermediate Contemp Dance (C),FA09,29,27,96.3%,100.0%,0.96,A- (3.96),A (4.00)
+881,"Green, Allyson",TDMV 122 - Advanced Contemporary Dance (A),FA09,14,15,100.0%,100.0%,2.93,A- (3.71),
+882,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),FA09,18,15,100.0%,100.0%,1.5,A- (3.83),
+883,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),FA09,46,36,100.0%,100.0%,3.72,A- (3.81),A- (3.92)
+884,"Foster-King, Sandra",TDMV 143 - West African Dance (A),FA09,42,35,100.0%,94.3%,2.5,A- (3.97),A- (3.91)
+885,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (A),FA09,25,16,93.8%,100.0%,1.5,A (4.00),A- (3.80)
+886,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (B),FA09,26,19,100.0%,100.0%,0.71,B+ (3.53),A- (3.96)
+887,"Snaith, Yolande",TDMV 2 - Beginning Contemporary Dance (C),FA09,23,18,100.0%,100.0%,1.32,A- (3.83),A- (3.82)
+888,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (A),FA09,33,32,100.0%,100.0%,2.11,A- (3.83),A- (3.81)
+889,"Rincon, Alicia",TDMV 3 - Beginning Jazz (B),FA09,34,29,100.0%,96.6%,1.19,A- (3.96),A- (3.96)
+890,"Cho, Hyunmi",TDMV 1 - Beginning Ballet (A),SU09,21,14,100.0%,85.7%,2.07,B+ (3.64),
+891,"Cho, Hyunmi",TDMV 110 - Intermediate Ballet (A),SU09,5,4,100.0%,100.0%,0.5,A- (3.75),
+892,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),SU09,43,13,100.0%,100.0%,6.04,A- (3.90),
+893,"Jun, Grace Shin Hae",TDMV 2 - Beginning Contemporary Dance (A),SU09,27,13,100.0%,100.0%,2.5,A (4.00),
+894,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (A),SP09,36,20,100.0%,100.0%,2.0,A- (3.78),A- (3.86)
+895,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (B),SP09,26,18,100.0%,100.0%,1.06,A- (3.82),A- (3.86)
+896,"Marshall, Margaret C.",TDMV 1 - Beginning Ballet (C),SP09,34,26,100.0%,100.0%,1.73,A (4.00),A- (3.91)
+897,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),SP09,28,21,100.0%,95.2%,1.45,A (4.00),A- (3.96)
+898,"Geiger, Eric",TDMV 110 - Intermediate Ballet (A),SP09,28,19,100.0%,100.0%,0.88,A- (3.86),A- (3.88)
+899,"Sammartano, Tonnie",TDMV 110 - Intermediate Ballet (B),SP09,23,17,100.0%,81.3%,0.85,A- (3.93),A- (3.93)
+900,"Sharp, Judith A Emile",TDMV 111 - Advanced Ballet (A),SP09,14,10,100.0%,100.0%,1.9,A- (3.71),
+901,"Smith, Alison D",TDMV 112 - Adv Ballet-Contemp Dancers (A),SP09,9,8,100.0%,100.0%,0.5,B+ (3.50),
+902,"Smith, Alison D",TDMV 120 - Intermediate Contemp Dance (A),SP09,27,22,100.0%,100.0%,1.05,A- (3.90),A- (3.85)
+903,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (B),SP09,16,12,100.0%,91.7%,1.23,A (4.00),
+904,"Geiger, Eric",TDMV 122 - Advanced Contemporary Dance (A),SP09,17,16,100.0%,100.0%,2.5,B+ (3.64),
+905,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),SP09,20,20,100.0%,90.0%,1.3,A- (3.95),A- (3.98)
+906,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),SP09,28,24,100.0%,100.0%,1.37,A- (3.96),A- (3.89)
+907,"Caligagan, Tony",TDMV 141 - Adv Dances of the World (A),SP09,27,16,93.8%,93.8%,5.0,A- (3.93),A- (3.99)
+908,"Foster-King, Sandra",TDMV 143 - West African Dance (A),SP09,50,24,100.0%,100.0%,3.05,A- (3.90),A- (3.97)
+909,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (A),SP09,26,25,96.0%,92.0%,1.17,A- (3.81),B+ (3.68)
+910,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),SP09,28,21,100.0%,78.9%,1.3,A- (3.84),A- (3.96)
+911,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (A),WI09,31,21,100.0%,100.0%,1.0,A- (3.94),A- (3.90)
+912,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (B),WI09,32,20,100.0%,100.0%,1.2,A- (3.88),A- (3.90)
+913,"Weinberg, Sadie",TDMV 1 - Beginning Ballet (C),WI09,25,22,100.0%,100.0%,2.12,A- (3.78),B+ (3.57)
+914,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (B),WI09,22,13,100.0%,100.0%,1.33,A (4.00),A- (3.92)
+915,"Marshall, Margaret C.",TDMV 111 - Advanced Ballet (A),WI09,18,16,93.8%,100.0%,0.9,A- (3.92),
+916,"Smith, Alison D",TDMV 112 - Adv Ballet-Contemp Dancers (A),WI09,14,11,100.0%,100.0%,1.05,A- (3.82),
+917,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dance (A),WI09,22,19,100.0%,100.0%,1.34,A (4.00),A- (3.97)
+918,"Weinberg, Sadie",TDMV 120 - Intermediate Contemp Dance (B),WI09,29,24,100.0%,100.0%,1.75,A- (3.88),A- (3.93)
+919,"Wilson, Terry A.",TDMV 122 - Advanced Contemporary Dance (A),WI09,17,13,100.0%,100.0%,0.83,A- (3.82),
+920,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),WI09,22,21,100.0%,95.0%,1.83,A (4.00),A- (3.96)
+921,"Green, Allyson",TDMV 138 - Hip Hop (A),WI09,33,30,100.0%,100.0%,1.7,A (4.00),A- (3.80)
+922,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),WI09,52,22,100.0%,95.2%,4.69,A- (3.82),A- (3.96)
+923,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),WI09,39,28,100.0%,100.0%,2.87,A- (3.96),A- (3.81)
+924,"Foster-King, Sandra",TDMV 143 - West African Dance (A),WI09,47,24,100.0%,100.0%,2.23,A- (3.79),A- (3.90)
+925,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (A),WI09,24,21,95.0%,95.2%,1.36,A- (3.71),A- (3.81)
+926,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (B),WI09,26,22,100.0%,100.0%,0.77,A- (3.90),A- (3.88)
+927,"Marshall, Margaret C.",TDMV 2 - Beginning Contemporary Dance (C),WI09,25,20,100.0%,100.0%,1.1,A- (3.88),A- (3.99)
+928,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),WI09,41,28,100.0%,100.0%,2.06,A- (3.88),A- (3.84)
+929,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),WI09,27,25,100.0%,100.0%,1.46,A- (3.87),A- (3.79)
+930,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (A),FA08,23,15,93.3%,93.3%,1.43,B+ (3.67),A- (3.81)
+931,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (B),FA08,31,22,95.2%,100.0%,1.23,A- (3.72),A- (3.81)
+932,"Marshall, Margaret C.",TDMV 110 - Intermediate Ballet (A),FA08,25,24,100.0%,100.0%,1.42,A (4.00),A- (3.82)
+933,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (B),FA08,17,11,100.0%,90.9%,2.14,A (4.00),
+934,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),FA08,22,18,88.9%,88.2%,1.09,A (4.00),A- (3.87)
+935,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),FA08,18,15,100.0%,100.0%,2.79,A (4.00),
+936,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),FA08,48,43,100.0%,100.0%,4.21,A- (3.84),A- (3.83)
+937,"Foster-King, Sandra",TDMV 143 - West African Dance (A),FA08,45,29,100.0%,100.0%,2.02,A- (3.92),A- (3.78)
+938,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (A),FA08,26,25,100.0%,100.0%,1.54,A- (3.95),A- (3.86)
+939,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (B),FA08,23,21,90.5%,95.2%,0.88,A- (3.72),A- (3.79)
+940,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),FA08,25,20,100.0%,100.0%,1.7,A- (3.84),A- (3.91)
+941,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),SU08,49,46,100.0%,95.3%,8.4,A- (3.82),
+942,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (A),SP08,32,19,94.4%,94.4%,1.03,A- (3.92),A- (3.86)
+943,"Smith, Alison D",TDMV 1 - Beginning Ballet (B),SP08,27,22,100.0%,100.0%,1.07,A- (3.85),A- (3.84)
+944,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (C),SP08,36,23,95.7%,100.0%,1.8,A- (3.89),A- (3.86)
+945,"Arcidiacono, Kristin",TDMV 11 - Theatrical Tap (A),SP08,28,17,100.0%,100.0%,0.5,A- (3.93),A- (3.88)
+946,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (A),SP08,26,23,100.0%,100.0%,1.34,A- (3.89),A- (3.87)
+947,"Marshall, Margaret C.",TDMV 110 - Intermediate Ballet (B),SP08,19,18,100.0%,94.4%,1.28,A- (3.76),
+948,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dancers (A),SP08,20,12,91.7%,83.3%,1.5,A- (3.92),A- (3.98)
+949,"Geiger, Eric",TDMV 120 - Intermediate Contemp Dancers (B),SP08,20,16,100.0%,100.0%,1.0,A- (3.94),A- (3.91)
+950,"Wilson, Terry A.",TDMV 120 - Intermediate Contemp Dancers (C),SP08,25,22,100.0%,95.5%,0.95,A- (3.95),A- (3.81)
+951,"Geiger, Eric",TDMV 122 - Advanced Contemporary Dance (A),SP08,22,9,100.0%,66.7%,3.17,A (4.00),A- (3.93)
+952,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),SP08,14,12,100.0%,100.0%,1.67,A (4.00),
+953,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),SP08,18,7,100.0%,100.0%,0.5,A (4.00),
+954,"Jun, Grace Shin Hae",TDMV 138 - Hip Hop (A),SP08,33,29,100.0%,100.0%,1.81,A- (3.93),A- (3.97)
+955,"Caligagan, Tony",TDMV 141 - Adv Dances of the World (A),SP08,30,24,100.0%,100.0%,6.08,A- (3.80),A- (3.78)
+956,"Foster-King, Sandra",TDMV 143 - West African Dance (A),SP08,51,26,100.0%,96.2%,1.58,A- (3.92),A- (3.99)
+957,"Cho, Hyunmi",TDMV 144 - Asian Dance (A),SP08,48,34,82.4%,72.7%,2.09,B+ (3.66),A- (3.90)
+958,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (A),SP08,32,32,100.0%,100.0%,1.0,A- (3.91),A- (3.87)
+959,"Smith, Alison D",TDMV 2 - Beginning Contemporary Dance (C),SP08,25,19,100.0%,100.0%,1.61,A- (3.78),A- (3.90)
+960,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (D),SP08,32,23,100.0%,95.7%,1.63,A- (3.90),A- (3.87)
+961,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),SP08,31,26,100.0%,88.0%,0.66,A (4.00),A- (3.96)
+962,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (A),WI08,26,18,100.0%,100.0%,1.39,A- (3.85),A- (3.87)
+963,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (B),WI08,30,25,96.0%,100.0%,1.08,A- (3.74),A- (3.87)
+964,"Smith, Alison D",TDMV 1 - Beginning Ballet (C),WI08,27,14,100.0%,100.0%,1.07,A (4.00),A- (3.89)
+965,"Marshall, Margaret C.",TDMV 110 - Intermediate Ballet (A),WI08,21,16,100.0%,100.0%,0.5,A- (3.93),A- (3.70)
+966,"Sharp, Judith A Emile",TDMV 110 - Intermediate Ballet (B),WI08,26,16,100.0%,100.0%,1.07,A- (3.86),A- (3.85)
+967,"Rincon, Patricia A.",TDMV 120 - Intermediate Contemp Dancers (A),WI08,20,16,100.0%,93.8%,2.88,A (4.00),A- (3.72)
+968,"Snaith, Yolande",TDMV 120 - Intermediate Contemp Dancers (B),WI08,15,12,100.0%,91.7%,1.17,A (4.00),
+969,"Green, Allyson",TDMV 122 - Advanced Contemporary Dance (A),WI08,21,9,100.0%,100.0%,3.25,A (4.00),A- (3.83)
+970,"Geiger, Eric",TDMV 122 - Advanced Contemporary Dance (B),WI08,16,11,100.0%,100.0%,1.77,A- (3.82),
+971,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),WI08,16,12,90.9%,100.0%,0.67,A (4.00),
+972,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),WI08,19,17,94.1%,94.1%,0.75,A- (3.93),
+973,"Jun, Grace Shin Hae",TDMV 138 - Hip Hop (A),WI08,38,23,100.0%,100.0%,1.98,A (4.00),A- (3.87)
+974,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),WI08,46,40,100.0%,100.0%,5.74,A- (3.82),A- (3.79)
+975,"Caligagan, Maria T.",TDMV 142 - Latin Dance of the World (B),WI08,46,39,100.0%,100.0%,3.01,A- (3.97),A- (3.79)
+976,"Foster-King, Sandra",TDMV 143 - West African Dance (A),WI08,46,22,95.2%,100.0%,2.05,A- (3.95),A- (3.88)
+977,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (A),WI08,24,19,94.7%,94.7%,0.82,A- (3.73),A- (3.77)
+978,"Sammartano, Tonnie",TDMV 2 - Beginning Contemporary Dance (B),WI08,25,22,100.0%,95.0%,1.5,A- (3.89),A- (3.83)
+979,"Geiger, Eric",TDMV 2 - Beginning Contemporary Dance (C),WI08,25,18,100.0%,100.0%,0.97,A- (3.88),A- (3.86)
+980,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),WI08,28,23,100.0%,90.9%,1.14,A- (3.90),A- (3.91)
+981,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),WI08,28,21,100.0%,100.0%,1.36,A- (3.90),A (4.00)
+982,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (B),FA07,29,20,100.0%,95.0%,0.82,A- (3.94),A- (3.86)
+983,"Sharp, Judith A Emile",TDMV 1 - Beginning Ballet (C),FA07,29,23,100.0%,100.0%,1.05,A- (3.75),A- (3.86)
+984,"Smith, Alison D",TDMV 110 - Intermediate Ballet (A),FA07,24,13,100.0%,100.0%,0.96,A- (3.91),A- (3.97)
+985,"Clancy, Liam",TDMV 120 - Intermediate Contemp Dancers (B),FA07,21,16,100.0%,100.0%,0.88,A- (3.93),A- (3.95)
+986,"Rincon, Alicia",TDMV 130 - Intermediate Jazz (A),FA07,20,18,100.0%,100.0%,1.5,A- (3.88),A (4.00)
+987,"Caligagan, Tony",TDMV 133 - Advanced Jazz Dance (A),FA07,17,17,100.0%,100.0%,1.09,B+ (3.69),
+988,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),FA07,50,28,100.0%,100.0%,3.61,A- (3.87),A- (3.93)
+989,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (A),FA07,23,20,100.0%,100.0%,2.1,A- (3.94),A- (3.80)
+990,"Smith, Alison D",TDMV 2 - Beginning Contemporary Dance (C),FA07,25,23,95.7%,95.7%,1.93,A- (3.86),A- (3.96)
+991,"Rincon, Alicia",TDMV 3 - Beginning Jazz (A),FA07,23,20,95.0%,100.0%,0.92,A- (3.79),A- (3.95)
+992,"Arcidiacono, Kristin",TDMV 3 - Beginning Jazz (B),FA07,28,24,100.0%,100.0%,0.92,A- (3.87),A- (3.93)
+993,"Caligagan, Tony",TDMV 142 - Latin Dance of the World (A),SU07,39,28,100.0%,100.0%,6.42,A- (3.77),
+994,"Wilson, Terry A.",TDMV 2 - Beginning Contemporary Dance (A),SU07,9,10,100.0%,100.0%,0.9,A (4.00),

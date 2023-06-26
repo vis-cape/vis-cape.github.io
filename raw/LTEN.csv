@@ -1,0 +1,624 @@
+,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+0,"Lerer, Seth",LTEN 112 - Shakespeare I: Elizabethan Prd (A),SP23,38,12,100.0%,100.0%,3.95,A- (3.73),A- (3.90)
+1,"Loose, Margaret",LTEN 142 - British Novel: 1830-1890 (A),SP23,26,11,90.0%,90.0%,7.59,B+ (3.63),B+ (3.45)
+2,"Vijay, Ameeth Varma",LTEN 144 - British Novel: 1890-present (A),SP23,33,14,76.9%,92.3%,6.65,B+ (3.54),A- (3.78)
+3,"Batarseh, Amanda Alicia",LTEN 179 - Topic:Arab/Muslim Amer Identy (A),SP23,22,10,100.0%,100.0%,4.1,A- (3.90),A- (3.97)
+4,"Suzuki, Erin M.",LTEN 181 - Asian American Literature (A),SP23,56,21,100.0%,100.0%,5.4,B+ (3.69),A- (3.72)
+5,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),SP23,19,5,100.0%,100.0%,4.5,A- (3.80),
+6,"Bamgbose, Gabriel Sunday",LTEN 189 - 20th Century Postcolonial Lits (A),SP23,6,5,100.0%,100.0%,5.5,B+ (3.50),
+7,"Wesling, Megan E.",LTEN 26 - Intro/Lit/US: 1865 - Present (A),SP23,99,74,97.3%,97.2%,4.8,A- (3.86),A- (3.83)
+8,"Childs, Dennis R.",LTEN 27 - Intro/Afro-American Literature (A),SP23,81,30,100.0%,93.3%,4.9,B+ (3.67),B (3.22)
+9,"Vitkus, Daniel J.",LTEN 113 - Shakespeare II:Jacobean Period (A),WI23,18,6,100.0%,100.0%,8.5,B+ (3.67),
+10,"Vijay, Ameeth Varma",LTEN 128 - British/Irish Poetry 1900-Pres (A),WI23,18,8,75.0%,100.0%,4.5,B+ (3.50),
+11,"Lerer, Seth",LTEN 142 - British Novel: 1830-1890 (A),WI23,29,9,100.0%,100.0%,5.5,B+ (3.63),B+ (3.69)
+12,"Loose, Margaret",LTEN 149 - Topics: English-Language Lit (A),WI23,37,13,100.0%,100.0%,3.42,A- (3.92),A- (3.81)
+13,"Streeby, Shelley",LTEN 178 - Comparative Ethnic Literature (A),WI23,36,15,93.3%,100.0%,3.43,A- (3.92),A- (3.83)
+14,"Perreira, Christopher Michael",LTEN 180 - Chicano Literature in English (A),WI23,23,6,83.3%,100.0%,2.83,A- (3.83),A- (3.82)
+15,"Kim, Joo Ok",LTEN 181 - Asian American Literature (A),WI23,56,27,74.1%,81.5%,2.87,A- (3.70),B+ (3.66)
+16,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),WI23,17,7,85.7%,83.3%,4.79,A- (3.71),
+17,"Vijay, Ameeth Varma",LTEN 189 - 20th Century Postcolonial Lits (A),WI23,5,4,100.0%,100.0%,6.0,A (4.00),
+18,"Loose, Margaret",LTEN 23 - Lit/British Isles:1832-Present (A),WI23,80,64,93.4%,98.2%,4.02,B+ (3.35),B+ (3.38)
+19,"Kim, Joo Ok",LTEN 28 - Intr/Asian-American Literature (A),WI23,190,101,88.4%,81.5%,3.1,A- (3.73),A- (3.72)
+20,"Lampert-Weissig, Lisa",LTEN 107 - Chaucer (A),FA22,26,12,100.0%,100.0%,5.83,A- (3.73),B+ (3.54)
+21,"Vitkus, Daniel J.",LTEN 117 - Topics: The 17th Century (A),FA22,14,4,100.0%,75.0%,8.0,B (3.25),
+22,"Loose, Margaret",LTEN 127 - Victorian Poetry (A),FA22,38,11,81.8%,90.9%,4.32,B+ (3.40),
+23,"Loose, Margaret",LTEN 142 - British Novel: 1830-1890 (A),FA22,37,10,100.0%,100.0%,6.5,A- (3.90),
+24,"Walkiewicz, Kathryn A",LTEN 148 - Genres/English&American Lit (A),FA22,24,7,100.0%,100.0%,3.64,A- (3.86),A (4.00)
+25,"Walkiewicz, Kathryn A",LTEN 152 - Origins of American Literature (A),FA22,40,10,90.0%,100.0%,5.39,A- (3.89),A (4.00)
+26,"Ruiz, Ariana",LTEN 180 - Chicano Literature in English (A),FA22,20,5,100.0%,100.0%,5.0,B+ (3.50),A- (3.86)
+27,"Lampert-Weissig, Lisa",LTEN 21 - Intro/Lit/Brit Isles: pre-1660 (A),FA22,93,42,90.5%,97.6%,4.69,B+ (3.65),B+ (3.69)
+28,"Johnson, Sara E.",LTEN 25 - Intro/Lit/US: Beginning - 1865 (A),FA22,94,50,95.7%,95.7%,4.41,B+ (3.57),B+ (3.42)
+29,"Ruiz, Ariana",LTEN 29 - Intro/Chicano/Latino Lit. (A),FA22,95,37,100.0%,100.0%,4.12,B+ (3.68),A- (3.71)
+30,"Aguilar, Jessica",LTEN 171 - Comp Iss in Latino/a Im in US (A),S222,21,5,100.0%,100.0%,4.5,A- (3.75),A- (3.83)
+31,"Huang, Ningning",LTEN 181 - Asian American Literature (A),S222,37,18,94.1%,94.1%,4.25,B+ (3.60),B+ (3.58)
+32,"Vlahakis, Marina Sotiria",LTEN 189 - 20th Century Postcolonial Lits (A),S222,18,16,100.0%,100.0%,4.25,A- (3.88),
+33,"Lyon, Antony J.",LTEN 130GS - Modern British Lit (A),S122,28,14,100.0%,100.0%,4.07,A- (3.93),A- (3.74)
+34,"Paulson, Heather Nicole",LTEN 148 - Genres/English&American Lit (A),S122,9,3,100.0%,100.0%,5.83,A (4.00),
+35,"Cuong, Marisol",LTEN 171 - Comp Iss in Latino/a Im in US (A),S122,25,5,75.0%,75.0%,2.0,B (3.00),B (3.03)
+36,"Beardsley, Steven Thomas",LTEN 181 - Asian American Literature (A),S122,11,9,88.9%,100.0%,3.83,A (4.00),
+37,"Vitkus, Daniel J.",LTEN 112 - Shakespeare I: Elizabethan Prd (A),SP22,39,9,100.0%,100.0%,6.5,B+ (3.33),B (3.04)
+38,"Loose, Margaret",LTEN 142 - British Novel: 1830-1890 (A),SP22,30,11,72.7%,72.7%,7.95,B (3.10),B+ (3.44)
+39,"Vijay, Ameeth Varma",LTEN 144 - British Novel: 1890-present (A),SP22,20,7,83.3%,100.0%,5.36,A- (3.80),B+ (3.57)
+40,"Lerer, Seth",LTEN 148 - Genres/English&American Lit (A),SP22,39,13,92.3%,100.0%,4.35,A- (3.92),A- (3.77)
+41,"Loose, Margaret",LTEN 149 - Topics: English-Language Lit (A),SP22,30,7,100.0%,85.7%,4.79,A- (3.86),A- (3.88)
+42,"Perreira, Christopher Michael",LTEN 180 - Chicano Literature in English (A),SP22,19,5,100.0%,100.0%,5.3,B+ (3.60),
+43,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),SP22,24,6,100.0%,100.0%,5.5,B (3.00),B+ (3.33)
+44,"Vijay, Ameeth Varma",LTEN 23 - Lit/British Isles:1832-Present (A),SP22,50,26,96.0%,88.0%,4.42,B+ (3.55),B+ (3.66)
+45,"Walkiewicz, Kathryn A",LTEN 25 - Intro/Lit/US: Beginning - 1865 (A),SP22,50,22,95.2%,95.2%,5.45,B+ (3.67),B+ (3.58)
+46,"Childs, Dennis R.",LTEN 27 - Intro/Afro-American Literature (A),SP22,63,23,95.5%,90.5%,5.05,A- (3.86),B+ (3.55)
+47,"Vijay, Ameeth Varma",LTEN 144 - British Novel: 1890-present (A),WI22,19,6,83.3%,100.0%,5.7,A (4.00),
+48,"Nicolazzo, Sarah E.",LTEN 149 - Topics: English-Language Lit (A),WI22,36,11,100.0%,100.0%,5.7,B+ (3.60),B+ (3.68)
+49,"Johnson, Sara E.",LTEN 153 - Revolutnry War/Early Natnl Prd (A),WI22,38,28,92.9%,100.0%,5.5,B+ (3.58),A- (3.74)
+50,"Ruiz, Ariana",LTEN 180 - Chicano Literature in English (A),WI22,19,9,88.9%,88.9%,4.5,B+ (3.44),
+51,"Suzuki, Erin M.",LTEN 181 - Asian American Literature (A),WI22,38,19,100.0%,100.0%,5.97,B+ (3.63),B+ (3.62)
+52,"Childs, Dennis R.",LTEN 183 - Topics/African-American Prose (A),WI22,26,8,87.5%,100.0%,7.93,B+ (3.67),B+ (3.64)
+53,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),WI22,17,6,100.0%,100.0%,4.17,B+ (3.33),
+54,"Middleton, Kianna",LTEN 185 - Themes/Afro-Americn Literature (B),WI22,19,7,100.0%,100.0%,4.5,B+ (3.60),
+55,"Vijay, Ameeth Varma",LTEN 189 - 20th Century Postcolonial Lits (A),WI22,11,5,60.0%,80.0%,4.9,B+ (3.33),
+56,"Nicolazzo, Sarah E.",LTEN 22 - Intro/Lit/Brtish Is:1660-1832 (A),WI22,63,27,100.0%,100.0%,4.35,A- (3.73),B+ (3.55)
+57,"Suzuki, Erin M.",LTEN 28 - Intr/Asian-American Literature (A),WI22,123,63,98.4%,100.0%,3.78,A- (3.83),A- (3.71)
+58,"Lampert-Weissig, Lisa",LTEN 107 - Chaucer (A),FA21,34,20,100.0%,100.0%,6.2,B+ (3.68),B+ (3.56)
+59,"Lerer, Seth",LTEN 142 - British Novel: 1830-1890 (A),FA21,38,16,100.0%,100.0%,6.07,A- (3.93),A- (3.89)
+60,"Lampert-Weissig, Lisa",LTEN 149 - Topics: English-Language Lit (A),FA21,18,10,100.0%,100.0%,7.1,B+ (3.40),
+61,"O'Brien, William Arctander",LTEN 176 - Major American Writers (A),FA21,24,10,88.9%,100.0%,4.72,B (3.22),B (3.14)
+62,"Batarseh, Amanda Alicia",LTEN 179 - Topic:Arab/Muslim Amer Identy (A),FA21,29,11,100.0%,100.0%,4.68,A- (3.82),A- (3.74)
+63,"Kim, Joo Ok",LTEN 181 - Asian American Literature (A),FA21,39,14,100.0%,100.0%,3.36,A- (3.82),A- (3.91)
+64,"Vitkus, Daniel J.",LTEN 21 - Intro/Lit/Brit Isles: pre-1660 (A),FA21,64,34,84.4%,90.3%,5.38,B (3.22),B+ (3.35)
+65,"Suzuki, Erin M.",LTEN 26 - Intro/Lit/US: 1865 - Present (A),FA21,68,31,96.8%,100.0%,4.44,A- (3.80),B+ (3.68)
+66,"Ruiz, Ariana",LTEN 29 - Intro/Chicano/Latino Lit. (A),FA21,63,26,96.2%,100.0%,4.73,B+ (3.48),B (3.04)
+67,"Baril, Meaghan Mary",LTEN 148 - Genres/English&American Lit (A),S221,11,4,100.0%,100.0%,3.5,B+ (3.67),
+68,"Lee, Sang Eun",LTEN 149 - Topics: English-Language Lit (A),S221,8,3,66.7%,66.7%,7.17,B+ (3.67),
+69,"Huang, Ningning",LTEN 181 - Asian American Literature (A),S221,19,6,83.3%,100.0%,2.5,B+ (3.67),
+70,"Neipris, Katherine Chelsea",LTEN 124 - Topics: The 19th Century (A),S121,19,17,94.1%,100.0%,6.5,B (3.06),
+71,"Hyland, Tina Mae",LTEN 148 - Genres/English&American Lit (A),S121,11,3,100.0%,100.0%,9.17,A (4.00),
+72,"Khoury, Celine Joana",LTEN 149 - Topics: English-Language Lit (A),S121,10,3,100.0%,100.0%,9.17,B+ (3.67),
+73,"Vos, Stacie Nicole","LTEN 150 - Gender, Text, and Culture (A)",S121,12,3,100.0%,100.0%,6.5,A (4.00),
+74,"Rahimi, Babak",LTEN 185 - Themes/Afro-Americn Literature (A),S121,13,3,100.0%,100.0%,8.5,B+ (3.33),
+75,"Lerer, Seth",LTEN 112 - Shakespeare I: Elizabethan Prd (A),SP21,46,12,100.0%,100.0%,3.67,A- (3.80),B+ (3.69)
+76,"Loose, Margaret",LTEN 127 - Victorian Poetry (A),SP21,36,10,100.0%,100.0%,5.1,A- (3.80),B (3.20)
+77,"Walkiewicz, Kathryn A",LTEN 154 - The American Renaissance (A),SP21,26,5,100.0%,100.0%,7.3,A (4.00),B+ (3.68)
+78,"Ruiz, Ariana",LTEN 159 - Contemporary American Lit (A),SP21,24,4,100.0%,100.0%,7.0,A- (3.75),B- (2.98)
+79,"Ruiz, Ariana",LTEN 169 - Topics in Latino/a Literature (A),SP21,39,8,100.0%,100.0%,4.0,B+ (3.50),B+ (3.34)
+80,"Suzuki, Erin M.",LTEN 181 - Asian American Literature (A),SP21,66,21,95.2%,100.0%,4.21,A- (3.89),A- (3.78)
+81,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),SP21,18,7,100.0%,100.0%,8.1,B+ (3.67),
+82,"Loose, Margaret",LTEN 192 - Senior Seminar in English Lit (A),SP21,17,4,100.0%,100.0%,1.0,,
+83,"Loose, Margaret",LTEN 23 - Lit/British Isles:1832-Present (A),SP21,57,25,91.7%,91.7%,5.17,B+ (3.35),B (3.02)
+84,"Suzuki, Erin M.",LTEN 28 - Intr/Asian-American Literature (A),SP21,126,60,100.0%,98.3%,5.13,A- (3.81),A- (3.75)
+85,"Lerer, Seth",LTEN 107 - Chaucer (A),WI21,31,7,100.0%,100.0%,5.36,B+ (3.57),A- (3.74)
+86,"Nicolazzo, Sarah E.",LTEN 120 - Topics: The 18th Century (A),WI21,26,7,85.7%,100.0%,3.64,A- (3.71),A- (3.84)
+87,"Walkiewicz, Kathryn A",LTEN 152 - Origins of American Literature (A),WI21,40,9,88.9%,100.0%,6.5,A- (3.88),A- (3.76)
+88,"Suzuki, Erin M.",LTEN 159 - Contemporary American Lit (A),WI21,38,11,100.0%,100.0%,4.14,A- (3.82),A- (3.70)
+89,"Ruiz, Ariana",LTEN 180 - Chicano Literature in English (A),WI21,20,8,100.0%,100.0%,4.75,A- (3.75),B+ (3.68)
+90,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),WI21,16,9,100.0%,88.9%,6.5,B+ (3.43),
+91,"Suzuki, Erin M.",LTEN 189 - 20th Century Postcolonial Lits (A),WI21,17,5,100.0%,100.0%,6.1,A (4.00),
+92,"Nicolazzo, Sarah E.",LTEN 22 - Intro/Lit/Brtish Is:1660-1832 (A),WI21,63,29,100.0%,100.0%,5.33,A- (3.86),A- (3.79)
+93,"Johnson, Sara E.",LTEN 25 - Intro/Lit/US: Beginning - 1865 (A),WI21,43,27,100.0%,100.0%,4.5,A- (3.73),B+ (3.57)
+94,"Childs, Dennis R.",LTEN 27 - Intro/Afro-American Literature (A),WI21,62,31,100.0%,96.8%,5.79,B+ (3.43),B+ (3.62)
+95,"Vitkus, Daniel J.",LTEN 113 - Shakespeare II:Jacobean Period (A),FA20,28,12,91.7%,100.0%,7.83,B (3.18),B+ (3.31)
+96,"Loose, Margaret",LTEN 124 - Topics: The 19th Century (A),FA20,32,13,91.7%,91.7%,5.5,A- (3.82),A- (3.87)
+97,"Nicolazzo, Sarah E.",LTEN 125 - Romantic Poetry (A),FA20,38,15,100.0%,100.0%,4.5,A- (3.87),A- (3.94)
+98,"el Tayeb, Fatima",LTEN 155 - Interaction/Amer Lit&Vis Arts (A),FA20,18,3,66.7%,33.3%,3.17,A (4.00),
+99,"O'Brien, William Arctander",LTEN 176 - Major American Writers (A),FA20,21,11,81.8%,81.8%,3.41,A- (3.73),A- (3.74)
+100,"Walkiewicz, Kathryn A",LTEN 178 - Comparative Ethnic Literature (A),FA20,25,11,100.0%,100.0%,6.86,A- (3.73),A- (3.76)
+101,"Vijay, Ameeth Varma",LTEN 189 - 20th Century Postcolonial Lits (A),FA20,10,5,100.0%,100.0%,4.5,B+ (3.40),
+102,"Vitkus, Daniel J.",LTEN 21 - Intro/Lit/Brit Isles: pre-1660 (A),FA20,58,31,90.3%,100.0%,6.31,B+ (3.42),B- (2.85)
+103,"Wesling, Megan E.",LTEN 26 - Intro/Lit/US: 1865 - Present (A),FA20,67,41,97.4%,97.2%,4.35,A- (3.88),B+ (3.60)
+104,"Walkiewicz, Kathryn A",LTEN 31 - Indigenous Literature (A),FA20,38,21,100.0%,100.0%,5.36,A- (3.81),B+ (3.50)
+105,"Lee, Sang Eun",LTEN 178 - Comparative Ethnic Literature (A),S220,14,4,100.0%,100.0%,4.5,A (4.00),
+106,"Suzuki, Erin M.",LTEN 181 - Asian American Literature (A),S220,28,6,100.0%,100.0%,5.17,A- (3.83),B+ (3.52)
+107,"Hyland, Tina Mae",LTEN 148 - Genres/English&American Lit (A),S120,19,4,100.0%,100.0%,4.5,B+ (3.67),
+108,"Springer, Anna Joy",LTEN 159 - Contemporary American Lit (A),S120,24,3,66.7%,66.7%,7.17,B+ (3.67),A- (3.84)
+109,"Rahimi, Babak",LTEN 185 - Themes/Afro-Americn Literature (A),S120,26,10,100.0%,100.0%,6.3,B+ (3.40),A (4.00)
+110,"Lerer, Seth",LTEN 113 - Shakespeare II:Jacobean Period (A),SP20,45,12,100.0%,100.0%,5.67,A- (3.92),A- (3.93)
+111,"Loose, Margaret",LTEN 142 - British Novel: 1830-1890 (A),SP20,27,17,94.1%,94.1%,6.26,B+ (3.67),A- (3.74)
+112,"Loose, Margaret",LTEN 149 - Topics: English-Language Lit (A),SP20,36,27,96.3%,100.0%,4.06,A- (3.79),A- (3.96)
+113,"el Tayeb, Fatima","LTEN 150 - Gender, Text, and Culture (A)",SP20,17,7,100.0%,100.0%,3.64,B+ (3.33),
+114,"Johnson, Sara E.",LTEN 152 - Origins of American Literature (A),SP20,25,11,100.0%,100.0%,4.1,A- (3.80),A- (3.80)
+115,"O'Brien, William Arctander",LTEN 176 - Major American Writers (A),SP20,24,4,66.7%,100.0%,4.5,B (3.25),A (4.00)
+116,"Streeby, Shelley",LTEN 178 - Comparative Ethnic Literature (A),SP20,32,14,92.9%,92.9%,4.07,B+ (3.50),A- (3.86)
+117,"Suzuki, Erin M.",LTEN 181 - Asian American Literature (A),SP20,48,31,100.0%,100.0%,5.02,A- (3.85),A- (3.99)
+118,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),SP20,25,9,100.0%,100.0%,7.39,A- (3.88),A- (3.91)
+119,"Vijay, Ameeth Varma",LTEN 23 - Lit/British Isles:1832-Present (A),SP20,44,11,90.9%,100.0%,5.95,A- (3.80),A- (3.90)
+120,"Suzuki, Erin M.",LTEN 26 - Intro/Lit/US: 1865 - Present (A),SP20,67,36,100.0%,100.0%,3.78,A- (3.82),A- (3.87)
+121,"Chacon, Gloria Elizabeth",LTEN 29 - Intro/Chicano/Latino Lit. (A),SP20,86,54,84.6%,90.2%,4.92,A- (3.71),B+ (3.60)
+122,"Lerer, Seth",LTEN 112 - Shakespeare I: Elizabethan Prd (A),WI20,52,19,100.0%,100.0%,4.72,B+ (3.59),A- (3.77)
+123,"Loose, Margaret",LTEN 127 - Victorian Poetry (A),WI20,18,13,100.0%,100.0%,3.88,B+ (3.54),
+124,"Vijay, Ameeth Varma",LTEN 144 - British Novel: 1890-present (B),WI20,7,6,100.0%,100.0%,6.83,B (3.17),
+125,"Loose, Margaret",LTEN 148 - Genres/English&American Lit (A),WI20,12,8,100.0%,100.0%,6.0,B+ (3.57),
+126,"el Tayeb, Fatima",LTEN 155 - Interaction/Amer Lit&Vis Arts (A),WI20,10,6,100.0%,100.0%,8.5,A- (3.83),
+127,"Glaser, Amelia",LTEN 158 - Modern American Literature (A),WI20,37,26,100.0%,100.0%,6.35,B+ (3.56),A- (3.74)
+128,"Cancel, Robert",LTEN 159 - Contemporary American Lit (A),WI20,11,3,100.0%,100.0%,5.83,B+ (3.67),
+129,"Loose, Margaret",LTEN 192 - Senior Seminar in English Lit (A),WI20,17,7,100.0%,100.0%,0.79,A (4.00),
+130,"Nicolazzo, Sarah E.",LTEN 22 - Intro/Lit/Brtish Is:1660-1832 (A),WI20,31,16,93.3%,100.0%,4.23,B+ (3.50),B+ (3.42)
+131,"Walkiewicz, Kathryn A",LTEN 25 - Intro/Lit/US: Beginning - 1865 (A),WI20,41,18,88.2%,100.0%,5.06,A- (3.72),A- (3.81)
+132,"Childs, Dennis R.",LTEN 27 - Intro/Afro-American Literature (A),WI20,80,57,88.9%,90.4%,5.23,B (3.19),B (3.10)
+133,"Nicolazzo, Sarah E.",LTEN 140 - British Novel: 1790-1830 (A),FA19,33,16,93.8%,87.5%,5.38,B+ (3.44),B+ (3.47)
+134,"Walkiewicz, Kathryn A",LTEN 148 - Genres/English&American Lit (A),FA19,40,13,100.0%,100.0%,4.35,A- (3.75),A- (3.77)
+135,"Lampert-Weissig, Lisa",LTEN 149 - Topics: English-Language Lit (A),FA19,13,5,80.0%,80.0%,4.9,B+ (3.60),
+136,"Walkiewicz, Kathryn A",LTEN 154 - The American Renaissance (A),FA19,24,8,87.5%,100.0%,6.0,B+ (3.50),B+ (3.60)
+137,"Wesling, Megan E.",LTEN 159 - Contemporary American Lit (A),FA19,28,17,100.0%,100.0%,4.38,A- (3.71),B+ (3.46)
+138,"Jed, Stephanie H",LTEN 159 - Contemporary American Lit (B),FA19,35,11,90.9%,100.0%,2.68,A- (3.91),A- (3.91)
+139,"Blanco, John D",LTEN 181 - Asian American Literature (A),FA19,43,24,78.3%,82.6%,4.25,A- (3.78),B+ (3.61)
+140,"Suzuki, Erin M.",LTEN 189 - 20th Century Postcolonial Lits (A),FA19,22,10,90.0%,90.0%,4.7,B+ (3.40),B+ (3.43)
+141,"Lampert-Weissig, Lisa",LTEN 21 - Intro/Lit/Brit Isles: pre-1660 (A),FA19,58,31,92.9%,92.6%,4.86,B (3.30),B+ (3.35)
+142,"Suzuki, Erin M.",LTEN 28 - Intr/Asian-American Literature (A),FA19,189,140,92.4%,99.2%,3.84,B+ (3.45),B+ (3.49)
+143,"Forbes, Camille",LTEN 87 - Freshman Seminar (A),FA19,15,8,57.1%,57.1%,0.5,A (4.00),
+144,"Cortes, Mayra Alejandra",LTEN 149 - Topics: English-Language Lit (A),S219,6,3,100.0%,100.0%,9.17,B+ (3.67),
+145,"Boettcher, Carolin",LTEN 120 - Topics: The 18th Century (A),S119,15,11,100.0%,100.0%,6.86,B+ (3.57),
+146,"Cortes, Luis Alberto",LTEN 157 - Captivity & Prison Narratives (A),S119,14,7,100.0%,100.0%,5.93,B+ (3.57),
+147,"Loose, Margaret",LTEN 124 - Topics: The 19th Century (A),SP19,31,29,96.6%,100.0%,5.26,B+ (3.55),B+ (3.54)
+148,"Loose, Margaret",LTEN 142 - British Novel: 1830-1890 (A),SP19,32,28,100.0%,100.0%,6.79,B+ (3.48),A- (3.87)
+149,"Nicolazzo, Sarah E.",LTEN 149 - Topics: English-Language Lit (A),SP19,30,9,100.0%,100.0%,3.83,A- (3.83),B+ (3.47)
+150,"Walkiewicz, Kathryn A",LTEN 154 - The American Renaissance (A),SP19,55,17,100.0%,100.0%,5.21,B+ (3.69),B+ (3.65)
+151,"Cancel, Robert",LTEN 159 - Contemporary American Lit (A),SP19,22,5,66.7%,66.7%,3.17,B+ (3.67),B (3.17)
+152,"Vijay, Ameeth Varma",LTEN 189 - 20th Century Postcolonial Lits (A),SP19,19,14,100.0%,92.9%,5.5,B (3.07),
+153,"Loose, Margaret",LTEN 192 - Senior Seminar in English Lit (A),SP19,17,9,100.0%,100.0%,1.25,A (4.00),
+154,"Vijay, Ameeth Varma",LTEN 23 - Lit/British Isles:1832-Present (A),SP19,63,35,85.7%,78.6%,5.05,B (3.28),B+ (3.47)
+155,"Childs, Dennis R.",LTEN 27 - Intro/Afro-American Literature (A),SP19,82,38,91.2%,91.2%,4.89,B+ (3.41),B+ (3.30)
+156,"Lampert-Weissig, Lisa",LTEN 107 - Chaucer (A),WI19,14,12,100.0%,100.0%,4.67,B+ (3.58),
+157,"Vitkus, Daniel J.",LTEN 110 - Topics: The Renaissance (A),WI19,14,4,100.0%,100.0%,5.83,B+ (3.33),
+158,"Loose, Margaret",LTEN 127 - Victorian Poetry (A),WI19,20,16,100.0%,100.0%,4.75,B+ (3.57),B+ (3.54)
+159,"Walkiewicz, Kathryn A",LTEN 149 - Topics: English-Language Lit (A),WI19,28,13,100.0%,100.0%,5.0,A- (3.85),A- (3.79)
+160,"Walkiewicz, Kathryn A",LTEN 153 - Revolutnry War/Early Natnl Prd (A),WI19,19,3,100.0%,100.0%,5.5,A (4.00),
+161,"Nguyen, Hoang Tan",LTEN 178 - Comparative Ethnic Literature (A),WI19,22,8,100.0%,85.7%,5.0,A- (3.75),B+ (3.58)
+162,"Nicolazzo, Sarah E.",LTEN 22 - Intro/Lit/Brtish Is:1660-1832 (A),WI19,59,36,100.0%,93.8%,4.86,B (3.24),B (3.25)
+163,"Wesling, Megan E.",LTEN 26 - Intro/Lit/US: 1865 - Present (A),WI19,52,35,87.9%,84.8%,6.32,B (3.29),B+ (3.42)
+164,"Sanchez, Rosaura",LTEN 29 - Intro/Chicano/Latino Lit. (A),WI19,92,71,93.7%,90.3%,3.76,B+ (3.55),B (3.21)
+165,"Vitkus, Daniel J.",LTEN 112 - Shakespeare I: Elizabethan Prd (A),FA18,21,10,70.0%,80.0%,6.5,B (3.20),B+ (3.32)
+166,"Nicolazzo, Sarah E.",LTEN 140 - British Novel: 1790-1830 (A),FA18,39,15,100.0%,100.0%,5.3,B+ (3.53),B+ (3.63)
+167,"Vijay, Ameeth Varma",LTEN 144 - British Novel: 1890-present (A),FA18,14,15,93.3%,100.0%,6.63,B (3.29),
+168,"Tonkovich, Nicole",LTEN 154 - The American Renaissance (A),FA18,17,6,100.0%,83.3%,6.17,B+ (3.50),
+169,"Suzuki, Erin M.",LTEN 158 - Modern American Literature (A),FA18,31,11,100.0%,100.0%,5.9,B+ (3.55),B+ (3.45)
+170,"Wesling, Megan E.",LTEN 175A - New Amer Fiction:WWII-Present (A),FA18,20,6,100.0%,100.0%,8.83,A- (3.80),A- (3.71)
+171,"Nicolazzo, Sarah E.",LTEN 178 - Comparative Ethnic Literature (A),FA18,32,13,100.0%,100.0%,4.65,B+ (3.45),B+ (3.36)
+172,"Vitkus, Daniel J.",LTEN 21 - Intro/Lit/Brit Isles: pre-1660 (A),FA18,59,38,75.0%,74.3%,5.69,B- (2.97),B (3.09)
+173,"Walkiewicz, Kathryn A",LTEN 25 - Intro/Lit/US: Beginning - 1865 (A),FA18,63,34,100.0%,100.0%,6.25,B+ (3.61),B+ (3.63)
+174,"Suzuki, Erin M.",LTEN 28 - Intr/Asian-American Literature (A),FA18,147,92,98.8%,100.0%,3.68,B+ (3.36),B+ (3.39)
+175,"Giordano, Kailey Nicole",LTEN 110 - Topics: The Renaissance (A),S218,15,13,100.0%,100.0%,10.65,B+ (3.64),
+176,"O'Brien, William Arctander",LTEN 176 - Major American Writers (A),S218,10,4,100.0%,100.0%,4.0,B (3.00),
+177,"Vippermancohen, Melissa Rache",LTEN 110 - Topics: The Renaissance (A),S118,12,6,100.0%,100.0%,8.1,A- (3.75),
+178,"Bottcher, Carolin",LTEN 140 - British Novel: 1790-1830 (A),S118,14,11,100.0%,100.0%,5.95,B+ (3.45),
+179,"Lerer, Seth",LTEN 113 - Shakespeare II:Jacobean Period (A),SP18,38,12,100.0%,100.0%,7.77,A- (3.80),A- (3.86)
+180,"Loose, Margaret",LTEN 127 - Victorian Poetry (A),SP18,30,25,96.0%,100.0%,3.38,B+ (3.61),B+ (3.38)
+181,"Loose, Margaret",LTEN 142 - British Novel: 1830-1890 (A),SP18,11,11,100.0%,100.0%,7.23,B+ (3.56),
+182,"Tonkovich, Nicole",LTEN 148 - Genres/English&American Lit (A),SP18,12,5,100.0%,100.0%,3.7,A (4.00),
+183,"Walkiewicz, Kathryn A",LTEN 149 - Topics: English-Language Lit (A),SP18,21,8,100.0%,100.0%,8.0,A- (3.88),A- (3.71)
+184,"Walkiewicz, Kathryn A",LTEN 154 - The American Renaissance (A),SP18,20,7,85.7%,100.0%,5.93,A- (3.86),B+ (3.68)
+185,"Cancel, Robert",LTEN 159 - Contemporary American Lit (A),SP18,8,4,75.0%,75.0%,3.0,B+ (3.67),
+186,"Suzuki, Erin M.",LTEN 178 - Comparative Ethnic Literature (A),SP18,26,11,100.0%,100.0%,5.95,B+ (3.43),B+ (3.58)
+187,"Blanco, John D",LTEN 181 - Asian American Literature (A),SP18,27,14,71.4%,76.9%,5.21,A- (3.73),A- (3.86)
+188,"Loose, Margaret",LTEN 192 - Senior Seminar in English Lit (A),SP18,17,10,100.0%,100.0%,0.72,A (4.00),
+189,"Vijay, Ameeth Varma",LTEN 23 - Lit/British Isles:1832-Present (A),SP18,35,19,88.9%,94.4%,4.72,B+ (3.65),B+ (3.66)
+190,"Suzuki, Erin M.",LTEN 26 - Intro/Lit/US: 1865 - Present (A),SP18,65,29,92.3%,100.0%,4.43,B+ (3.54),B (3.22)
+191,"Odom, Mychal Matsemelaali",LTEN 27 - Intro/Afro-American Literature (A),SP18,79,36,72.2%,74.3%,3.44,A- (3.77),A- (3.72)
+192,"Lampert-Weissig, Lisa",LTEN 107 - Chaucer (A),WI18,9,7,100.0%,100.0%,9.93,B+ (3.33),
+193,"Vitkus, Daniel J.",LTEN 110 - Topics: The Renaissance (A),WI18,7,3,100.0%,100.0%,7.17,A (4.00),
+194,"Nicolazzo, Sarah E.",LTEN 138 - British Novel: 1680-1790 (A),WI18,17,5,100.0%,100.0%,6.5,B+ (3.60),
+195,"Vijay, Ameeth Varma",LTEN 144 - British Novel: 1890-present (A),WI18,15,12,81.8%,90.9%,6.14,B+ (3.33),
+196,"Walkiewicz, Kathryn A",LTEN 148 - Genres/English&American Lit (A),WI18,27,16,100.0%,100.0%,4.88,A- (3.75),A- (3.84)
+197,"Walkiewicz, Kathryn A",LTEN 153 - Revolutnry War/Early Natnl Prd (A),WI18,12,11,90.9%,100.0%,5.77,A- (3.73),
+198,"Suzuki, Erin M.",LTEN 159 - Contemporary American Lit (A),WI18,22,10,100.0%,100.0%,7.1,A- (3.89),B+ (3.48)
+199,"O'Brien, William Arctander",LTEN 176 - Major American Writers (A),WI18,18,11,90.9%,100.0%,3.95,A- (3.70),
+200,"Lampert-Weissig, Lisa",LTEN 178 - Comparative Ethnic Literature (A),WI18,31,21,95.2%,100.0%,6.6,A- (3.81),A- (3.71)
+201,"Vijay, Ameeth Varma",LTEN 189 - 20th Century Postcolonial Lits (A),WI18,8,8,100.0%,87.5%,8.25,B+ (3.38),
+202,"Nicolazzo, Sarah E.",LTEN 22 - Intro/Lit/Brtish Is:1660-1832 (A),WI18,52,26,84.0%,100.0%,5.46,B+ (3.33),B+ (3.56)
+203,"Johnson, Sara E.",LTEN 25 - Intro/Lit/US: Beginning - 1865 (A),WI18,45,38,89.2%,97.2%,4.07,B+ (3.69),B+ (3.48)
+204,"Sanchez, Rosaura",LTEN 29 - Intro/Chicano/Latino Lit. (A),WI18,76,40,83.8%,83.8%,4.28,B+ (3.64),B+ (3.59)
+205,"Vitkus, Daniel J.",LTEN 112 - Shakespeare I: Elizabethan Prd (A),FA17,15,5,100.0%,100.0%,4.1,B (3.20),
+206,"Loose, Margaret",LTEN 124 - Topics: The 19th Century (A),FA17,21,18,100.0%,100.0%,4.94,A- (3.78),A (4.00)
+207,"Loose, Margaret",LTEN 148 - Genres/English&American Lit (A),FA17,12,11,100.0%,100.0%,6.68,B (3.27),
+208,"Wesling, Megan E.",LTEN 159 - Contemporary American Lit (A),FA17,21,16,100.0%,100.0%,9.17,A- (3.77),B+ (3.56)
+209,"Wesling, Megan E.",LTEN 175A - New Amer Fiction:WWII-Present (A),FA17,25,12,100.0%,100.0%,6.3,A- (3.82),A- (3.75)
+210,"O'Brien, William Arctander",LTEN 176 - Major American Writers (A),FA17,53,32,93.5%,96.6%,4.05,B+ (3.37),B (3.29)
+211,"Suzuki, Erin M.",LTEN 189 - 20th Century Postcolonial Lits (A),FA17,21,10,100.0%,100.0%,6.7,B+ (3.60),B+ (3.45)
+212,"Loose, Margaret",LTEN 192 - Senior Seminar in English Lit (A),FA17,15,7,100.0%,100.0%,1.36,A (4.00),
+213,"Lerer, Seth",LTEN 21 - Intro/Lit/Brit Isles: pre-1660 (A),FA17,78,36,85.7%,97.1%,5.93,B (3.24),B (3.21)
+214,"Suzuki, Erin M.",LTEN 28 - Intr/Asian-American Literature (A),FA17,159,88,92.8%,98.8%,4.43,B+ (3.58),B+ (3.66)
+215,"Hammer, Danielle Loree",LTEN 132 - Topics: Modern Irish Lit (A),S117,12,3,100.0%,100.0%,3.17,B+ (3.33),
+216,"Cesena, Maria Teresa",LTEN 180 - Chicano Literature in English (A),S117,9,3,100.0%,100.0%,9.17,A (4.00),
+217,"Nicolazzo, Sarah E.",LTEN 120 - Topics: The 18th Century (A),SP17,12,7,42.9%,85.7%,4.5,B+ (3.50),
+218,"Vijay, Ameeth Varma",LTEN 130 - Modern British Lit (A),SP17,12,12,91.7%,100.0%,6.0,B (3.17),
+219,"Nicolazzo, Sarah E.",LTEN 140 - British Novel: 1790-1830 (A),SP17,24,9,100.0%,87.5%,6.25,B+ (3.38),B+ (3.41)
+220,"Suzuki, Erin M.",LTEN 149 - Topics: English-Language Lit (A),SP17,25,14,100.0%,92.3%,5.27,A- (3.92),A- (3.76)
+221,"Lampert-Weissig, Lisa","LTEN 150 - Gender, Text, and Culture (A)",SP17,8,4,100.0%,100.0%,5.0,B+ (3.50),
+222,"Tonkovich, Nicole",LTEN 154 - The American Renaissance (A),SP17,18,6,75.0%,50.0%,4.5,B+ (3.50),
+223,"Walkiewicz, Kathryn A",LTEN 156 - Amer Lit/Civil War-World War I (A),SP17,10,6,100.0%,100.0%,4.9,A (4.00),
+224,"Walkiewicz, Kathryn A",LTEN 178 - Comparative Ethnic Literature (A),SP17,20,10,100.0%,100.0%,7.5,A (4.00),A- (3.88)
+225,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),SP17,35,17,93.3%,86.7%,7.83,B+ (3.42),A- (3.77)
+226,"Cancel, Robert",LTEN 188 - Contemporary Caribbean Lit (A),SP17,13,5,100.0%,100.0%,5.7,A (4.00),
+227,"Loose, Margaret",LTEN 23 - Lit/British Isles:1832-Present (A),SP17,47,29,89.3%,96.4%,4.93,B+ (3.64),B+ (3.39)
+228,"Suzuki, Erin M.",LTEN 26 - Intro/Lit/US: 1865 - Present (A),SP17,63,24,82.6%,78.3%,3.68,B+ (3.40),B+ (3.31)
+229,"Childs, Dennis R.",LTEN 27 - Intro/Afro-American Literature (A),SP17,88,31,89.7%,86.2%,5.19,B (3.17),B (3.08)
+230,"Lerer, Seth",LTEN 112 - Shakespeare I: Elizabethan Prd (A),WI17,36,17,100.0%,100.0%,4.25,B+ (3.36),A- (3.86)
+231,"Loose, Margaret",LTEN 142 - British Novel: 1830-1890 (A),WI17,17,15,100.0%,100.0%,6.07,A- (3.71),
+232,"Vijay, Ameeth Varma",LTEN 149 - Topics: English-Language Lit (A),WI17,5,3,66.7%,66.7%,2.5,B+ (3.33),
+233,"Cancel, Robert",LTEN 159 - Contemporary American Lit (A),WI17,21,9,100.0%,100.0%,5.0,B+ (3.50),B (3.15)
+234,"Davidson, R. Michael",LTEN 174 - Amer Fiction II:Middle James (A),WI17,31,12,100.0%,100.0%,6.14,B+ (3.64),B+ (3.31)
+235,"Armantrout, Rae",LTEN 175B - New Amer Poetry:Post WWII-Pres (A),WI17,26,12,100.0%,91.7%,3.17,B+ (3.58),B+ (3.42)
+236,"Lampert-Weissig, Lisa",LTEN 178 - Comparative Ethnic Literature (A),WI17,26,20,100.0%,95.0%,7.5,B+ (3.59),B+ (3.62)
+237,"Blanco, John D",LTEN 181 - Asian American Literature (A),WI17,32,13,83.3%,83.3%,4.17,B+ (3.44),A- (3.77)
+238,"Childs, Dennis R.",LTEN 183 - Topics/African-American Prose (A),WI17,17,4,100.0%,100.0%,7.83,A (4.00),
+239,"Forbes, Camille",LTEN 192 - Senior Seminar in English Lit (A),WI17,8,4,100.0%,100.0%,1.5,,
+240,"Lerer, Seth",LTEN 22 - Intro/Lit/Brtish Is:1660-1832 (A),WI17,59,26,91.7%,95.8%,6.33,B+ (3.63),B+ (3.49)
+241,"Sanchez, Rosaura",LTEN 29 - Intro/Chicano/Latino Lit. (A),WI17,105,45,85.0%,85.0%,4.95,B+ (3.63),B+ (3.34)
+242,"Forbes, Camille",LTEN 87 - Freshman Seminar (A),WI17,14,7,71.4%,85.7%,1.07,C (2.00),
+243,"Lampert-Weissig, Lisa",LTEN 107 - Chaucer (A),FA16,22,17,94.1%,94.1%,5.79,B+ (3.65),B+ (3.68)
+244,"Loose, Margaret",LTEN 124 - Topics: The 19th Century (A),FA16,23,13,100.0%,100.0%,4.5,B (3.00),B+ (3.61)
+245,"Loose, Margaret",LTEN 127 - Victorian Poetry (A),FA16,20,8,100.0%,100.0%,3.93,A- (3.71),B+ (3.64)
+246,"Vijay, Ameeth Varma",LTEN 130 - Modern British Lit (A),FA16,15,13,76.9%,92.3%,5.73,B+ (3.42),
+247,"Walkiewicz, Kathryn A",LTEN 149 - Topics: English-Language Lit (A),FA16,11,8,100.0%,100.0%,7.75,A- (3.75),
+248,"Walkiewicz, Kathryn A",LTEN 152 - Origins of American Literature (A),FA16,7,4,100.0%,100.0%,7.5,B (3.25),
+249,"Sanchez, Rosaura",LTEN 171 - Comp Iss in Latino/a Im in US (A),FA16,19,10,100.0%,90.0%,5.3,B+ (3.67),
+250,"Wesling, Megan E.",LTEN 175A - New Amer Fiction:WWII-Present (A),FA16,26,24,100.0%,91.7%,5.08,B+ (3.64),A- (3.75)
+251,"O'Brien, William Arctander",LTEN 176 - Major American Writers (A),FA16,23,20,94.4%,94.4%,5.83,B+ (3.53),B+ (3.57)
+252,"Vijay, Ameeth Varma",LTEN 189 - 20th Century Postcolonial Lits (A),FA16,4,4,100.0%,100.0%,7.0,A- (3.75),
+253,"Vitkus, Daniel J.",LTEN 21 - Intro/Lit/Brit Isles: pre-1660 (A),FA16,49,22,95.0%,95.0%,7.4,B (3.12),B- (2.95)
+254,"Johnson, Sara E.",LTEN 25 - Intro/Lit/US: Beginning - 1865 (A),FA16,44,33,93.3%,100.0%,5.03,B+ (3.32),B+ (3.34)
+255,"Suzuki, Erin M.",LTEN 28 - Intr/Asian-American Literature (A),FA16,126,74,91.5%,95.8%,5.93,B+ (3.45),B+ (3.48)
+256,"Kelley, Mark Brennan",LTEN 148 - Genres/English&American Lit (A),S216,9,8,100.0%,100.0%,6.75,B+ (3.38),
+257,"Perez, Crystal Roxana Ramirez",LTEN 178 - Comparative Ethnic Literature (A),S216,11,3,100.0%,100.0%,11.17,B (3.00),
+258,"Thompson, Katherine Anne Merit",LTEN 148 - Genres/English&American Lit (A),S116,15,9,100.0%,100.0%,5.39,B+ (3.33),
+259,"Lerer, Seth",LTEN 110 - Topics: The Renaissance (A),SP16,34,18,100.0%,100.0%,4.61,A- (3.73),A- (3.79)
+260,"Loose, Margaret",LTEN 124 - Topics: The 19th Century (A),SP16,7,7,100.0%,100.0%,4.17,B+ (3.67),
+261,"Nicolazzo, Sarah E.",LTEN 140 - British Novel: 1790-1830 (A),SP16,26,19,100.0%,100.0%,5.56,B (3.28),B (3.29)
+262,"Lampert-Weissig, Lisa",LTEN 149 - Topics: English-Language Lit (A),SP16,10,7,100.0%,100.0%,9.93,B+ (3.57),
+263,"Tonkovich, Nicole","LTEN 150 - Gender, Text, and Culture (A)",SP16,16,7,85.7%,85.7%,7.07,B+ (3.50),
+264,"Nicolazzo, Sarah E.",LTEN 152 - Origins of American Literature (A),SP16,17,14,92.3%,100.0%,6.04,A- (3.77),
+265,"Tonkovich, Nicole",LTEN 154 - The American Renaissance (A),SP16,13,8,100.0%,100.0%,8.75,A- (3.88),
+266,"Cassedy, Steven Dennis",LTEN 158 - Modern American Literature (A),SP16,10,8,100.0%,100.0%,3.75,B+ (3.50),
+267,"Suzuki, Erin M.",LTEN 159 - Contemporary American Lit (A),SP16,9,9,100.0%,100.0%,7.83,B+ (3.56),
+268,"Sanchez, Rosaura",LTEN 171 - Comp Iss in Latino/a Im in US (A),SP16,11,4,100.0%,100.0%,3.5,B+ (3.67),
+269,"Wesling, Megan E.",LTEN 175A - New Amer Fiction:WWII-Present (A),SP16,15,10,100.0%,100.0%,6.25,B+ (3.57),
+270,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),SP16,31,15,100.0%,92.3%,5.83,B (3.25),B+ (3.45)
+271,"Forbes, Camille",LTEN 192 - Senior Seminar in English Lit (A),SP16,7,4,100.0%,100.0%,1.0,,
+272,"Loose, Margaret",LTEN 23 - Lit/British Isles:1832-Present (A),SP16,39,34,85.3%,91.2%,3.94,B+ (3.36),B- (2.94)
+273,"Johnson, Sara E.",LTEN 25 - Intro/Lit/US: Beginning - 1865 (A),SP16,35,31,96.7%,100.0%,4.97,B+ (3.62),B+ (3.65)
+274,"Blanco, John D",LTEN 28 - Intr/Asian-American Literature (A),SP16,87,60,89.8%,93.2%,4.89,B+ (3.64),B+ (3.66)
+275,"Lampert-Weissig, Lisa",LTEN 107 - Chaucer (A),WI16,10,9,100.0%,100.0%,8.25,A- (3.75),
+276,"Vitkus, Daniel J.",LTEN 113 - Shakespeare II:Jacobean Period (A),WI16,21,6,100.0%,83.3%,6.83,B (3.17),B- (2.96)
+277,"Lundell, Michael J",LTEN 127 - Victorian Poetry (A),WI16,17,12,90.9%,100.0%,3.41,A- (3.73),
+278,"Vitkus, Daniel J.",LTEN 149 - Topics: English-Language Lit (A),WI16,14,8,100.0%,83.3%,5.5,B+ (3.33),
+279,"el Tayeb, Fatima",LTEN 155 - Interaction/Amer Lit&Vis Arts (A),WI16,19,8,100.0%,100.0%,5.25,B+ (3.50),
+280,"Sanchez, Rosaura",LTEN 169 - Topics in Latino/a Literature (A),WI16,13,5,100.0%,100.0%,3.7,A- (3.80),
+281,"Davidson, R. Michael",LTEN 172 - Amer Poetry II:Whitman-Modern (A),WI16,29,12,91.7%,83.3%,6.83,B+ (3.67),B+ (3.40)
+282,"Lampert-Weissig, Lisa",LTEN 178 - Comparative Ethnic Literature (A),WI16,26,17,100.0%,100.0%,6.88,B+ (3.62),B+ (3.67)
+283,"Nicolazzo, Sarah E.",LTEN 22 - Intro/Lit/Brtish Is:1660-1832 (A),WI16,44,30,85.2%,88.9%,4.34,B+ (3.60),A- (3.72)
+284,"Wesling, Megan E.",LTEN 26 - Intro/Lit/US: 1865 - Present (A),WI16,57,27,87.5%,100.0%,5.89,B+ (3.63),B+ (3.54)
+285,"Childs, Dennis R.",LTEN 27 - Intro/Afro-American Literature (A),WI16,84,37,91.4%,88.6%,5.93,B+ (3.41),B+ (3.60)
+286,"Forbes, Camille",LTEN 87 - Freshman Seminar (A),WI16,12,6,100.0%,100.0%,0.83,A (4.00),
+287,"Lerer, Seth",LTEN 112 - Shakespeare I: Elizabethan Prd (A),FA15,38,16,100.0%,100.0%,6.1,B+ (3.60),B+ (3.69)
+288,"Vitkus, Daniel J.",LTEN 117 - Topics: The 17th Century (A),FA15,13,9,50.0%,75.0%,6.0,B+ (3.38),
+289,"Suzuki, Erin M.",LTEN 149 - Topics: English-Language Lit (A),FA15,18,13,92.3%,92.3%,8.04,B+ (3.38),
+290,"Cassedy, Steven Dennis",LTEN 176 - Major American Writers (A),FA15,36,16,100.0%,93.8%,5.3,B+ (3.54),B+ (3.33)
+291,"Suzuki, Erin M.",LTEN 189 - 20th Century Postcolonial Lits (A),FA15,15,4,100.0%,100.0%,3.83,B (3.00),
+292,"Lerer, Seth",LTEN 21 - Intro/Lit/Brit Isles: pre-1660 (A),FA15,63,33,96.8%,100.0%,5.98,B+ (3.39),B+ (3.38)
+293,"Sanchez, Rosaura",LTEN 29 - Intro/Chicano/Latino Lit. (A),FA15,127,55,79.6%,77.8%,5.48,A- (3.70),B+ (3.54)
+294,"Forbes, Camille",LTEN 87 - Freshman Seminar (A),FA15,14,9,88.9%,100.0%,2.06,A (4.00),
+295,"Davidson, R. Michael",LTEN 175B - New Amer Poetry:Post WWII-Pres (A),S215,19,6,83.3%,100.0%,7.17,B+ (3.50),
+296,"Mariscal, George",LTEN 180 - Chicano Literature in English (A),S115,12,4,100.0%,100.0%,5.83,B+ (3.67),
+297,"Cassedy, Steven Dennis",LTEN 113 - Shakespeare II:Jacobean Period (A),SP15,32,14,100.0%,78.6%,2.5,B+ (3.69),B+ (3.41)
+298,"Davidson, R. Michael",LTEN 132 - Topics: Modern Irish Lit (A),SP15,29,10,90.0%,100.0%,5.1,B+ (3.30),B+ (3.53)
+299,"Loose, Margaret",LTEN 142 - British Novel: 1830-1890 (A),SP15,27,20,100.0%,100.0%,7.87,B+ (3.42),B (3.10)
+300,"Johnson, Sara E.",LTEN 152 - Origins of American Literature (A),SP15,19,12,100.0%,100.0%,6.0,B+ (3.58),
+301,"Blanco, John D",LTEN 181 - Asian American Literature (A),SP15,27,13,76.9%,84.6%,5.42,B+ (3.64),B+ (3.68)
+302,"Childs, Dennis R.",LTEN 183 - Topics/African-American Prose (A),SP15,15,5,100.0%,100.0%,4.9,B+ (3.40),
+303,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),SP15,31,14,92.9%,92.9%,6.79,B (3.08),B+ (3.39)
+304,"Loose, Margaret",LTEN 23 - Lit/British Isles:1832-Present (A),SP15,45,33,93.3%,100.0%,4.97,B+ (3.39),B+ (3.45)
+305,"Mariscal, George",LTEN 29 - Intro/Chicano/Latino Lit. (A),SP15,92,42,95.0%,100.0%,3.99,A- (3.72),A- (3.79)
+306,"Loose, Margaret",LTEN 124 - Topics: The 19th Century (A),WI15,21,15,93.3%,100.0%,5.43,B+ (3.54),B+ (3.61)
+307,"Shevelow, Kathryn Ann",LTEN 140 - British Novel: 1790-1830 (A),WI15,44,23,95.7%,95.7%,5.98,B+ (3.70),B+ (3.47)
+308,"Cancel, Robert",LTEN 159 - Contemporary American Lit (A),WI15,16,6,100.0%,100.0%,4.9,B (3.20),
+309,"Tonkovich, Nicole",LTEN 174 - Amer Fiction II:Middle James (A),WI15,18,7,100.0%,100.0%,7.07,A- (3.71),
+310,"O'Brien, William Arctander",LTEN 176 - Major American Writers (A),WI15,28,11,100.0%,81.8%,4.7,B+ (3.44),B (3.03)
+311,"Sanchez, Rosaura",LTEN 178 - Comparative Ethnic Literature (A),WI15,30,7,100.0%,100.0%,5.7,B+ (3.67),B+ (3.50)
+312,"Childs, Dennis R.",LTEN 183 - Topics/African-American Prose (A),WI15,15,4,100.0%,100.0%,7.0,B+ (3.50),
+313,"Forbes, Camille",LTEN 192 - Senior Seminar in English Lit (A),WI15,12,4,100.0%,100.0%,1.5,,
+314,"Vitkus, Daniel J.",LTEN 21 - Intro/Lit/Brit Isles: pre-1660 (A),WI15,20,9,88.9%,88.9%,7.83,B+ (3.33),B (3.23)
+315,"Tonkovich, Nicole",LTEN 25 - Intro/Lit/US: Beginning - 1865 (A),WI15,32,11,90.9%,100.0%,7.95,B+ (3.40),B (3.15)
+316,"Childs, Dennis R.",LTEN 27 - Intro/Afro-American Literature (A),WI15,86,40,85.0%,95.0%,7.3,B+ (3.50),B+ (3.67)
+317,"Nicolazzo, Sarah E.",LTEN 120 - Topics: The 18th Century (A),FA14,16,7,85.7%,100.0%,4.21,A- (3.80),
+318,"Loose, Margaret",LTEN 124 - Topics: The 19th Century (A),FA14,21,16,87.5%,100.0%,7.13,B+ (3.50),B (3.25)
+319,"Loose, Margaret",LTEN 127 - Victorian Poetry (A),FA14,14,11,100.0%,100.0%,5.61,B- (2.89),
+320,"Nicolazzo, Sarah E.",LTEN 149 - Topics: English-Language Lit (A),FA14,10,5,100.0%,100.0%,5.5,A- (3.75),
+321,"Tonkovich, Nicole",LTEN 153 - Revolutnry War/Early Natnl Prd (A),FA14,21,9,100.0%,100.0%,5.83,B+ (3.60),B+ (3.59)
+322,"Davidson, R. Michael",LTEN 159 - Contemporary American Lit (A),FA14,35,7,100.0%,100.0%,4.1,B (3.25),B (3.13)
+323,"Cancel, Robert",LTEN 188 - Contemporary Caribbean Lit (A),FA14,13,9,66.7%,77.8%,6.28,A- (3.71),
+324,"Shevelow, Kathryn Ann",LTEN 22 - Intro/Lit/Brtish Is:1660-1832 (A),FA14,64,29,92.3%,100.0%,5.86,A- (3.72),B+ (3.40)
+325,"Davidson, R. Michael",LTEN 26 - Intro/Lit/US: 1865 - Present (A),FA14,62,24,83.3%,79.2%,6.17,B (3.18),B (3.11)
+326,"Lin, Chien-Ting",LTEN 28 - Intr/Asian-American Literature (A),FA14,124,55,70.0%,68.0%,4.7,B+ (3.68),B+ (3.32)
+327,"Forbes, Camille",LTEN 87 - Freshman Seminar (A),FA14,12,8,100.0%,100.0%,1.36,A (4.00),
+328,"Rahimi, Babak",LTEN 131GS - British Literature and Culture (A),S214,28,13,91.7%,91.7%,5.23,A- (3.73),A- (3.95)
+329,"Gonzales, Paulina Margarita",LTEN 158 - Modern American Literature (A),S214,16,3,100.0%,100.0%,5.83,A (4.00),
+330,"Loose, Margaret",LTEN 148 - Genres/English&American Lit (A),SP14,20,20,95.0%,100.0%,7.5,B+ (3.40),B (3.13)
+331,"Lampert-Weissig, Lisa",LTEN 149 - Topics: English-Language Lit (A),SP14,17,7,83.3%,100.0%,7.83,B+ (3.60),
+332,"Tonkovich, Nicole",LTEN 154 - The American Renaissance (A),SP14,19,7,100.0%,100.0%,7.64,B+ (3.50),
+333,"Tonkovich, Nicole",LTEN 156 - Amer Lit/Civil War-World War I (A),SP14,17,4,100.0%,100.0%,9.0,A- (3.75),
+334,"Chang, Alex",LTEN 181 - Asian American Literature (A),SP14,27,9,62.5%,87.5%,4.0,B+ (3.33),B (3.06)
+335,"Childs, Dennis R.",LTEN 183 - Topics/African-American Prose (A),SP14,12,6,100.0%,100.0%,4.5,B+ (3.60),
+336,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),SP14,27,7,100.0%,100.0%,5.93,B+ (3.67),B+ (3.56)
+337,"Forbes, Camille",LTEN 192 - Senior Seminar in English Lit (A),SP14,10,4,100.0%,100.0%,1.0,,
+338,"Loose, Margaret",LTEN 23 - Lit/British Isles:1832-Present (A),SP14,53,39,86.8%,94.7%,4.55,B+ (3.50),B (3.12)
+339,"Davidson, R. Michael",LTEN 26 - Intro/Lit/US: 1865 - Present (A),SP14,65,32,90.0%,93.3%,5.47,B (3.21),B (3.25)
+340,"Sanchez, Rosaura",LTEN 29 - Intro/Chicano/Latino Lit. (A),SP14,89,36,54.3%,65.7%,3.97,B+ (3.48),B (3.02)
+341,"Armantrout, Rae",LTEN 30 - Poetry for Physicists (A),SP14,9,3,100.0%,100.0%,2.5,B+ (3.50),
+342,"Keating, Brian",LTEN 30 - Poetry for Physicists (A),SP14,9,3,100.0%,100.0%,3.17,B+ (3.50),
+343,"Cassedy, Steven Dennis",LTEN 87 - Freshman Seminar (A),SP14,16,8,100.0%,100.0%,0.75,,
+344,"Lampert-Weissig, Lisa",LTEN 107 - Chaucer (A),WI14,16,10,100.0%,100.0%,5.7,A- (3.70),
+345,"Farr, Jason Spencer",LTEN 117 - Topics: The 17th Century (A),WI14,15,8,100.0%,100.0%,5.75,B+ (3.33),
+346,"Randel, Fred V.",LTEN 125 - Romantic Poetry (A),WI14,27,14,85.7%,92.9%,4.5,B (3.15),B- (2.92)
+347,"Tonkovich, Nicole",LTEN 148 - Genres/English&American Lit (A),WI14,15,3,100.0%,100.0%,7.83,B+ (3.50),
+348,"Davidson, R. Michael",LTEN 175B - New Amer Poetry:Post WWII-Pres (A),WI14,26,10,100.0%,100.0%,5.1,B+ (3.33),B (3.26)
+349,"Lampert-Weissig, Lisa",LTEN 178 - Comparative Ethnic Literature (A),WI14,20,10,100.0%,100.0%,7.61,A- (3.80),B+ (3.46)
+350,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),WI14,22,13,92.3%,92.3%,5.88,A- (3.75),B+ (3.67)
+351,"Shevelow, Kathryn Ann",LTEN 22 - Intro/Lit/Brtish Is:1660-1832 (A),WI14,41,23,95.7%,95.7%,5.2,B+ (3.52),B (3.11)
+352,"Tonkovich, Nicole",LTEN 25 - Intro/Lit/US: Beginning - 1865 (A),WI14,35,10,85.7%,71.4%,5.64,B (3.14),B (3.13)
+353,"Blanco, John D",LTEN 28 - Intr/Asian-American Literature (A),WI14,72,34,66.7%,66.7%,5.29,B+ (3.31),B (3.22)
+354,"Forbes, Camille",LTEN 87 - Freshman Seminar (A),WI14,10,4,75.0%,100.0%,1.0,,
+355,"Vitkus, Daniel J.",LTEN 112 - Shakespeare I: Elizabethan Prd (A),FA13,18,9,100.0%,75.0%,6.75,A- (3.88),
+356,"Vitkus, Daniel J.",LTEN 117 - Topics: The 17th Century (A),FA13,14,7,100.0%,100.0%,8.5,B (3.00),
+357,"Loose, Margaret",LTEN 127 - Victorian Poetry (A),FA13,11,4,100.0%,100.0%,4.0,B (3.25),
+358,"Shevelow, Kathryn Ann",LTEN 138 - British Novel: 1680-1790 (A),FA13,35,14,100.0%,92.3%,6.35,B+ (3.33),B- (2.99)
+359,"Loose, Margaret",LTEN 142 - British Novel: 1830-1890 (A),FA13,26,11,100.0%,100.0%,6.9,B+ (3.56),B (3.11)
+360,"Cassedy, Steven Dennis",LTEN 158 - Modern American Literature (A),FA13,36,10,70.0%,80.0%,6.9,B (3.13),B (3.15)
+361,"Heryford, Ryan W",LTEN 159 - Contemporary American Lit (A),FA13,17,9,100.0%,100.0%,6.28,B+ (3.67),
+362,"Lampert-Weissig, Lisa",LTEN 21 - Intro/Lit/Brit Isles: pre-1660 (A),FA13,69,37,73.5%,88.2%,5.44,B+ (3.32),B+ (3.46)
+363,"Forbes, Camille",LTEN 27 - Intro/Afro-American Literature (A),FA13,93,40,80.0%,87.5%,5.12,B+ (3.39),B (3.24)
+364,"Heintz, Lauren Allison",LTEN 149 - Topics: English-Language Lit (A),S213,16,4,100.0%,100.0%,7.5,B (3.00),
+365,"Shevelow, Kathryn Ann",LTEN 148 - Genres/English&American Lit (B),S113,25,4,100.0%,100.0%,9.0,B+ (3.50),B (3.14)
+366,"Wesling, Megan E.",LTEN 149GS - Themes/English & American Lit (A),S113,19,5,100.0%,100.0%,5.5,A (4.00),
+367,"Wesling, Megan E.",LTEN 158GS - Topics/Modrn Americn Literatre (A),S113,19,4,100.0%,100.0%,5.5,A (4.00),
+368,"Lerer, Seth",LTEN 113 - Shakespeare II:Jacobean Period (A),SP13,32,12,100.0%,100.0%,5.5,B+ (3.60),B+ (3.62)
+369,"Loose, Margaret",LTEN 124 - Topics: The 19th Century (A),SP13,10,5,100.0%,100.0%,8.0,B (3.25),
+370,"Streeby, Shelley",LTEN 148 - Genres/English&American Lit (A),SP13,57,18,94.4%,83.3%,7.06,A- (3.75),B+ (3.33)
+371,"Lampert-Weissig, Lisa","LTEN 150 - Gender, Text, and Culture (A)",SP13,18,7,85.7%,85.7%,4.21,A- (3.71),
+372,"Tonkovich, Nicole",LTEN 154 - The American Renaissance (A),SP13,27,14,100.0%,100.0%,6.81,B+ (3.45),B (3.23)
+373,"Escudero, Andrew Mario",LTEN 188 - Contemporary Caribbean Lit (A),SP13,12,5,100.0%,100.0%,7.5,B (3.20),
+374,"Loose, Margaret",LTEN 23 - Lit/British Isles:1832-Present (A),SP13,54,18,94.1%,70.6%,3.21,B+ (3.35),B (3.16)
+375,"Davidson, R. Michael",LTEN 26 - Intro/Lit/US: 1865 - Present (A),SP13,71,25,92.0%,96.0%,6.1,B+ (3.36),B (3.08)
+376,"Mariscal, George",LTEN 29 - Intro/Chicano/Latino Lit. (A),SP13,104,45,93.2%,95.5%,4.07,B+ (3.45),B (3.03)
+377,"Lampert-Weissig, Lisa",LTEN 107 - Chaucer (A),WI13,14,6,100.0%,100.0%,6.17,B+ (3.67),
+378,"Randel, Fred V.",LTEN 125 - Romantic Poetry (A),WI13,27,12,100.0%,90.9%,7.23,B+ (3.56),B- (2.90)
+379,"Gagnon, Jeffrey C",LTEN 142 - British Novel: 1830-1890 (A),WI13,15,8,100.0%,100.0%,5.93,B+ (3.57),
+380,"George, Rosemary Marangoly",LTEN 144 - British Novel: 1890-present (A),WI13,14,5,100.0%,100.0%,4.1,B (3.00),
+381,"Wesling, Megan E.",LTEN 175A - New Amer Fiction:WWII-Present (A),WI13,26,13,100.0%,100.0%,5.42,B+ (3.58),A- (3.73)
+382,"O'Brien, William Arctander",LTEN 176 - Major American Writers (A),WI13,25,15,93.3%,93.3%,7.42,B+ (3.43),B+ (3.38)
+383,"Solomon, Amanda Lee Albaniel",LTEN 181 - Asian American Literature (A),WI13,16,9,100.0%,100.0%,4.28,B+ (3.50),
+384,"Childs, Dennis R.",LTEN 183 - Topics/African-American Prose (A),WI13,10,4,100.0%,100.0%,6.5,A- (3.75),
+385,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),WI13,20,11,90.9%,100.0%,4.14,B+ (3.63),B+ (3.60)
+386,"Shevelow, Kathryn Ann",LTEN 22 - Intro/Lit/Brtish Is:1660-1832 (A),WI13,50,26,96.2%,92.3%,4.82,B+ (3.67),B+ (3.48)
+387,"Tonkovich, Nicole",LTEN 25 - Intro/Lit/US: Beginning - 1865 (A),WI13,37,13,84.6%,92.3%,7.12,B+ (3.33),B (3.02)
+388,"Forbes, Camille",LTEN 27 - Intro/Afro-American Literature (A),WI13,94,46,78.3%,87.0%,4.45,B+ (3.30),B- (2.76)
+389,"Propp, William Henry",LTEN 87 - Freshman Seminar (A),WI13,7,3,100.0%,100.0%,1.83,A (4.00),
+390,"Rahimi, Babak",LTEN 87 - Freshman Seminar (A),WI13,7,3,100.0%,100.0%,1.83,A (4.00),
+391,"Shevelow, Kathryn Ann",LTEN 120 - Topics: The 18th Century (A),FA12,39,16,100.0%,100.0%,6.5,B+ (3.57),B (3.24)
+392,"Loose, Margaret",LTEN 127 - Victorian Poetry (A),FA12,26,9,71.4%,71.4%,5.93,B (3.29),B (3.10)
+393,"Davidson, R. Michael",LTEN 132 - Topics: Modern Irish Lit (A),FA12,35,10,80.0%,100.0%,3.9,B+ (3.67),B+ (3.51)
+394,"Loose, Margaret",LTEN 144 - British Novel: 1890-present (A),FA12,13,11,90.0%,100.0%,6.9,B+ (3.38),
+395,"Dominguez, Andrea M",LTEN 149 - Topics: English-Language Lit (A),FA12,9,3,100.0%,100.0%,7.17,B+ (3.33),
+396,"Frohlich, Soren",LTEN 149 - Topics: English-Language Lit (B),FA12,11,6,100.0%,100.0%,8.5,B+ (3.67),
+397,"Davidson, R. Michael",LTEN 172 - Amer Poetry II:Whitman-Modern (A),FA12,36,13,100.0%,100.0%,5.17,B+ (3.60),B+ (3.45)
+398,"Blanco, John D",LTEN 181 - Asian American Literature (A),FA12,17,7,71.4%,100.0%,7.36,A- (3.71),
+399,"Lampert-Weissig, Lisa",LTEN 21 - Intro/Lit/Brit Isles: pre-1660 (A),FA12,57,24,86.4%,100.0%,6.59,B (3.05),B (3.19)
+400,"Blanco, John D",LTEN 28 - Intr/Asian-American Literature (A),FA12,92,52,84.0%,76.0%,5.56,B (3.26),B (3.09)
+401,"Shevelow, Kathryn Ann",LTEN 140 - British Novel: 1790-1830 (A),S212,24,10,90.0%,100.0%,9.5,B+ (3.67),B+ (3.38)
+402,"Davidson, R. Michael",LTEN 175B - New Amer Poetry:Post WWII-Pres (A),S112,21,3,33.3%,100.0%,10.5,B (3.00),B (3.25)
+403,"Bialo, Caralyn Alyssa",LTEN 113 - Shakespeare II:Jacobean Period (A),SP12,23,13,100.0%,100.0%,5.83,B (3.27),B+ (3.35)
+404,"Loose, Margaret",LTEN 127 - Victorian Poetry (A),SP12,28,16,93.8%,93.8%,5.57,B+ (3.57),B- (2.98)
+405,"Shevelow, Kathryn Ann",LTEN 138 - British Novel: 1680-1790 (A),SP12,24,9,88.9%,88.9%,6.94,B+ (3.38),B (3.18)
+406,"Shevelow, Kathryn Ann",LTEN 148 - Genres/English&American Lit (A),SP12,39,19,100.0%,100.0%,6.26,B+ (3.57),B+ (3.55)
+407,"Tonkovich, Nicole",LTEN 148 - Genres/English&American Lit (B),SP12,38,18,94.4%,88.9%,5.61,A- (3.76),B+ (3.50)
+408,"Cassedy, Steven Dennis",LTEN 158 - Modern American Literature (A),SP12,22,6,100.0%,80.0%,6.9,B+ (3.40),B (3.02)
+409,"Cancel, Robert",LTEN 159 - Contemporary American Lit (A),SP12,27,9,100.0%,100.0%,4.72,B+ (3.63),B (3.05)
+410,"O'Brien, William Arctander",LTEN 176 - Major American Writers (A),SP12,38,20,94.7%,89.5%,5.72,B+ (3.44),B (3.23)
+411,"el Tayeb, Fatima",LTEN 179 - Topic:Arab/Muslim Amer Identy (A),SP12,10,6,66.7%,83.3%,3.5,B+ (3.33),
+412,"Solomon, Amanda Lee Albaniel",LTEN 181 - Asian American Literature (A),SP12,15,4,100.0%,100.0%,5.5,B+ (3.33),
+413,"Solomon, Amanda Lee Albaniel",LTEN 181 - Asian American Literature (A),SP12,17,11,100.0%,100.0%,5.95,B+ (3.55),
+414,"Loose, Margaret",LTEN 23 - Lit/British Isles:1832-Present (A),SP12,42,24,87.5%,87.5%,4.83,B+ (3.59),B+ (3.38)
+415,"Wesling, Megan E.",LTEN 26 - Intro/Lit/US: 1865 - Present (A),SP12,62,57,82.5%,89.3%,6.25,B+ (3.46),B+ (3.34)
+416,"Sanchez, Rosaura",LTEN 29 - Intro/Chicano/Latino Lit. (A),SP12,61,27,73.1%,76.9%,5.39,B (3.25),B (3.06)
+417,"Lampert-Weissig, Lisa",LTEN 107 - Chaucer (A),WI12,13,5,100.0%,100.0%,3.7,A (4.00),
+418,"James, Heather",LTEN 110 - Topics: The Renaissance (A),WI12,19,8,50.0%,75.0%,6.21,B+ (3.43),
+419,"James, Heather",LTEN 112 - Shakespeare I: Elizabethan Prd (A),WI12,34,14,100.0%,92.9%,5.36,B (3.00),B (3.26)
+420,"Randel, Fred V.",LTEN 125 - Romantic Poetry (A),WI12,20,5,100.0%,100.0%,6.9,A- (3.80),B (3.05)
+421,"Davidson, R. Michael",LTEN 132 - Topics: Modern Irish Lit (A),WI12,28,9,100.0%,100.0%,6.72,B+ (3.57),B+ (3.36)
+422,"Tonkovich, Nicole",LTEN 149 - Topics: English-Language Lit (A),WI12,17,10,100.0%,100.0%,7.7,B+ (3.60),
+423,"Dominguez, Andrea M",LTEN 152 - Origins of American Literature (A),WI12,21,14,100.0%,85.7%,6.5,B+ (3.36),B (3.10)
+424,"Blanco, John D",LTEN 181 - Asian American Literature (A),WI12,21,16,86.7%,93.3%,4.36,B+ (3.50),A- (3.83)
+425,"Lewis, Adam Charles",LTEN 185 - Themes/Afro-Americn Literature (A),WI12,14,4,100.0%,100.0%,4.5,A (4.00),
+426,"Shevelow, Kathryn Ann",LTEN 22 - Intro/Lit/Brtish Is:1660-1832 (A),WI12,42,25,96.0%,100.0%,4.34,B+ (3.61),B+ (3.37)
+427,"Lewis, Adam Charles",LTEN 25 - Intro/Lit/US: Beginning - 1865 (A),WI12,47,25,84.0%,100.0%,6.1,B+ (3.64),B+ (3.41)
+428,"Solomon, Amanda Lee Albaniel",LTEN 28 - Intr/Asian-American Literature (A),WI12,81,65,81.5%,90.6%,6.5,B (3.28),B (3.02)
+429,"Johnson, Sara E.",LTEN 87 - Freshman Seminar (A),WI12,13,11,100.0%,100.0%,3.05,,
+430,"Randel, Fred V.",LTEN 117 - 17th Century:Themes and Issues (A),FA11,34,16,93.8%,81.3%,4.75,B+ (3.46),B- (2.99)
+431,"Randel, Fred V.",LTEN 117A - 17th Century:Themes and Issues (A),FA11,34,16,93.8%,81.3%,4.75,B+ (3.46),B- (2.99)
+432,"Shevelow, Kathryn Ann",LTEN 120 - 18th Century:Themes and Issues (A),FA11,26,11,90.9%,100.0%,6.32,B+ (3.64),B+ (3.48)
+433,"Shevelow, Kathryn Ann",LTEN 120A - 18th Century:Themes and Issues (A),FA11,26,11,90.9%,100.0%,6.32,B+ (3.64),B+ (3.48)
+434,"Loose, Margaret",LTEN 124 - 19th Century: Themes & Issues (A),FA11,36,23,73.9%,78.3%,6.15,B+ (3.41),B- (2.82)
+435,"Loose, Margaret",LTEN 142 - The End of Victorianism (A),FA11,23,11,100.0%,100.0%,8.5,B+ (3.40),B (3.08)
+436,"Jed, Stephanie H",LTEN 149 - Themes/English&American Lit (A),FA11,46,20,100.0%,100.0%,6.5,A- (3.90),A (4.00)
+437,"Streeby, Shelley",LTEN 154 - The American Renaissance (A),FA11,36,16,93.8%,87.5%,8.13,B+ (3.53),B+ (3.47)
+438,"Tonkovich, Nicole",LTEN 156 - Amer Lit/Civil War-World War I (A),FA11,27,12,100.0%,100.0%,7.67,B+ (3.50),B+ (3.47)
+439,"Cassedy, Steven Dennis",LTEN 158 - Modern American Literature (A),FA11,24,9,66.7%,77.8%,5.61,B (3.25),B (3.16)
+440,"Lampert-Weissig, Lisa",LTEN 21 - Intro/Lit/Brit Isles: pre-1660 (A),FA11,67,37,83.3%,94.3%,6.44,B+ (3.43),B (3.04)
+441,"Forbes, Camille",LTEN 27 - Intro/Afro-American Literature (A),FA11,92,53,82.7%,90.4%,6.27,B (3.28),B (3.10)
+442,"Propp, William Henry",LTEN 87 - Freshman Seminar (A),FA11,12,9,100.0%,100.0%,1.39,A- (3.75),
+443,"Rahimi, Babak",LTEN 87 - Freshman Seminar (A),FA11,12,8,100.0%,100.0%,2.25,A- (3.75),
+444,"Lampert-Weissig, Lisa",LTEN 107 - Chaucer (A),S211,12,3,100.0%,100.0%,7.83,B+ (3.50),
+445,"Wesling, Megan E.",LTEN 149GS - Themes/English & American Lit (A),S111,28,15,100.0%,100.0%,6.5,A- (3.82),B+ (3.59)
+446,"Davidson, R. Michael",LTEN 155 - Interaction/Amer Lit&Vis Arts (A),S111,20,9,100.0%,100.0%,6.5,B+ (3.33),B (3.21)
+447,"Wesling, Megan E.",LTEN 158GS - Topics/Modrn Americn Literatre (A),S111,28,15,100.0%,100.0%,6.5,A- (3.73),B+ (3.59)
+448,"Arvin, Maile R",LTEN 178 - Comparative Ethnic Literature (A),S111,8,7,100.0%,100.0%,7.64,B+ (3.57),
+449,"Arvin, Maile R",LTEN 178 - Comparative Ethnic Literature (A),S111,7,5,100.0%,100.0%,4.9,B+ (3.60),
+450,"Lowe, Lisa",LTEN 181 - Asian American Literature (A),S111,19,4,100.0%,100.0%,6.0,B+ (3.50),
+451,"Lowe, Lisa",LTEN 181 - Asian American Literature (A),S111,11,7,100.0%,100.0%,6.79,A (4.00),
+452,"Forbes, Camille",LTEN 186 - Literature/Harlem Renaissance (A),S111,12,6,100.0%,100.0%,7.5,B (3.20),
+453,"Jed, Stephanie H",LTEN 110 - The Renaissance:Themes&Issues (A),SP11,64,22,90.9%,81.8%,4.32,A- (3.95),A (4.00)
+454,"Loose, Margaret",LTEN 127 - Victorian Poetry (A),SP11,38,28,100.0%,96.4%,5.76,B+ (3.35),B (3.14)
+455,"Loose, Margaret",LTEN 127B - Victorian Poetry (A),SP11,38,28,100.0%,96.4%,5.76,B+ (3.35),B (3.14)
+456,"Tonkovich, Nicole",LTEN 146 - Women & English/American Lit (A),SP11,49,26,100.0%,100.0%,8.1,B+ (3.40),B- (2.90)
+457,"Cassedy, Steven Dennis",LTEN 158 - Modern American Literature (A),SP11,30,13,84.6%,84.6%,6.19,B+ (3.50),B- (2.96)
+458,"Davidson, R. Michael",LTEN 159 - Contemporary Amer. Literature (A),SP11,38,15,100.0%,100.0%,6.23,B+ (3.67),B+ (3.67)
+459,"Davidson, R. Michael",LTEN 175B - New Amer Poetry:Post WWII-Pres (A),SP11,40,24,78.3%,95.7%,4.76,B+ (3.39),B+ (3.51)
+460,"Loose, Margaret",LTEN 23 - Lit/British Isles:1832-Present (A),SP11,62,32,96.9%,96.9%,5.44,B+ (3.52),B (3.11)
+461,"Streeby, Shelley",LTEN 26 - Intro/Lit/US: 1865 - Present (A),SP11,58,38,76.3%,68.4%,7.97,B+ (3.44),B+ (3.39)
+462,"Blanco, John D",LTEN 28 - Intr/Asian-American Literature (A),SP11,87,49,67.3%,57.1%,5.07,B (3.29),B- (2.94)
+463,"Davidson, R. Michael",LTEN 87 - Freshman Seminar (A),SP11,11,4,100.0%,100.0%,1.5,,
+464,"Bialo, Caralyn Alyssa",LTEN 113 - Shakespeare II:Jacobean Period (A),WI11,41,25,100.0%,100.0%,6.26,B+ (3.52),B (3.26)
+465,"Loose, Margaret",LTEN 127A - Victorian Period:Themes&Issues (A),WI11,23,9,100.0%,100.0%,4.5,B+ (3.67),B+ (3.49)
+466,"Shevelow, Kathryn Ann",LTEN 140 - Early 19th Cent. British Novel (A),WI11,56,32,96.9%,96.9%,6.38,B+ (3.32),B (3.22)
+467,"Loose, Margaret",LTEN 141 - The High Victorian Novel (A),WI11,23,14,92.9%,100.0%,7.07,B+ (3.50),B+ (3.38)
+468,"Streeby, Shelley",LTEN 148 - Genres/English&American Lit (A),WI11,47,20,100.0%,100.0%,5.4,B+ (3.42),B+ (3.32)
+469,"Isfahani-Hammond, Alexandra",LTEN 151 - Topics/Literature & Environmnt (A),WI11,11,8,100.0%,100.0%,5.75,A- (3.75),
+470,"Tonkovich, Nicole",LTEN 154 - The American Renaissance (A),WI11,19,10,90.0%,100.0%,5.1,B+ (3.56),
+471,"Blanco, John D",LTEN 181 - Asian American Literature (A),WI11,34,17,82.4%,82.4%,6.26,B+ (3.53),B+ (3.47)
+472,"Shevelow, Kathryn Ann",LTEN 22 - Intro/Lit/Brtish Is:1660-1832 (A),WI11,75,41,92.7%,85.4%,6.06,B+ (3.51),B+ (3.50)
+473,"Davidson, R. Michael",LTEN 25 - Intro/Lit/US: Beginning - 1865 (A),WI11,58,34,85.3%,94.1%,6.2,B (3.23),B (3.09)
+474,"Mariscal, George",LTEN 29 - Intro/Chicano/Latino Lit. (A),WI11,93,58,91.4%,93.1%,5.5,B+ (3.37),B (3.11)
+475,"Lampert-Weissig, Lisa",LTEN 107 - Chaucer (A),FA10,37,36,97.2%,97.2%,5.17,B (3.28),B+ (3.51)
+476,"Higgins, John C.",LTEN 112 - Shakespeare I: Elizabethan Prd (A),FA10,35,16,100.0%,100.0%,5.38,B+ (3.53),B (3.29)
+477,"Randel, Fred V.",LTEN 125C - Second Generatn Romantic Poets (A),FA10,37,23,82.6%,69.6%,5.54,B (3.17),B (3.21)
+478,"Lowe, Lisa",LTEN 130 - Modern Brit Lit (A),FA10,37,21,100.0%,90.5%,6.6,A- (3.71),B+ (3.49)
+479,"Shevelow, Kathryn Ann",LTEN 143 - English Novel/ 18th Century (A),FA10,65,33,97.0%,100.0%,6.02,B+ (3.58),B+ (3.48)
+480,"George, Rosemary Marangoly",LTEN 145 - English Novel/ 20th Century (A),FA10,35,14,92.9%,100.0%,6.07,B+ (3.54),B+ (3.54)
+481,"El-Tayeb, Fatima",LTEN 155 - Interaction/Amer Lit&Vis Arts (A),FA10,24,11,63.6%,90.9%,5.23,B+ (3.44),B- (2.94)
+482,"Cancel, Robert",LTEN 159 - Contemporary Amer. Literature (A),FA10,54,24,95.8%,95.8%,5.25,B (3.25),B (3.17)
+483,"Tonkovich, Nicole",LTEN 160 - Ideas&Photo Images/Amer Cultr (A),FA10,46,19,89.5%,100.0%,6.29,B+ (3.59),B+ (3.35)
+484,"Forbes, Camille",LTEN 186 - Literature/Harlem Renaissance (A),FA10,34,17,94.1%,88.2%,6.5,B+ (3.56),B (3.15)
+485,"Williams, James G",LTEN 187 - Black Music&Texts:Comm&Cult Ex (A),FA10,40,19,63.2%,50.0%,4.08,,B- (2.88)
+486,"Lampert-Weissig, Lisa",LTEN 21 - Intro/Lit/Brit Isles: pre-1660 (A),FA10,76,45,82.2%,88.9%,5.48,B+ (3.42),B (3.18)
+487,"Forbes, Camille",LTEN 27 - Intro/Afro-American Literature (A),FA10,85,39,79.5%,87.2%,6.04,B (3.26),B- (2.86)
+488,"Woodhull, Winifred Johanna",LTEN 149GS - Themes/English & American Lit (A),SU10,26,10,60.0%,40.0%,4.9,B+ (3.67),
+489,"Davidson, R. Michael",LTEN 155 - Interaction/Amer Lit&Vis Arts (A),SU10,24,7,100.0%,100.0%,6.21,B+ (3.43),
+490,"Woodhull, Winifred Johanna",LTEN 158GS - Topics/Modrn Americn Literatre (A),SU10,26,9,66.7%,44.4%,4.72,B+ (3.67),
+491,"Springer, Anna Joy",LTEN 159 - Contemporary Amer. Literature (A),SU10,19,5,100.0%,80.0%,8.9,B+ (3.40),
+492,"Lowe, Lisa",LTEN 181 - Asian American Literature (A),SU10,14,11,100.0%,90.9%,6.86,A- (3.91),
+493,"Lampert-Weissig, Lisa",LTEN 107 - Chaucer (A),SP10,25,22,100.0%,100.0%,4.32,B+ (3.60),B+ (3.62)
+494,"Higgins, John C.",LTEN 113 - Shakespeare II:Jacobean Period (A),SP10,39,19,89.5%,94.7%,4.83,B+ (3.35),B+ (3.33)
+495,"Jed, Stephanie H",LTEN 124 - 19th Century: Themes & Issues (A),SP10,41,19,94.7%,89.5%,2.71,A- (3.83),A- (3.96)
+496,"Loose, Margaret",LTEN 141 - The High Victorian Novel (A),SP10,39,21,100.0%,100.0%,7.74,B (3.00),B- (2.87)
+497,"Shevelow, Kathryn Ann",LTEN 143 - English Novel/ 18th Century (A),SP10,51,29,100.0%,96.6%,6.09,B+ (3.46),B+ (3.44)
+498,"Tonkovich, Nicole",LTEN 148 - Genres/English&American Lit (A),SP10,25,11,100.0%,100.0%,5.95,A- (3.89),B+ (3.65)
+499,"Wesling, Megan E.",LTEN 149 - Themes/English&American Lit (A),SP10,34,20,100.0%,95.0%,6.2,A- (3.70),B+ (3.61)
+500,"Gleason, Patrick Joseph",LTEN 154 - The American Renaissance (A),SP10,20,9,66.7%,88.9%,7.39,B (3.22),B (3.28)
+501,"Childs, Dennis R.",LTEN 183 - Afro-American Prose (A),SP10,45,24,95.8%,95.8%,5.2,B+ (3.38),B+ (3.48)
+502,"Lerer, Seth",LTEN 190 - Seminar (A),SP10,6,4,100.0%,100.0%,7.0,B+ (3.33),
+503,"Loose, Margaret",LTEN 23 - Lit/British Isles:1832-Present (A),SP10,55,29,92.9%,96.4%,4.57,B+ (3.31),B- (2.84)
+504,"Wesling, Megan E.",LTEN 26 - Intro/Lit/US: 1865 - Present (A),SP10,41,32,87.5%,78.1%,5.63,B+ (3.37),B (3.25)
+505,"Forbes, Camille",LTEN 27 - Intro/Afro-American Literature (A),SP10,82,33,72.7%,84.4%,5.71,B+ (3.56),B+ (3.32)
+506,"Loose, Margaret",LTEN 87 - Freshman Seminar (A),SP10,15,10,100.0%,100.0%,1.5,A (4.00),
+507,"Johnson, Sara E.",LTEN 87 - Freshman Seminar (B),SP10,17,10,90.0%,100.0%,2.3,A (4.00),
+508,"Bialo, Caralyn Alyssa",LTEN 112 - Shakespeare I: Elizabethan Prd (A),WI10,41,20,95.0%,95.0%,5.0,B+ (3.45),B (3.27)
+509,"Kulkarni, Kedar A",LTEN 148 - Genres/English&American Lit (A),WI10,26,16,68.8%,75.0%,4.88,B+ (3.44),B (3.13)
+510,"Lewis, Adam Charles",LTEN 153 - Revolutnry War/Early Natnl Prd (A),WI10,32,22,95.5%,100.0%,4.41,B+ (3.52),B+ (3.38)
+511,"Cancel, Robert",LTEN 159 - Contemporary Amer. Literature (A),WI10,41,21,90.0%,90.0%,4.5,B+ (3.33),B (3.23)
+512,"Yip, Wai-Lim",LTEN 172 - Amer Poetry II:Whitman-Modern (A),WI10,14,5,80.0%,60.0%,3.7,B (3.25),
+513,"O'Brien, William Arctander",LTEN 176 - Major American Writers (A),WI10,54,30,96.7%,90.0%,4.97,B+ (3.31),B- (2.96)
+514,"Mariscal, George",LTEN 178 - Comparative Ethnic Literature (A),WI10,36,20,90.0%,95.0%,4.5,B+ (3.30),B (3.05)
+515,"Blanco, John D",LTEN 181 - Asian American Literature (A),WI10,28,13,92.3%,92.3%,5.12,B+ (3.67),A- (3.88)
+516,"Childs, Dennis R.",LTEN 183 - Afro-American Prose (A),WI10,42,25,96.0%,95.8%,6.74,B+ (3.57),B+ (3.43)
+517,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),WI10,36,20,100.0%,95.0%,6.1,B+ (3.60),B+ (3.50)
+518,"Shevelow, Kathryn Ann",LTEN 22 - Intro/Lit/Brtish Is:1660-1832 (A),WI10,88,46,89.1%,97.8%,4.93,B+ (3.50),B (3.00)
+519,"Tonkovich, Nicole",LTEN 25 - Intro/Lit/US: Beginning - 1865 (A),WI10,45,21,76.2%,71.4%,5.26,B (3.29),B (3.04)
+520,"Sanchez, Rosaura",LTEN 29 - Intro/Chicano/Latino Lit. (A),WI10,69,30,83.3%,80.0%,6.02,B+ (3.37),B+ (3.36)
+521,"Higgins, John C.",LTEN 110 - The Renaissance:Themes&Issues (A),FA09,26,24,82.6%,100.0%,5.92,B+ (3.35),B (3.17)
+522,"Bialo, Caralyn Alyssa",LTEN 115A - 16th Century:Themes and Issues (A),FA09,28,27,96.3%,96.3%,5.98,B+ (3.36),B (3.12)
+523,"Loose, Margaret",LTEN 127 - Victorian Poetry (A),FA09,21,19,100.0%,94.7%,5.17,B+ (3.35),B (3.10)
+524,"Loose, Margaret",LTEN 127B - Victorian Poetry (A),FA09,21,19,100.0%,94.7%,5.17,B+ (3.35),B (3.10)
+525,"Davidson, R. Michael",LTEN 132 - Topics/Modern Irish Literature (A),FA09,32,27,100.0%,100.0%,7.46,B+ (3.64),B (3.22)
+526,"Shevelow, Kathryn Ann",LTEN 140 - Early 19th Cent. British Novel (A),FA09,68,50,93.9%,93.9%,5.34,B+ (3.44),B+ (3.33)
+527,"Lewis, Adam Charles",LTEN 154 - The American Renaissance (A),FA09,37,24,95.8%,100.0%,4.58,B+ (3.61),B+ (3.30)
+528,"el Tayeb, Fatima",LTEN 155 - Interaction/Amer Lit&Vis Arts (A),FA09,31,26,96.2%,96.2%,4.58,B+ (3.68),B+ (3.43)
+529,"Berman, Ronald S.",LTEN 176 - Major American Writers (A),FA09,68,54,92.5%,90.6%,4.76,B+ (3.41),B (3.05)
+530,"Forbes, Camille",LTEN 186 - Literature/Harlem Renaissance (A),FA09,39,34,96.9%,93.8%,6.5,B (3.16),B (3.15)
+531,"Grattan, Michael J.",LTEN 21 - Intro/Lit/Brit Isles: pre-1660 (A),FA09,79,57,75.4%,78.9%,4.11,B+ (3.53),B+ (3.38)
+532,"Lowe, Lisa",LTEN 28 - Intr/Asian-American Literature (A),FA09,83,63,80.6%,96.8%,4.09,B+ (3.45),B (3.09)
+533,"Loose, Margaret",LTEN 87 - Freshman Seminar (A),FA09,6,5,100.0%,100.0%,2.9,,
+534,"Grattan, Michael J.","LTEN 114 - Shakespeare III:Stage,Film,&TV (A)",SU09,13,3,66.7%,66.7%,4.5,A (4.00),
+535,"Woodhull, Winifred Johanna",LTEN 149 - Themes/English&American Lit (A),SU09,19,9,44.4%,77.8%,6.06,B (3.29),
+536,"Forbes, Camille",LTEN 186 - Literature/Harlem Renaissance (A),SU09,20,10,90.0%,90.0%,6.9,B+ (3.50),
+537,"Montrose, Louis A.",LTEN 113 - Shakespeare II:Jacobean Period (A),SP09,40,22,95.5%,95.5%,4.77,B (3.24),B (3.02)
+538,"Loose, Margaret",LTEN 141 - The High Victorian Novel (A),SP09,29,29,92.9%,96.4%,7.74,B+ (3.52),B- (2.83)
+539,"Kugler, Emily MeriNitta",LTEN 143 - English Novel/ 18th Century (A),SP09,30,19,83.3%,94.7%,5.94,B+ (3.47),B+ (3.60)
+540,"Berman, Ronald S.",LTEN 144 - English Novel/ 19th Century (A),SP09,27,20,100.0%,100.0%,7.83,B+ (3.53),B (3.19)
+541,"George, Rosemary Marangoly",LTEN 145 - English Novel/ 20th Century (A),SP09,12,11,90.9%,90.9%,5.05,B+ (3.30),
+542,"Tonkovich, Nicole",LTEN 154 - The American Renaissance (A),SP09,41,34,94.1%,97.1%,7.09,B+ (3.47),B (3.22)
+543,"Lowe, Lisa",LTEN 181 - Asian American Literature (A),SP09,47,29,92.9%,100.0%,4.71,B+ (3.50),B+ (3.58)
+544,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),SP09,45,41,95.0%,97.5%,6.65,B+ (3.55),B+ (3.42)
+545,"Wesling, Megan E.",LTEN 192 - Senior Seminar in English Lit (A),SP09,6,5,100.0%,100.0%,2.5,,
+546,"Loose, Margaret",LTEN 23 - Lit/British Isles:1832-Present (A),SP09,76,72,97.2%,98.6%,3.5,B+ (3.50),B (3.20)
+547,"Forbes, Camille",LTEN 27 - Intro/Afro-American Literature (A),SP09,79,50,88.0%,98.0%,4.95,B+ (3.56),B (3.11)
+548,"Montrose, Louis A.",LTEN 112 - Shakespeare I: Elizabethan Prd (A),WI09,35,21,90.5%,95.2%,5.64,B (3.24),B (3.10)
+549,"Loose, Margaret",LTEN 127A - Victorian Period:Themes&Issues (A),WI09,24,22,95.2%,95.2%,5.59,B+ (3.59),B+ (3.42)
+550,"Cancel, Robert",LTEN 159 - Contemporary Amer. Literature (A),WI09,60,45,100.0%,95.6%,2.77,B+ (3.39),B- (2.93)
+551,"Berman, Ronald S.",LTEN 174 - Amer Fiction II:Middle James (A),WI09,17,10,90.0%,90.0%,5.9,B+ (3.33),
+552,"Wesling, Megan E.",LTEN 175A - New Amer Fiction:WWII-Present (A),WI09,29,24,87.5%,100.0%,5.58,B+ (3.50),B+ (3.47)
+553,"Tonkovich, Nicole",LTEN 176 - Major American Writers (A),WI09,31,29,93.1%,93.1%,5.33,B+ (3.48),B (3.29)
+554,"Forbes, Camille",LTEN 185 - Themes/Afro-Americn Literature (A),WI09,23,24,87.0%,78.3%,3.8,B (3.09),B- (2.92)
+555,"Forbes, Camille",LTEN 186 - Literature/Harlem Renaissance (A),WI09,20,18,94.4%,72.2%,4.72,B+ (3.33),B (3.20)
+556,"Kheshti, Roshanak",LTEN 187 - Black Music&Texts:Comm&Cult Ex (A),WI09,43,26,80.0%,80.8%,4.1,,B+ (3.30)
+557,"Forbes, Camille",LTEN 192 - Senior Seminar in English Lit (A),WI09,8,5,80.0%,80.0%,0.5,,
+558,"Shevelow, Kathryn Ann",LTEN 22 - Intro/Lit/Brtish Is:1660-1832 (A),WI09,86,70,95.7%,98.6%,4.15,B+ (3.36),B (3.24)
+559,"Wesling, Megan E.",LTEN 26 - Intro/Lit/US: 1865 - Present (A),WI09,56,53,88.7%,94.3%,5.0,B+ (3.38),B+ (3.51)
+560,"Lowe, Lisa",LTEN 28 - Intr/Asian-American Literature (A),WI09,83,58,81.0%,86.2%,4.5,B+ (3.53),B+ (3.34)
+561,"Randel, Fred V.",LTEN 125B - First Generatn Romantic Poets (A),FA08,35,20,95.0%,95.0%,4.61,B+ (3.39),B (3.01)
+562,"Berman, Ronald S.",LTEN 140 - Early 19th Cent. British Novel (A),FA08,51,46,92.9%,85.7%,5.52,B (3.28),B (3.10)
+563,"Streeby, Shelley",LTEN 156 - Amer Lit/Civil War-World War I (A),FA08,24,22,100.0%,100.0%,7.59,B+ (3.60),B+ (3.34)
+564,"Berman, Ronald S.",LTEN 176 - Major American Writers (A),FA08,62,43,79.1%,78.6%,5.48,B (3.28),B (3.09)
+565,"Davidson, R. Michael",LTEN 177 - California Literature (A),FA08,32,27,88.9%,100.0%,5.61,B+ (3.58),B+ (3.42)
+566,"Yoneyama, Lisa",LTEN 181 - Asian American Literature (A),FA08,24,17,88.2%,88.2%,4.26,B+ (3.47),B+ (3.51)
+567,"Childs, Dennis R.",LTEN 183 - Afro-American Prose (A),FA08,40,25,96.0%,92.0%,6.26,B+ (3.40),B (3.27)
+568,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),FA08,20,20,95.0%,90.0%,6.7,B+ (3.41),B+ (3.43)
+569,"Grattan, Michael J.",LTEN 21 - Intro/Lit/Brit Isles: pre-1660 (A),FA08,89,68,89.4%,95.5%,5.0,B+ (3.33),B (3.07)
+570,"Davidson, R. Michael",LTEN 25 - Intro/Lit/US: Beginning - 1865 (A),FA08,55,26,100.0%,96.2%,5.65,B+ (3.54),B (3.28)
+571,"Mariscal, George",LTEN 29 - Intro/Chicano/Latino Lit. (A),FA08,84,62,90.3%,96.8%,4.15,B+ (3.38),B (3.17)
+572,"Loose, Margaret",LTEN 87 - Freshman Seminar (A),FA08,13,13,100.0%,100.0%,2.19,B (3.00),
+573,"Grattan, Michael J.","LTEN 114 - Shakespeare III:Stage,Film,&TV (A)",SU08,19,14,100.0%,100.0%,7.64,B+ (3.31),
+574,"Rosenthal, Jamie Ellen",LTEN 120 - 18th Century:Themes and Issues (A),SU08,9,7,100.0%,100.0%,5.36,B+ (3.57),
+575,"Rosenthal, Jamie Ellen",LTEN 120A - 18th Century:Themes and Issues (A),SU08,9,7,100.0%,100.0%,5.36,B+ (3.57),
+576,"Wesling, Megan E.",LTEN 149GS - Themes/English&American Lit (A),SU08,13,13,100.0%,100.0%,6.5,A- (3.85),
+577,"Wesling, Megan E.",LTEN 158GS - Modern American Literature (A),SU08,13,13,100.0%,100.0%,6.96,A- (3.92),
+578,"Wayne, Don E.",LTEN 159 - Contemporary Amer. Literature (A),SU08,23,18,94.4%,88.9%,6.06,B+ (3.35),
+579,"Torres, Linda R",LTEN 177 - California Literature (A),SU08,26,23,90.5%,71.4%,5.28,A- (3.77),
+580,"Mariscal, George",LTEN 178 - Comparative Ethnic Literature (A),SU08,22,20,100.0%,100.0%,6.0,B+ (3.45),
+581,"Fuentes, Marla Y.",LTEN 180 - Chicano Literature in English (A),SU08,18,15,93.3%,66.7%,6.9,,
+582,"Montrose, Louis A.",LTEN 113 - Shakespeare II:Jacobean Period (A),SP08,41,26,92.0%,100.0%,4.83,B+ (3.57),B (3.07)
+583,"Loose, Margaret",LTEN 144 - English Novel/ 19th Century (A),SP08,32,22,90.9%,95.2%,4.77,B+ (3.50),B (3.13)
+584,"Slavet, Eliza Farro",LTEN 147 - Metamorphoses of the Symbol (A),SP08,22,19,84.2%,84.2%,5.66,B (3.25),B+ (3.59)
+585,"Shevelow, Kathryn Ann",LTEN 148 - Genres/English&American Lit (A),SP08,34,30,100.0%,100.0%,6.1,B+ (3.56),B+ (3.44)
+586,"Prindle, Paige Ann",LTEN 149 - Themes/English&American Lit (A),SP08,23,16,100.0%,100.0%,5.63,B+ (3.38),B (3.17)
+587,"Cancel, Robert",LTEN 159 - Contemporary Amer. Literature (A),SP08,55,42,92.9%,95.2%,3.21,B+ (3.61),B- (3.00)
+588,"Springer, Anna Joy",LTEN 159 - Contemporary Amer. Literature (B),SP08,34,29,96.6%,100.0%,6.71,B+ (3.56),B+ (3.56)
+589,"Lee, Jin-Kyung",LTEN 181 - Asian American Literature (A),SP08,45,35,91.4%,78.8%,6.21,B+ (3.30),B+ (3.30)
+590,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),SP08,39,32,96.7%,90.0%,5.75,B (3.29),B+ (3.53)
+591,"Loose, Margaret",LTEN 23 - Lit/British Isles:1832-Present (A),SP08,88,65,98.4%,92.2%,4.5,B+ (3.54),B (3.06)
+592,"Sanchez, Rosaura",LTEN 29 - Intro/Chicano/Latino Lit. (A),SP08,70,36,82.4%,79.4%,4.44,B+ (3.50),B (3.19)
+593,"Lampert-Weissig, Lisa",LTEN 107 - Chaucer (A),WI08,31,22,100.0%,100.0%,4.5,B+ (3.64),B+ (3.35)
+594,"Montrose, Louis A.",LTEN 112 - Shakespeare I: Elizabethan Prd (A),WI08,42,23,95.5%,100.0%,5.46,B+ (3.48),B (3.27)
+595,"Shevelow, Kathryn Ann",LTEN 120 - 18th Century:Themes and Issues (A),WI08,18,15,85.7%,100.0%,6.9,B+ (3.62),
+596,"Shevelow, Kathryn Ann",LTEN 120A - 18th Century:Themes and Issues (A),WI08,18,15,85.7%,100.0%,6.9,B+ (3.62),
+597,"Loose, Margaret",LTEN 127 - Victorian Poetry (A),WI08,33,28,96.4%,100.0%,4.5,B+ (3.46),B- (2.95)
+598,"Loose, Margaret",LTEN 127B - Victorian Poetry (A),WI08,33,28,96.4%,100.0%,4.5,B+ (3.46),B- (2.95)
+599,"Tonkovich, Nicole",LTEN 146 - Women & English/American Lit (A),WI08,43,37,94.6%,97.3%,5.69,B+ (3.31),B- (2.99)
+600,"Berman, Ronald S.",LTEN 174 - Amer Fiction II:Middle James (A),WI08,42,34,90.9%,72.7%,4.91,B+ (3.38),B- (2.94)
+601,"Childs, Dennis R.",LTEN 183 - Afro-American Prose (A),WI08,19,15,100.0%,92.9%,7.17,B+ (3.46),
+602,"Childs, Dennis R.",LTEN 185 - Themes/Afro-Americn Literature (A),WI08,30,21,90.5%,85.7%,4.88,B+ (3.32),B- (2.74)
+603,"Robinson, Jason",LTEN 187 - Black Music&Texts:Comm&Cult Ex (A),WI08,88,31,100.0%,100.0%,3.9,,B+ (3.31)
+604,"Shevelow, Kathryn Ann",LTEN 22 - Intro/Lit/Brtish Is:1660-1832 (A),WI08,86,65,96.9%,100.0%,4.68,B+ (3.59),B (3.24)
+605,"Davidson, R. Michael",LTEN 26 - Intro/Lit/US: 1865 - Present (A),WI08,54,41,94.6%,94.6%,5.76,B+ (3.44),B+ (3.35)
+606,"Forbes, Camille",LTEN 27 - Intro/Afro-American Literature (A),WI08,58,42,80.5%,92.7%,4.69,B (3.26),B (3.18)
+607,"Grattan, Michael J.",LTEN 117 - 17th Century:Themes and Issues (A),FA07,13,11,81.8%,100.0%,4.14,B+ (3.45),
+608,"Grattan, Michael J.",LTEN 117A - 17th Century:Themes and Issues (A),FA07,13,11,81.8%,100.0%,4.14,B+ (3.45),
+609,"Berman, Ronald S.",LTEN 140 - Early 19th Cent. British Novel (A),FA07,62,50,93.9%,87.5%,5.06,B+ (3.41),B (3.01)
+610,"Streeby, Shelley",LTEN 154 - The American Renaissance (A),FA07,48,41,82.9%,90.2%,5.48,B+ (3.38),B (3.16)
+611,"Davidson, R. Michael",LTEN 172 - Amer Poetry II:Whitman-Modern (A),FA07,36,23,95.5%,95.7%,5.72,B+ (3.38),B+ (3.44)
+612,"Blanco, John D",LTEN 181 - Asian American Literature (A),FA07,36,22,81.8%,90.9%,2.86,B+ (3.53),B+ (3.52)
+613,"Forbes, Camille",LTEN 186 - Literature/Harlem Renaissance (A),FA07,37,32,93.8%,96.7%,5.4,B (3.10),B (3.09)
+614,"Lampert-Weissig, Lisa",LTEN 21 - Intro/Lit/Brit Isles: pre-1660 (A),FA07,95,63,87.3%,98.4%,5.18,B (3.21),B (3.09)
+615,"Tonkovich, Nicole",LTEN 25 - Intro/Lit/US: Beginning - 1865 (A),FA07,56,44,83.7%,76.2%,5.36,B+ (3.38),B (3.19)
+616,"Shroff, Beheroze",LTEN 28 - Intr/Asian-American Literature (A),FA07,83,62,86.9%,85.2%,4.08,B+ (3.47),B (3.20)
+617,"Grattan, Michael J.","LTEN 114 - Shakespeare III:Stage,Film,&TV (A)",SU07,20,9,100.0%,100.0%,6.5,B+ (3.50),
+618,"Wayne, Don E.",LTEN 158 - Modern American Literature (A),SU07,25,19,89.5%,100.0%,6.28,B+ (3.53),
+619,"Cancel, Robert",LTEN 159 - Contemporary Amer. Literature (A),SU07,15,14,92.9%,100.0%,4.64,B (3.09),
+620,"Mariscal, George",LTEN 178 - Comparative Ethnic Literature (A),SU07,22,16,100.0%,100.0%,5.03,A- (3.75),
+621,"Forbes, Camille",LTEN 186 - Literature/Harlem Renaissance (A),SU07,17,15,100.0%,100.0%,5.97,B+ (3.54),
+622,"Yamamoto, Caitlin Y.",LTEN 189 - 20th Century Postcolonial Lits (A),SU07,15,11,100.0%,100.0%,8.5,B+ (3.45),

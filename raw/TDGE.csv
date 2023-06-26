@@ -1,0 +1,681 @@
+,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+0,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),SP23,117,41,97.4%,97.4%,2.86,A- (3.83),B+ (3.66)
+1,"Leadbetter, Kristin",TDGE 10 - Theatre and Film (A),SP23,200,76,97.3%,97.3%,1.88,A- (3.80),B+ (3.60)
+2,"Salovey, Todd","TDGE 100 - Creating the Role of ""Leader"" (A)",SP23,49,12,100.0%,100.0%,4.3,A (4.00),A- (3.89)
+3,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),SP23,239,82,100.0%,100.0%,2.07,A- (3.88),A- (3.86)
+4,"Havis, Allan",TDGE 125 - Topics in Theatre and Film (A),SP23,188,64,96.7%,96.6%,2.06,A- (3.79),B+ (3.69)
+5,"Salimi, Rana",TDGE 125 - Topics in Theatre and Film (B),SP23,48,16,87.5%,87.5%,2.75,A- (3.75),B (3.29)
+6,"Brill, Robert L.",TDGE 133 - Visual Ideas (A),SP23,17,12,90.9%,90.9%,2.68,A- (3.90),
+7,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),SP23,17,9,100.0%,83.3%,3.36,A- (3.86),
+8,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),SP23,18,3,100.0%,100.0%,3.83,A (4.00),
+9,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),SP23,19,12,100.0%,100.0%,3.95,A- (3.80),
+10,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),SP23,18,9,100.0%,100.0%,2.5,A- (3.86),
+11,"Rubinstein, Kim",TDGE 87 - First-year Seminar (A),SP23,9,3,33.3%,66.7%,1.17,A (4.00),
+12,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),WI23,113,55,98.1%,96.3%,2.87,A- (3.83),A- (3.78)
+13,"Fulton, Julia",TDGE 11 - Great Performances on Film (A),WI23,215,95,100.0%,100.0%,1.83,A- (3.82),B+ (3.67)
+14,"Havis, Allan",TDGE 124 - Cult Films: Weirdly Dramatic (A),WI23,195,66,95.4%,98.5%,2.35,A- (3.80),B+ (3.66)
+15,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),WI23,20,9,88.9%,100.0%,3.17,A (4.00),A- (3.84)
+16,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),WI23,20,10,100.0%,100.0%,4.3,A (4.00),A- (3.82)
+17,"Harting, Carla Kelso",TDGE 25 - Public Speaking (D),WI23,20,7,100.0%,100.0%,2.5,A (4.00),A- (3.84)
+18,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),WI23,19,10,100.0%,100.0%,4.3,A (4.00),
+19,"Harting, Carla Kelso",TDGE 25 - Public Speaking (F),WI23,19,6,100.0%,100.0%,2.5,A (4.00),
+20,"Rubinstein, Kim",TDGE 87 - First-year Seminar (A),WI23,11,3,100.0%,100.0%,1.83,A (4.00),
+21,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),FA22,121,60,96.6%,98.3%,2.43,A- (3.91),A- (3.91)
+22,"Havis, Allan",TDGE 10 - Theatre and Film (A),FA22,191,60,93.2%,96.6%,2.4,B+ (3.69),B+ (3.45)
+23,"Leadbetter, Kristin",TDGE 11 - Great Performances on Film (A),FA22,193,85,78.8%,78.6%,2.08,B+ (3.49),B (3.20)
+24,"Havis, Allan",TDGE 127 - The Films of Spike Lee (A),FA22,195,62,98.3%,96.6%,2.27,A- (3.83),A- (3.71)
+25,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),FA22,20,6,100.0%,100.0%,2.83,B+ (3.67),A- (3.71)
+26,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),FA22,17,8,100.0%,100.0%,3.25,A- (3.86),
+27,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),FA22,20,4,100.0%,100.0%,2.5,A- (3.75),A- (3.98)
+28,"Harting, Carla Kelso",TDGE 25 - Public Speaking (D),FA22,20,5,100.0%,80.0%,1.3,A (4.00),A (4.00)
+29,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),FA22,19,6,100.0%,100.0%,4.5,A (4.00),
+30,"Harting, Carla Kelso",TDGE 25 - Public Speaking (F),FA22,20,4,100.0%,100.0%,3.5,A (4.00),A (4.00)
+31,"Harting, Carla Kelso",TDGE 25 - Public Speaking (G),FA22,19,6,100.0%,100.0%,2.5,A (4.00),
+32,"Reimer, Jonathan Charles",TDGE 1 - Introduction to Theatre (A),S222,119,79,93.6%,94.8%,3.69,A- (3.79),A- (3.79)
+33,"Havis, Allan",TDGE 10 - Theatre and Film (B),S222,25,5,100.0%,100.0%,3.7,A- (3.75),B+ (3.51)
+34,"Fulton, Julia",TDGE 11 - Great Performances on Film (A),S222,47,18,100.0%,100.0%,4.5,A- (3.93),B+ (3.55)
+35,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),S222,47,14,100.0%,100.0%,3.83,A- (3.83),A- (3.86)
+36,"Havis, Allan",TDGE 124 - Cult Films: Weirdly Dramatic (B),S222,23,3,100.0%,100.0%,3.83,B+ (3.67),A- (3.72)
+37,"Meyer, Ursula",TDGE 125 - Topics in Theatre and Film (A),S222,45,6,100.0%,83.3%,5.17,A (4.00),A- (3.71)
+38,"Williams, Madison Mae",TDGE 125 - Topics in Theatre and Film (B),S222,18,8,100.0%,100.0%,3.75,B+ (3.67),
+39,"Reimer, Jonathan Charles",TDGE 125 - Topics in Theatre and Film (C),S222,49,8,100.0%,100.0%,3.36,A (4.00),A- (3.74)
+40,"Walsh, Kim C.",TDGE 25 - Public Speaking (A),S222,13,9,100.0%,100.0%,4.28,A (4.00),
+41,"Leadbetter, Kristin",TDGE 5 - A Glimpse into Acting (A),S222,17,14,92.9%,100.0%,5.5,B+ (3.69),
+42,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),S122,48,4,100.0%,100.0%,3.0,A- (3.75),A- (3.90)
+43,"Huynh, Michelle Vy",TDGE 10 - Theatre and Film (A),S122,46,10,100.0%,100.0%,3.5,B+ (3.63),B+ (3.54)
+44,"Fulton, Julia",TDGE 10 - Theatre and Film (B),S122,49,11,90.9%,90.9%,3.23,A- (3.82),A- (3.80)
+45,"Williams, Madison Mae",TDGE 11 - Great Performances on Film (A),S122,36,6,83.3%,83.3%,5.5,A- (3.80),B+ (3.59)
+46,"Huynh, Michelle Vy",TDGE 11 - Great Performances on Film (B),S122,50,7,100.0%,100.0%,3.64,A- (3.71),B+ (3.65)
+47,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),S122,49,11,100.0%,100.0%,3.23,A (4.00),A- (3.84)
+48,"Reimer, Jonathan Charles",TDGE 125 - Topics in Theatre and Film (A),S122,45,8,100.0%,100.0%,4.0,A (4.00),A- (3.86)
+49,"Guirguis, Mark C",TDGE 125GS - Topics in Theatre and Film (A),S122,14,4,100.0%,100.0%,4.5,B+ (3.67),
+50,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),SP22,122,36,100.0%,100.0%,2.44,A- (3.90),A- (3.78)
+51,"Salovey, Todd","TDGE 100 - Creating the Role of ""Leader"" (A)",SP22,49,14,92.9%,100.0%,4.64,A (4.00),A- (3.82)
+52,"Tompa, Gabor",TDGE 11 - Great Performances on Film (A),SP22,193,51,89.8%,79.6%,2.91,A- (3.85),A- (3.91)
+53,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),SP22,199,78,100.0%,98.7%,2.66,A- (3.88),A- (3.78)
+54,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),SP22,18,13,100.0%,100.0%,2.9,A- (3.90),
+55,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),SP22,19,8,100.0%,87.5%,4.79,B+ (3.50),
+56,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),SP22,18,8,100.0%,100.0%,2.21,A- (3.86),
+57,"Harting, Carla Kelso",TDGE 25 - Public Speaking (D),SP22,20,12,90.0%,90.0%,4.5,A- (3.89),A- (3.92)
+58,"Guirguis, Mark C",TDGE 87 - First-year Seminar (A),SP22,19,12,100.0%,100.0%,0.68,,
+59,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),WI22,118,48,100.0%,100.0%,3.24,A- (3.88),A- (3.80)
+60,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),WI22,204,85,100.0%,98.8%,2.52,A- (3.94),A- (3.78)
+61,"Burelle, Julie Sara Veronique",TDGE 131 - Playing Indian:Native Am Cinem (A),WI22,76,21,95.2%,100.0%,2.6,A- (3.85),B+ (3.50)
+62,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),WI22,19,11,100.0%,90.0%,4.9,A- (3.90),
+63,"Harting, Carla Kelso",TDGE 25 - Public Speaking (D),WI22,20,13,92.3%,100.0%,2.96,A- (3.83),A- (3.87)
+64,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),WI22,20,10,100.0%,100.0%,2.72,A (4.00),A- (3.89)
+65,"Harting, Carla Kelso",TDGE 25 - Public Speaking (F),WI22,16,5,100.0%,100.0%,3.0,A (4.00),
+66,"Harting, Carla Kelso",TDGE 25 - Public Speaking (G),WI22,18,11,100.0%,90.9%,3.41,A- (3.78),
+67,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),FA21,120,51,98.0%,100.0%,2.95,A- (3.94),A- (3.85)
+68,"Rubinstein, Kim",TDGE 10 - Theatre and Film (A),FA21,194,82,85.9%,85.9%,4.16,A- (3.81),A- (3.73)
+69,"Castro, Robert Jess",TDGE 11 - Great Performances on Film (A),FA21,194,73,100.0%,94.3%,3.61,A- (3.97),A- (3.95)
+70,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),FA21,19,9,100.0%,100.0%,3.36,A (4.00),
+71,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),FA21,20,13,83.3%,90.9%,2.19,A (4.00),B+ (3.67)
+72,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),FA21,20,11,88.9%,88.9%,2.9,A- (3.80),A- (3.82)
+73,"Harting, Carla Kelso",TDGE 25 - Public Speaking (D),FA21,20,15,100.0%,100.0%,3.42,A- (3.92),A- (3.97)
+74,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),FA21,20,17,100.0%,100.0%,3.75,A- (3.87),B+ (3.65)
+75,"Harting, Carla Kelso",TDGE 25 - Public Speaking (F),FA21,20,12,91.7%,100.0%,3.33,B+ (3.67),B+ (3.51)
+76,"Harting, Carla Kelso",TDGE 25 - Public Speaking (G),FA21,19,12,100.0%,90.9%,3.59,A (4.00),
+77,"Reimer, Jonathan Charles",TDGE 1 - Introduction to Theatre (A),S221,36,18,100.0%,100.0%,3.83,A- (3.94),A- (3.86)
+78,"Havis, Allan",TDGE 10 - Theatre and Film (A),S221,46,10,88.9%,75.0%,4.06,B+ (3.63),B+ (3.36)
+79,"Adler, Steven",TDGE 11 - Great Performances on Film (A),S221,10,4,75.0%,100.0%,7.5,B+ (3.50),
+80,"Castro, Robert Jess",TDGE 11 - Great Performances on Film (B),S221,41,10,100.0%,100.0%,4.06,A (4.00),A- (3.87)
+81,"Short, Vincent James",TDGE 11 - Great Performances on Film (C),S221,9,7,85.7%,100.0%,4.5,B+ (3.67),
+82,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),S221,46,17,100.0%,100.0%,5.21,A- (3.94),A- (3.73)
+83,"Reimer, Jonathan Charles",TDGE 125 - Topics in Theatre and Film (A),S221,34,5,100.0%,100.0%,3.7,A (4.00),A- (3.88)
+84,"Walsh, Kim C.",TDGE 25 - Public Speaking (B),S221,14,4,100.0%,100.0%,6.0,A (4.00),
+85,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),S121,63,15,100.0%,100.0%,4.23,A- (3.79),B+ (3.64)
+86,"Jones, William Jadie",TDGE 10 - Theatre and Film (A),S121,31,6,80.0%,100.0%,5.7,A- (3.80),B+ (3.52)
+87,"Castro, Robert Jess",TDGE 11 - Great Performances on Film (A),S121,35,11,100.0%,100.0%,4.68,A (4.00),B+ (3.67)
+88,"Williams, Madison Mae",TDGE 11 - Great Performances on Film (D),S121,9,4,66.7%,100.0%,2.5,B+ (3.67),
+89,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),S121,36,7,100.0%,100.0%,3.93,A (4.00),A- (3.84)
+90,"Meyer, Ursula",TDGE 125 - Topics in Theatre and Film (A),S121,25,3,100.0%,100.0%,2.5,A (4.00),B (3.07)
+91,"Havis, Allan",TDGE 127 - The Films of Spike Lee (A),S121,47,16,93.8%,87.5%,5.0,A- (3.75),B+ (3.49)
+92,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),S121,17,6,100.0%,100.0%,3.83,A- (3.80),
+93,"Salovey, Todd","TDGE 100 - Creating the Role of ""Leader"" (A)",SP21,49,23,100.0%,100.0%,4.05,A (4.00),A- (3.88)
+94,"Tompa, Gabor",TDGE 11 - Great Performances on Film (A),SP21,197,73,98.6%,91.4%,2.93,A- (3.92),A- (3.91)
+95,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),SP21,215,107,100.0%,100.0%,3.03,A (4.00),A- (3.93)
+96,"Brill, Robert L.",TDGE 133 - Visual Ideas (A),SP21,19,10,90.0%,90.0%,3.9,A- (3.90),
+97,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),SP21,20,14,100.0%,100.0%,4.04,A- (3.92),A- (3.86)
+98,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),SP21,20,16,100.0%,100.0%,3.42,A- (3.92),A- (3.86)
+99,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),SP21,19,9,100.0%,100.0%,0.94,A (4.00),
+100,"Harting, Carla Kelso",TDGE 25 - Public Speaking (D),SP21,19,10,100.0%,100.0%,3.9,A (4.00),
+101,"Adler, Steven",TDGE 87 - Freshman Seminar (A),SP21,12,6,100.0%,100.0%,2.5,A (4.00),
+102,"Guirguis, Mark C",TDGE 87 - Freshman Seminar (B),SP21,19,7,100.0%,100.0%,0.79,A (4.00),
+103,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),WI21,130,60,98.3%,100.0%,3.28,A- (3.97),A- (3.85)
+104,"Havis, Allan",TDGE 10 - Theatre and Film (A),WI21,158,61,89.8%,86.4%,2.23,A- (3.78),B+ (3.61)
+105,"Stein, Deborah Isobel",TDGE 10 - Theatre and Film (B),WI21,50,22,95.5%,100.0%,3.32,A- (3.70),A- (3.71)
+106,"Castro, Robert Jess",TDGE 11 - Great Performances on Film (A),WI21,188,79,98.7%,98.7%,3.61,A- (3.97),A- (3.83)
+107,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),WI21,206,97,100.0%,100.0%,2.6,A- (3.97),A- (3.90)
+108,"Havis, Allan",TDGE 127 - The Films of Spike Lee (A),WI21,160,63,93.4%,91.8%,3.25,A- (3.74),A- (3.70)
+109,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),WI21,15,8,100.0%,100.0%,4.75,A (4.00),
+110,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),WI21,11,9,100.0%,100.0%,3.64,A- (3.83),
+111,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),WI21,18,12,100.0%,100.0%,3.05,A (4.00),
+112,"Harting, Carla Kelso",TDGE 25 - Public Speaking (D),WI21,18,18,94.1%,100.0%,4.15,B+ (3.63),
+113,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),WI21,13,8,100.0%,100.0%,3.0,A (4.00),
+114,"Harting, Carla Kelso",TDGE 25 - Public Speaking (F),WI21,9,6,100.0%,100.0%,3.17,A- (3.83),
+115,"Adler, Steven",TDGE 87 - Freshman Seminar (A),WI21,13,11,100.0%,100.0%,1.23,A (4.00),
+116,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),FA20,131,60,100.0%,100.0%,3.62,A- (3.91),A- (3.75)
+117,"Burelle, Julie Sara Veronique",TDGE 10 - Theatre and Film (A),FA20,181,68,96.9%,100.0%,3.56,A- (3.79),B+ (3.51)
+118,"Havis, Allan",TDGE 11 - Great Performances on Film (A),FA20,188,84,88.0%,91.5%,2.57,A- (3.73),B+ (3.62)
+119,"Havis, Allan",TDGE 11 - Great Performances on Film (B),FA20,187,87,84.9%,86.0%,2.76,B+ (3.59),B+ (3.45)
+120,"Rubinstein, Kim",TDGE 125 - Topics in Theatre and Film (A),FA20,123,44,97.7%,95.3%,3.9,A- (3.97),A- (3.85)
+121,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),FA20,20,16,93.3%,93.3%,3.57,A- (3.87),A- (3.73)
+122,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),FA20,19,10,100.0%,90.0%,4.3,A- (3.90),
+123,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),FA20,18,11,90.9%,100.0%,2.32,A (4.00),
+124,"Harting, Carla Kelso",TDGE 25 - Public Speaking (D),FA20,20,13,100.0%,100.0%,3.3,A (4.00),B+ (3.54)
+125,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),FA20,15,11,100.0%,100.0%,3.77,A- (3.90),
+126,"Harting, Carla Kelso",TDGE 25 - Public Speaking (F),FA20,19,11,100.0%,81.8%,3.59,A- (3.89),
+127,"Harting, Carla Kelso",TDGE 25 - Public Speaking (G),FA20,17,6,100.0%,100.0%,3.17,A- (3.83),
+128,"Meyer, Ursula",TDGE 87 - Freshman Seminar (A),FA20,12,9,100.0%,100.0%,0.72,A (4.00),
+129,"Havis, Allan",TDGE 10 - Theatre and Film (A),S220,34,9,77.8%,100.0%,4.72,A- (3.71),B+ (3.38)
+130,"Jones, William Jadie",TDGE 11 - Great Performances on Film (A),S220,34,12,100.0%,100.0%,4.7,A- (3.75),B+ (3.51)
+131,"Castro, Robert Jess",TDGE 11 - Great Performances on Film (B),S220,20,5,100.0%,100.0%,5.0,A- (3.75),A (4.00)
+132,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),S220,47,12,100.0%,100.0%,3.5,A (4.00),A- (3.77)
+133,"Tregar, Kristen Lauren",TDGE 125 - Topics in Theatre and Film (A),S220,35,6,100.0%,100.0%,3.83,A- (3.75),A- (3.70)
+134,"Meyer, Ursula",TDGE 125 - Topics in Theatre and Film (B),S220,9,3,100.0%,100.0%,5.17,B+ (3.50),
+135,"Walsh, Kim C.",TDGE 25 - Public Speaking (A),S220,13,10,100.0%,100.0%,3.9,A (4.00),
+136,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),S120,48,13,100.0%,100.0%,2.17,A- (3.91),A- (3.94)
+137,"Short, Vincent James",TDGE 10 - Theatre and Film (A),S120,41,29,93.1%,96.6%,6.43,A- (3.86),B+ (3.64)
+138,"Mitchell, Sam Wayne",TDGE 10 - Theatre and Film (B),S120,7,3,100.0%,100.0%,4.5,A (4.00),
+139,"Adler, Steven",TDGE 11 - Great Performances on Film (A),S120,46,10,100.0%,100.0%,5.5,B+ (3.57),B+ (3.57)
+140,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),S120,48,11,100.0%,100.0%,3.3,A (4.00),A- (3.84)
+141,"Havis, Allan",TDGE 127 - The Films of Spike Lee (A),S120,47,8,100.0%,100.0%,5.07,A- (3.83),B+ (3.32)
+142,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),S120,18,3,100.0%,100.0%,3.83,B+ (3.67),
+143,"Tompa, Gabor",TDGE 10 - Theatre and Film (A),SP20,185,84,97.5%,96.2%,3.23,A- (3.73),A- (3.90)
+144,"Salovey, Todd","TDGE 100 - Creating the Role of ""Leader"" (A)",SP20,56,29,100.0%,100.0%,3.02,A (4.00),A- (3.95)
+145,"Rubinstein, Kim",TDGE 11 - Great Performances on Film (A),SP20,187,60,87.9%,78.2%,3.43,B+ (3.67),A- (3.76)
+146,"Snaith, Yolande",TDGE 11 - Great Performances on Film (B),SP20,146,54,98.1%,96.2%,3.03,A- (3.94),A- (3.93)
+147,"Short, Vincent James",TDGE 11 - Great Performances on Film (C),SP20,166,125,97.6%,96.8%,4.06,B+ (3.63),B+ (3.55)
+148,"Brill, Robert L.",TDGE 133 - Visual Ideas (A),SP20,19,12,91.7%,91.7%,4.17,A- (3.82),
+149,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),SP20,19,8,100.0%,100.0%,3.0,A (4.00),
+150,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),SP20,18,13,91.7%,91.7%,2.67,A- (3.91),
+151,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),SP20,18,7,100.0%,100.0%,2.1,A- (3.80),
+152,"Harting, Carla Kelso",TDGE 25 - Public Speaking (D),SP20,16,12,100.0%,100.0%,3.5,B+ (3.55),
+153,"Guirguis, Mark C",TDGE 87 - Freshman Seminar (A),SP20,9,4,100.0%,100.0%,2.0,A (4.00),
+154,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),WI20,124,55,96.2%,100.0%,1.97,A- (3.84),A- (3.78)
+155,"Havis, Allan",TDGE 10 - Theatre and Film (A),WI20,200,94,85.6%,89.8%,1.36,B+ (3.31),B (3.16)
+156,"Stein, Deborah Isobel",TDGE 10 - Theatre and Film (B),WI20,194,88,96.6%,90.7%,2.91,B+ (3.68),B+ (3.48)
+157,"Castro, Robert Jess",TDGE 11 - Great Performances on Film (A),WI20,189,62,95.0%,91.7%,1.91,A- (3.91),B+ (3.69)
+158,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),WI20,184,166,99.4%,99.4%,1.81,A- (3.86),A- (3.77)
+159,"Burelle, Julie Sara Veronique",TDGE 131 - Playing Indian:Native Am Cinem (A),WI20,171,57,90.9%,96.3%,2.8,A- (3.77),B+ (3.65)
+160,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),WI20,16,5,80.0%,80.0%,4.0,A (4.00),
+161,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),WI20,10,4,100.0%,75.0%,2.5,A- (3.75),
+162,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),WI20,13,9,55.6%,87.5%,4.94,A- (3.71),
+163,"Harting, Carla Kelso",TDGE 25 - Public Speaking (D),WI20,19,9,100.0%,100.0%,3.17,A- (3.86),
+164,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),WI20,19,19,100.0%,100.0%,2.97,A- (3.81),
+165,"Harting, Carla Kelso",TDGE 25 - Public Speaking (F),WI20,17,7,100.0%,100.0%,2.17,A (4.00),
+166,"Harting, Carla Kelso",TDGE 25 - Public Speaking (G),WI20,19,9,100.0%,100.0%,3.07,A- (3.80),
+167,"Meyer, Ursula",TDGE 87 - Freshman Seminar (B),WI20,12,3,100.0%,100.0%,3.83,A (4.00),
+168,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),FA19,122,60,93.0%,100.0%,3.05,A- (3.80),A- (3.73)
+169,"Jones, William Jadie",TDGE 10 - Theatre and Film (A),FA19,191,76,90.4%,91.8%,1.99,B+ (3.64),B (3.21)
+170,"Tregar, Kristen Lauren",TDGE 11 - Great Performances on Film (A),FA19,180,81,97.4%,97.4%,2.19,B+ (3.46),B (3.19)
+171,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),FA19,18,10,100.0%,87.5%,3.64,A- (3.71),
+172,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),FA19,14,4,100.0%,100.0%,4.0,A (4.00),
+173,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),FA19,19,14,100.0%,100.0%,2.33,A- (3.82),
+174,"Harting, Carla Kelso",TDGE 25 - Public Speaking (D),FA19,17,11,90.0%,100.0%,3.1,A- (3.78),
+175,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),FA19,18,12,100.0%,100.0%,4.28,A (4.00),
+176,"Harting, Carla Kelso",TDGE 25 - Public Speaking (F),FA19,18,7,100.0%,100.0%,2.83,A- (3.83),
+177,"Harting, Carla Kelso",TDGE 25 - Public Speaking (G),FA19,15,14,100.0%,100.0%,2.5,A (4.00),
+178,"Salovey, Todd",TDGE 5 - A Glimpse into Acting (A),FA19,41,28,92.3%,92.0%,1.61,A- (3.96),A- (3.93)
+179,"Adler, Steven",TDGE 87 - Freshman Seminar (B),FA19,17,12,81.8%,90.9%,0.5,B (3.00),
+180,"Jones, William Jadie",TDGE 1 - Introduction to Theatre (A),S219,57,35,94.1%,100.0%,3.64,A- (3.79),A- (3.77)
+181,"Havis, Allan",TDGE 10 - Theatre and Film (A),S219,46,16,81.3%,87.5%,2.75,B+ (3.67),C+ (2.66)
+182,"Tregar, Kristen Lauren",TDGE 11 - Great Performances on Film (A),S219,45,14,100.0%,100.0%,2.83,A- (3.77),B (3.20)
+183,"Adler, Steven",TDGE 11 - Great Performances on Film (B),S219,46,13,80.0%,80.0%,5.05,A- (3.78),B+ (3.30)
+184,"Walsh, Kim C.",TDGE 25 - Public Speaking (A),S219,17,12,91.7%,100.0%,6.0,A- (3.91),
+185,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),S119,39,21,94.7%,94.7%,2.5,A- (3.88),A- (3.93)
+186,"Fulton, Julia",TDGE 10 - Theatre and Film (A),S119,49,44,97.7%,100.0%,3.82,A- (3.76),B+ (3.60)
+187,"Jones, William Jadie",TDGE 11 - Great Performances on Film (A),S119,37,32,96.9%,93.8%,2.69,A- (3.91),B+ (3.61)
+188,"Havis, Allan",TDGE 124 - Cult Films: Weirdly Dramatic (A),S119,50,17,100.0%,93.8%,2.5,A- (3.71),B+ (3.47)
+189,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (B),S119,26,17,100.0%,100.0%,3.09,A- (3.71),B+ (3.64)
+190,"Meyer, Ursula",TDGE 125 - Topics in Theatre and Film (A),S119,27,7,83.3%,83.3%,1.93,B+ (3.43),B+ (3.58)
+191,"Guirguis, Mark C",TDGE 125GS - Topics in Theatre and Film (A),S119,12,4,100.0%,100.0%,5.0,B+ (3.50),
+192,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),S119,12,7,100.0%,100.0%,3.64,A- (3.86),
+193,"Salovey, Todd","TDGE 100 - Creating the Role of ""Leader"" (A)",SP19,50,19,100.0%,100.0%,2.92,A (4.00),A- (3.86)
+194,"Rubinstein, Kim",TDGE 11 - Great Performances on Film (A),SP19,191,63,96.6%,74.1%,2.63,A- (3.72),B+ (3.64)
+195,"Power, Jade Yukana",TDGE 11 - Great Performances on Film (B),SP19,200,84,89.2%,86.4%,2.38,B+ (3.68),B+ (3.33)
+196,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),SP19,214,76,98.6%,98.6%,1.57,A- (3.83),B+ (3.41)
+197,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (A),SP19,20,9,77.8%,77.8%,6.28,A- (3.86),A- (3.93)
+198,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (B),SP19,19,3,100.0%,100.0%,3.83,A (4.00),
+199,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (C),SP19,20,4,100.0%,66.7%,5.0,A- (3.75),A- (3.93)
+200,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (D),SP19,20,9,100.0%,100.0%,2.79,B+ (3.60),A- (3.93)
+201,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (E),SP19,17,9,100.0%,100.0%,3.5,A- (3.80),
+202,"Guirguis, Mark C",TDGE 87 - Freshman Seminar (B),SP19,9,6,100.0%,100.0%,1.83,A (4.00),
+203,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),WI19,119,66,100.0%,100.0%,2.41,A- (3.74),A- (3.86)
+204,"Havis, Allan",TDGE 10 - Theatre and Film (B),WI19,192,73,84.8%,91.0%,1.51,B+ (3.60),B (3.14)
+205,"White, Bryan Curtiss",TDGE 11 - Great Performances on Film (A),WI19,186,77,98.5%,98.5%,2.9,A- (3.72),B+ (3.49)
+206,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (A),WI19,17,10,100.0%,87.5%,2.06,A- (3.71),
+207,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (B),WI19,11,5,100.0%,80.0%,3.7,B+ (3.60),
+208,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (C),WI19,19,14,75.0%,83.3%,2.96,A- (3.82),
+209,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (D),WI19,18,6,100.0%,100.0%,5.7,A (4.00),
+210,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (E),WI19,15,13,90.0%,100.0%,4.7,B+ (3.67),
+211,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (F),WI19,20,9,100.0%,100.0%,3.64,B+ (3.57),B+ (3.63)
+212,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (G),WI19,18,7,85.7%,66.7%,4.5,B+ (3.50),
+213,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),FA18,119,48,97.8%,97.7%,2.63,A- (3.79),B+ (3.69)
+214,"Teshome, Tezeru",TDGE 11 - Great Performances on Film (A),FA18,184,86,85.5%,79.0%,2.5,A- (3.75),A- (3.74)
+215,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),FA18,12,8,83.3%,66.7%,2.5,A- (3.80),
+216,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),FA18,18,9,85.7%,85.7%,4.21,B+ (3.57),
+217,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),FA18,16,6,100.0%,100.0%,3.83,A- (3.80),
+218,"Harting, Carla Kelso",TDGE 25 - Public Speaking (D),FA18,15,6,100.0%,100.0%,2.5,B+ (3.50),
+219,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),FA18,19,13,91.7%,100.0%,4.17,A- (3.73),
+220,"Harting, Carla Kelso",TDGE 25 - Public Speaking (F),FA18,16,11,100.0%,90.9%,3.95,A- (3.73),
+221,"Harting, Carla Kelso",TDGE 25 - Public Speaking (G),FA18,18,12,100.0%,100.0%,2.67,A (4.00),
+222,"Salovey, Todd",TDGE 5 - A Glimpse into Acting (A),FA18,39,15,100.0%,92.9%,2.19,A- (3.77),A- (3.75)
+223,"Meyer, Ursula",TDGE 87 - Freshman Seminar (B),FA18,10,6,83.3%,100.0%,0.83,,
+224,"Rincon, Patricia A.",TDGE 87 - Freshman Seminar (C),FA18,15,6,100.0%,100.0%,0.83,A (4.00),
+225,"Rincon, Patricia A.",TDGE 89 - Dance Movement Exploration (A),FA18,34,18,100.0%,100.0%,0.74,A (4.00),A- (3.95)
+226,"Reimer, Jonathan Charles",TDGE 1 - Introduction to Theatre (A),S218,156,90,97.7%,98.8%,3.32,B+ (3.66),A- (3.81)
+227,"Dallas, Deleon Demetrius",TDGE 11 - Great Performances on Film (A),S218,50,22,100.0%,100.0%,1.8,A (4.00),A- (3.96)
+228,"Fulton, Julia",TDGE 11 - Great Performances on Film (A),S218,50,22,100.0%,81.3%,1.8,A (4.00),
+229,"Havis, Allan",TDGE 11 - Great Performances on Film (A),S218,48,22,100.0%,93.3%,1.8,A (4.00),
+230,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),S218,47,16,100.0%,100.0%,2.77,A- (3.79),B+ (3.53)
+231,"Havis, Allan",TDGE 124 - Cult Films: Weirdly Dramatic (A),S218,43,16,100.0%,92.9%,2.77,A- (3.79),
+232,"Stokes, Cynthia Sue",TDGE 25 - Public Speaking (A),S218,16,9,100.0%,100.0%,5.25,A (4.00),
+233,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),S218,18,8,100.0%,100.0%,6.25,B+ (3.63),
+234,"Walsh, Kim C.",TDGE 25 - Public Speaking (C),S218,16,7,100.0%,83.3%,3.83,A (4.00),
+235,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),S118,48,12,100.0%,90.9%,3.95,A (4.00),B+ (3.64)
+236,"Havis, Allan",TDGE 10 - Theatre and Film (A),S118,31,11,90.9%,100.0%,1.95,B+ (3.30),B (3.18)
+237,"Havis, Allan",TDGE 11 - Great Performances on Film (B),S118,35,17,100.0%,100.0%,1.75,B+ (3.64),B+ (3.68)
+238,"White, Bryan Curtiss",TDGE 11 - Great Performances on Film (C),S118,44,16,100.0%,100.0%,4.38,A- (3.85),B+ (3.51)
+239,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),S118,64,32,100.0%,100.0%,2.5,A- (3.89),B+ (3.48)
+240,"Meyer, Ursula",TDGE 125 - Topics in Theatre and Film (A),S118,17,6,100.0%,100.0%,4.83,A (4.00),
+241,"Stokes, Cynthia Sue",TDGE 25 - Public Speaking (A),S118,10,10,100.0%,100.0%,4.7,B+ (3.50),
+242,"Hale, Debra",TDGE 25 - Public Speaking (B),S118,18,9,100.0%,100.0%,2.94,A (4.00),
+243,"Reimer, Jonathan Charles",TDGE 5 - A Glimpse into Acting (A),S118,23,19,100.0%,100.0%,3.94,A- (3.93),A- (3.92)
+244,"Salovey, Todd","TDGE 100 - Creating the Role of ""Leader"" (A)",SP18,43,20,100.0%,95.0%,2.2,A- (3.89),A- (3.91)
+245,"McCleary, Keith Long",TDGE 11 - Great Performances on Film (A),SP18,184,169,92.9%,94.6%,3.04,B+ (3.63),B+ (3.46)
+246,"Reimer, Jonathan Charles",TDGE 11 - Great Performances on Film (B),SP18,175,79,98.7%,98.6%,1.92,A- (3.81),B+ (3.63)
+247,"Raphaeli, Karen Adee",TDGE 11 - Great Performances on Film (C),SP18,169,90,75.9%,67.8%,3.2,B+ (3.45),B+ (3.35)
+248,"Havis, Allan",TDGE 124 - Cult Films: Weirdly Dramatic (A),SP18,194,74,94.4%,97.2%,2.08,A- (3.79),B+ (3.60)
+249,"Brill, Robert L.",TDGE 133 - Visual Ideas (A),SP18,15,4,100.0%,100.0%,5.83,A (4.00),
+250,"Meyer, Ursula",TDGE 192 - Senior Sem. in Theatre & Dance (A),SP18,12,4,100.0%,100.0%,5.83,B (3.00),
+251,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (A),SP18,18,14,100.0%,100.0%,2.68,A- (3.90),
+252,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (B),SP18,20,10,100.0%,100.0%,3.5,A- (3.71),A- (3.86)
+253,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (C),SP18,17,9,100.0%,100.0%,3.83,A (4.00),
+254,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (D),SP18,20,11,100.0%,100.0%,4.9,A- (3.78),A- (3.86)
+255,"Rincon, Patricia A.",TDGE 87 - Freshman Seminar (A),SP18,13,7,100.0%,100.0%,0.83,A (4.00),
+256,"Oates, Charles Bruce",TDGE 87 - Freshman Seminar (B),SP18,11,3,100.0%,100.0%,1.17,A (4.00),
+257,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),WI18,115,54,100.0%,100.0%,2.35,A- (3.81),B+ (3.65)
+258,"Havis, Allan",TDGE 10 - Theatre and Film (A),WI18,137,75,91.4%,91.3%,1.57,B+ (3.65),B+ (3.53)
+259,"White, Bryan Curtiss",TDGE 11 - Great Performances on Film (A),WI18,181,84,97.5%,100.0%,2.38,B+ (3.67),B+ (3.59)
+260,"Raphaeli, Karen Adee",TDGE 11 - Great Performances on Film (B),WI18,168,107,91.6%,82.1%,2.25,A- (3.77),B+ (3.67)
+261,"Adler, Steven",TDGE 122 - The Films of Woody Allen (A),WI18,63,30,81.5%,85.2%,3.02,B+ (3.59),B+ (3.36)
+262,"Burelle, Julie Sara Veronique",TDGE 131 - Playing Indian:Native Am Cinem (A),WI18,97,42,97.6%,97.6%,1.93,A- (3.75),B+ (3.69)
+263,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (A),WI18,19,14,100.0%,100.0%,2.83,A (4.00),
+264,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (B),WI18,19,13,100.0%,100.0%,3.73,A- (3.90),
+265,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (C),WI18,18,10,100.0%,100.0%,3.17,A- (3.90),
+266,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (D),WI18,19,13,100.0%,100.0%,2.33,A (4.00),
+267,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (E),WI18,17,9,80.0%,80.0%,2.9,B+ (3.60),
+268,"Robichaux, Natalie Griffith",TDGE 25 - Public Speaking (F),WI18,14,9,100.0%,100.0%,4.94,A (4.00),
+269,"Guirguis, Mark C",TDGE 87 - Freshman Seminar (A),WI18,11,5,100.0%,100.0%,1.3,,
+270,"Rincon, Patricia A.",TDGE 87 - Freshman Seminar (B),WI18,14,11,100.0%,100.0%,0.68,A (4.00),
+271,"Rincon, Patricia A.",TDGE 89 - Dance Movement Exploration (A),WI18,17,7,83.3%,83.3%,2.17,A (4.00),
+272,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),FA17,122,63,96.8%,100.0%,2.34,A- (3.81),A- (3.72)
+273,"Minniefee, Melissa Jane",TDGE 11 - Great Performances on Film (A),FA17,205,63,100.0%,98.3%,2.24,A- (3.71),A- (3.80)
+274,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),FA17,17,10,90.0%,90.0%,4.28,A (4.00),
+275,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),FA17,18,10,77.8%,88.9%,2.94,A- (3.78),
+276,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),FA17,19,14,90.0%,90.0%,3.1,A- (3.70),
+277,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),FA17,18,7,100.0%,100.0%,4.5,A- (3.83),
+278,"Harting, Carla Kelso",TDGE 25 - Public Speaking (F),FA17,19,11,100.0%,100.0%,3.59,A (4.00),
+279,"Harting, Carla Kelso",TDGE 25 - Public Speaking (G),FA17,21,12,100.0%,100.0%,2.86,A- (3.80),A- (3.87)
+280,"Salovey, Todd",TDGE 5 - A Glimpse into Acting (A),FA17,48,24,85.7%,95.2%,1.77,A- (3.90),A- (3.99)
+281,"Barnes, Eva E",TDGE 87 - Freshman Seminar (A),FA17,16,11,100.0%,100.0%,1.05,A (4.00),
+282,"Fulton, Julia",TDGE 11 - Great Performances on Film (A),S217,49,20,100.0%,100.0%,3.2,A (4.00),A- (3.90)
+283,"White, Bryan Curtiss",TDGE 11 - Great Performances on Film (B),S217,49,11,100.0%,100.0%,3.3,A (4.00),
+284,"Havis, Allan",TDGE 124 - Cult Films: Weirdly Dramatic (A),S217,55,20,88.9%,94.1%,3.39,B+ (3.62),
+285,"Stokes, Cynthia Sue",TDGE 25 - Public Speaking (A),S217,13,13,100.0%,100.0%,4.35,A (4.00),
+286,"Walsh, Kim C.",TDGE 25 - Public Speaking (B),S217,14,5,100.0%,100.0%,5.7,A (4.00),
+287,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),S117,37,8,100.0%,100.0%,4.79,A (4.00),B+ (3.66)
+288,"Havis, Allan",TDGE 10 - Theatre And Film (A),S117,45,9,100.0%,100.0%,1.5,B+ (3.67),B- (2.95)
+289,"Dorwart, Jason Bogaard",TDGE 11 - Great Performances on Film (A),S117,18,3,100.0%,100.0%,1.5,B+ (3.50),
+290,"Havis, Allan",TDGE 11 - Great Performances on Film (B),S117,49,12,83.3%,91.7%,2.17,A- (3.80),B (3.16)
+291,"Adler, Steven",TDGE 122 - The Films of Woody Allen (A),S117,23,8,100.0%,100.0%,5.07,A (4.00),B+ (3.44)
+292,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),S117,21,17,100.0%,100.0%,5.79,A (4.00),A- (3.93)
+293,"Oates, Charles Bruce",TDGE 1 - Introduction to Theatre (A),SP17,103,39,84.6%,84.6%,2.92,B+ (3.67),B+ (3.40)
+294,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),SP17,194,166,97.6%,99.4%,2.16,A- (3.91),A- (3.87)
+295,"Meyer, Ursula",TDGE 125 - Topics in Theatre and Film (A),SP17,54,12,100.0%,81.8%,2.68,A- (3.70),B+ (3.43)
+296,"Brill, Robert L.",TDGE 133 - Visual Ideas (A),SP17,13,7,100.0%,100.0%,5.07,A- (3.71),
+297,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),SP17,20,12,100.0%,100.0%,2.28,A- (3.88),A- (3.80)
+298,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),SP17,17,11,100.0%,100.0%,4.5,A- (3.75),
+299,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),SP17,19,10,87.5%,100.0%,4.5,A- (3.83),
+300,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),SP17,19,13,100.0%,100.0%,4.68,A (4.00),
+301,"Rubinstein, Kim",TDGE 3 - Cultivating the Creative Mind (A),SP17,37,12,100.0%,100.0%,2.5,A (4.00),A- (3.97)
+302,"Meyer, Ursula",TDGE 87 - Freshman Seminar (B),SP17,10,7,100.0%,100.0%,0.5,A (4.00),
+303,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),WI17,114,53,97.9%,100.0%,2.5,A- (3.71),A- (3.76)
+304,"Havis, Allan",TDGE 10 - Theatre And Film (A),WI17,197,84,97.5%,96.3%,1.96,A- (3.91),B+ (3.30)
+305,"Minniefee, Melissa Jane",TDGE 11 - Great Performances on Film (A),WI17,188,84,100.0%,100.0%,1.49,A- (3.90),A- (3.71)
+306,"Jun, Grace Shin Hae",TDGE 127 - The Films of Spike Lee (A),WI17,183,62,66.7%,73.3%,3.62,B (3.19),B (3.22)
+307,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),WI17,18,15,100.0%,100.0%,2.35,B+ (3.67),
+308,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),WI17,22,12,100.0%,77.8%,5.17,A- (3.75),B+ (3.60)
+309,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),WI17,16,5,100.0%,100.0%,3.0,A- (3.75),
+310,"Harting, Carla Kelso",TDGE 25 - Public Speaking (D),WI17,19,11,100.0%,88.9%,3.25,A (4.00),
+311,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),WI17,19,13,100.0%,100.0%,3.1,A- (3.89),
+312,"Harting, Carla Kelso",TDGE 25 - Public Speaking (F),WI17,18,6,100.0%,100.0%,2.1,A (4.00),
+313,"Guirguis, Mark C",TDGE 87 - Freshman Seminar (A),WI17,14,8,100.0%,100.0%,1.7,A (4.00),
+314,"Rincon, Patricia A.",TDGE 87 - Freshman Seminar (B),WI17,15,7,85.7%,85.7%,0.5,A (4.00),
+315,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),FA16,118,52,93.8%,97.9%,2.59,A- (3.85),A- (3.71)
+316,"White, Bryan Curtiss",TDGE 11 - Great Performances on Film (A),FA16,186,90,98.9%,97.7%,2.33,A- (3.77),B+ (3.63)
+317,"Havis, Allan",TDGE 11 - Great Performances on Film (B),FA16,144,64,98.3%,95.0%,1.22,A- (3.84),B+ (3.33)
+318,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),FA16,17,13,100.0%,90.0%,4.72,A- (3.90),
+319,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),FA16,17,7,100.0%,100.0%,4.17,A- (3.80),
+320,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),FA16,19,11,100.0%,100.0%,2.72,A- (3.75),
+321,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),FA16,19,17,100.0%,100.0%,3.3,A- (3.73),
+322,"Harting, Carla Kelso",TDGE 25 - Public Speaking (F),FA16,20,11,100.0%,100.0%,4.0,A (4.00),B+ (3.68)
+323,"Harting, Carla Kelso",TDGE 25 - Public Speaking (G),FA16,19,6,100.0%,100.0%,5.17,A (4.00),
+324,"Rubinstein, Kim",TDGE 5 - A Glimpse into Acting (A),FA16,40,11,100.0%,100.0%,1.1,A- (3.80),A- (3.86)
+325,"Rincon, Patricia A.",TDGE 89 - Dance Movement Exploration (A),FA16,16,10,100.0%,100.0%,1.17,A (4.00),
+326,"Havis, Allan",TDGE 10 - Theatre And Film (A),S216,63,18,93.3%,100.0%,3.5,B+ (3.64),B- (2.80)
+327,"Fulton, Julia",TDGE 11 - Great Performances on Film (A),S216,31,11,100.0%,100.0%,3.23,B+ (3.63),A- (3.83)
+328,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),S216,15,14,100.0%,100.0%,5.07,A (4.00),
+329,"Stokes, Cynthia Sue",TDGE 25 - Public Speaking (B),S216,12,12,91.7%,100.0%,5.83,A- (3.82),
+330,"Walsh, Kim C.",TDGE 25 - Public Speaking (C),S216,15,8,100.0%,100.0%,4.5,A (4.00),
+331,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),S116,40,4,100.0%,100.0%,4.5,A (4.00),A- (3.77)
+332,"Carmody, James",TDGE 10 - Theatre And Film (A),S116,47,11,100.0%,90.0%,2.06,B (3.17),A- (3.88)
+333,"Mojgani, Naysan",TDGE 11 - Great Performances on Film (A),S116,18,4,100.0%,100.0%,3.17,A (4.00),
+334,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),S116,37,10,100.0%,100.0%,4.9,A- (3.78),A- (3.81)
+335,"Hale, Debra",TDGE 25 - Public Speaking (A),S116,14,14,92.9%,92.9%,3.36,A- (3.85),
+336,"Wallace, Gregory D.",TDGE 25 - Public Speaking (B),S116,17,7,100.0%,100.0%,6.21,B (3.00),
+337,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),SP16,174,69,100.0%,100.0%,1.71,A- (3.75),B+ (3.58)
+338,"Meyer, Ursula",TDGE 192 - Senior Sem. in Theatre & Dance (A),SP16,10,7,100.0%,100.0%,2.83,A (4.00),
+339,"Adler, Steven",TDGE 192 - Senior Sem. in Theatre & Dance (B),SP16,12,4,100.0%,100.0%,5.17,A (4.00),
+340,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),SP16,19,14,100.0%,100.0%,3.73,A- (3.92),
+341,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),SP16,17,7,100.0%,100.0%,4.0,A (4.00),
+342,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),SP16,19,15,100.0%,100.0%,2.83,A (4.00),
+343,"Harting, Carla Kelso",TDGE 25 - Public Speaking (D),SP16,17,10,100.0%,100.0%,3.75,A (4.00),
+344,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),SP16,16,8,100.0%,100.0%,4.21,A- (3.80),
+345,"Guirguis, Mark C",TDGE 87 - Freshman Seminar (A),SP16,13,7,100.0%,100.0%,0.79,,
+346,"Oates, Charles Bruce",TDGE 87 - Freshman Seminar (B),SP16,10,4,100.0%,100.0%,0.5,,
+347,"Rincon, Patricia A.",TDGE 89 - Dance Movement Exploration (A),SP16,17,9,100.0%,100.0%,1.61,A- (3.89),
+348,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),WI16,128,71,88.4%,92.8%,2.95,A- (3.84),A- (3.70)
+349,"Salimi, Rana",TDGE 11 - Great Performances on Film (A),WI16,85,50,87.5%,91.7%,2.59,B+ (3.58),B+ (3.52)
+350,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),WI16,19,12,100.0%,100.0%,4.5,A- (3.91),
+351,"Harting, Carla Kelso",TDGE 25 - Public Speaking (B),WI16,18,11,100.0%,100.0%,2.94,B (3.22),
+352,"Harting, Carla Kelso",TDGE 25 - Public Speaking (D),WI16,18,14,92.9%,92.9%,3.58,A- (3.71),
+353,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),WI16,16,13,100.0%,91.7%,5.0,A- (3.92),
+354,"Harting, Carla Kelso",TDGE 25 - Public Speaking (F),WI16,16,10,100.0%,100.0%,5.5,A- (3.86),
+355,"Harting, Carla Kelso",TDGE 25 - Public Speaking (G),WI16,17,9,100.0%,100.0%,3.83,A- (3.86),
+356,"Rubinstein, Kim",TDGE 5 - A Glimpse into Acting (A),WI16,65,35,100.0%,100.0%,1.4,A- (3.90),A- (3.88)
+357,"Guirguis, Mark C",TDGE 87 - Freshman Seminar (A),WI16,13,7,100.0%,100.0%,0.5,A (4.00),
+358,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),FA15,119,57,92.7%,98.2%,2.42,A- (3.84),A- (3.77)
+359,"Mojgani, Naysan",TDGE 10 - Theatre And Film (A),FA15,181,95,88.0%,93.5%,2.68,A- (3.79),B+ (3.66)
+360,"Burelle, Julie Sara Veronique",TDGE 11 - Great Performances on Film (A),FA15,137,79,77.3%,93.3%,2.58,B+ (3.55),B+ (3.35)
+361,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),FA15,20,13,80.0%,80.0%,4.5,A- (3.78),A- (3.88)
+362,"Harting, Carla Kelso",TDGE 25 - Public Speaking (C),FA15,18,6,100.0%,100.0%,4.5,B+ (3.60),
+363,"Harting, Carla Kelso",TDGE 25 - Public Speaking (D),FA15,19,12,100.0%,100.0%,5.1,A- (3.90),
+364,"Harting, Carla Kelso",TDGE 25 - Public Speaking (E),FA15,16,4,100.0%,75.0%,1.5,B+ (3.67),
+365,"Harting, Carla Kelso",TDGE 25 - Public Speaking (F),FA15,18,8,100.0%,100.0%,3.83,A (4.00),
+366,"Harting, Carla Kelso",TDGE 25 - Public Speaking (G),FA15,18,10,100.0%,100.0%,3.39,A (4.00),
+367,"Harting, Carla Kelso",TDGE 25 - Public Speaking (H),FA15,18,14,100.0%,88.9%,2.5,A (4.00),
+368,"Rincon, Patricia A.",TDGE 87 - Freshman Seminar (A),FA15,19,11,100.0%,100.0%,1.1,A (4.00),
+369,"Havis, Allan",TDGE 11 - Great Performances on Film (A),S215,45,15,92.9%,92.9%,2.79,B+ (3.46),B+ (3.34)
+370,"Harting, Carla Kelso",TDGE 25 - Public Speaking (A),S215,17,15,100.0%,100.0%,3.57,A- (3.87),
+371,"Roxworthy, Emily",TDGE 25 - Public Speaking (C),S215,13,4,100.0%,100.0%,6.0,A- (3.75),
+372,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),S115,20,7,100.0%,100.0%,2.5,B+ (3.57),A- (3.73)
+373,"Carmody, James",TDGE 10 - Theatre And Film (A),S115,24,4,100.0%,100.0%,2.5,A (4.00),A- (3.90)
+374,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),S115,47,42,97.6%,97.6%,2.93,A- (3.79),B+ (3.57)
+375,"Donnelly, Kyle E.",TDGE 125 - Topics in Theatre and Film (A),S115,13,4,100.0%,100.0%,2.5,A- (3.75),
+376,"Hale, Debra",TDGE 25 - Public Speaking (A),S115,12,12,100.0%,100.0%,3.33,A- (3.80),
+377,"Stokes, Cynthia Sue",TDGE 25 - Public Speaking (B),S115,16,16,100.0%,100.0%,4.88,B+ (3.60),
+378,"Rouse, John Samuel",TDGE 11 - Great Performances on Film (A),SP15,174,60,94.9%,88.1%,2.39,B+ (3.56),B (3.14)
+379,"Meyer, Ursula",TDGE 192 - Senior Sem. in Theatre & Dance (A),SP15,9,4,100.0%,100.0%,2.5,A (4.00),
+380,"Ramey, Heather L",TDGE 25 - Public Speaking (A),SP15,19,12,100.0%,100.0%,4.3,A- (3.78),
+381,"Ramey, Heather L",TDGE 25 - Public Speaking (B),SP15,17,6,100.0%,100.0%,3.7,A (4.00),
+382,"Ramey, Heather L",TDGE 25 - Public Speaking (C),SP15,18,13,100.0%,91.7%,3.67,A- (3.91),
+383,"Ramey, Heather L",TDGE 25 - Public Speaking (D),SP15,17,14,100.0%,100.0%,3.59,A (4.00),
+384,"Ramey, Heather L",TDGE 25 - Public Speaking (E),SP15,17,11,100.0%,83.3%,3.3,B+ (3.50),
+385,"Rincon, Patricia A.",TDGE 87 - Freshman Seminar (A),SP15,17,12,100.0%,100.0%,0.5,A (4.00),
+386,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),WI15,115,54,94.2%,92.3%,2.99,A- (3.91),A- (3.72)
+387,"Rouse, John Samuel",TDGE 11 - Great Performances on Film (A),WI15,135,60,89.7%,93.1%,2.15,B+ (3.40),B (3.07)
+388,"Roxworthy, Emily",TDGE 25 - Public Speaking (A),WI15,14,9,83.3%,83.3%,2.5,B+ (3.50),
+389,"Roxworthy, Emily",TDGE 25 - Public Speaking (B),WI15,18,8,100.0%,100.0%,3.5,A- (3.80),
+390,"Roxworthy, Emily",TDGE 25 - Public Speaking (C),WI15,17,5,100.0%,80.0%,4.9,A- (3.80),
+391,"Roxworthy, Emily",TDGE 25 - Public Speaking (D),WI15,15,9,88.9%,88.9%,3.39,A- (3.89),
+392,"Roxworthy, Emily",TDGE 25 - Public Speaking (E),WI15,19,8,100.0%,100.0%,3.75,A (4.00),
+393,"Roxworthy, Emily",TDGE 25 - Public Speaking (F),WI15,20,14,100.0%,100.0%,4.36,A (4.00),A- (3.97)
+394,"Roxworthy, Emily",TDGE 25 - Public Speaking (G),WI15,15,4,100.0%,100.0%,4.5,A (4.00),
+395,"Roxworthy, Emily",TDGE 25 - Public Speaking (I),WI15,19,11,100.0%,100.0%,2.7,A- (3.90),
+396,"Roxworthy, Emily",TDGE 25 - Public Speaking (J),WI15,18,15,100.0%,100.0%,3.33,A- (3.92),
+397,"Ramey, Heather L",TDGE 5 - A Glimpse into Acting (A),WI15,10,6,100.0%,100.0%,3.83,A- (3.83),
+398,"Rouse, John Samuel",TDGE 87 - Freshman Seminar (A),WI15,7,7,85.7%,100.0%,1.36,A (4.00),
+399,"Rincon, Patricia A.",TDGE 87 - Freshman Seminar (B),WI15,10,7,100.0%,100.0%,0.5,A (4.00),
+400,"Guirguis, Mark C",TDGE 87 - Freshman Seminar (C),WI15,14,6,100.0%,100.0%,0.9,A (4.00),
+401,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),FA14,115,62,100.0%,100.0%,3.25,A- (3.81),A- (3.76)
+402,"Burelle, Julie Sara Veronique",TDGE 11 - Great Performances on Film (B),FA14,113,50,93.8%,95.8%,2.5,B+ (3.69),B+ (3.39)
+403,"Ramey, Heather L",TDGE 25 - Public Speaking (A),FA14,15,8,100.0%,100.0%,2.83,B+ (3.67),
+404,"Ramey, Heather L",TDGE 25 - Public Speaking (B),FA14,18,8,100.0%,83.3%,3.17,A (4.00),
+405,"Ramey, Heather L",TDGE 25 - Public Speaking (C),FA14,19,15,92.9%,92.9%,3.5,A- (3.93),
+406,"Ramey, Heather L",TDGE 25 - Public Speaking (D),FA14,18,7,100.0%,100.0%,3.7,B+ (3.40),
+407,"Ramey, Heather L",TDGE 25 - Public Speaking (F),FA14,21,12,100.0%,90.0%,6.3,A- (3.90),A- (3.79)
+408,"Ramey, Heather L",TDGE 25 - Public Speaking (G),FA14,16,6,80.0%,80.0%,3.3,A (4.00),
+409,"Ramey, Heather L",TDGE 25 - Public Speaking (H),FA14,17,12,100.0%,90.0%,3.75,A- (3.88),
+410,"Ramey, Heather L",TDGE 25 - Public Speaking (I),FA14,16,10,100.0%,75.0%,3.75,B+ (3.63),
+411,"Ramey, Heather L",TDGE 25 - Public Speaking (J),FA14,20,12,100.0%,100.0%,2.72,A (4.00),A- (3.79)
+412,"Dugdale, Thomas W",TDGE 50 - Musical Theatre Chorus (A),FA14,25,16,100.0%,100.0%,1.57,A (4.00),
+413,"Rincon, Patricia A.",TDGE 87 - Freshman Seminar (A),FA14,19,13,92.3%,100.0%,1.0,A (4.00),
+414,"Rouse, John Samuel",TDGE 87 - Freshman Seminar (B),FA14,10,7,85.7%,85.7%,0.5,,
+415,"Carmody, James",TDGE 10 - Theatre And Film (A),S214,21,5,100.0%,100.0%,2.9,A- (3.80),A- (3.80)
+416,"Havis, Allan",TDGE 11 - Great Performances on Film (A),S214,33,14,100.0%,100.0%,2.65,A- (3.91),B+ (3.51)
+417,"Power, Jade Yukana",TDGE 11 - Great Performances on Film (B),S214,9,7,100.0%,100.0%,5.07,B+ (3.57),
+418,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),S214,50,30,100.0%,100.0%,3.26,A- (3.85),B+ (3.59)
+419,"Power, Jade Yukana",TDGE 25 - Public Speaking (A),S214,12,8,100.0%,100.0%,5.25,A (4.00),
+420,"Walsh, Kim C.",TDGE 25 - Public Speaking (B),S214,15,3,100.0%,100.0%,5.5,A (4.00),
+421,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),S114,26,8,100.0%,100.0%,3.75,A (4.00),A- (3.83)
+422,"Donnelly, Kyle E.",TDGE 125 - Topics in Theatre and Film (A),S114,23,7,100.0%,100.0%,3.07,B+ (3.67),A- (3.87)
+423,"Power, Jade Yukana",TDGE 25 - Public Speaking (A),S114,15,5,100.0%,100.0%,4.0,A (4.00),
+424,"Stokes, Cynthia Sue",TDGE 25 - Public Speaking (B),S114,13,3,100.0%,100.0%,5.83,A (4.00),
+425,"Given, William Allan",TDGE 10 - Theatre And Film (A),SP14,185,59,77.2%,86.0%,2.35,B+ (3.67),B (3.20)
+426,"Kelting, Lily",TDGE 11 - Great Performances on Film (A),SP14,188,76,90.7%,86.7%,2.47,A- (3.79),B+ (3.39)
+427,"Carlisle, Steven G",TDGE 126 - Storytlling& Design in Animatn (A),SP14,91,40,97.4%,92.3%,3.99,A- (3.71),B+ (3.31)
+428,"Barnes, Eva E",TDGE 25 - Public Speaking (A),SP14,18,5,100.0%,100.0%,9.83,B+ (3.67),
+429,"Barnes, Eva E",TDGE 25 - Public Speaking (B),SP14,17,9,66.7%,55.6%,4.72,A- (3.78),
+430,"Barnes, Eva E",TDGE 25 - Public Speaking (C),SP14,19,11,90.9%,90.9%,3.7,A (4.00),
+431,"Barnes, Eva E",TDGE 25 - Public Speaking (D),SP14,15,6,100.0%,100.0%,2.9,A (4.00),
+432,"Barnes, Eva E",TDGE 25 - Public Speaking (E),SP14,17,7,100.0%,100.0%,5.17,A- (3.75),
+433,"Rincon, Patricia A.",TDGE 87 - Freshman Seminar (B),SP14,11,7,100.0%,85.7%,0.5,B (3.00),
+434,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),WI14,113,63,98.4%,100.0%,2.47,A- (3.92),A- (3.73)
+435,"Roxworthy, Emily",TDGE 11 - Great Performances on Film (A),WI14,139,74,95.8%,97.2%,2.17,A- (3.77),B+ (3.68)
+436,"Meyer, Ursula",TDGE 25 - Public Speaking (A),WI14,19,7,100.0%,100.0%,3.5,A- (3.83),
+437,"Meyer, Ursula",TDGE 25 - Public Speaking (B),WI14,20,17,100.0%,91.7%,4.0,A- (3.91),B+ (3.59)
+438,"Meyer, Ursula",TDGE 25 - Public Speaking (D),WI14,18,13,92.3%,84.6%,3.73,B+ (3.67),
+439,"Meyer, Ursula",TDGE 25 - Public Speaking (E),WI14,17,11,100.0%,100.0%,3.3,A- (3.90),
+440,"Meyer, Ursula",TDGE 25 - Public Speaking (F),WI14,20,13,90.0%,80.0%,3.5,A- (3.78),B+ (3.59)
+441,"Meyer, Ursula",TDGE 25 - Public Speaking (G),WI14,16,9,100.0%,88.9%,3.0,A (4.00),
+442,"Meyer, Ursula",TDGE 25 - Public Speaking (H),WI14,16,8,100.0%,100.0%,2.79,A (4.00),
+443,"Porter, Lisa",TDGE 3 - Cultivating the Creative Mind (A),WI14,31,16,100.0%,100.0%,4.7,A- (3.80),A- (3.80)
+444,"Rubinstein, Kim",TDGE 3 - Cultivating the Creative Mind (A),WI14,31,12,100.0%,100.0%,4.7,A- (3.78),A- (3.80)
+445,"Dugdale, Thomas W",TDGE 50 - Musical Theatre Chorus (A),WI14,31,18,94.1%,94.1%,1.09,A (4.00),
+446,"Rouse, John Samuel",TDGE 87 - Freshman Seminar (A),WI14,13,4,100.0%,100.0%,0.5,,
+447,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),FA13,121,71,95.5%,97.0%,2.92,A- (3.80),B+ (3.63)
+448,"Rouse, John Samuel",TDGE 11 - Great Performances on Film (B),FA13,140,71,97.1%,83.8%,1.57,B+ (3.56),B+ (3.36)
+449,"Barnes, Eva E",TDGE 25 - Public Speaking (A),FA13,20,8,100.0%,100.0%,3.25,A- (3.88),A (4.00)
+450,"Barnes, Eva E",TDGE 25 - Public Speaking (B),FA13,19,7,100.0%,100.0%,2.9,A (4.00),
+451,"Barnes, Eva E",TDGE 25 - Public Speaking (C),FA13,18,8,100.0%,100.0%,4.83,A (4.00),
+452,"Barnes, Eva E",TDGE 25 - Public Speaking (F),FA13,19,10,100.0%,100.0%,4.75,B+ (3.63),
+453,"Barnes, Eva E",TDGE 25 - Public Speaking (G),FA13,16,6,100.0%,100.0%,3.83,A (4.00),
+454,"Barnes, Eva E",TDGE 25 - Public Speaking (H),FA13,15,10,100.0%,100.0%,3.5,A- (3.75),
+455,"Barnes, Eva E",TDGE 25 - Public Speaking (I),FA13,19,11,100.0%,100.0%,3.17,A (4.00),
+456,"Barnes, Eva E",TDGE 25 - Public Speaking (J),FA13,19,10,100.0%,100.0%,3.83,A- (3.89),
+457,"Rincon, Patricia A.",TDGE 87 - Freshman Seminar (A),FA13,18,8,100.0%,100.0%,0.5,,
+458,"Rouse, John Samuel",TDGE 87 - Freshman Seminar (B),FA13,17,10,60.0%,80.0%,0.9,,
+459,"Rouse, John Samuel",TDGE 11 - Great Performances on Film (B),S213,18,5,100.0%,80.0%,6.5,B (3.00),
+460,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),S213,40,7,100.0%,100.0%,1.93,A (4.00),B+ (3.66)
+461,"Stokes, Cynthia Sue",TDGE 25 - Public Speaking (A),S213,15,3,66.7%,100.0%,3.17,A (4.00),
+462,"Oates, Charles Bruce",TDGE 25 - Public Speaking (B),S213,15,5,100.0%,80.0%,6.9,A- (3.80),
+463,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),S113,24,3,100.0%,100.0%,1.83,A (4.00),A- (3.83)
+464,"Carmody, James",TDGE 10 - Theatre And Film (A),S113,41,8,100.0%,100.0%,2.25,A- (3.75),B+ (3.38)
+465,"Havis, Allan",TDGE 11 - Great Performances on Film (A),S113,26,4,100.0%,100.0%,1.5,A (4.00),B (3.26)
+466,"Power, Jade Yukana",TDGE 25 - Public Speaking (B),S113,10,5,100.0%,100.0%,7.7,A (4.00),
+467,"Moshy, Summer Neilson",TDGE 11 - Great Performances on Film (B),SP13,198,81,96.3%,98.8%,1.67,A- (3.85),B+ (3.60)
+468,"Both, Andrei",TDGE 133 - Visual Ideas (A),SP13,12,3,100.0%,100.0%,4.5,A (4.00),
+469,"Barnes, Eva E",TDGE 25 - Public Speaking (A),SP13,18,8,100.0%,100.0%,3.0,A (4.00),
+470,"Barnes, Eva E",TDGE 25 - Public Speaking (B),SP13,18,5,100.0%,100.0%,3.0,B+ (3.50),
+471,"Barnes, Eva E",TDGE 25 - Public Speaking (C),SP13,18,8,100.0%,100.0%,4.5,A- (3.80),
+472,"Barnes, Eva E",TDGE 25 - Public Speaking (G),SP13,19,10,100.0%,100.0%,3.83,A (4.00),
+473,"Barnes, Eva E",TDGE 25 - Public Speaking (H),SP13,18,6,100.0%,100.0%,2.5,A- (3.80),
+474,"Dugdale, Thomas W",TDGE 50 - Musical Theatre Chorus (A),SP13,35,12,100.0%,100.0%,1.17,A (4.00),
+475,"Oates, Charles Bruce",TDGE 87 - Freshman Seminar (A),SP13,11,6,100.0%,100.0%,2.5,,
+476,"Rincon, Patricia A.",TDGE 87 - Freshman Seminar (B),SP13,5,5,80.0%,80.0%,0.5,,
+477,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),WI13,118,55,96.4%,98.2%,2.32,A- (3.92),A- (3.82)
+478,"Rouse, John Samuel",TDGE 11 - Great Performances on Film (A),WI13,44,20,90.0%,85.0%,3.72,B (3.27),B- (2.97)
+479,"Power, Jade Yukana",TDGE 11 - Great Performances on Film (B),WI13,59,31,90.3%,93.5%,2.95,A- (3.74),B- (2.99)
+480,"Barnes, Eva E",TDGE 25 - Public Speaking (A),WI13,19,10,100.0%,100.0%,3.9,A- (3.90),
+481,"Barnes, Eva E",TDGE 25 - Public Speaking (B),WI13,16,11,100.0%,100.0%,3.9,A- (3.80),
+482,"Barnes, Eva E",TDGE 25 - Public Speaking (D),WI13,20,9,88.9%,100.0%,4.25,B+ (3.33),A- (3.79)
+483,"Barnes, Eva E",TDGE 25 - Public Speaking (E),WI13,18,6,100.0%,83.3%,3.17,B+ (3.67),
+484,"Barnes, Eva E",TDGE 25 - Public Speaking (F),WI13,19,11,100.0%,100.0%,5.77,A- (3.89),
+485,"Barnes, Eva E",TDGE 25 - Public Speaking (G),WI13,17,11,100.0%,100.0%,3.3,A- (3.90),
+486,"Barnes, Eva E",TDGE 25 - Public Speaking (I),WI13,20,6,100.0%,100.0%,3.5,B+ (3.67),A- (3.79)
+487,"Rouse, John Samuel",TDGE 87 - Freshman Seminar (A),WI13,11,7,100.0%,85.7%,1.07,A (4.00),
+488,"Barnes, Eva E",TDGE 87 - Freshman Seminar (C),WI13,20,11,100.0%,100.0%,2.14,A (4.00),
+489,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),FA12,125,46,95.2%,97.6%,2.36,A- (3.95),A- (3.77)
+490,"Power, Jade Yukana",TDGE 11 - Great Performances on Film (A),FA12,120,58,82.1%,76.8%,3.05,B+ (3.44),B (3.13)
+491,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),FA12,124,61,98.3%,94.8%,2.39,A- (3.83),B+ (3.47)
+492,"Meyer, Ursula",TDGE 25 - Public Speaking (A),FA12,15,5,100.0%,100.0%,2.5,A (4.00),
+493,"Meyer, Ursula",TDGE 25 - Public Speaking (B),FA12,18,6,100.0%,83.3%,1.5,A (4.00),
+494,"Meyer, Ursula",TDGE 25 - Public Speaking (D),FA12,19,7,100.0%,100.0%,3.64,B+ (3.67),
+495,"Meyer, Ursula",TDGE 25 - Public Speaking (E),FA12,15,9,71.4%,71.4%,4.5,B+ (3.57),
+496,"Meyer, Ursula",TDGE 25 - Public Speaking (F),FA12,14,5,100.0%,100.0%,2.0,A (4.00),
+497,"Meyer, Ursula",TDGE 25 - Public Speaking (G),FA12,19,6,83.3%,66.7%,3.5,A- (3.83),
+498,"Meyer, Ursula",TDGE 25 - Public Speaking (H),FA12,17,9,88.9%,88.9%,4.25,A- (3.83),
+499,"Meyer, Ursula",TDGE 25 - Public Speaking (J),FA12,19,6,100.0%,83.3%,4.5,A (4.00),
+500,"Rouse, John Samuel",TDGE 87 - Freshman Seminar (B),FA12,9,5,60.0%,80.0%,0.5,A (4.00),
+501,"Rincon, Patricia A.",TDGE 87 - Freshman Seminar (C),FA12,16,11,100.0%,100.0%,0.68,A (4.00),
+502,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),S212,32,8,100.0%,100.0%,6.0,A- (3.71),A- (3.90)
+503,"Havis, Allan",TDGE 11 - Great Performances on Film (A),S212,41,11,100.0%,90.9%,5.59,A- (3.70),B+ (3.31)
+504,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),S212,46,9,88.9%,100.0%,5.39,A- (3.86),B (3.20)
+505,"Power, Jade Yukana",TDGE 25 - Public Speaking (A),S212,16,4,100.0%,100.0%,5.0,B+ (3.67),
+506,"Carmody, James",TDGE 10 - Theatre And Film (A),S112,38,10,100.0%,100.0%,2.7,A (4.00),B+ (3.64)
+507,"Rouse, John Samuel",TDGE 11 - Great Performances on Film (A),S112,22,6,66.7%,100.0%,6.5,B (3.25),B (3.27)
+508,"Donnelly, Kyle E.",TDGE 125 - Topics in Theatre and Film (A),S112,40,4,100.0%,100.0%,3.0,A (4.00),B+ (3.54)
+509,"Linton, Regan Ashley",TDGE 25 - Public Speaking (A),S112,19,11,100.0%,100.0%,5.1,A- (3.80),
+510,"Carmody, James",TDGE 10 - Theatre And Film (A),SP12,174,69,95.6%,97.1%,2.88,A- (3.79),B+ (3.58)
+511,"Ramey, Heather L",TDGE 11 - Great Performances on Film (B),SP12,126,40,97.5%,92.5%,2.35,B+ (3.61),B+ (3.35)
+512,"Barnes, Eva E",TDGE 25 - Public Speaking (A),SP12,16,9,100.0%,100.0%,4.94,B+ (3.67),
+513,"Barnes, Eva E",TDGE 25 - Public Speaking (B),SP12,17,10,90.0%,90.0%,7.1,B+ (3.67),
+514,"Barnes, Eva E",TDGE 25 - Public Speaking (C),SP12,19,8,100.0%,100.0%,3.5,B+ (3.57),
+515,"Barnes, Eva E",TDGE 25 - Public Speaking (E),SP12,15,5,100.0%,80.0%,5.3,A- (3.80),
+516,"Rincon, Patricia A.",TDGE 87 - Freshman Seminar (A),SP12,13,5,80.0%,80.0%,1.0,A (4.00),
+517,"Meyer, Ursula",TDGE 87 - Freshman Seminar (B),SP12,13,6,83.3%,100.0%,0.83,A (4.00),
+518,"Rouse, John Samuel",TDGE 87 - Freshman Seminar (C),SP12,6,3,100.0%,100.0%,4.5,,
+519,"Oates, Charles Bruce",TDGE 1 - Introduction to Theatre (A),WI12,141,74,84.9%,86.3%,3.88,B+ (3.45),B (3.17)
+520,"Power, Jade Yukana",TDGE 11 - Great Performances on Film (A),WI12,157,66,84.8%,84.8%,3.73,B+ (3.56),B (3.06)
+521,"Knight, Tara Landreth",TDGE 126 - Storytlling& Design in Animatn (A),WI12,96,58,93.0%,89.5%,4.86,B+ (3.56),B+ (3.50)
+522,"Barnes, Eva E",TDGE 25 - Public Speaking (A),WI12,17,8,75.0%,87.5%,5.25,A- (3.71),
+523,"Barnes, Eva E",TDGE 25 - Public Speaking (B),WI12,17,9,100.0%,100.0%,3.17,A- (3.71),
+524,"Barnes, Eva E",TDGE 25 - Public Speaking (E),WI12,17,7,100.0%,100.0%,3.36,A (4.00),
+525,"Barnes, Eva E",TDGE 25 - Public Speaking (F),WI12,16,8,100.0%,100.0%,4.5,A (4.00),
+526,"Barnes, Eva E",TDGE 25 - Public Speaking (G),WI12,19,9,100.0%,100.0%,3.61,A- (3.78),
+527,"Barnes, Eva E",TDGE 25 - Public Speaking (H),WI12,18,12,100.0%,100.0%,4.17,A- (3.83),
+528,"Rouse, John Samuel",TDGE 87 - Freshman Seminar (A),WI12,15,7,100.0%,100.0%,1.36,A (4.00),
+529,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),FA11,118,57,96.4%,96.4%,2.54,A- (3.91),A- (3.79)
+530,"Murphy, Maiya J",TDGE 11 - Great Performances on Film (A),FA11,170,97,64.6%,61.5%,3.18,B+ (3.30),B- (2.86)
+531,"Meyer, Ursula",TDGE 25 - Public Speaking (A),FA11,17,9,88.9%,66.7%,5.17,B+ (3.63),
+532,"Meyer, Ursula",TDGE 25 - Public Speaking (B),FA11,15,11,100.0%,100.0%,4.68,A (4.00),
+533,"Meyer, Ursula",TDGE 25 - Public Speaking (C),FA11,16,9,100.0%,100.0%,4.0,A- (3.75),
+534,"Meyer, Ursula",TDGE 25 - Public Speaking (E),FA11,16,10,100.0%,100.0%,4.1,B+ (3.60),
+535,"Meyer, Ursula",TDGE 25 - Public Speaking (F),FA11,19,10,100.0%,100.0%,4.72,B+ (3.56),
+536,"Meyer, Ursula",TDGE 25 - Public Speaking (G),FA11,19,9,100.0%,88.9%,2.94,A (4.00),
+537,"Meyer, Ursula",TDGE 25 - Public Speaking (H),FA11,19,9,100.0%,100.0%,2.94,A- (3.89),
+538,"Meyer, Ursula",TDGE 25 - Public Speaking (K),FA11,18,5,100.0%,100.0%,3.7,A (4.00),
+539,"Carmody, James",TDGE 87 - Freshman Seminar (A),FA11,12,8,75.0%,87.5%,0.5,A (4.00),
+540,"Oates, Charles Bruce",TDGE 87 - Freshman Seminar (B),FA11,13,8,87.5%,100.0%,0.5,,
+541,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),S211,25,10,100.0%,100.0%,4.5,A- (3.89),B+ (3.68)
+542,"Carmody, James",TDGE 10 - Theatre And Film (A),S211,22,9,100.0%,100.0%,4.06,A- (3.78),B+ (3.61)
+543,"Rouse, John Samuel",TDGE 11 - Great Performances on Film (A),S211,10,3,100.0%,100.0%,5.83,B (3.00),
+544,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),S211,49,21,95.2%,95.0%,2.69,A- (3.93),B+ (3.65)
+545,"Power, Jade Yukana",TDGE 25 - Public Speaking (A),S211,15,7,100.0%,100.0%,5.64,A (4.00),
+546,"Havis, Allan",TDGE 11 - Great Performances on Film (A),S111,38,12,83.3%,100.0%,4.0,A- (3.73),B+ (3.52)
+547,"Donnelly, Kyle E.",TDGE 125 - Topics in Theatre and Film (A),S111,30,15,100.0%,100.0%,4.77,A- (3.83),A- (3.76)
+548,"Oates, Charles Bruce",TDGE 125 - Topics in Theatre and Film (B),S111,18,5,80.0%,60.0%,4.5,A (4.00),
+549,"Roxworthy, Emily",TDGE 25 - Public Speaking (A),S111,14,9,100.0%,100.0%,5.75,A (4.00),
+550,"Ramey, Heather L",TDGE 25 - Public Speaking (B),S111,12,10,100.0%,100.0%,5.5,A- (3.78),
+551,"Carmody, James",TDGE 10 - Theatre And Film (A),SP11,183,80,89.9%,87.5%,2.4,B+ (3.68),B+ (3.35)
+552,"Roxworthy, Emily",TDGE 11 - Great Performances on Film (A),SP11,186,77,100.0%,100.0%,2.28,A- (3.83),B+ (3.56)
+553,"Moshy, Summer Neilson",TDGE 11 - Great Performances on Film (B),SP11,192,83,98.8%,100.0%,1.32,A- (3.87),B+ (3.56)
+554,"Barnes, Eva E",TDGE 25 - Public Speaking (A),SP11,17,4,100.0%,100.0%,4.5,A- (3.75),
+555,"Barnes, Eva E",TDGE 25 - Public Speaking (B),SP11,15,5,100.0%,100.0%,2.9,A- (3.80),
+556,"Barnes, Eva E",TDGE 25 - Public Speaking (C),SP11,15,6,100.0%,66.7%,8.83,A (4.00),
+557,"Barnes, Eva E",TDGE 25 - Public Speaking (E),SP11,15,8,100.0%,87.5%,3.25,B (3.29),
+558,"Porter, Lisa",TDGE 3 - Cultivating the Creative Mind (A),SP11,34,14,92.9%,100.0%,4.36,A- (3.86),A- (3.85)
+559,"Rubinstein, Kim",TDGE 3 - Cultivating the Creative Mind (A),SP11,34,14,92.9%,100.0%,4.36,A- (3.86),A- (3.85)
+560,"Oates, Charles Bruce",TDGE 87 - Freshman Seminar (A),SP11,12,5,100.0%,100.0%,0.9,B (3.00),
+561,"Donnelly, Kyle E.",TDGE 87 - Freshman Seminar (B),SP11,13,7,100.0%,100.0%,2.21,A (4.00),
+562,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),WI11,119,80,95.0%,97.5%,2.48,A- (3.97),A- (3.82)
+563,"Salimi-Ghezelbash, Rana",TDGE 11 - Great Performances on Film (A),WI11,58,24,91.3%,91.3%,3.36,A- (3.73),B+ (3.36)
+564,"George, Nadine",TDGE 11 - Great Performances on Film (B),WI11,112,42,71.4%,57.1%,2.36,B+ (3.42),B (3.11)
+565,"Meyer, Ursula",TDGE 25 - Public Speaking (B),WI11,14,4,100.0%,100.0%,3.0,A (4.00),
+566,"Meyer, Ursula",TDGE 25 - Public Speaking (C),WI11,14,6,100.0%,100.0%,4.5,A- (3.83),
+567,"Meyer, Ursula",TDGE 25 - Public Speaking (D),WI11,17,6,100.0%,100.0%,6.17,A- (3.83),
+568,"Meyer, Ursula",TDGE 25 - Public Speaking (E),WI11,17,9,77.8%,77.8%,3.61,A- (3.78),
+569,"Meyer, Ursula",TDGE 25 - Public Speaking (F),WI11,10,3,100.0%,100.0%,3.83,A (4.00),
+570,"Meyer, Ursula",TDGE 25 - Public Speaking (G),WI11,17,7,100.0%,100.0%,5.93,A- (3.83),
+571,"Meyer, Ursula",TDGE 25 - Public Speaking (H),WI11,13,6,100.0%,100.0%,2.5,B+ (3.67),
+572,"Meyer, Ursula",TDGE 25 - Public Speaking (I),WI11,16,6,100.0%,100.0%,4.83,B+ (3.67),
+573,"Rouse, John Samuel",TDGE 87 - Freshman Seminar (A),WI11,8,3,100.0%,100.0%,1.17,,
+574,"Porter, Lisa",TDGE 87 - Freshman Seminar (B),WI11,10,7,100.0%,100.0%,1.17,A (4.00),
+575,"Oates, Charles Bruce",TDGE 1 - Introduction to Theatre (A),FA10,49,33,96.9%,87.5%,2.69,B+ (3.40),B (3.16)
+576,"Power, Jade Yukana",TDGE 11 - Great Performances on Film (A),FA10,176,77,84.2%,85.5%,3.19,B+ (3.54),B (3.16)
+577,"Adler, Steven",TDGE 122 - The Films of Woody Allen (A),FA10,94,41,92.7%,92.7%,3.2,B+ (3.59),B+ (3.44)
+578,"Barnes, Eva E",TDGE 25 - Public Speaking (A),FA10,12,4,100.0%,75.0%,5.5,B+ (3.50),
+579,"Barnes, Eva E",TDGE 25 - Public Speaking (B),FA10,16,7,100.0%,100.0%,3.07,A (4.00),
+580,"Barnes, Eva E",TDGE 25 - Public Speaking (C),FA10,18,11,100.0%,80.0%,3.1,A- (3.91),
+581,"Barnes, Eva E",TDGE 25 - Public Speaking (D),FA10,19,11,100.0%,100.0%,3.3,A- (3.82),
+582,"Barnes, Eva E",TDGE 25 - Public Speaking (E),FA10,18,9,100.0%,100.0%,6.28,A- (3.89),
+583,"Barnes, Eva E",TDGE 25 - Public Speaking (G),FA10,18,6,83.3%,66.7%,5.83,B+ (3.33),
+584,"Barnes, Eva E",TDGE 25 - Public Speaking (H),FA10,16,5,100.0%,100.0%,4.9,B+ (3.33),
+585,"Barnes, Eva E",TDGE 25 - Public Speaking (I),FA10,18,7,71.4%,85.7%,3.93,A- (3.71),
+586,"Carmody, James",TDGE 87 - Freshman Seminar (A),FA10,14,9,88.9%,100.0%,0.5,B+ (3.67),
+587,"Rouse, John Samuel",TDGE 87 - Freshman Seminar (B),FA10,15,11,100.0%,81.8%,1.41,A (4.00),
+588,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),SU10,29,10,90.0%,90.0%,2.5,A (4.00),
+589,"Carmody, James",TDGE 10 - Theatre And Film (A),SU10,30,7,100.0%,100.0%,2.5,A (4.00),
+590,"Genna, Raimondo",TDGE 11 - Great Performances on Film (A),SU10,31,8,100.0%,100.0%,4.5,B+ (3.63),
+591,"Rouse, John Samuel",TDGE 11 - Great Performances on Film (A),SU10,16,4,75.0%,100.0%,3.0,B+ (3.67),
+592,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),SU10,36,30,96.7%,96.6%,2.5,A- (3.78),
+593,"Oates, Charles Bruce",TDGE 125 - Topics in Theatre and Film (A),SU10,17,4,100.0%,100.0%,3.5,A- (3.75),
+594,"Zygmonski, Aimee L",TDGE 25 - Public Speaking (A),SU10,13,5,100.0%,100.0%,4.9,A (4.00),
+595,"Carmody, James",TDGE 10 - Theatre And Film (A),SP10,175,65,95.4%,98.5%,2.07,B+ (3.64),B+ (3.56)
+596,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),SP10,186,83,98.8%,98.8%,1.7,A- (3.88),A- (3.93)
+597,"George, Nadine",TDGE 127 - The Films of Spike Lee (A),SP10,209,66,65.2%,56.1%,3.08,B (3.28),B (3.25)
+598,"Barnes, Eva E",TDGE 25 - Public Speaking (A),SP10,15,11,100.0%,100.0%,4.14,A- (3.70),
+599,"Barnes, Eva E",TDGE 25 - Public Speaking (B),SP10,17,9,100.0%,100.0%,5.61,A- (3.88),
+600,"Barnes, Eva E",TDGE 25 - Public Speaking (C),SP10,18,7,100.0%,100.0%,4.21,A- (3.83),
+601,"Barnes, Eva E",TDGE 25 - Public Speaking (D),SP10,15,8,100.0%,100.0%,4.5,A- (3.71),
+602,"Power, Jade Yukana",TDGE 11 - Great Performances on Film (A),WI10,194,75,80.0%,68.5%,2.34,A- (3.75),B (3.27)
+603,"Knight, Tara Landreth",TDGE 126 - Storytlling& Design in Animatn (A),WI10,97,40,97.5%,95.0%,3.45,A- (3.85),B+ (3.64)
+604,"Barnes, Eva E",TDGE 25 - Public Speaking (B),WI10,19,8,100.0%,100.0%,4.0,A (4.00),
+605,"Barnes, Eva E",TDGE 25 - Public Speaking (C),WI10,18,9,100.0%,100.0%,5.17,A- (3.88),
+606,"Barnes, Eva E",TDGE 25 - Public Speaking (D),WI10,17,5,60.0%,80.0%,2.5,A- (3.75),
+607,"Barnes, Eva E",TDGE 25 - Public Speaking (E),WI10,15,7,57.1%,85.7%,5.36,A- (3.71),
+608,"Barnes, Eva E",TDGE 25 - Public Speaking (G),WI10,13,4,66.7%,50.0%,3.0,B (3.00),
+609,"Barnes, Eva E",TDGE 25 - Public Speaking (H),WI10,18,9,88.9%,88.9%,3.61,A (4.00),
+610,"Barnes, Eva E",TDGE 25 - Public Speaking (I),WI10,16,7,83.3%,83.3%,3.3,A (4.00),
+611,"Barnes, Eva E",TDGE 25 - Public Speaking (J),WI10,16,5,100.0%,100.0%,4.9,B (3.25),
+612,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),FA09,124,99,99.0%,99.0%,2.26,A- (3.90),A- (3.72)
+613,"Zygmonski, Aimee L",TDGE 11 - Great Performances on Film (A),FA09,188,128,95.3%,96.9%,1.41,A- (3.84),B (3.26)
+614,"Gill, Zachary W.",TDGE 11 - Great Performances on Film (B),FA09,88,62,90.2%,88.5%,1.25,A- (3.75),B (3.19)
+615,"Meyer, Ursula",TDGE 25 - Public Speaking (B),FA09,15,15,71.4%,100.0%,3.07,A- (3.90),
+616,"Meyer, Ursula",TDGE 25 - Public Speaking (C),FA09,18,18,100.0%,100.0%,3.32,B+ (3.56),
+617,"Meyer, Ursula",TDGE 25 - Public Speaking (G),FA09,18,16,81.3%,87.5%,3.75,B+ (3.64),
+618,"Meyer, Ursula",TDGE 25 - Public Speaking (H),FA09,16,16,100.0%,100.0%,4.13,A- (3.71),
+619,"Meyer, Ursula",TDGE 25 - Public Speaking (I),FA09,15,14,100.0%,100.0%,3.21,B+ (3.58),
+620,"Carmody, James",TDGE 87 - Freshman Seminar (A),FA09,8,5,80.0%,100.0%,0.5,A (4.00),
+621,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),SU09,18,11,100.0%,90.9%,2.68,A- (3.91),
+622,"Carmody, James",TDGE 10 - Theatre And Film (A),SU09,26,7,100.0%,100.0%,5.07,A- (3.86),
+623,"Fulton, Julia",TDGE 11 - Great Performances on Film (A),SU09,30,4,100.0%,100.0%,1.5,B+ (3.67),
+624,"Rouse, John Samuel",TDGE 11 - Great Performances on Film (A),SU09,17,5,60.0%,80.0%,3.3,B+ (3.67),
+625,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),SU09,32,19,100.0%,100.0%,3.55,A- (3.74),
+626,"Roxworthy, Emily",TDGE 25 - Public Speaking (A),SU09,14,6,100.0%,100.0%,4.83,A (4.00),
+627,"Carmody, James",TDGE 10 - Theatre And Film (A),SP09,177,74,93.2%,90.5%,3.12,B+ (3.62),B+ (3.58)
+628,"Gill, Zachary W.",TDGE 11 - Great Performances on Film (A),SP09,272,115,88.5%,75.2%,1.55,B+ (3.65),B (3.06)
+629,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),SP09,191,146,99.3%,98.6%,1.57,A- (3.85),B+ (3.55)
+630,"Barnes, Eva E",TDGE 192 - Senior Sem. in Theatre & Dance (A),SP09,6,3,100.0%,100.0%,1.83,,
+631,"Barnes, Eva E",TDGE 192 - Senior Sem. in Theatre & Dance (B),SP09,10,9,100.0%,100.0%,2.28,A (4.00),
+632,"Meyer, Ursula",TDGE 25 - Public Speaking (E),SP09,16,15,92.9%,100.0%,3.03,A- (3.78),
+633,"Roxworthy, Emily",TDGE 11 - Great Performances on Film (A),WI09,193,167,95.7%,95.7%,1.61,A- (3.83),B+ (3.62)
+634,"Genna, Raimondo",TDGE 11 - Great Performances on Film (B),WI09,283,130,95.3%,93.8%,2.0,B+ (3.60),B+ (3.44)
+635,"Meyer, Ursula",TDGE 25 - Public Speaking (B),WI09,18,19,100.0%,100.0%,2.39,B+ (3.68),
+636,"Meyer, Ursula",TDGE 25 - Public Speaking (E),WI09,17,16,100.0%,100.0%,3.13,A- (3.75),
+637,"Meyer, Ursula",TDGE 25 - Public Speaking (F),WI09,16,14,92.9%,100.0%,3.36,A- (3.85),
+638,"Meyer, Ursula",TDGE 25 - Public Speaking (G),WI09,18,14,100.0%,100.0%,3.79,B+ (3.67),
+639,"Meyer, Ursula",TDGE 25 - Public Speaking (H),WI09,14,9,100.0%,100.0%,4.94,B (3.29),
+640,"Meyer, Ursula",TDGE 25 - Public Speaking (I),WI09,18,12,100.0%,100.0%,3.17,A- (3.82),
+641,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),FA08,119,94,96.8%,100.0%,2.33,A- (3.76),B+ (3.59)
+642,"LaForge, Heather Lynn Donahoe",TDGE 11 - Great Performances on Film (A),FA08,200,113,96.4%,89.2%,1.79,A- (3.76),B (3.18)
+643,"Barnes, Eva E",TDGE 25 - Public Speaking (A),FA08,14,13,100.0%,92.3%,3.12,B+ (3.50),
+644,"Barnes, Eva E",TDGE 25 - Public Speaking (D),FA08,13,11,100.0%,100.0%,3.23,B+ (3.67),
+645,"Barnes, Eva E",TDGE 25 - Public Speaking (E),FA08,15,13,100.0%,84.6%,3.27,A- (3.83),
+646,"Barnes, Eva E",TDGE 25 - Public Speaking (F),FA08,16,12,91.7%,77.8%,3.67,A- (3.80),
+647,"Barnes, Eva E",TDGE 25 - Public Speaking (G),FA08,14,15,60.0%,60.0%,4.5,B (3.29),
+648,"Barnes, Eva E",TDGE 25 - Public Speaking (H),FA08,17,15,100.0%,100.0%,3.83,B+ (3.43),
+649,"Rouse, John Samuel",TDGE 11 - Great Performances on Film (A),SU08,15,10,100.0%,100.0%,2.9,B+ (3.38),
+650,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),SU08,30,24,100.0%,100.0%,2.92,B+ (3.62),
+651,"Carmody, James",TDGE 10 - Theatre And Film (A),SP08,175,55,100.0%,100.0%,2.5,B+ (3.65),B+ (3.40)
+652,"Havis, Allan",TDGE 124 - Cult Films: Weirdly Dramatic (A),SP08,213,121,95.0%,97.5%,2.1,B+ (3.56),B+ (3.56)
+653,"Barnes, Eva E",TDGE 25 - Public Speaking (B),SP08,17,16,100.0%,100.0%,4.25,B+ (3.55),
+654,"Barnes, Eva E",TDGE 25 - Public Speaking (D),SP08,16,15,73.3%,64.3%,2.77,B (3.20),
+655,"Barnes, Eva E",TDGE 25 - Public Speaking (E),SP08,14,11,100.0%,100.0%,3.41,A (4.00),
+656,"Barnes, Eva E",TDGE 25 - Public Speaking (F),SP08,15,14,100.0%,100.0%,3.79,A- (3.73),
+657,"Oates, Charles Bruce",TDGE 87 - Freshman Seminar (A),SP08,9,5,100.0%,100.0%,0.5,,
+658,"Rouse, John Samuel",TDGE 11 - Great Performances on Film (A),WI08,282,248,86.4%,71.1%,2.34,B+ (3.43),B (3.14)
+659,"Knight, Tara Landreth",TDGE 126 - Storytlling& Design in Animatn (A),WI08,48,37,97.1%,100.0%,4.0,B+ (3.64),B+ (3.51)
+660,"Barnes, Eva E",TDGE 25 - Public Speaking (A),WI08,15,15,100.0%,92.3%,3.07,A- (3.83),
+661,"Barnes, Eva E",TDGE 25 - Public Speaking (B),WI08,15,12,91.7%,100.0%,3.77,B+ (3.60),
+662,"Barnes, Eva E",TDGE 25 - Public Speaking (C),WI08,15,11,100.0%,100.0%,3.77,A- (3.80),
+663,"Barnes, Eva E",TDGE 25 - Public Speaking (F),WI08,16,14,92.9%,100.0%,2.96,A- (3.86),
+664,"Barnes, Eva E",TDGE 25 - Public Speaking (I),WI08,16,6,100.0%,66.7%,3.17,A- (3.83),
+665,"Adler, Steven",TDGE 87 - Freshman Seminar (A),WI08,5,5,100.0%,100.0%,0.5,,
+666,"Rouse, John Samuel",TDGE 87 - Freshman Seminar (B),WI08,11,6,100.0%,100.0%,1.17,,
+667,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),FA07,131,89,90.4%,94.0%,1.42,A- (3.88),A- (3.76)
+668,"LaForge, Heather Lynn Donahoe",TDGE 11 - Great Performances on Film (A),FA07,251,153,93.9%,82.4%,1.66,B+ (3.67),B (3.11)
+669,"Young, Paloma H.",TDGE 125 - Topics in Theatre and Film (A),FA07,39,32,93.5%,96.7%,2.95,B+ (3.54),B+ (3.39)
+670,"Meyer, Ursula",TDGE 25 - Public Speaking (A),FA07,17,15,100.0%,100.0%,3.7,B+ (3.62),
+671,"Meyer, Ursula",TDGE 25 - Public Speaking (B),FA07,18,17,100.0%,100.0%,2.25,B+ (3.42),
+672,"Meyer, Ursula",TDGE 25 - Public Speaking (C),FA07,15,14,100.0%,100.0%,3.5,B (3.25),
+673,"Meyer, Ursula",TDGE 25 - Public Speaking (D),FA07,18,17,94.1%,94.1%,3.79,B+ (3.47),
+674,"Meyer, Ursula",TDGE 25 - Public Speaking (F),FA07,15,15,86.7%,93.3%,4.5,B+ (3.67),
+675,"Meyer, Ursula",TDGE 25 - Public Speaking (G),FA07,17,14,92.9%,92.9%,2.64,A- (3.93),
+676,"Rouse, John Samuel",TDGE 87 - Freshman Seminar (B),FA07,8,5,60.0%,80.0%,0.9,A (4.00),
+677,"Salovey, Todd",TDGE 1 - Introduction to Theatre (A),SU07,25,18,100.0%,100.0%,1.5,A- (3.94),
+678,"Fulton, Julia",TDGE 124 - Cult Films: Weirdly Dramatic (A),SU07,37,34,100.0%,100.0%,2.21,A- (3.71),
+679,"Roxworthy, Emily",TDGE 25 - Public Speaking (A),SU07,13,11,90.9%,90.9%,3.95,A- (3.91),

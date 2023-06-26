@@ -1,0 +1,1001 @@
+,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+0,"Alexandrov, Ludmil B",BENG 100 - Intro to Prob & Stats for BENG (A),SP23,132,70,61.5%,86.2%,6.56,B (3.03),B (3.03)
+1,"Fraley, Stephanie I.",BENG 103B - Bioengineering Mass Transfer (A),SP23,128,86,75.0%,94.0%,8.6,B (3.22),B (3.09)
+2,"Shi, Lingyan",BENG 112B - Fluid and Cell Biomechanics (A),SP23,56,39,84.2%,71.1%,5.24,B+ (3.50),B (3.21)
+3,"Hasty, Jeff M",BENG 125 - Modeling & Computatio/Bioengr (A),SP23,136,37,88.9%,80.6%,4.27,B+ (3.57),B+ (3.46)
+4,"Cabrales, Pedro",BENG 140B - Bioengineering Physiology (A),SP23,72,47,80.4%,82.6%,6.88,B+ (3.32),B (3.24)
+5,"Cabrales, Pedro",BENG 172 - Bioengineering Laboratory (A),SP23,53,27,75.0%,100.0%,8.02,A- (3.80),B+ (3.62)
+6,"Omens, Jeffrey Howard",BENG 172 - Bioengineering Laboratory (A),SP23,53,27,75.0%,94.1%,8.02,A- (3.80),B+ (3.62)
+7,"Bafna, Vineet",BENG 182 - Biological Databases (A),SP23,20,8,71.4%,85.7%,4.79,A- (3.71),B (3.19)
+8,"Omens, Jeffrey Howard",BENG 87 - Freshman Seminar (A),SP23,15,6,83.3%,100.0%,1.83,A (4.00),
+9,"Sah, Robert Lie-Yuan",BENG 1 - Introduction to Bioengineering (A),WI23,157,88,69.4%,76.5%,3.17,B+ (3.57),
+10,"Valdez-Jasso, Daniela",BENG 112A - Soft Tissue Biomechanics (A),WI23,65,21,81.0%,100.0%,6.69,B (3.24),B- (2.86)
+11,"Taylor Amos, Alyssa C",BENG 119B - Design Implmntatn Biomechanics (A),WI23,22,5,100.0%,100.0%,6.1,A (4.00),A- (3.87)
+12,"Wheeler, Bruce Christopher",BENG 119B - Design Implmntatn Biomechanics (A),WI23,22,5,100.0%,100.0%,6.1,A (4.00),A- (3.87)
+13,"Huang, Xiaohua",BENG 120 - Org Chem-Structural & Design (A),WI23,56,25,68.0%,64.0%,4.82,B+ (3.44),B+ (3.66)
+14,"Palsson, Bernhard O.",BENG 123 - Dynamic Simulatn in Bioeng (A),WI23,78,31,65.5%,72.4%,9.88,B (3.14),B- (2.97)
+15,"Silva, Gabriel",BENG 130 - Biotech Thermodynamics & Kinet (A),WI23,164,68,42.6%,28.4%,5.35,B (3.10),C+ (2.63)
+16,"Silva, Gabriel",BENG 140A - Bioengineering Physiology (A),WI23,78,35,85.3%,82.4%,4.91,B+ (3.61),B+ (3.55)
+17,"Taylor Amos, Alyssa C",BENG 152 - BioSystems Engineering Lab (A),WI23,21,10,88.9%,66.7%,8.3,A- (3.90),A- (3.77)
+18,"Wheeler, Bruce Christopher",BENG 152 - BioSystems Engineering Lab (A),WI23,21,10,88.9%,100.0%,8.3,A- (3.90),A- (3.77)
+19,"Huang, Xiaohua",BENG 161B - Biochemical Engineering (A),WI23,62,10,60.0%,55.6%,7.3,B+ (3.56),B+ (3.50)
+20,"Shi, Lingyan",BENG 168 - Biomolecular Engineering (A),WI23,103,33,65.6%,50.0%,5.31,B+ (3.34),B+ (3.55)
+21,"Taylor Amos, Alyssa C",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI23,27,6,83.3%,83.3%,10.83,A- (3.83),B+ (3.59)
+22,"Wheeler, Bruce Christopher",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI23,27,6,83.3%,83.3%,10.83,A- (3.83),B+ (3.59)
+23,"Pevzner, Pavel Arkadjevich",BENG 181 - Molecular Sequence Analysis (A),WI23,21,15,69.2%,76.9%,17.5,B (3.17),B+ (3.53)
+24,"Cauwenberghs, Gert",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI23,74,23,78.3%,78.3%,9.2,B+ (3.35),B+ (3.45)
+25,"Taylor Amos, Alyssa C",BENG 187C - BENG Design Proj:Implemntation (A),WI23,137,20,88.9%,88.9%,5.61,A- (3.89),
+26,"Wheeler, Bruce Christopher",BENG 187C - BENG Design Proj:Implemntation (A),WI23,137,20,88.9%,88.9%,5.61,A- (3.89),
+27,"Lal, Ratnesh",BENG 191 - Senior Sem I: Professnl Issues (A),WI23,11,4,100.0%,100.0%,3.5,A (4.00),
+28,"Mc Culloch, Andrew Douglas",BENG 110 - Muskoloskeletal Biomechanics (A),FA22,97,91,81.3%,84.6%,6.48,B (3.19),B (3.16)
+29,"Wheeler, Bruce Christopher",BENG 119A - Design Develop.in Biomechanics (A),FA22,22,5,100.0%,100.0%,4.5,A (4.00),A- (3.78)
+30,"Cauwenberghs, Gert",BENG 122A - Biosystems and Control (A),FA22,60,21,80.0%,80.0%,8.6,B+ (3.50),B+ (3.53)
+31,"Wheeler, Bruce Christopher",BENG 129A - Design Develp.Cell System BENG (A),FA22,9,3,100.0%,100.0%,4.5,A (4.00),
+32,"Smarr, Benjamin",BENG 134 - Measurements/Stats/Probability (A),FA22,26,18,94.4%,88.9%,6.5,B+ (3.35),B- (2.87)
+33,"Wheeler, Bruce Christopher",BENG 135 - Biomedical Signals & Systems (A),FA22,25,5,100.0%,100.0%,7.7,A- (3.80),B+ (3.63)
+34,"Wheeler, Bruce Christopher",BENG 139A - Design Develpmt Molecular BENG (A),FA22,19,3,100.0%,100.0%,3.17,A (4.00),
+35,"Lal, Ratnesh",BENG 141 - Biomedical Optics and Imaging (A),FA22,49,36,94.1%,82.4%,4.56,A- (3.83),A- (3.85)
+36,"Fraley, Stephanie I.",BENG 161A - Bioreactor Engineering (A),FA22,61,48,75.0%,75.0%,9.48,B (3.23),B (3.04)
+37,"Mali, Prashant Gulab Ram",BENG 162 - Biotechnology Laboratory (A),FA22,61,51,86.3%,94.1%,7.66,B+ (3.52),B+ (3.51)
+38,"Sah, Robert Lie-Yuan",BENG 166A - Cell and Tissue Engineering (A),FA22,63,41,61.0%,75.6%,6.65,A- (3.87),B+ (3.57)
+39,"Wheeler, Bruce Christopher",BENG 169A - Design Developmnt Tissue Engin (A),FA22,11,4,66.7%,100.0%,3.83,A (4.00),
+40,"Wheeler, Bruce Christopher",BENG 179A - Design Develop.Bioinstrumntatn (A),FA22,28,10,100.0%,100.0%,10.0,A (4.00),B+ (3.67)
+41,"Zhong, Sheng",BENG 183 - Applied Genomic Technologies (A),FA22,92,28,81.5%,84.6%,6.28,A- (3.82),A (4.00)
+42,"Wheeler, Bruce Christopher",BENG 187B - BENG Design Project:Developmnt (A),FA22,138,42,78.9%,91.9%,4.72,A- (3.97),
+43,"Wheeler, Bruce Christopher",BENG 2 - Intro Computer Prog & MATLAB (A),FA22,15,9,100.0%,100.0%,4.94,B+ (3.44),
+44,"Mc Culloch, Andrew Douglas",BENG 87 - Freshman Seminar (A),FA22,19,11,100.0%,100.0%,0.86,A (4.00),
+45,"Omens, Jeffrey Howard",BENG 87 - Freshman Seminar (A),FA22,19,11,100.0%,100.0%,0.86,A (4.00),
+46,"Siuliukina, Nataliia",BENG 100 - Intro to Prob & Stats for BENG (A),S122,27,5,80.0%,60.0%,4.5,B (3.20),B+ (3.57)
+47,"Alexandrov, Ludmil B",BENG 100 - Intro to Prob & Stats for BENG (A),SP22,154,77,47.4%,68.4%,6.55,B+ (3.51),B+ (3.65)
+48,"Huang, Xiaohua",BENG 102 - Moleculr Components Living Sys (A),SP22,45,23,61.9%,57.1%,5.64,A- (3.95),B+ (3.65)
+49,"Fraley, Stephanie I.",BENG 103B - Bioengineering Mass Transfer (A),SP22,99,69,78.3%,83.8%,9.43,B+ (3.34),B (3.13)
+50,"Shi, Lingyan",BENG 112B - Fluid and Cell Biomechanics (A),SP22,45,32,87.5%,93.8%,5.94,B+ (3.61),A- (3.74)
+51,"Wheeler, Bruce Christopher",BENG 125 - Modeling & Computatio/Bioengr (A),SP22,147,61,61.4%,77.2%,6.89,B (3.27),B+ (3.52)
+52,"Mali, Prashant Gulab Ram",BENG 133 - Numerical Analys-Computatn Eng (A),SP22,38,36,94.3%,100.0%,8.61,B (3.21),B+ (3.57)
+53,"Cabrales, Pedro",BENG 140B - Bioengineering Physiology (A),SP22,76,54,90.6%,96.2%,5.71,B+ (3.46),B- (2.90)
+54,"Zhang, Kun",BENG 160 - Chem & Molecular BENG Techniqs (A),SP22,64,39,82.1%,92.3%,6.61,B+ (3.50),B+ (3.59)
+55,"Cabrales, Pedro",BENG 172 - Bioengineering Laboratory (A),SP22,43,21,80.0%,100.0%,8.5,A- (3.75),B+ (3.45)
+56,"Omens, Jeffrey Howard",BENG 172 - Bioengineering Laboratory (A),SP22,43,21,80.0%,100.0%,8.5,A- (3.75),B+ (3.45)
+57,"Bafna, Vineet",BENG 182 - Biological Databases (A),SP22,22,13,91.7%,100.0%,9.17,B+ (3.67),A- (3.71)
+58,"Kwon, Ester Jihae",BENG 186A - Principles/Biomaterials Design (A),SP22,105,100,88.0%,91.0%,6.42,B (3.12),B (3.01)
+59,"Wheeler, Bruce Christopher",BENG 187A - BENG Design Project: Planning (A),SP22,140,78,88.2%,98.7%,2.34,A- (3.99),B (3.00)
+60,"Wheeler, Bruce Christopher",BENG 187D - BENG Design Proj:Presentation (A),SP22,42,22,90.9%,90.9%,7.68,A- (3.82),A- (3.95)
+61,"Wheeler, Bruce Christopher",BENG 187D - BENG Design Proj:Presentation (B),SP22,41,18,88.2%,88.2%,5.21,A- (3.76),A- (3.90)
+62,"Wheeler, Bruce Christopher",BENG 187D - BENG Design Proj:Presentation (C),SP22,60,27,100.0%,100.0%,5.14,A- (3.92),A- (3.91)
+63,"Contijoch, Francisco",BENG 189 - Physiological Systems Eng (A),SP22,18,7,85.7%,100.0%,7.93,B (3.29),
+64,"Silva, Gabriel",BENG 189 - Physiological Systems Eng (A),SP22,18,7,85.7%,71.4%,7.93,B (3.29),
+65,"Engler, Adam J.",BENG 193 - Clinical Exp in Bioengineering (A),SP22,14,8,100.0%,100.0%,3.75,A- (3.88),
+66,"Omens, Jeffrey Howard",BENG 87 - Freshman Seminar (A),SP22,13,6,100.0%,100.0%,1.17,A (4.00),
+67,"Sah, Robert Lie-Yuan",BENG 1 - Introduction to Bioengineering (A),WI22,183,101,86.5%,88.3%,2.84,A- (3.79),
+68,"Valdez-Jasso, Daniela",BENG 112A - Soft Tissue Biomechanics (A),WI22,48,44,100.0%,100.0%,6.86,B+ (3.36),B (3.06)
+69,"Wheeler, Bruce Christopher",BENG 119B - Design Implmntatn Biomechanics (A),WI22,19,6,80.0%,100.0%,9.7,A (4.00),
+70,"Huang, Xiaohua",BENG 120 - Org Chem-Structural & Design (A),WI22,59,29,78.6%,67.9%,5.24,A- (3.74),B+ (3.44)
+71,"Haiman, Zachary Brandon",BENG 123 - Dynamic Simulatn in Bioeng (A),WI22,74,16,75.0%,87.5%,10.25,B (3.19),B- (2.94)
+72,"Wheeler, Bruce Christopher",BENG 126B - Design Implmnt Informatcs BENG (A),WI22,33,8,100.0%,100.0%,7.93,A- (3.86),A- (3.88)
+73,"Wheeler, Bruce Christopher",BENG 127B - Design Implmnt Molec.Syst BENG (A),WI22,13,3,100.0%,100.0%,6.5,A (4.00),
+74,"Subramaniam, Shankar",BENG 130 - Biotech Thermodynamics & Kinet (A),WI22,130,49,77.1%,83.3%,6.03,B+ (3.34),B (3.13)
+75,"Silva, Gabriel",BENG 140A - Bioengineering Physiology (A),WI22,96,39,79.5%,71.8%,5.17,B+ (3.47),B+ (3.49)
+76,"Wheeler, Bruce Christopher",BENG 152 - BioSystems Engineering Lab (A),WI22,21,10,100.0%,100.0%,9.7,B+ (3.60),A- (3.87)
+77,"Huang, Xiaohua",BENG 161B - Biochemical Engineering (A),WI22,61,21,81.0%,85.7%,7.83,B+ (3.48),B (3.22)
+78,"Wang, Yingxiao",BENG 168 - Biomolecular Engineering (A),WI22,98,25,80.0%,76.0%,8.1,B (3.16),B+ (3.59)
+79,"Wheeler, Bruce Christopher",BENG 169B - Design Implmntatn Tissue Engin (A),WI22,21,5,100.0%,100.0%,5.3,A (4.00),A- (3.88)
+80,"Wheeler, Bruce Christopher",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI22,36,7,100.0%,83.3%,5.5,A (4.00),A- (3.85)
+81,"Pevzner, Pavel Arkadjevich",BENG 181 - Molecular Sequence Analysis (A),WI22,19,15,93.3%,80.0%,15.97,B+ (3.57),
+82,"Cauwenberghs, Gert",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI22,61,31,90.3%,93.5%,8.63,B+ (3.42),B+ (3.62)
+83,"Wheeler, Bruce Christopher",BENG 187C - BENG Design Proj:Implemntation (A),WI22,144,42,95.0%,97.5%,5.3,A- (3.98),
+84,"Mc Culloch, Andrew Douglas",BENG 110 - Muskoloskeletal Biomechanics (A),FA21,87,83,80.7%,74.7%,7.13,B+ (3.34),B (3.12)
+85,"Wheeler, Bruce Christopher",BENG 119A - Design Develop.in Biomechanics (A),FA21,19,7,100.0%,100.0%,4.5,A (4.00),
+86,"Cauwenberghs, Gert",BENG 122A - Biosystems and Control (A),FA21,57,31,93.3%,100.0%,8.17,B+ (3.57),B+ (3.70)
+87,"Wheeler, Bruce Christopher",BENG 126A - Design Dev Bioinformatics BENG (A),FA21,32,7,83.3%,100.0%,4.5,A (4.00),A- (3.83)
+88,"Wheeler, Bruce Christopher",BENG 129A - Design Develp.Cell System BENG (A),FA21,5,4,100.0%,100.0%,6.5,A (4.00),
+89,"Smarr, Benjamin",BENG 134 - Measurements/Stats/Probability (A),FA21,32,21,60.0%,75.0%,8.5,B+ (3.32),B (3.17)
+90,"Wheeler, Bruce Christopher",BENG 135 - Biomedical Signals & Systems (A),FA21,18,16,87.5%,81.3%,7.63,B+ (3.47),
+91,"Lal, Ratnesh",BENG 141 - Biomedical Optics and Imaging (A),FA21,40,32,96.8%,90.3%,5.06,A (4.00),A- (3.92)
+92,"Lewis, Nathan E",BENG 161A - Bioreactor Engineering (A),FA21,63,37,88.6%,100.0%,6.38,A- (3.76),B+ (3.41)
+93,"Mali, Prashant Gulab Ram",BENG 162 - Biotechnology Laboratory (A),FA21,58,49,79.6%,67.3%,7.97,B+ (3.43),B+ (3.36)
+94,"Sah, Robert Lie-Yuan",BENG 166A - Cell and Tissue Engineering (A),FA21,71,43,66.7%,76.2%,5.33,A- (3.90),A- (3.85)
+95,"Wheeler, Bruce Christopher",BENG 169A - Design Developmnt Tissue Engin (A),FA21,21,9,100.0%,100.0%,5.17,A (4.00),A- (3.94)
+96,"Wheeler, Bruce Christopher",BENG 179A - Design Develop.Bioinstrumntatn (A),FA21,36,12,100.0%,90.0%,6.7,A (4.00),A- (3.87)
+97,"Benner, Christopher William",BENG 183 - Applied Genomic Technologies (A),FA21,76,27,92.6%,92.6%,5.83,A- (3.74),A- (3.75)
+98,"Wheeler, Bruce Christopher",BENG 187B - BENG Design Project:Developmnt (A),FA21,144,48,89.1%,93.3%,4.67,A- (3.93),
+99,"Wheeler, Bruce Christopher",BENG 2 - Intro Computer Prog & MATLAB (A),FA21,23,14,100.0%,100.0%,6.04,B+ (3.31),B+ (3.40)
+100,"Mc Culloch, Andrew Douglas",BENG 87 - Freshman Seminar (A),FA21,18,13,100.0%,100.0%,0.5,A- (3.80),
+101,"Omens, Jeffrey Howard",BENG 87 - Freshman Seminar (A),FA21,18,13,100.0%,100.0%,0.5,A- (3.80),
+102,"Alexandrov, Ludmil B",BENG 100 - Intro to Prob & Stats for BENG (A),SP21,118,56,81.8%,94.5%,6.25,B+ (3.58),B+ (3.53)
+103,"Huang, Xiaohua",BENG 102 - Moleculr Components Living Sys (A),SP21,52,24,78.3%,69.6%,5.02,A- (3.95),A- (3.83)
+104,"Fraley, Stephanie I.",BENG 103B - Bioengineering Mass Transfer (A),SP21,108,98,56.7%,42.3%,10.7,B+ (3.43),B+ (3.49)
+105,"Shi, Lingyan",BENG 112B - Fluid and Cell Biomechanics (A),SP21,38,33,100.0%,96.9%,6.81,B+ (3.55),A- (3.82)
+106,"Contijoch, Francisco",BENG 125 - Modeling & Computatio/Bioengr (A),SP21,159,154,73.4%,87.0%,6.71,B+ (3.53),B+ (3.67)
+107,"Coleman, Todd Prentice",BENG 130 - Biotech Thermodynamics & Kinet (A),SP21,28,15,66.7%,46.7%,7.57,B+ (3.36),A- (3.87)
+108,"Mali, Prashant Gulab Ram",BENG 133 - Numerical Analys-Computatn Eng (A),SP21,32,30,90.0%,96.7%,7.81,B (3.27),B+ (3.61)
+109,"Cabrales, Pedro",BENG 140B - Bioengineering Physiology (A),SP21,63,52,92.3%,92.3%,6.15,A- (3.71),A- (3.78)
+110,"Zhang, Kun",BENG 160 - Chem & Molecular BENG Techniqs (A),SP21,60,47,95.7%,87.0%,7.73,B+ (3.68),A- (3.98)
+111,"Cabrales, Pedro",BENG 172 - Bioengineering Laboratory (A),SP21,37,25,83.3%,95.2%,10.26,A- (3.83),A- (3.74)
+112,"Omens, Jeffrey Howard",BENG 172 - Bioengineering Laboratory (A),SP21,37,25,83.3%,90.5%,10.26,A- (3.83),A- (3.74)
+113,"Bafna, Vineet",BENG 182 - Biological Databases (A),SP21,30,13,76.9%,84.6%,8.65,A- (3.83),A- (3.80)
+114,"Kwon, Ester Jihae",BENG 186A - Principles/Biomaterials Design (A),SP21,113,105,83.8%,86.7%,6.67,B+ (3.39),B (3.28)
+115,"Wheeler, Bruce Christopher",BENG 187A - BENG Design Project: Planning (A),SP21,142,71,91.3%,97.1%,1.95,A- (3.95),
+116,"Wheeler, Bruce Christopher",BENG 187D - BENG Design Proj:Presentation (A),SP21,62,30,100.0%,96.6%,4.43,A (4.00),A- (3.96)
+117,"Wheeler, Bruce Christopher",BENG 187D - BENG Design Proj:Presentation (B),SP21,60,32,93.5%,93.5%,6.69,A (4.00),A- (3.99)
+118,"Wheeler, Bruce Christopher",BENG 187D - BENG Design Proj:Presentation (C),SP21,40,19,94.4%,94.4%,5.24,A (4.00),A- (3.94)
+119,"Contijoch, Francisco",BENG 189 - Physiological Systems Eng (A),SP21,17,17,94.1%,93.8%,11.44,B+ (3.64),
+120,"Engler, Adam J.",BENG 193 - Clinical Exp in Bioengineering (A),SP21,20,13,100.0%,100.0%,4.19,A- (3.92),A (4.00)
+121,"Engler, Adam J.",BENG 91 - Topics in Bioeng and Medicine (A),SP21,14,8,100.0%,100.0%,1.36,A (4.00),
+122,"Sah, Robert Lie-Yuan",BENG 1 - Introduction to Bioengineering (A),WI21,194,106,85.3%,90.1%,3.35,A- (3.92),
+123,"Mc Culloch, Andrew Douglas",BENG 110 - Muskoloskeletal Biomechanics (A),WI21,20,6,66.7%,66.7%,8.17,B+ (3.67),B+ (3.62)
+124,"Valdez-Jasso, Daniela",BENG 112A - Soft Tissue Biomechanics (A),WI21,18,16,100.0%,100.0%,6.5,B+ (3.36),
+125,"Valdez-Jasso, Daniela",BENG 112A - Soft Tissue Biomechanics (B),WI21,29,28,96.4%,100.0%,5.79,B+ (3.46),B+ (3.40)
+126,"Huang, Xiaohua",BENG 120 - Org Chem-Structural & Design (A),WI21,49,19,83.3%,72.2%,4.83,A- (3.76),A- (3.89)
+127,"Palsson, Bernhard O.",BENG 123 - Dynamic Simulatn in Bioeng (A),WI21,72,30,43.3%,60.0%,13.5,B+ (3.50),B (3.27)
+128,"Wheeler, Bruce Christopher",BENG 126B - Design Implmnt Informatcs BENG (A),WI21,26,4,75.0%,100.0%,6.5,A (4.00),A- (3.97)
+129,"Wheeler, Bruce Christopher",BENG 127B - Design Implmnt Molec.Syst BENG (A),WI21,26,9,100.0%,100.0%,7.61,A (4.00),A- (3.92)
+130,"Subramaniam, Shankar",BENG 130 - Biotech Thermodynamics & Kinet (A),WI21,154,77,81.1%,86.5%,7.07,B+ (3.55),B+ (3.52)
+131,"Silva, Gabriel",BENG 140A - Bioengineering Physiology (A),WI21,77,31,77.4%,74.2%,6.69,B+ (3.44),B+ (3.55)
+132,"Wheeler, Bruce Christopher",BENG 147B - Design Implmntatn Neural Engin (A),WI21,13,4,100.0%,100.0%,6.0,A (4.00),
+133,"Wheeler, Bruce Christopher",BENG 149B - Design Implmntn Vascular BENG (A),WI21,9,5,100.0%,100.0%,8.5,A (4.00),
+134,"Wheeler, Bruce Christopher",BENG 152 - BioSystems Engineering Lab (A),WI21,18,5,100.0%,100.0%,6.1,A (4.00),
+135,"Huang, Xiaohua",BENG 161B - Biochemical Engineering (A),WI21,69,24,82.6%,78.3%,7.11,B+ (3.65),A- (3.81)
+136,"Wang, Yingxiao",BENG 168 - Biomolecular Engineering (A),WI21,90,33,83.3%,76.7%,6.63,B+ (3.43),A- (3.79)
+137,"Wheeler, Bruce Christopher",BENG 169B - Design Implmntatn Tissue Engin (A),WI21,22,3,100.0%,100.0%,5.17,A (4.00),A- (3.95)
+138,"Wheeler, Bruce Christopher",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI21,35,8,87.5%,100.0%,3.75,A (4.00),A- (3.93)
+139,"Pevzner, Pavel Arkadjevich",BENG 181 - Molecular Sequence Analysis (A),WI21,35,18,76.5%,62.5%,17.44,B+ (3.42),B+ (3.63)
+140,"Cauwenberghs, Gert",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI21,68,32,93.3%,96.7%,9.77,B+ (3.44),A- (3.73)
+141,"Wheeler, Bruce Christopher",BENG 187C - BENG Design Proj:Implemntation (A),WI21,162,38,86.8%,100.0%,4.24,A- (3.94),
+142,"Zhong, Sheng",BENG 100 - Intro to Prob & Stats for BENG (A),FA20,28,12,91.7%,91.7%,4.17,B+ (3.67),B+ (3.69)
+143,"Schmid-Schoenbein, Geert W",BENG 110 - Muskoloskeletal Biomechanics (A),FA20,79,45,75.0%,69.8%,6.64,B (3.09),B (3.13)
+144,"Wheeler, Bruce Christopher",BENG 119A - Design Develop.in Biomechanics (A),FA20,24,7,100.0%,100.0%,1.5,A (4.00),A- (3.78)
+145,"Cauwenberghs, Gert",BENG 122A - Biosystems and Control (B),FA20,67,28,71.4%,85.7%,9.21,B+ (3.52),B (3.27)
+146,"Wheeler, Bruce Christopher",BENG 126A - Design Dev Bioinformatics BENG (A),FA20,26,8,100.0%,85.7%,3.64,A (4.00),A- (3.79)
+147,"Wheeler, Bruce Christopher",BENG 127A - Design Dev.Molec. Systems BENG (A),FA20,27,11,100.0%,100.0%,6.68,A- (3.90),A- (3.89)
+148,"Coleman, Todd Prentice",BENG 134 - Measurements/Stats/Probability (A),FA20,24,9,44.4%,44.4%,13.17,B- (2.78),B+ (3.59)
+149,"Wheeler, Bruce Christopher",BENG 135 - Biomedical Signals & Systems (A),FA20,17,5,100.0%,100.0%,4.9,A- (3.80),
+150,"Lal, Ratnesh",BENG 141 - Biomedical Optics and Imaging (A),FA20,31,20,85.0%,90.0%,4.1,A- (3.95),A- (3.88)
+151,"Wheeler, Bruce Christopher",BENG 147A - Design Develpmnt in Neural Eng (A),FA20,13,4,100.0%,100.0%,6.5,A (4.00),
+152,"Wheeler, Bruce Christopher",BENG 149A - Design Develpmnt Vascular BENG (A),FA20,9,4,100.0%,100.0%,5.83,A (4.00),
+153,"Fraley, Stephanie I.",BENG 161A - Bioreactor Engineering (A),FA20,71,40,87.2%,82.5%,9.58,B+ (3.49),B+ (3.58)
+154,"Mali, Prashant Gulab Ram",BENG 162 - Biotechnology Laboratory (A),FA20,69,27,72.0%,60.0%,9.22,B+ (3.44),B+ (3.52)
+155,"Sah, Robert Lie-Yuan",BENG 166A - Cell and Tissue Engineering (A),FA20,66,21,81.0%,76.2%,6.79,B+ (3.62),A- (3.98)
+156,"Wang, Yingxiao",BENG 168 - Biomolecular Engineering (B),FA20,16,8,100.0%,87.5%,5.5,B+ (3.50),
+157,"Wheeler, Bruce Christopher",BENG 169A - Design Developmnt Tissue Engin (A),FA20,22,3,100.0%,100.0%,5.17,A (4.00),A- (3.91)
+158,"Wheeler, Bruce Christopher",BENG 179A - Design Develop.Bioinstrumntatn (A),FA20,36,11,100.0%,100.0%,5.3,A (4.00),A- (3.93)
+159,"Zhong, Sheng",BENG 183 - Applied Genomic Technologies (A),FA20,82,34,69.7%,81.8%,7.68,B+ (3.70),A- (3.79)
+160,"Wheeler, Bruce Christopher",BENG 187B - BENG Design Project:Developmnt (A),FA20,162,52,84.0%,90.0%,5.44,A- (3.98),
+161,"Engler, Adam J.",BENG 193 - Clinical Exp in Bioengineering (A),FA20,11,7,100.0%,100.0%,2.79,A (4.00),
+162,"Wheeler, Bruce Christopher",BENG 2 - Intro Computer Prog & MATLAB (A),FA20,25,13,84.6%,100.0%,4.96,A- (3.85),B+ (3.49)
+163,"Alexandrov, Ludmil B",BENG 100 - Intro to Prob & Stats for BENG (A),SP20,153,64,70.3%,78.1%,7.31,B+ (3.62),A- (3.76)
+164,"Engler, Adam J.",BENG 102 - Moleculr Components Living Sys (A),SP20,51,25,64.0%,72.0%,6.66,B+ (3.44),B+ (3.66)
+165,"Fraley, Stephanie I.",BENG 103B - Bioengineering Mass Transfer (A),SP20,130,113,73.2%,75.9%,10.0,B (3.26),B+ (3.65)
+166,"Schmid-Schoenbein, Geert W",BENG 112B - Fluid and Cell Biomechanics (A),SP20,56,34,63.6%,58.1%,7.23,B (3.18),A- (3.85)
+167,"Contijoch, Francisco",BENG 125 - Modeling & Computatio/Bioengr (A),SP20,105,56,83.3%,83.0%,6.87,B+ (3.42),B+ (3.54)
+168,"Mali, Prashant Gulab Ram",BENG 133 - Numerical Analys-Computatn Eng (A),SP20,25,10,90.0%,70.0%,8.7,B+ (3.43),A- (3.79)
+169,"Cabrales, Pedro",BENG 140B - Bioengineering Physiology (A),SP20,72,30,96.7%,100.0%,7.63,B+ (3.56),A- (3.82)
+170,"Zhang, Kun",BENG 160 - Chem & Molecular BENG Techniqs (A),SP20,70,48,85.4%,93.8%,9.0,A- (3.75),A- (3.81)
+171,"Cabrales, Pedro",BENG 172 - Bioengineering Laboratory (A),SP20,57,34,96.4%,96.2%,12.26,B+ (3.61),A- (3.83)
+172,"Omens, Jeffrey Howard",BENG 172 - Bioengineering Laboratory (A),SP20,57,34,96.4%,96.2%,12.26,B+ (3.61),A- (3.83)
+173,"Bafna, Vineet",BENG 182 - Biological Databases (A),SP20,25,13,84.6%,84.6%,6.65,B+ (3.56),A- (3.77)
+174,"Kwon, Ester Jihae",BENG 186A - Principles/Biomaterials Design (A),SP20,130,95,89.4%,93.6%,6.61,B+ (3.56),A- (3.72)
+175,"Wheeler, Bruce Christopher",BENG 187A - BENG Design Project: Planning (A),SP20,165,104,92.9%,97.0%,1.62,A- (3.99),
+176,"Wheeler, Bruce Christopher",BENG 187D - BENG Design Proj:Presentation (A),SP20,55,28,96.3%,96.3%,4.5,A- (3.93),A- (3.93)
+177,"Wheeler, Bruce Christopher",BENG 187D - BENG Design Proj:Presentation (B),SP20,46,24,95.8%,95.8%,3.02,A- (3.95),A- (3.97)
+178,"Wheeler, Bruce Christopher",BENG 187D - BENG Design Proj:Presentation (C),SP20,50,16,93.8%,100.0%,4.75,A- (3.93),A- (3.92)
+179,"Contijoch, Francisco",BENG 189 - Physiological Systems Eng (A),SP20,32,12,90.9%,90.9%,7.67,B+ (3.67),B+ (3.59)
+180,"Engler, Adam J.",BENG 91 - Topics in Bioeng and Medicine (A),SP20,14,7,100.0%,100.0%,0.5,,
+181,"Sah, Robert Lie-Yuan",BENG 1 - Introduction to Bioengineering (A),WI20,164,79,76.0%,85.3%,4.47,A (4.00),
+182,"Valdez-Jasso, Daniela",BENG 112A - Soft Tissue Biomechanics (A),WI20,47,46,97.8%,97.8%,6.67,B+ (3.39),B (3.04)
+183,"Valdez-Jasso, Daniela",BENG 112A - Soft Tissue Biomechanics (B),WI20,22,22,95.5%,100.0%,6.05,B (3.14),B- (2.82)
+184,"Wheeler, Bruce Christopher",BENG 119B - Design Implmntatn Biomechanics (A),WI20,17,7,85.7%,85.7%,8.5,A- (3.83),
+185,"Subramaniam, Shankar",BENG 120 - Org Chem-Structural & Design (A),WI20,50,25,40.9%,70.0%,8.5,B (3.18),A- (3.73)
+186,"Wang, Yingxiao",BENG 120 - Org Chem-Structural & Design (A),WI20,50,25,40.9%,26.3%,8.5,B (3.18),A- (3.73)
+187,"Palsson, Bernhard O.",BENG 123 - Dynamic Simulatn in Bioeng (A),WI20,76,23,77.3%,86.4%,11.54,B (3.26),B- (2.93)
+188,"Hasty, Jeff M",BENG 125 - Modeling & Computatio/Bioengr (A),WI20,48,9,87.5%,62.5%,4.75,B+ (3.50),B+ (3.48)
+189,"Wheeler, Bruce Christopher",BENG 125 - Modeling & Computatio/Bioengr (A),WI20,48,9,87.5%,100.0%,4.75,B+ (3.50),B+ (3.48)
+190,"Wheeler, Bruce Christopher",BENG 126B - Design Implmnt Informatcs BENG (A),WI20,24,7,85.7%,100.0%,7.93,A- (3.86),A (4.00)
+191,"Wheeler, Bruce Christopher",BENG 129B - Design Implmnt Cell Systm BENG (A),WI20,22,5,80.0%,80.0%,4.9,A (4.00),A- (3.95)
+192,"Coleman, Todd Prentice",BENG 130 - Biotech Thermodynamics & Kinet (A),WI20,164,62,46.6%,59.6%,7.78,B (3.15),B+ (3.42)
+193,"Wheeler, Bruce Christopher",BENG 139B - Design Implmntn Molecular BENG (A),WI20,6,3,66.7%,100.0%,10.5,A (4.00),
+194,"Silva, Gabriel",BENG 140A - Bioengineering Physiology (A),WI20,86,32,96.6%,96.6%,6.43,B+ (3.37),B+ (3.59)
+195,"Wheeler, Bruce Christopher",BENG 147B - Design Implmntatn Neural Engin (A),WI20,13,4,100.0%,100.0%,10.5,A (4.00),
+196,"Wheeler, Bruce Christopher",BENG 149B - Design Implmntn Vascular BENG (A),WI20,16,6,100.0%,100.0%,11.17,A- (3.83),
+197,"Wheeler, Bruce Christopher",BENG 152 - BioSystems Engineering Lab (B),WI20,18,5,100.0%,100.0%,5.7,A (4.00),
+198,"Lewis, Nathan E",BENG 161B - Biochemical Engineering (A),WI20,49,22,68.2%,72.7%,7.74,B+ (3.43),B (3.09)
+199,"Wang, Yingxiao",BENG 168 - Biomolecular Engineering (A),WI20,106,32,89.7%,75.9%,7.26,B+ (3.39),B+ (3.67)
+200,"Wheeler, Bruce Christopher",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI20,41,9,85.7%,100.0%,4.21,A (4.00),A- (3.85)
+201,"Pevzner, Pavel Arkadjevich",BENG 181 - Molecular Sequence Analysis (A),WI20,23,11,90.9%,72.7%,15.41,B+ (3.45),B+ (3.37)
+202,"Cauwenberghs, Gert",BENG 186B - Princpls/Bioinstrumentatn Desn (C),WI20,42,17,62.5%,100.0%,10.88,B (3.19),B (3.25)
+203,"Alvarez-Cabanillas, Miguel",BENG 186B - Princpls/Bioinstrumentatn Desn (D),WI20,24,9,66.7%,33.3%,11.83,B (3.00),B- (2.94)
+204,"Wheeler, Bruce Christopher",BENG 187C - BENG Design Proj:Implemntation (A),WI20,151,61,86.7%,96.7%,5.62,A- (3.89),
+205,"Gough, David A.",BENG 87 - Freshman Seminar (A),WI20,9,7,57.1%,57.1%,0.79,,
+206,"Mc Culloch, Andrew Douglas",BENG 110 - Muskoloskeletal Biomechanics (A),FA19,47,44,83.7%,83.7%,6.73,B (3.19),B- (3.00)
+207,"Mc Culloch, Andrew Douglas",BENG 110 - Muskoloskeletal Biomechanics (B),FA19,49,43,90.7%,93.0%,6.31,B+ (3.42),B (3.10)
+208,"Wheeler, Bruce Christopher",BENG 119A - Design Develop.in Biomechanics (A),FA19,17,6,100.0%,100.0%,8.5,A- (3.80),
+209,"Gough, David A.",BENG 122A - Biosystems and Control (A),FA19,49,18,35.3%,12.5%,5.06,B+ (3.44),B+ (3.58)
+210,"Gough, David A.",BENG 122A - Biosystems and Control (B),FA19,37,10,22.2%,11.1%,3.83,B+ (3.56),B+ (3.59)
+211,"Wheeler, Bruce Christopher",BENG 126A - Design Dev Bioinformatics BENG (A),FA19,24,8,50.0%,100.0%,3.83,B+ (3.67),A- (3.85)
+212,"Wheeler, Bruce Christopher",BENG 129A - Design Develp.Cell System BENG (A),FA19,22,3,66.7%,100.0%,5.83,A (4.00),A- (3.95)
+213,"Coleman, Todd Prentice",BENG 134 - Measurements/Stats/Probability (A),FA19,23,12,75.0%,91.7%,11.33,C+ (2.67),B+ (3.30)
+214,"Wheeler, Bruce Christopher",BENG 135 - Biomedical Signals & Systems (A),FA19,33,6,100.0%,100.0%,5.5,A (4.00),B+ (3.62)
+215,"Lal, Ratnesh",BENG 141 - Biomedical Optics and Imaging (A),FA19,20,17,94.1%,88.2%,5.44,B+ (3.59),A- (3.76)
+216,"Fraley, Stephanie I.",BENG 161A - Bioreactor Engineering (A),FA19,52,36,97.2%,94.4%,8.67,B+ (3.40),B+ (3.30)
+217,"Mali, Prashant Gulab Ram",BENG 162 - Biotechnology Laboratory (A),FA19,50,42,81.0%,82.9%,7.77,A- (3.73),B+ (3.54)
+218,"Sah, Robert Lie-Yuan",BENG 166A - Cell and Tissue Engineering (A),FA19,61,47,11.1%,13.6%,8.95,B (3.29),B+ (3.47)
+219,"Wheeler, Bruce Christopher",BENG 179A - Design Develop.Bioinstrumntatn (A),FA19,44,6,80.0%,100.0%,4.5,A (4.00),B+ (3.68)
+220,"Zhong, Sheng",BENG 183 - Applied Genomic Technologies (A),FA19,83,37,88.9%,88.9%,5.28,A- (3.72),B+ (3.55)
+221,"Wheeler, Bruce Christopher",BENG 187B - BENG Design Project:Developmnt (A),FA19,151,33,77.4%,96.8%,5.43,A- (3.90),
+222,"Wheeler, Bruce Christopher",BENG 2 - Intro Computer Prog & MATLAB (A),FA19,11,3,100.0%,100.0%,8.5,B+ (3.33),
+223,"Mc Culloch, Andrew Douglas",BENG 87 - Freshman Seminar (A),FA19,18,9,100.0%,100.0%,0.5,A (4.00),
+224,"Abbasi, Shaghayegh",BENG 100 - Stat Reasoning Bioeng Applns (A),S119,30,9,66.7%,100.0%,7.39,B (3.11),B- (2.70)
+225,"Alexandrov, Ludmil B",BENG 100 - Stat Reasoning Bioeng Applns (A),SP19,174,80,60.0%,80.0%,7.38,B (3.14),B- (2.87)
+226,"Huang, Xiaohua",BENG 102 - Moleculr Components Living Sys (A),SP19,41,22,70.0%,55.0%,6.9,B+ (3.50),B+ (3.41)
+227,"Fraley, Stephanie I.",BENG 103B - Bioengineering Mass Transfer (A),SP19,119,106,86.8%,89.6%,8.82,B (3.28),B- (2.97)
+228,"Engler, Adam J.",BENG 112B - Fluid and Cell Biomechanics (A),SP19,64,58,94.6%,100.0%,7.18,B+ (3.30),B (3.24)
+229,"Contijoch, Francisco",BENG 125 - Modeling & Computatio/Bioengr (A),SP19,136,36,100.0%,96.8%,6.5,B+ (3.42),B+ (3.48)
+230,"Wheeler, Bruce Christopher",BENG 125 - Modeling & Computatio/Bioengr (A),SP19,136,36,100.0%,96.8%,6.5,B+ (3.42),B+ (3.48)
+231,"Mali, Prashant Gulab Ram",BENG 133 - Numerical Analys-Computatn Eng (A),SP19,43,33,78.1%,93.8%,7.69,B (3.21),B (3.27)
+232,"Broccard, Frederic Denis",BENG 140B - Bioengineering Physiology (A),SP19,33,8,100.0%,87.5%,7.0,B+ (3.50),B- (2.79)
+233,"Alvarez-Cabanillas, Miguel",BENG 140B - Bioengineering Physiology (B),SP19,49,28,46.2%,15.4%,6.5,B+ (3.44),B+ (3.48)
+234,"Zhang, Kun",BENG 160 - Chem & Molecular BENG Techniqs (A),SP19,56,32,78.1%,84.4%,7.85,A- (3.74),B+ (3.38)
+235,"Cabrales, Pedro",BENG 172 - Bioengineering Laboratory (A),SP19,51,17,92.9%,100.0%,10.13,B+ (3.67),B+ (3.41)
+236,"Omens, Jeffrey Howard",BENG 172 - Bioengineering Laboratory (A),SP19,51,17,92.9%,100.0%,10.13,B+ (3.67),B+ (3.41)
+237,"Bafna, Vineet",BENG 182 - Biological Databases (A),SP19,26,7,71.4%,85.7%,7.36,B (3.14),B (3.24)
+238,"Kwon, Ester Jihae",BENG 186A - Principles/Biomaterials Design (A),SP19,101,71,82.6%,92.8%,6.38,B+ (3.49),B (3.26)
+239,"Wheeler, Bruce Christopher",BENG 187A - BENG Design Project: Planning (A),SP19,153,47,83.3%,95.2%,1.09,A (4.00),
+240,"Wheeler, Bruce Christopher",BENG 187D - BENG Design Proj:Presentation (A),SP19,53,12,100.0%,100.0%,4.68,A- (3.91),B+ (3.61)
+241,"Wheeler, Bruce Christopher",BENG 187D - BENG Design Proj:Presentation (B),SP19,55,9,88.9%,100.0%,3.39,A (4.00),B+ (3.61)
+242,"Contijoch, Francisco",BENG 189 - Physiological Systems Eng (A),SP19,17,17,94.1%,100.0%,6.97,B (3.24),
+243,"Engler, Adam J.",BENG 193 - Clinical Bioengineering (A),SP19,19,9,100.0%,100.0%,6.5,A (4.00),
+244,"Sah, Robert Lie-Yuan",BENG 87 - Freshman Seminar (A),SP19,11,3,100.0%,100.0%,0.5,,
+245,"Omens, Jeffrey Howard",BENG 87 - Freshman Seminar (C),SP19,19,10,100.0%,100.0%,0.7,,
+246,"Chien, Shu",BENG 1 - Introduction to Bioengineering (A),WI19,170,104,79.6%,93.7%,2.79,B+ (3.67),
+247,"Mc Culloch, Andrew Douglas",BENG 112A - Tissue Biomechanics (A),WI19,70,15,85.7%,78.6%,7.07,B+ (3.50),B (3.15)
+248,"Subramaniam, Shankar",BENG 120 - Org Chem-Structural & Design (A),WI19,53,25,50.0%,65.2%,8.25,B+ (3.33),B+ (3.38)
+249,"Wang, Yingxiao",BENG 120 - Org Chem-Structural & Design (A),WI19,52,25,50.0%,54.2%,8.25,B+ (3.33),B+ (3.38)
+250,"Palsson, Bernhard O.",BENG 123 - Dynamic Simulatn in Bioeng (A),WI19,61,18,76.5%,58.8%,11.72,B+ (3.56),B (3.01)
+251,"Wheeler, Bruce Christopher",BENG 126B - Design Implmnt Informatcs BENG (A),WI19,20,3,66.7%,100.0%,5.17,A (4.00),B+ (3.65)
+252,"Subramaniam, Shankar",BENG 130 - Biotech Thermodynamics & Kinet (A),WI19,184,55,55.8%,69.2%,6.5,B (3.25),B+ (3.58)
+253,"Cabrales, Pedro",BENG 140A - Bioengineering Physiology (A),WI19,88,51,92.2%,96.1%,6.03,B+ (3.40),B (3.24)
+254,"Wheeler, Bruce Christopher",BENG 148B - Design Implmntatn Cardiac BENG (A),WI19,8,3,100.0%,100.0%,11.5,B+ (3.50),
+255,"Wheeler, Bruce Christopher",BENG 152 - BioSystems Engineering Lab (A),WI19,32,11,100.0%,100.0%,6.1,A (4.00),A- (3.77)
+256,"Huang, Xiaohua",BENG 161B - Biochemical Engineering (A),WI19,40,24,100.0%,87.5%,7.2,A- (3.88),B+ (3.68)
+257,"Lewis, Nathan E",BENG 161B - Biochemical Engineering (B),WI19,24,3,33.3%,66.7%,5.17,B+ (3.67),B (3.16)
+258,"Wang, Yingxiao",BENG 168 - Biomolecular Engineering (A),WI19,75,20,95.0%,100.0%,6.61,B+ (3.63),A- (3.74)
+259,"Wheeler, Bruce Christopher",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI19,59,3,50.0%,100.0%,9.5,B+ (3.50),A- (3.87)
+260,"Pevzner, Pavel Arkadjevich",BENG 181 - Molecular Sequence Analysis (A),WI19,26,8,100.0%,85.7%,19.07,A- (3.86),B (3.21)
+261,"Cauwenberghs, Gert",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI19,69,16,93.8%,80.0%,9.0,B+ (3.38),B+ (3.33)
+262,"Wheeler, Bruce Christopher",BENG 187C - BENG Design Proj:Implemntation (A),WI19,130,13,92.3%,100.0%,5.12,A- (3.92),
+263,"Mc Culloch, Andrew Douglas",BENG 110 - Foundation of Biomechanics (A),FA18,63,33,96.8%,93.5%,5.79,B+ (3.58),B (3.25)
+264,"Valdez-Jasso, Daniela",BENG 110 - Foundation of Biomechanics (B),FA18,47,15,76.9%,69.2%,8.04,B+ (3.62),B (3.13)
+265,"Metallo, Christian Michael",BENG 122A - Biosystems and Control (A),FA18,59,18,94.1%,88.2%,6.38,A- (3.71),B+ (3.47)
+266,"Wheeler, Bruce Christopher",BENG 126A - Design Dev Bioinformatics BENG (A),FA18,19,4,100.0%,100.0%,8.5,B+ (3.67),
+267,"Coleman, Todd Prentice",BENG 134 - Measurements/Stats/Probability (A),FA18,32,18,87.5%,93.8%,17.25,B (3.19),B+ (3.63)
+268,"Wheeler, Bruce Christopher",BENG 135 - Biomedical Signals & Systems (A),FA18,19,3,66.7%,100.0%,6.5,B+ (3.67),
+269,"Lal, Ratnesh",BENG 141 - Biomedical Optics and Imaging (A),FA18,32,29,93.1%,89.7%,4.98,A- (3.76),B+ (3.66)
+270,"Wheeler, Bruce Christopher",BENG 148A - Design Developmnt Cardiac BENG (A),FA18,8,3,100.0%,100.0%,11.5,B+ (3.50),
+271,"Fraley, Stephanie I.",BENG 161A - Bioreactor Engineering (A),FA18,67,55,90.9%,89.1%,9.52,B+ (3.31),B (3.02)
+272,"Mali, Prashant Gulab Ram",BENG 162 - Biotechnology Laboratory (A),FA18,66,57,84.2%,89.5%,8.68,B+ (3.53),B (3.16)
+273,"Sah, Robert Lie-Yuan",BENG 166A - Cell and Tissue Engineering (A),FA18,71,42,14.6%,20.0%,9.85,B (3.22),B+ (3.40)
+274,"Wheeler, Bruce Christopher",BENG 169A - Design Developmnt Tissue Engin (A),FA18,14,3,100.0%,100.0%,3.5,A (4.00),
+275,"Wheeler, Bruce Christopher",BENG 179A - Design Develop.Bioinstrumntatn (A),FA18,58,7,66.7%,66.7%,8.21,A (4.00),A- (3.93)
+276,"Zhong, Sheng",BENG 183 - Applied Genomic Technologies (A),FA18,73,28,69.2%,76.0%,3.02,B+ (3.59),B+ (3.54)
+277,"Wheeler, Bruce Christopher",BENG 187B - BENG Design Project:Developmnt (A),FA18,130,32,76.7%,89.7%,6.91,A (4.00),
+278,"Engler, Adam J.",BENG 193 - Clinical Bioengineering (A),FA18,26,9,100.0%,100.0%,7.39,A (4.00),A- (3.88)
+279,"Wheeler, Bruce Christopher",BENG 2 - Intro Computer Prog & MATLAB (A),FA18,19,12,72.7%,72.7%,6.5,B+ (3.33),
+280,"Mc Culloch, Andrew Douglas",BENG 87 - Freshman Seminar (A),FA18,19,14,90.9%,100.0%,0.83,B+ (3.50),
+281,"Omens, Jeffrey Howard",BENG 87 - Freshman Seminar (A),FA18,20,14,90.9%,100.0%,0.83,B+ (3.50),
+282,"Abbasi, Shaghayegh",BENG 100 - Stat Reasoning Bioeng Applns (A),S118,16,3,66.7%,66.7%,13.83,D+ (1.67),
+283,"Alexandrov, Ludmil B",BENG 100 - Stat Reasoning Bioeng Applns (A),SP18,163,74,76.4%,90.1%,7.2,B (3.18),B- (2.91)
+284,"Huang, Xiaohua",BENG 102 - Moleculr Components Living Sys (A),SP18,51,20,63.2%,57.9%,5.03,B+ (3.53),A- (3.72)
+285,"Fraley, Stephanie I.",BENG 103B - Bioengineering Mass Transfer (A),SP18,119,110,87.3%,92.7%,8.74,B+ (3.32),B- (3.00)
+286,"Mc Culloch, Andrew Douglas",BENG 112B - Fluid and Cell Biomechanics (A),SP18,59,18,55.6%,55.6%,4.94,B+ (3.44),A- (3.82)
+287,"Hasty, Jeff M",BENG 125 - Modeling & Computatio/Bioengr (A),SP18,131,41,81.1%,72.2%,6.66,B+ (3.32),B+ (3.51)
+288,"Wheeler, Bruce Christopher",BENG 125 - Modeling & Computatio/Bioengr (A),SP18,131,41,81.1%,75.7%,6.66,B+ (3.32),B+ (3.51)
+289,"Mali, Prashant Gulab Ram",BENG 133 - Numerical Analys-Computatn Eng (A),SP18,23,23,91.3%,100.0%,6.67,B+ (3.43),B+ (3.57)
+290,"Silva, Gabriel",BENG 140B - Bioengineering Physiology (A),SP18,40,18,70.6%,70.6%,5.32,B+ (3.56),B+ (3.37)
+291,"Devor, Anna",BENG 140B - Bioengineering Physiology (B),SP18,30,11,100.0%,100.0%,3.41,B+ (3.64),A- (3.78)
+292,"Zhang, Kun",BENG 160 - Chem & Molecular BENG Techniqs (A),SP18,63,57,80.7%,94.7%,8.01,B+ (3.54),B+ (3.36)
+293,"Cabrales, Pedro",BENG 172 - Bioengineering Laboratory (A),SP18,45,12,83.3%,100.0%,10.0,B+ (3.55),B+ (3.56)
+294,"Omens, Jeffrey Howard",BENG 172 - Bioengineering Laboratory (A),SP18,45,12,83.3%,100.0%,10.0,B+ (3.55),B+ (3.56)
+295,"Bafna, Vineet",BENG 182 - Biological Databases (A),SP18,20,6,83.3%,100.0%,8.5,B- (2.83),B (3.25)
+296,"Bansal, Vikas",BENG 182 - Biological Databases (C),SP18,15,4,75.0%,50.0%,6.5,B (3.00),
+297,"Dequach, Jessica A",BENG 186A - Principles/Biomaterials Design (A),SP18,105,78,63.2%,64.5%,6.03,B (3.23),B (3.18)
+298,"Wheeler, Bruce Christopher",BENG 187A - BENG Design Project: Planning (A),SP18,130,43,100.0%,97.4%,1.83,A- (3.97),
+299,"Wheeler, Bruce Christopher",BENG 187D - BENG Design Proj:Presentation (A),SP18,23,5,100.0%,100.0%,6.5,A (4.00),A- (3.90)
+300,"Wheeler, Bruce Christopher",BENG 187D - BENG Design Proj:Presentation (B),SP18,58,16,75.0%,93.8%,6.0,A- (3.88),A- (3.90)
+301,"Wheeler, Bruce Christopher",BENG 187D - BENG Design Proj:Presentation (C),SP18,48,16,92.9%,100.0%,3.83,A (4.00),A- (3.90)
+302,"Gough, David A.",BENG 189 - Physiological Systems Eng (A),SP18,31,8,37.5%,25.0%,4.5,B+ (3.38),A- (3.72)
+303,"Silva, Gabriel",BENG 189 - Physiological Systems Eng (A),SP18,31,8,37.5%,75.0%,4.5,B+ (3.38),A- (3.72)
+304,"Omens, Jeffrey Howard",BENG 87 - Freshman Seminar (A),SP18,13,8,100.0%,100.0%,1.25,,
+305,"Chien, Shu",BENG 1 - Introduction to Bioengineering (A),WI18,198,124,73.7%,88.8%,3.36,A- (3.80),
+306,"Omens, Jeffrey Howard",BENG 112A - Tissue Biomechanics (A),WI18,62,21,90.0%,90.0%,5.87,B+ (3.58),B+ (3.52)
+307,"Wheeler, Bruce Christopher",BENG 119B - Design Implmntatn Biomechanics (A),WI18,24,5,60.0%,100.0%,3.7,A (4.00),A (4.00)
+308,"Subramaniam, Shankar",BENG 120 - Org Chem-Structural & Design (A),WI18,51,26,68.0%,80.0%,7.92,B- (2.88),B+ (3.39)
+309,"Wang, Yingxiao",BENG 120 - Org Chem-Structural & Design (A),WI18,50,26,68.0%,64.0%,7.92,B- (2.88),B+ (3.39)
+310,"Palsson, Bernhard O.",BENG 123 - Dynamic Simulatn in Bioeng (A),WI18,67,20,66.7%,66.7%,11.91,B+ (3.50),B+ (3.36)
+311,"Wheeler, Bruce Christopher",BENG 128B - Design Implmnt Genetic Circuit (A),WI18,21,9,88.9%,100.0%,9.75,A- (3.89),A (4.00)
+312,"Huang, Xiaohua",BENG 130 - Biotech Thermodynamics & Kinet (A),WI18,169,99,73.7%,64.6%,6.54,B+ (3.42),B+ (3.43)
+313,"Cabrales, Pedro",BENG 140A - Bioengineering Physiology (A),WI18,49,26,91.7%,91.7%,7.83,B+ (3.58),B+ (3.59)
+314,"Sparks, Steven Ray",BENG 140A - Bioengineering Physiology (C),WI18,29,10,66.7%,33.3%,6.06,B (3.11),B+ (3.60)
+315,"Wheeler, Bruce Christopher",BENG 147B - Design Implmntatn Neural Engin (A),WI18,17,4,75.0%,100.0%,9.5,A- (3.75),
+316,"Wheeler, Bruce Christopher",BENG 152 - BioSystems Engineering Lab (A),WI18,15,9,100.0%,100.0%,6.94,A- (3.88),
+317,"Metallo, Christian Michael",BENG 161B - Biochemical Engineering (A),WI18,47,15,86.7%,93.3%,7.57,B+ (3.33),B+ (3.40)
+318,"Lewis, Nathan E",BENG 161B - Biochemical Engineering (B),WI18,11,6,83.3%,100.0%,7.5,B (3.17),
+319,"Wang, Yingxiao",BENG 168 - Biomolecular Engineering (A),WI18,72,20,100.0%,100.0%,7.2,B+ (3.65),A- (3.71)
+320,"Wheeler, Bruce Christopher",BENG 169B - Design Implmntatn Tissue Engin (A),WI18,27,5,100.0%,100.0%,7.7,A (4.00),A (4.00)
+321,"Pevzner, Pavel Arkadjevich",BENG 181 - Molecular Sequence Analysis (A),WI18,39,19,70.6%,70.6%,17.61,B- (2.89),B+ (3.30)
+322,"Cauwenberghs, Gert",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI18,40,12,81.8%,90.9%,9.0,B (3.17),B+ (3.39)
+323,"Alvarez-Cabanillas, Miguel",BENG 186B - Princpls/Bioinstrumentatn Desn (C),WI18,20,10,100.0%,87.5%,10.75,B (3.00),B+ (3.38)
+324,"Wheeler, Bruce Christopher",BENG 187C - BENG Design Proj:Implemntation (A),WI18,129,33,87.5%,96.8%,4.38,A- (3.97),
+325,"Gough, David A.",BENG 87 - Freshman Seminar (A),WI18,9,5,100.0%,100.0%,0.9,,
+326,"Engler, Adam J.",BENG 87 - Freshman Seminar (B),WI18,14,8,100.0%,100.0%,0.5,,
+327,"Mc Culloch, Andrew Douglas",BENG 110 - Foundation of Biomechanics (A),FA17,90,44,62.8%,48.8%,6.45,B+ (3.36),A- (3.73)
+328,"Wheeler, Bruce Christopher",BENG 119A - Design Develop.in Biomechanics (A),FA17,25,6,80.0%,100.0%,1.7,B+ (3.67),A- (3.88)
+329,"Gough, David A.",BENG 122A - Biosystems and Control (A),FA17,62,11,30.0%,20.0%,5.7,B+ (3.30),B+ (3.31)
+330,"Wheeler, Bruce Christopher",BENG 127A - Design Dev.Molec. Systems BENG (A),FA17,13,3,66.7%,100.0%,1.17,A (4.00),
+331,"Wheeler, Bruce Christopher",BENG 128A - Design Dev.Genetc Circuit BENG (A),FA17,20,7,100.0%,100.0%,6.5,A (4.00),A- (3.85)
+332,"Bartsch, Dirk-Uwe Guenther",BENG 134 - Measurements/Stats/Probability (A),FA17,20,12,36.4%,33.3%,6.5,B+ (3.50),B+ (3.55)
+333,"Wheeler, Bruce Christopher",BENG 135 - Biomedical Signals & Systems (A),FA17,33,4,100.0%,100.0%,8.5,B (3.25),B+ (3.53)
+334,"Lal, Ratnesh",BENG 141 - Biomedical Optics and Imaging (A),FA17,18,17,100.0%,100.0%,5.79,A- (3.71),
+335,"Wheeler, Bruce Christopher",BENG 147A - Design Develpmnt in Neural Eng (A),FA17,16,4,100.0%,75.0%,6.5,A (4.00),
+336,"Fraley, Stephanie I.",BENG 161A - Bioreactor Engineering (A),FA17,61,41,97.6%,97.6%,8.5,B+ (3.54),B- (2.92)
+337,"Mali, Prashant Gulab Ram",BENG 162 - Biotechnology Laboratory (A),FA17,59,44,100.0%,100.0%,6.08,A- (3.77),A- (3.75)
+338,"Sah, Robert Lie-Yuan",BENG 166A - Cell and Tissue Engineering (A),FA17,64,39,36.1%,41.7%,8.23,B+ (3.69),B+ (3.46)
+339,"Wheeler, Bruce Christopher",BENG 169A - Design Developmnt Tissue Engin (A),FA17,26,6,100.0%,100.0%,5.3,A- (3.75),A- (3.95)
+340,"Zhong, Sheng",BENG 183 - Applied Genomic Technologies (A),FA17,83,70,72.9%,77.1%,3.9,B+ (3.43),A- (3.75)
+341,"Wheeler, Bruce Christopher",BENG 187B - BENG Design Project:Developmnt (A),FA17,129,32,86.2%,100.0%,6.43,A- (3.90),A- (3.88)
+342,"Engler, Adam J.",BENG 193 - Clinical Bioengineering (A),FA17,20,4,100.0%,100.0%,4.5,A (4.00),A- (3.91)
+343,"Wheeler, Bruce Christopher",BENG 2 - Intro Computer Prog & MATLAB (A),FA17,25,13,84.6%,92.3%,7.27,B+ (3.50),B+ (3.35)
+344,"Mc Culloch, Andrew Douglas",BENG 87 - Freshman Seminar (A),FA17,20,12,91.7%,91.7%,0.5,A (4.00),
+345,"Omens, Jeffrey Howard",BENG 87 - Freshman Seminar (A),FA17,20,12,91.7%,91.7%,0.5,A (4.00),
+346,"Schmid-Schoenbein, Geert W",BENG 87 - Freshman Seminar (B),FA17,18,12,66.7%,83.3%,1.0,A (4.00),
+347,"Coleman, Todd Prentice",BENG 100 - Stat Reasoning Bioeng Applns (A),SP17,150,53,65.4%,78.8%,8.81,B (3.08),B- (2.90)
+348,"Huang, Xiaohua",BENG 102 - Moleculr Components Living Sys (A),SP17,35,11,81.8%,54.5%,4.14,A- (3.73),B+ (3.61)
+349,"Fraley, Stephanie I.",BENG 103B - Bioengineering Mass Transfer (A),SP17,112,100,85.0%,89.0%,8.15,B+ (3.31),B- (2.84)
+350,"Engler, Adam J.",BENG 112B - Fluid and Cell Biomechanics (A),SP17,44,36,88.9%,91.7%,6.33,B+ (3.32),B (3.25)
+351,"Wheeler, Bruce Christopher",BENG 125 - Modeling & Computatio/Bioengr (A),SP17,140,34,86.7%,80.0%,6.87,B+ (3.57),B+ (3.48)
+352,"Mali, Prashant Gulab Ram",BENG 133 - Numerical Analys-Computatn Eng (A),SP17,33,28,78.6%,89.3%,5.71,B+ (3.39),B+ (3.49)
+353,"Silva, Gabriel",BENG 140B - Bioengineering Physiology (A),SP17,81,24,83.3%,83.3%,4.85,B+ (3.33),B (3.29)
+354,"Zhang, Kun",BENG 160 - Chem & Molecular BENG Techniqs (A),SP17,58,30,89.3%,92.9%,6.13,A- (3.79),B+ (3.64)
+355,"Cabrales, Pedro",BENG 172 - Bioengineering Laboratory (A),SP17,38,20,94.4%,94.4%,8.03,B+ (3.59),B+ (3.57)
+356,"Omens, Jeffrey Howard",BENG 172 - Bioengineering Laboratory (A),SP17,38,20,94.4%,100.0%,8.03,B+ (3.59),B+ (3.57)
+357,"Bafna, Vineet",BENG 182 - Biological Databases (A),SP17,42,17,88.2%,88.2%,8.23,B (3.25),B- (2.95)
+358,"Christman, Karen",BENG 186A - Principles/Biomaterials Design (A),SP17,114,83,84.1%,90.2%,6.23,B+ (3.39),B (3.04)
+359,"Dequach, Jessica A",BENG 186A - Principles/Biomaterials Design (A),SP17,114,84,85.5%,85.5%,6.25,B+ (3.37),B (3.04)
+360,"Wheeler, Bruce Christopher",BENG 187A - BENG Design Project: Planning (A),SP17,130,58,94.0%,98.0%,1.25,A- (3.77),
+361,"Wheeler, Bruce Christopher",BENG 187D - BENG Design Proj:Presentation (A),SP17,122,28,88.9%,92.6%,6.59,A (4.00),A- (3.85)
+362,"Gough, David A.",BENG 189 - Physiological Systems Eng (A),SP17,32,4,50.0%,25.0%,5.5,A- (3.75),B+ (3.69)
+363,"Silva, Gabriel",BENG 189 - Physiological Systems Eng (A),SP17,31,4,50.0%,100.0%,5.5,A- (3.75),B+ (3.69)
+364,"Engler, Adam J.",BENG 192 - Senior Sem. in Bioengineering (A),SP17,18,7,100.0%,100.0%,2.1,A (4.00),
+365,"Omens, Jeffrey Howard",BENG 87 - Freshman Seminar (A),SP17,20,12,100.0%,100.0%,0.5,,
+366,"Chien, Shu",BENG 1 - Introduction to Bioengineering (A),WI17,196,94,84.5%,90.5%,2.31,A- (3.71),
+367,"Mc Culloch, Andrew Douglas",BENG 112A - Tissue Biomechanics (A),WI17,45,12,83.3%,66.7%,5.67,B+ (3.42),B+ (3.60)
+368,"Cabrales, Pedro",BENG 119B - Design Implmntatn Biomechanics (A),WI17,16,5,100.0%,100.0%,5.5,A (4.00),
+369,"Wheeler, Bruce Christopher",BENG 119B - Design Implmntatn Biomechanics (A),WI17,16,5,100.0%,75.0%,5.5,A (4.00),
+370,"Subramaniam, Shankar",BENG 120 - Org Chem-Structural & Design (A),WI17,40,20,88.2%,88.2%,6.26,B (3.29),B+ (3.62)
+371,"Wang, Yingxiao",BENG 120 - Org Chem-Structural & Design (A),WI17,40,19,87.5%,86.7%,6.5,B+ (3.31),B+ (3.62)
+372,"Palsson, Bernhard O.",BENG 123 - Dynamic Simulatn in Bioeng (A),WI17,73,15,73.3%,53.3%,9.57,B+ (3.50),B (3.14)
+373,"Fraley, Stephanie I.",BENG 127B - Design Implmnt Molec.Syst BENG (A),WI17,17,4,100.0%,100.0%,8.5,A (4.00),
+374,"Wang, Yingxiao",BENG 127B - Design Implmnt Molec.Syst BENG (A),WI17,17,4,100.0%,100.0%,8.5,A (4.00),
+375,"Wheeler, Bruce Christopher",BENG 127B - Design Implmnt Molec.Syst BENG (A),WI17,17,4,100.0%,100.0%,8.5,A (4.00),
+376,"Cauwenberghs, Gert",BENG 128B - Design Implmnt Genetic Circuit (A),WI17,13,3,100.0%,100.0%,10.5,A (4.00),
+377,"Wheeler, Bruce Christopher",BENG 128B - Design Implmnt Genetic Circuit (A),WI17,13,3,100.0%,100.0%,10.5,A (4.00),
+378,"Subramaniam, Shankar",BENG 130 - Biotech Thermodynamics & Kinet (A),WI17,184,56,82.7%,86.5%,6.54,B+ (3.42),B+ (3.34)
+379,"Cabrales, Pedro",BENG 140A - Bioengineering Physiology (A),WI17,79,50,85.7%,85.7%,6.99,B+ (3.59),B+ (3.69)
+380,"Mc Culloch, Andrew Douglas",BENG 148B - Design Implmntatn Cardiac BENG (A),WI17,13,4,75.0%,100.0%,8.5,B+ (3.50),
+381,"Wheeler, Bruce Christopher",BENG 148B - Design Implmntatn Cardiac BENG (A),WI17,13,4,75.0%,100.0%,8.5,B+ (3.50),
+382,"Engler, Adam J.",BENG 149B - Design Implmntn Vascular BENG (A),WI17,12,3,66.7%,100.0%,15.17,B+ (3.67),
+383,"Wheeler, Bruce Christopher",BENG 149B - Design Implmntn Vascular BENG (A),WI17,12,3,66.7%,100.0%,15.17,B+ (3.67),
+384,"Wheeler, Bruce Christopher",BENG 152 - BioSystems Engineering Lab (A),WI17,29,7,100.0%,100.0%,5.93,B+ (3.67),B+ (3.57)
+385,"Metallo, Christian Michael",BENG 161B - Biochemical Engineering (A),WI17,57,26,95.8%,91.7%,6.95,B+ (3.45),B+ (3.38)
+386,"Wang, Yingxiao",BENG 168 - Biomolecular Engineering (A),WI17,72,16,100.0%,93.3%,7.03,A- (3.80),B+ (3.59)
+387,"Gough, David A.",BENG 169B - Design Implmntatn Tissue Engin (A),WI17,15,3,100.0%,100.0%,0.0,,
+388,"Sah, Robert Lie-Yuan",BENG 169B - Design Implmntatn Tissue Engin (A),WI17,14,3,100.0%,100.0%,0.0,,
+389,"Wheeler, Bruce Christopher",BENG 169B - Design Implmntatn Tissue Engin (A),WI17,14,3,100.0%,100.0%,0.0,,
+390,"Wheeler, Bruce Christopher",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI17,12,5,100.0%,100.0%,11.3,A- (3.80),
+391,"Pevzner, Pavel Arkadjevich",BENG 181 - Molecular Sequence Analysis (A),WI17,46,39,82.1%,82.1%,16.82,B (3.03),B (3.28)
+392,"Cauwenberghs, Gert",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI17,71,22,81.0%,76.2%,8.31,B (3.15),B+ (3.32)
+393,"Wheeler, Bruce Christopher",BENG 187C - BENG Design Proj:Implemntation (A),WI17,124,31,71.4%,85.7%,6.92,A- (3.85),
+394,"Gough, David A.",BENG 87 - Freshman Seminar (A),WI17,15,12,100.0%,100.0%,1.05,A (4.00),
+395,"Engler, Adam J.",BENG 87 - Freshman Seminar (B),WI17,17,7,100.0%,100.0%,0.79,,
+396,"Mc Culloch, Andrew Douglas",BENG 110 - Foundation of Biomechanics (A),FA16,104,51,83.3%,87.5%,5.96,B+ (3.43),B+ (3.68)
+397,"Cabrales, Pedro",BENG 119A - Design Develop.in Biomechanics (A),FA16,16,5,75.0%,100.0%,4.5,A (4.00),
+398,"Wheeler, Bruce Christopher",BENG 119A - Design Develop.in Biomechanics (A),FA16,16,5,75.0%,100.0%,4.5,A (4.00),
+399,"Metallo, Christian Michael",BENG 122A - Biosystems and Control (A),FA16,81,20,84.2%,57.9%,6.5,B+ (3.32),B+ (3.42)
+400,"Fraley, Stephanie I.",BENG 127A - Design Dev.Molec. Systems BENG (A),FA16,17,6,100.0%,100.0%,6.83,A (4.00),
+401,"Wang, Yingxiao",BENG 127A - Design Dev.Molec. Systems BENG (A),FA16,17,6,100.0%,83.3%,6.83,A (4.00),
+402,"Wheeler, Bruce Christopher",BENG 127A - Design Dev.Molec. Systems BENG (A),FA16,17,6,100.0%,83.3%,6.83,A (4.00),
+403,"Cauwenberghs, Gert",BENG 128A - Design Dev.Genetc Circuit BENG (A),FA16,13,4,100.0%,100.0%,12.5,B+ (3.50),
+404,"Wheeler, Bruce Christopher",BENG 128A - Design Dev.Genetc Circuit BENG (A),FA16,13,4,100.0%,100.0%,12.5,B+ (3.50),
+405,"Coleman, Todd Prentice",BENG 134 - Measurements/Stats/Probability (A),FA16,30,14,84.6%,76.9%,6.65,B (3.15),A- (3.78)
+406,"Wheeler, Bruce Christopher",BENG 135 - Biomedical Signals & Systems (A),FA16,30,4,100.0%,100.0%,7.5,B (3.25),B+ (3.37)
+407,"Lal, Ratnesh",BENG 141 - Biomedical Optics and Imaging (A),FA16,34,31,83.3%,76.7%,4.17,B+ (3.54),B+ (3.34)
+408,"Coleman, Todd Prentice",BENG 147A - Design Develpmnt in Neural Eng (A),FA16,13,3,100.0%,100.0%,7.5,B+ (3.50),
+409,"Subramaniam, Shankar",BENG 147A - Design Develpmnt in Neural Eng (A),FA16,13,3,100.0%,100.0%,7.5,B+ (3.50),
+410,"Wheeler, Bruce Christopher",BENG 147A - Design Develpmnt in Neural Eng (A),FA16,13,3,100.0%,100.0%,7.5,B+ (3.50),
+411,"Mc Culloch, Andrew Douglas",BENG 148A - Design Developmnt Cardiac BENG (A),FA16,14,3,100.0%,66.7%,8.5,A (4.00),
+412,"McVeigh, Elliot R.",BENG 148A - Design Developmnt Cardiac BENG (A),FA16,14,3,100.0%,100.0%,8.5,A (4.00),
+413,"Wheeler, Bruce Christopher",BENG 148A - Design Developmnt Cardiac BENG (A),FA16,14,3,100.0%,100.0%,8.5,A (4.00),
+414,"Engler, Adam J.",BENG 149A - Design Develpmnt Vascular BENG (A),FA16,12,3,100.0%,100.0%,9.83,A (4.00),
+415,"Wheeler, Bruce Christopher",BENG 149A - Design Develpmnt Vascular BENG (A),FA16,12,3,100.0%,100.0%,9.83,A (4.00),
+416,"Fraley, Stephanie I.",BENG 161A - Bioreactor Engineering (A),FA16,57,53,81.1%,84.9%,9.54,B (3.25),B (3.12)
+417,"Mali, Prashant Gulab Ram",BENG 162 - Biotechnology Laboratory (A),FA16,49,47,91.5%,100.0%,6.23,B+ (3.60),B+ (3.66)
+418,"Varghese, Shyni",BENG 166A - Cell and Tissue Engineering (A),FA16,52,49,79.6%,40.8%,5.56,B+ (3.45),B+ (3.32)
+419,"Gough, David A.",BENG 169A - Design Developmnt Tissue Engin (A),FA16,16,4,100.0%,100.0%,4.5,A (4.00),
+420,"Sah, Robert Lie-Yuan",BENG 169A - Design Developmnt Tissue Engin (A),FA16,16,4,100.0%,100.0%,4.5,A (4.00),
+421,"Wheeler, Bruce Christopher",BENG 169A - Design Developmnt Tissue Engin (A),FA16,16,4,100.0%,100.0%,4.5,A (4.00),
+422,"Cabrales, Pedro",BENG 179A - Design Develop.Bioinstrumntatn (B),FA16,11,5,100.0%,100.0%,5.0,A (4.00),
+423,"Wheeler, Bruce Christopher",BENG 179A - Design Develop.Bioinstrumntatn (B),FA16,11,5,100.0%,100.0%,5.0,A (4.00),
+424,"Zhong, Sheng",BENG 183 - Applied Genomic Technologies (A),FA16,68,48,81.3%,89.6%,4.2,B+ (3.50),B+ (3.50)
+425,"Wheeler, Bruce Christopher",BENG 187B - BENG Design Project:Developmnt (B),FA16,125,33,84.4%,96.9%,7.79,A- (3.90),
+426,"Christman, Karen",BENG 191 - Senior Sem I: Professnl Issues (A),FA16,6,3,100.0%,100.0%,0.5,,
+427,"Engler, Adam J.",BENG 193 - Clinical Bioengineering (A),FA16,14,7,100.0%,100.0%,9.5,A (4.00),
+428,"Wheeler, Bruce Christopher",BENG 2 - Intro Computer Prog & MATLAB (A),FA16,33,22,94.7%,94.7%,7.66,A- (3.79),B+ (3.30)
+429,"Varghese, Shyni",BENG 87 - Freshman Seminar (A),FA16,20,16,100.0%,92.9%,0.93,A (4.00),
+430,"Schmid-Schoenbein, Geert W",BENG 87 - Freshman Seminar (B),FA16,18,13,88.9%,100.0%,1.25,A (4.00),
+431,"Mc Culloch, Andrew Douglas",BENG 87 - Freshman Seminar (C),FA16,18,11,87.5%,100.0%,0.75,A (4.00),
+432,"Omens, Jeffrey Howard",BENG 87 - Freshman Seminar (C),FA16,18,9,85.7%,100.0%,0.79,A (4.00),
+433,"Coleman, Todd Prentice",BENG 100 - Stat Reasoning Bioeng Applns (A),SP16,154,51,56.3%,56.3%,9.33,B (3.00),C+ (2.64)
+434,"Engler, Adam J.",BENG 102 - Moleculr Components Living Sys (A),SP16,29,6,100.0%,100.0%,5.83,B+ (3.67),B (3.21)
+435,"Fraley, Stephanie I.",BENG 103B - Bioengineering Mass Transfer (A),SP16,95,88,76.1%,51.1%,8.52,B+ (3.32),B (3.14)
+436,"Engler, Adam J.",BENG 112B - Fluid and Cell Biomechanics (A),SP16,50,47,87.2%,100.0%,7.9,B (3.27),B (3.14)
+437,"Wheeler, Bruce Christopher",BENG 125 - Modeling & Computatio/Bioengr (A),SP16,131,52,85.4%,95.8%,6.5,B+ (3.37),B+ (3.48)
+438,"Mali, Prashant Gulab Ram",BENG 133 - Numerical Analys-Computatn Eng (A),SP16,40,34,72.7%,81.8%,6.5,B (3.24),B+ (3.42)
+439,"Silva, Gabriel",BENG 140B - Bioengineering Physiology (A),SP16,98,38,91.7%,97.2%,5.33,B (3.29),B (3.16)
+440,"Zhang, Kun",BENG 160 - Chem & Molecular BENG Techniqs (A),SP16,49,39,60.5%,60.5%,6.01,B+ (3.68),B+ (3.60)
+441,"Cabrales, Pedro",BENG 172 - Bioengineering Laboratory (A),SP16,39,20,100.0%,94.4%,10.17,B+ (3.53),B+ (3.44)
+442,"Omens, Jeffrey Howard",BENG 172 - Bioengineering Laboratory (A),SP16,39,20,100.0%,94.4%,10.17,B+ (3.53),B+ (3.44)
+443,"Bafna, Vineet",BENG 182 - Biological Databases (A),SP16,46,19,86.7%,80.0%,10.9,B (3.13),B- (2.98)
+444,"Christman, Karen",BENG 186A - Principles/Biomaterials Design (A),SP16,160,107,84.0%,86.8%,6.4,B (3.17),B- (2.99)
+445,"Cabrales, Pedro",BENG 187A - BENG Design Project: Planning (A),SP16,126,59,88.7%,96.2%,1.42,A- (3.88),A- (3.85)
+446,"Cabrales, Pedro",BENG 187D - BENG Design Proj:Presentation (A),SP16,114,29,92.9%,96.4%,7.62,A- (3.79),A (4.00)
+447,"Chien, Shu",BENG 1 - Introduction to Bioengineering (A),WI16,183,139,92.6%,94.1%,2.72,A (4.00),
+448,"Lal, Ratnesh",BENG 112A - Tissue Biomechanics (A),WI16,55,50,60.0%,58.0%,5.26,B+ (3.63),B+ (3.33)
+449,"Huang, Xiaohua",BENG 120 - Org Chem-Structural & Design (A),WI16,29,15,100.0%,64.3%,5.21,B+ (3.57),B+ (3.69)
+450,"Wang, Yingxiao",BENG 120 - Org Chem-Structural & Design (A),WI16,29,15,100.0%,100.0%,5.21,B+ (3.57),B+ (3.69)
+451,"Palsson, Bernhard O.",BENG 123 - Dynamic Simulatn in Bioeng (A),WI16,56,23,78.3%,73.9%,10.15,B+ (3.30),B+ (3.38)
+452,"Cabrales, Pedro",BENG 129B - Design Implmnt Cell Systm BENG (A),WI16,17,4,66.7%,66.7%,20.5,A (4.00),
+453,"Engler, Adam J.",BENG 129B - Design Implmnt Cell Systm BENG (A),WI16,17,4,66.7%,66.7%,0.5,A (4.00),
+454,"Huang, Xiaohua",BENG 130 - Biotech Thermodynamics & Kinet (A),WI16,184,64,72.1%,52.5%,6.53,B (3.29),B+ (3.59)
+455,"Cabrales, Pedro",BENG 140A - Bioengineering Physiology (A),WI16,119,41,97.5%,92.5%,7.37,B+ (3.38),B+ (3.49)
+456,"Cabrales, Pedro",BENG 147B - Design Implmntatn Neural Engin (A),WI16,23,6,83.3%,100.0%,8.9,A (4.00),B+ (3.68)
+457,"Cauwenberghs, Gert",BENG 147B - Design Implmntatn Neural Engin (A),WI16,23,6,83.3%,100.0%,8.9,A (4.00),B+ (3.68)
+458,"Wheeler, Bruce Christopher",BENG 152 - BioSystems Engineering Lab (A),WI16,35,4,100.0%,100.0%,7.0,A- (3.75),B+ (3.57)
+459,"Zhang, Kun",BENG 161B - Biochemical Engineering (A),WI16,51,42,85.4%,82.9%,7.39,B+ (3.43),B+ (3.57)
+460,"Wang, Yingxiao",BENG 168 - Biomolecular Engineering (A),WI16,54,21,90.5%,76.2%,6.8,B+ (3.52),B+ (3.69)
+461,"Cabrales, Pedro",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI16,15,3,100.0%,100.0%,11.83,A (4.00),
+462,"Gough, David A.",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI16,15,3,100.0%,100.0%,10.5,A (4.00),
+463,"Pevzner, Pavel Arkadjevich",BENG 181 - Molecular Sequence Analysis (A),WI16,32,11,80.0%,80.0%,18.9,B+ (3.40),B (3.06)
+464,"Omens, Jeffrey Howard",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI16,72,30,100.0%,92.9%,7.69,B+ (3.62),B+ (3.43)
+465,"Cabrales, Pedro",BENG 187C - BENG Design Proj:Implemntation (A),WI16,114,22,90.9%,90.9%,7.3,A- (3.94),
+466,"Engler, Adam J.",BENG 87 - Freshman Seminar (A),WI16,20,18,94.4%,100.0%,2.38,A (4.00),
+467,"Gough, David A.",BENG 87 - Freshman Seminar (B),WI16,19,11,100.0%,90.0%,1.3,A (4.00),
+468,"Mc Culloch, Andrew Douglas",BENG 110 - Foundation of Biomechanics (A),FA15,112,39,80.6%,69.4%,7.68,B+ (3.50),A- (3.77)
+469,"Cabrales, Pedro",BENG 119A - Design Develop.in Biomechanics (A),FA15,13,3,66.7%,100.0%,6.5,B+ (3.67),
+470,"Sah, Robert Lie-Yuan",BENG 119A - Design Develop.in Biomechanics (A),FA15,13,3,66.7%,100.0%,6.5,B+ (3.67),
+471,"Metallo, Christian Michael",BENG 122A - Biosystems and Control (A),FA15,64,20,94.7%,100.0%,7.03,B+ (3.58),B+ (3.49)
+472,"Cabrales, Pedro",BENG 128A - Design Dev.Genetc Circuit BENG (A),FA15,8,3,100.0%,100.0%,11.5,A (4.00),
+473,"Palsson, Bernhard O.",BENG 128A - Design Dev.Genetc Circuit BENG (A),FA15,8,3,100.0%,100.0%,11.5,A (4.00),
+474,"Cabrales, Pedro",BENG 129A - Design Develp.Cell System BENG (A),FA15,17,4,100.0%,75.0%,5.83,A (4.00),
+475,"Engler, Adam J.",BENG 129A - Design Develp.Cell System BENG (A),FA15,16,4,100.0%,100.0%,5.83,A (4.00),
+476,"Mali, Prashant Gulab Ram",BENG 129A - Design Develp.Cell System BENG (A),FA15,16,4,100.0%,100.0%,5.83,A (4.00),
+477,"Coleman, Todd Prentice",BENG 134 - Measurements/Stats/Probability (A),FA15,40,20,84.2%,68.4%,9.5,B (3.05),B (3.23)
+478,"Cabrales, Pedro",BENG 139A - Design Develpmt Molecular BENG (A),FA15,12,5,75.0%,100.0%,6.0,B+ (3.50),
+479,"Gough, David A.",BENG 139A - Design Develpmt Molecular BENG (A),FA15,12,5,75.0%,75.0%,6.0,B+ (3.50),
+480,"Mali, Prashant Gulab Ram",BENG 139A - Design Develpmt Molecular BENG (A),FA15,12,5,75.0%,100.0%,6.0,B+ (3.50),
+481,"Lal, Ratnesh",BENG 141 - Biomedical Optics and Imaging (A),FA15,38,34,88.2%,85.3%,5.56,A- (3.79),B+ (3.50)
+482,"Cabrales, Pedro",BENG 147A - Design Develpmnt in Neural Eng (A),FA15,24,5,100.0%,100.0%,8.1,A (4.00),A- (3.81)
+483,"Cauwenberghs, Gert",BENG 147A - Design Develpmnt in Neural Eng (A),FA15,25,5,100.0%,100.0%,8.1,A (4.00),A- (3.81)
+484,"Cabrales, Pedro",BENG 148A - Design Developmnt Cardiac BENG (A),FA15,13,4,100.0%,100.0%,7.17,A (4.00),
+485,"Fraley, Stephanie I.",BENG 161A - Bioreactor Engineering (A),FA15,55,52,96.2%,94.2%,9.15,B (3.16),B- (2.84)
+486,"Mali, Prashant Gulab Ram",BENG 162 - Biotechnology Laboratory (A),FA15,58,26,81.0%,95.2%,6.9,B+ (3.60),B+ (3.53)
+487,"Mercola, Mark",BENG 162 - Biotechnology Laboratory (A),FA15,58,27,81.0%,95.2%,6.9,B+ (3.60),B+ (3.53)
+488,"Varghese, Shyni",BENG 166A - Cell and Tissue Engineering (A),FA15,57,53,96.2%,98.1%,5.56,A- (3.72),B (3.22)
+489,"Cabrales, Pedro",BENG 179A - Design Develop.Bioinstrumntatn (A),FA15,15,4,100.0%,100.0%,8.5,A (4.00),
+490,"Gough, David A.",BENG 179A - Design Develop.Bioinstrumntatn (A),FA15,16,4,100.0%,100.0%,8.5,A (4.00),
+491,"Zhong, Sheng",BENG 183 - Applied Genomic Technologies (A),FA15,57,57,84.2%,87.7%,4.43,B+ (3.42),A- (3.75)
+492,"Cabrales, Pedro",BENG 187B - BENG Design Project:Developmnt (B),FA15,114,35,96.8%,96.8%,7.47,A- (3.75),
+493,"Mercola, Mark",BENG 187B - BENG Design Project:Developmnt (B),FA15,115,36,96.8%,77.4%,7.47,A- (3.75),
+494,"Engler, Adam J.",BENG 193 - Clinical Bioengineering (A),FA15,12,3,100.0%,100.0%,2.5,B+ (3.67),
+495,"Wheeler, Bruce Christopher",BENG 2 - Intro Computer Prog & MATLAB (A),FA15,30,13,70.0%,80.0%,5.3,B+ (3.45),B+ (3.55)
+496,"Varghese, Shyni",BENG 87 - Freshman Seminar (A),FA15,14,10,100.0%,88.9%,0.5,A (4.00),
+497,"Mc Culloch, Andrew Douglas",BENG 87 - Freshman Seminar (B),FA15,15,7,100.0%,100.0%,0.5,A (4.00),
+498,"Omens, Jeffrey Howard",BENG 87 - Freshman Seminar (B),FA15,15,7,100.0%,100.0%,0.5,A (4.00),
+499,"Schmid-Schoenbein, Geert W",BENG 87 - Freshman Seminar (C),FA15,18,11,90.9%,100.0%,2.32,A (4.00),
+500,"Coleman, Todd Prentice",BENG 100 - Intro to Bioengineering Design (A),SP15,146,62,53.4%,67.2%,10.95,B (3.14),B (3.08)
+501,"Huang, Xiaohua",BENG 102 - Moleculr Components Living Sys (A),SP15,37,12,91.7%,91.7%,5.33,B+ (3.50),A- (3.79)
+502,"Sah, Robert Lie-Yuan",BENG 103B - Bioengineering Mass Transfer (A),SP15,121,42,75.6%,51.2%,9.27,B (3.23),B+ (3.31)
+503,"Engler, Adam J.",BENG 112B - Biomechanics II (A),SP15,59,48,93.8%,100.0%,9.01,B+ (3.38),B (3.20)
+504,"Hasty, Jeff M",BENG 125 - Modeling & Computatio/Bioengr (A),SP15,119,26,91.3%,95.7%,7.02,B+ (3.65),B (3.08)
+505,"Silva, Gabriel",BENG 140B - Bioengineering Physiology (A),SP15,62,23,100.0%,100.0%,7.0,A- (3.75),A- (3.72)
+506,"Zhang, Kun",BENG 160 - Chem & Molecular BENG Techniqs (A),SP15,58,29,96.3%,96.3%,5.04,B+ (3.64),B+ (3.57)
+507,"Wang, Yingxiao",BENG 168 - Biomolecular Engineering (A),SP15,60,18,94.4%,94.4%,6.15,B+ (3.38),B+ (3.61)
+508,"Cabrales, Pedro",BENG 172 - Bioengineering Laboratory (A),SP15,55,16,81.3%,100.0%,11.79,B+ (3.67),B+ (3.31)
+509,"Omens, Jeffrey Howard",BENG 172 - Bioengineering Laboratory (A),SP15,55,16,86.7%,100.0%,11.73,B+ (3.64),B+ (3.31)
+510,"Christman, Karen",BENG 186A - Principles/Biomaterials Design (A),SP15,106,23,69.6%,69.6%,6.77,B+ (3.61),B- (2.97)
+511,"Cabrales, Pedro",BENG 187A - BENG Design Project: Planning (A),SP15,114,32,93.3%,96.7%,1.54,A- (3.80),
+512,"Cabrales, Pedro",BENG 187D - BENG Design Proj:Presentation (A),SP15,101,17,100.0%,100.0%,4.5,A- (3.94),A- (3.92)
+513,"Chien, Shu",BENG 1 - Introduction to Bioengineering (A),WI15,185,88,84.8%,92.4%,2.19,B+ (3.67),
+514,"Omens, Jeffrey Howard",BENG 109 - BENG Statics & Dynamics (A),WI15,82,40,67.6%,94.6%,6.5,B+ (3.57),B (3.23)
+515,"Lal, Ratnesh",BENG 112A - Biomechanics I (A),WI15,55,51,82.0%,68.0%,4.73,A- (3.78),A- (3.97)
+516,"Subramaniam, Shankar",BENG 120 - Org Chem-Structural & Design (A),WI15,41,18,82.4%,94.1%,7.68,B+ (3.41),B+ (3.66)
+517,"Metallo, Christian Michael",BENG 122A - Biosystems and Control (A),WI15,54,10,100.0%,88.9%,6.06,A- (3.78),B+ (3.34)
+518,"Palsson, Bernhard O.",BENG 123 - Systems Biology & Bioenginring (A),WI15,59,25,75.0%,79.2%,9.8,B (3.23),B- (2.99)
+519,"Cabrales, Pedro",BENG 128B - Design Implmnt Genetic Circuit (A),WI15,8,3,100.0%,100.0%,7.17,A (4.00),
+520,"Wang, Yingxiao",BENG 128B - Design Implmnt Genetic Circuit (A),WI15,8,3,100.0%,100.0%,7.17,A (4.00),
+521,"Zhong, Sheng",BENG 128B - Design Implmnt Genetic Circuit (A),WI15,8,3,100.0%,100.0%,7.17,A (4.00),
+522,"Subramaniam, Shankar",BENG 130 - Biotech Thermodynamics & Kinet (A),WI15,129,41,87.5%,95.0%,7.05,B+ (3.58),B+ (3.59)
+523,"Zhong, Sheng",BENG 130 - Biotech Thermodynamics & Kinet (A),WI15,129,40,87.2%,66.7%,6.96,B+ (3.56),B+ (3.59)
+524,"Cabrales, Pedro",BENG 140A - Bioengineering Physiology (A),WI15,82,30,85.2%,100.0%,7.35,A- (3.81),B+ (3.61)
+525,"Cabrales, Pedro",BENG 148B - Design Implmntatn Cardiac BENG (A),WI15,13,3,100.0%,100.0%,18.5,A (4.00),
+526,"Mercola, Mark",BENG 148B - Design Implmntatn Cardiac BENG (A),WI15,13,3,100.0%,100.0%,18.5,A (4.00),
+527,"Varghese, Shyni",BENG 148B - Design Implmntatn Cardiac BENG (A),WI15,13,3,100.0%,0.0%,18.5,A (4.00),
+528,"Metallo, Christian Michael",BENG 161B - Biochemical Engineering (A),WI15,56,15,86.7%,93.3%,7.7,B+ (3.47),B+ (3.34)
+529,"Zhang, Kun",BENG 161B - Biochemical Engineering (A),WI15,56,15,86.7%,60.0%,7.7,B+ (3.47),B+ (3.34)
+530,"Cabrales, Pedro",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI15,12,4,75.0%,100.0%,3.0,A (4.00),
+531,"Cauwenberghs, Gert",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI15,12,4,75.0%,100.0%,3.0,A (4.00),
+532,"Coleman, Todd Prentice",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI15,12,4,75.0%,75.0%,3.0,A (4.00),
+533,"Pevzner, Pavel Arkadjevich",BENG 181 - Molecular Sequence Analysis (A),WI15,14,7,100.0%,100.0%,13.93,B (3.29),
+534,"Cauwenberghs, Gert",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI15,56,21,95.2%,90.5%,9.2,B (3.25),B+ (3.52)
+535,"Cabrales, Pedro",BENG 187C - BENG Design Proj:Implemntation (A),WI15,101,18,88.9%,94.4%,6.15,A (4.00),A- (3.92)
+536,"Christman, Karen",BENG 191 - Senior Sem I: Professnl Issues (A),WI15,32,9,77.8%,88.9%,1.39,A (4.00),
+537,"Hasty, Jeff M",BENG 2 - Intro Computer Prog & MATLAB (A),WI15,29,10,100.0%,70.0%,3.83,A- (3.80),B+ (3.45)
+538,"Gough, David A.",BENG 87 - Freshman Seminar (A),WI15,17,7,83.3%,83.3%,0.5,A (4.00),
+539,"Engler, Adam J.",BENG 87 - Freshman Seminar (B),WI15,17,9,100.0%,100.0%,0.5,,
+540,"Hall, David J",BENG 101 - Foundations/Biomedical Imaging (A),FA14,64,52,86.3%,74.5%,5.21,B+ (3.37),B (3.05)
+541,"Lal, Ratnesh",BENG 101 - Foundations/Biomedical Imaging (A),FA14,64,53,86.5%,82.7%,5.15,B+ (3.38),B (3.05)
+542,"Mc Culloch, Andrew Douglas",BENG 110 - Continuum Mechanics (A),FA14,54,25,87.0%,91.3%,8.95,B+ (3.50),B+ (3.36)
+543,"Cabrales, Pedro",BENG 119A - Design Develop.in Biomechanics (A),FA14,10,5,100.0%,100.0%,6.5,A (4.00),
+544,"Cabrales, Pedro",BENG 127A - Design Dev.Molec. Systems BENG (A),FA14,10,3,100.0%,100.0%,6.5,A (4.00),
+545,"Huang, Xiaohua",BENG 127A - Design Dev.Molec. Systems BENG (A),FA14,10,3,100.0%,100.0%,6.5,A (4.00),
+546,"Zhang, Kun",BENG 127A - Design Dev.Molec. Systems BENG (A),FA14,10,3,100.0%,100.0%,6.5,A (4.00),
+547,"Cabrales, Pedro",BENG 129A - Design Develp.Cell System BENG (A),FA14,8,3,100.0%,100.0%,6.5,B+ (3.67),
+548,"Schmid-Schoenbein, Geert W",BENG 129A - Design Develp.Cell System BENG (A),FA14,8,3,100.0%,100.0%,6.5,B+ (3.67),
+549,"Metallo, Christian Michael",BENG 161A - Bioreactor Engineering (B),FA14,56,12,90.0%,100.0%,6.7,A- (3.70),B (3.20)
+550,"Mercola, Mark",BENG 162 - Biotechnology Laboratory (A),FA14,55,10,100.0%,100.0%,6.5,A- (3.88),A- (3.87)
+551,"Wang, Yingxiao",BENG 162 - Biotechnology Laboratory (A),FA14,52,10,100.0%,87.5%,6.5,A- (3.88),A- (3.87)
+552,"Varghese, Shyni",BENG 166A - Cell and Tissue Engineering (A),FA14,72,21,64.7%,17.6%,6.85,B (3.24),B+ (3.36)
+553,"Cabrales, Pedro",BENG 179A - Design Develop.Bioinstrumntatn (A),FA14,12,3,100.0%,100.0%,2.5,A (4.00),
+554,"Cauwenberghs, Gert",BENG 179A - Design Develop.Bioinstrumntatn (A),FA14,12,3,100.0%,100.0%,2.5,A (4.00),
+555,"Coleman, Todd Prentice",BENG 179A - Design Develop.Bioinstrumntatn (A),FA14,12,4,100.0%,100.0%,1.83,A (4.00),
+556,"Bafna, Vineet",BENG 182 - Biological Databases (A),FA14,20,16,85.7%,78.6%,7.79,B+ (3.54),B (3.14)
+557,"Zhong, Sheng",BENG 183 - Applied Genomic Technologies (A),FA14,35,34,75.0%,78.1%,3.85,B+ (3.41),A- (3.75)
+558,"Cabrales, Pedro",BENG 187B - BENG Design Project:Developmnt (A),FA14,101,18,87.5%,93.8%,5.63,A- (3.94),A- (3.92)
+559,"Mc Culloch, Andrew Douglas",BENG 87 - Freshman Seminar (A),FA14,18,10,88.9%,77.8%,3.0,A (4.00),
+560,"Varghese, Shyni",BENG 87 - Freshman Seminar (B),FA14,13,8,85.7%,85.7%,0.5,A (4.00),
+561,"Schmid-Schoenbein, Geert W",BENG 87 - Freshman Seminar (C),FA14,18,14,83.3%,100.0%,0.83,A (4.00),
+562,"Coleman, Todd Prentice",BENG 100 - Intro to Bioengineering Design (A),SP14,137,42,70.7%,82.9%,9.47,B (3.10),B (3.06)
+563,"Mc Culloch, Andrew Douglas",BENG 103B - Bioengineering Mass Transfer (A),SP14,101,31,73.3%,80.0%,8.98,B (3.27),B+ (3.38)
+564,"Sah, Robert Lie-Yuan",BENG 103B - Bioengineering Mass Transfer (A),SP14,101,28,64.3%,60.7%,9.39,B (3.25),B+ (3.38)
+565,"Engler, Adam J.",BENG 112B - Biomechanics II (A),SP14,51,20,100.0%,100.0%,6.82,B (3.26),B (3.21)
+566,"Hasty, Jeff M",BENG 125 - Modeling & Computatio/Bioengr (A),SP14,78,30,80.0%,73.3%,7.23,B+ (3.57),B (3.16)
+567,"Coleman, Todd Prentice",BENG 134 - Measurements/Stats/Probability (A),SP14,10,3,100.0%,100.0%,9.5,B+ (3.50),
+568,"Silva, Gabriel",BENG 140B - Bioengineering Physiology (A),SP14,64,17,93.8%,100.0%,6.0,B+ (3.31),B+ (3.48)
+569,"Zhang, Kun",BENG 160 - Chem & Molecular BENG Techniqs (A),SP14,54,32,100.0%,90.3%,6.69,A- (3.83),B+ (3.53)
+570,"Huang, Xiaohua",BENG 168 - Biomolecular Engineering (A),SP14,63,24,87.0%,82.6%,7.68,B+ (3.50),B+ (3.54)
+571,"Wang, Yingxiao",BENG 168 - Biomolecular Engineering (A),SP14,62,21,81.0%,81.0%,8.1,B+ (3.50),B+ (3.54)
+572,"Cabrales, Pedro",BENG 172 - Bioengineering Laboratory (A),SP14,54,15,100.0%,100.0%,10.5,B+ (3.67),B+ (3.36)
+573,"Wang, Wei",BENG 184 - Computational Molecular Biol. (A),SP14,12,3,100.0%,100.0%,5.17,B+ (3.67),
+574,"Christman, Karen",BENG 186A - Principles/Biomaterials Design (B),SP14,83,31,86.7%,93.3%,6.1,B+ (3.52),B (3.07)
+575,"Cabrales, Pedro",BENG 187A - BENG Design Project: Planning (A),SP14,102,26,100.0%,95.8%,1.25,A (4.00),A- (3.92)
+576,"Cabrales, Pedro",BENG 187D - BENG Design Proj:Presentation (A),SP14,77,28,88.9%,92.6%,3.46,A (4.00),A- (3.91)
+577,"Chien, Shu",BENG 1 - Introduction to Bioengineering (A),WI14,152,87,91.7%,97.6%,2.26,A (4.00),
+578,"Omens, Jeffrey Howard",BENG 109 - BENG Statics & Dynamics (A),WI14,95,37,97.1%,97.1%,6.73,B+ (3.41),B (3.09)
+579,"Lal, Ratnesh",BENG 112A - Biomechanics I (A),WI14,56,22,59.1%,18.2%,5.77,B+ (3.50),B+ (3.41)
+580,"Metallo, Christian Michael",BENG 122A - Biosystems and Control (A),WI14,28,10,100.0%,80.0%,5.9,B+ (3.50),B (3.14)
+581,"Palsson, Bernhard O.",BENG 123 - Systems Biology & Bioenginring (A),WI14,57,23,77.3%,77.3%,11.14,B+ (3.45),B- (2.90)
+582,"Metallo, Christian Michael",BENG 126B - Design Implmnt Informatcs BENG (A),WI14,12,4,100.0%,100.0%,8.5,A (4.00),
+583,"Wang, Yingxiao",BENG 126B - Design Implmnt Informatcs BENG (A),WI14,12,5,75.0%,75.0%,18.5,A (4.00),
+584,"Zhong, Sheng",BENG 126B - Design Implmnt Informatcs BENG (A),WI14,12,4,66.7%,66.7%,6.5,,
+585,"Cauwenberghs, Gert",BENG 127B - Design Implmnt Molec.Syst BENG (A),WI14,12,5,100.0%,100.0%,4.5,A (4.00),
+586,"Engler, Adam J.",BENG 127B - Design Implmnt Molec.Syst BENG (A),WI14,12,5,100.0%,100.0%,0.5,A (4.00),
+587,"Huang, Xiaohua",BENG 130 - Molecular Physical Chemistry (A),WI14,135,36,60.0%,34.3%,7.44,B (3.27),B+ (3.33)
+588,"Subramaniam, Shankar",BENG 130 - Molecular Physical Chemistry (A),WI14,134,35,71.9%,78.1%,7.63,B (3.23),B+ (3.33)
+589,"Cabrales, Pedro",BENG 140A - Bioengineering Physiology (A),WI14,68,28,85.7%,96.4%,9.14,B (3.18),B+ (3.49)
+590,"Coleman, Todd Prentice",BENG 147B - Design Implmntatn Neural Engin (A),WI14,12,3,100.0%,100.0%,7.5,B+ (3.50),
+591,"Mc Culloch, Andrew Douglas",BENG 148B - Design Implmntatn Cardiac BENG (A),WI14,11,4,75.0%,100.0%,6.5,A (4.00),
+592,"Sah, Robert Lie-Yuan",BENG 161B - Biochemical Engineering (A),WI14,49,19,83.3%,44.4%,7.91,B+ (3.53),B (3.27)
+593,"Cauwenberghs, Gert",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI14,57,22,90.9%,81.8%,11.26,B+ (3.40),B+ (3.55)
+594,"Cabrales, Pedro",BENG 187C - BENG Design Proj:Implemntation (A),WI14,77,23,87.0%,100.0%,5.93,A- (3.94),A- (3.91)
+595,"Christman, Karen",BENG 191 - Senior Sem I: Professnl Issues (A),WI14,8,4,100.0%,100.0%,1.5,A (4.00),
+596,"Hasty, Jeff M",BENG 2 - Intro Computer Prog & MATLAB (A),WI14,28,12,90.9%,63.6%,3.95,B+ (3.64),B+ (3.56)
+597,"Gough, David A.",BENG 87 - Freshman Seminar (A),WI14,15,10,90.0%,90.0%,0.9,,
+598,"Engler, Adam J.",BENG 87 - Freshman Seminar (B),WI14,14,10,100.0%,100.0%,0.5,,
+599,"Hall, David J",BENG 101 - Foundations/Biomedical Imaging (A),FA13,84,47,72.3%,59.6%,6.37,B (3.18),B (3.06)
+600,"Lal, Ratnesh",BENG 101 - Foundations/Biomedical Imaging (A),FA13,83,49,77.6%,46.9%,6.58,B (3.13),B (3.06)
+601,"Mc Culloch, Andrew Douglas",BENG 110 - Continuum Mechanics (A),FA13,64,26,84.6%,96.2%,9.12,B (3.24),B (3.11)
+602,"Schmid-Schoenbein, Geert W",BENG 110 - Continuum Mechanics (A),FA13,64,27,88.5%,96.2%,9.27,B (3.27),B (3.11)
+603,"Cabrales, Pedro",BENG 119A - Design Develop.in Biomechanics (A),FA13,11,3,100.0%,100.0%,5.17,A (4.00),
+604,"Metallo, Christian Michael",BENG 126A - Design Dev Bioinformatics BENG (A),FA13,12,5,75.0%,75.0%,5.5,A (4.00),
+605,"Wang, Yingxiao",BENG 126A - Design Dev Bioinformatics BENG (A),FA13,12,3,100.0%,100.0%,10.5,A (4.00),
+606,"Zhong, Sheng",BENG 126A - Design Dev Bioinformatics BENG (A),FA13,12,3,33.3%,33.3%,8.5,B (3.00),
+607,"Mc Culloch, Andrew Douglas",BENG 148A - Design Developmnt Cardiac BENG (A),FA13,11,5,80.0%,80.0%,8.1,A (4.00),
+608,"Metallo, Christian Michael",BENG 161A - Bioreactor Engineering (B),FA13,48,17,58.8%,70.6%,8.13,B (3.13),B (3.20)
+609,"Mercola, Mark",BENG 162 - Biotechnology Laboratory (A),FA13,49,16,100.0%,100.0%,7.97,A- (3.86),A- (3.83)
+610,"Varghese, Shyni",BENG 162 - Biotechnology Laboratory (A),FA13,49,17,100.0%,82.4%,7.5,A- (3.80),A- (3.83)
+611,"Varghese, Shyni",BENG 166A - Cell and Tissue Engineering (A),FA13,60,20,90.0%,75.0%,5.9,A- (3.74),B+ (3.55)
+612,"Bafna, Vineet",BENG 182 - Biological Databases (A),FA13,16,6,100.0%,100.0%,10.83,B+ (3.50),
+613,"Zhong, Sheng",BENG 183 - Applied Genomic Technologies (A),FA13,36,10,62.5%,50.0%,3.5,A- (3.75),A- (3.86)
+614,"Cabrales, Pedro",BENG 187B - BENG Design Project:Developmnt (A),FA13,77,21,81.0%,95.2%,6.88,A- (3.94),A- (3.91)
+615,"Sah, Robert Lie-Yuan",BENG 87 - Freshman Seminar (A),FA13,18,14,84.6%,100.0%,2.35,A (4.00),
+616,"Mc Culloch, Andrew Douglas",BENG 87 - Freshman Seminar (B),FA13,17,12,100.0%,100.0%,0.5,A (4.00),
+617,"Omens, Jeffrey Howard",BENG 87 - Freshman Seminar (B),FA13,20,11,100.0%,100.0%,0.5,A (4.00),
+618,"Coleman, Todd Prentice",BENG 100 - Intro to Bioengineering Design (A),SP13,152,61,70.7%,74.1%,9.69,B (3.04),B (3.25)
+619,"Sah, Robert Lie-Yuan",BENG 103B - Bioengineering Mass Transfer (A),SP13,93,29,64.3%,75.0%,9.21,B (3.20),B (3.05)
+620,"Schmid-Schoenbein, Geert W",BENG 103B - Bioengineering Mass Transfer (A),SP13,93,26,65.4%,88.5%,9.58,B (3.25),B (3.05)
+621,"Engler, Adam J.",BENG 112B - Biomechanics II (A),SP13,40,34,88.2%,94.1%,6.21,B+ (3.33),B (3.11)
+622,"TSIMRING, LEV S",BENG 125 - Modeling & Computatio/Bioengr (A),SP13,122,43,85.7%,85.7%,7.18,B (3.29),B- (2.90)
+623,"Silva, Gabriel",BENG 140B - Bioengineering Physiology (A),SP13,34,19,88.9%,100.0%,5.28,B+ (3.63),B (3.14)
+624,"Zhang, Kun",BENG 160 - Chem & Molecular BENG Techniqs (A),SP13,51,11,63.6%,72.7%,7.95,B+ (3.50),B+ (3.43)
+625,"Wang, Yingxiao",BENG 168 - Biomolecular Engineering (A),SP13,63,8,87.5%,87.5%,6.75,A- (3.71),B+ (3.32)
+626,"Zhong, Sheng",BENG 168 - Biomolecular Engineering (A),SP13,63,8,87.5%,87.5%,6.75,A- (3.71),B+ (3.32)
+627,"Cabrales, Pedro",BENG 172 - Bioengineering Laboratory (A),SP13,70,27,100.0%,100.0%,10.5,B+ (3.36),B+ (3.37)
+628,"Omens, Jeffrey Howard",BENG 172 - Bioengineering Laboratory (A),SP13,70,28,96.4%,100.0%,10.36,B+ (3.36),B+ (3.37)
+629,"Christman, Karen",BENG 186A - Principles/Biomaterials Design (A),SP13,160,126,88.9%,73.0%,6.31,B+ (3.35),B- (2.99)
+630,"Watson, John Thomas",BENG 187A - BENG Design Project: Planning (A),SP13,78,20,100.0%,95.0%,1.7,A (4.00),A- (3.91)
+631,"Watson, John Thomas",BENG 187D - BENG Design Proj:Presentation (A),SP13,127,37,100.0%,86.5%,3.01,A- (3.97),A- (3.89)
+632,"Chien, Shu",BENG 1 - Introduction to Bioengineering (A),WI13,146,60,93.3%,98.3%,1.84,A (4.00),
+633,"Watson, John Thomas",BENG 1 - Introduction to Bioengineering (A),WI13,146,55,92.6%,98.1%,1.87,A (4.00),
+634,"Omens, Jeffrey Howard",BENG 109 - BENG Statics & Dynamics (A),WI13,92,42,90.0%,95.0%,5.65,B+ (3.58),B (3.14)
+635,"Lal, Ratnesh",BENG 112A - Biomechanics I (A),WI13,41,18,72.2%,5.6%,4.5,B+ (3.65),B (3.25)
+636,"Mc Culloch, Andrew Douglas",BENG 112A - Biomechanics I (A),WI13,41,18,70.6%,100.0%,4.5,B+ (3.63),B (3.25)
+637,"Micou, Melissa Kurtis",BENG 119B - Design Implmntatn Biomechanics (A),WI13,30,7,71.4%,71.4%,10.83,A (4.00),A- (3.98)
+638,"Watson, John Thomas",BENG 119B - Design Implmntatn Biomechanics (A),WI13,30,7,85.7%,71.4%,10.5,A (4.00),A- (3.98)
+639,"Metallo, Christian Michael",BENG 122A - Biosystems and Control (A),WI13,48,19,78.9%,78.9%,5.97,B+ (3.44),B (3.28)
+640,"Palsson, Bernhard O.",BENG 123 - Systems Biology & Bioenginring (A),WI13,55,20,65.0%,65.0%,11.0,B (3.26),B- (2.85)
+641,"Metallo, Christian Michael",BENG 126B - Design Implmnt Informatcs BENG (A),WI13,11,4,100.0%,75.0%,7.5,A (4.00),
+642,"Palsson, Bernhard O.",BENG 126B - Design Implmnt Informatcs BENG (A),WI13,11,3,100.0%,100.0%,9.5,A (4.00),
+643,"Christman, Karen",BENG 127B - Design Implmnt Molec.Syst BENG (A),WI13,11,3,66.7%,66.7%,6.5,A (4.00),
+644,"Chien, Shu",BENG 129B - Design Implmnt Cell Systm BENG (A),WI13,16,4,100.0%,100.0%,6.0,A (4.00),
+645,"Subramaniam, Shankar",BENG 130 - Molecular Physical Chemistry (B),WI13,137,45,51.1%,66.7%,5.85,B (3.14),B+ (3.33)
+646,"Varghese, Shyni",BENG 130 - Molecular Physical Chemistry (B),WI13,137,45,48.9%,60.0%,6.11,B (3.17),B+ (3.33)
+647,"Gough, David A.",BENG 139B - Design Implmntn Molecular BENG (A),WI13,12,4,100.0%,100.0%,8.5,A (4.00),
+648,"Zhang, Kun",BENG 139B - Design Implmntn Molecular BENG (A),WI13,12,4,100.0%,75.0%,4.5,A (4.00),
+649,"Cabrales, Pedro",BENG 140A - Bioengineering Physiology (A),WI13,56,21,85.7%,90.5%,6.88,B+ (3.55),B (3.07)
+650,"Cauwenberghs, Gert",BENG 147B - Design Implmntatn Neural Engin (A),WI13,11,5,100.0%,80.0%,7.17,A- (3.75),
+651,"Schmid-Schoenbein, Geert W",BENG 147B - Design Implmntatn Neural Engin (A),WI13,11,5,100.0%,100.0%,7.5,A- (3.75),
+652,"Silva, Gabriel",BENG 147B - Design Implmntatn Neural Engin (A),WI13,11,5,100.0%,80.0%,5.5,A- (3.75),
+653,"Mc Culloch, Andrew Douglas",BENG 148B - Design Implmntatn Cardiac BENG (A),WI13,9,5,80.0%,100.0%,7.5,A (4.00),
+654,"Metallo, Christian Michael",BENG 161B - Biochemical Engineering (A),WI13,88,25,87.5%,70.8%,6.93,B+ (3.50),B (3.15)
+655,"Sah, Robert Lie-Yuan",BENG 161B - Biochemical Engineering (A),WI13,88,24,87.0%,87.0%,7.05,B+ (3.50),B (3.15)
+656,"Cabrales, Pedro",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI13,12,3,100.0%,100.0%,6.5,B+ (3.67),
+657,"Pevzner, Pavel Arkadjevich",BENG 181 - Molecular Sequence Analysis (A),WI13,17,7,85.7%,100.0%,12.5,C (2.14),
+658,"Cauwenberghs, Gert",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI13,84,40,48.7%,46.2%,14.55,B (3.22),B (3.27)
+659,"Intaglietta, Marcos",BENG 187C - BENG Design Proj:Implemntation (A),WI13,127,34,85.3%,70.6%,4.7,A- (3.92),A- (3.89)
+660,"Watson, John Thomas",BENG 187C - BENG Design Proj:Implemntation (A),WI13,127,34,82.4%,85.3%,4.91,A- (3.92),A- (3.89)
+661,"Watson, John Thomas",BENG 191 - Senior Sem I: Professnl Issues (A),WI13,14,6,100.0%,100.0%,3.3,,
+662,"Varghese, Shyni",BENG 87 - Freshman Seminar (A),WI13,12,6,80.0%,100.0%,0.5,,
+663,"Hall, David J",BENG 101 - Foundations/Biomedical Imaging (A),FA12,48,36,79.4%,61.8%,4.8,B+ (3.44),B+ (3.43)
+664,"Lal, Ratnesh",BENG 101 - Foundations/Biomedical Imaging (A),FA12,48,41,84.6%,79.5%,4.5,B+ (3.42),B+ (3.43)
+665,"Schmid-Schoenbein, Geert W",BENG 110 - Continuum Mechanics (A),FA12,48,26,82.6%,95.7%,7.72,B+ (3.45),B (3.08)
+666,"Micou, Melissa Kurtis",BENG 119A - Design Develop.in Biomechanics (A),FA12,31,10,100.0%,100.0%,6.79,A- (3.83),A- (3.75)
+667,"Watson, John Thomas",BENG 119A - Design Develop.in Biomechanics (A),FA12,31,7,100.0%,100.0%,7.83,B+ (3.67),A- (3.75)
+668,"Chien, Shu",BENG 129A - Design Develp.Cell System BENG (A),FA12,16,3,100.0%,100.0%,4.5,A (4.00),
+669,"Gough, David A.",BENG 139A - Design Develpmt Molecular BENG (A),FA12,12,4,100.0%,100.0%,9.17,A (4.00),
+670,"Zhang, Kun",BENG 139A - Design Develpmt Molecular BENG (A),FA12,12,3,100.0%,66.7%,7.83,A (4.00),
+671,"Huang, Xiaohua",BENG 161A - Bioreactor Engineering (A),FA12,86,22,83.3%,44.4%,7.06,B+ (3.39),B+ (3.55)
+672,"Micou, Melissa Kurtis",BENG 162 - Biotechnology Laboratory (A),FA12,87,20,93.8%,93.8%,7.13,B+ (3.38),B+ (3.60)
+673,"Micou, Melissa Kurtis",BENG 166A - Cell and Tissue Engineering (A),FA12,99,21,100.0%,88.2%,6.15,B (3.25),B+ (3.52)
+674,"Cabrales, Pedro",BENG 179A - Design Develop.Bioinstrumntatn (A),FA12,12,5,100.0%,100.0%,7.5,B+ (3.67),
+675,"Bafna, Vineet",BENG 182 - Biological Databases (A),FA12,13,3,100.0%,100.0%,10.5,C+ (2.67),
+676,"Ideker, Trey",BENG 183 - Applied Genomic Technologies (A),FA12,21,12,90.9%,90.9%,6.68,B+ (3.55),B+ (3.44)
+677,"Micou, Melissa Kurtis",BENG 187B - BENG Design Project:Developmnt (A),FA12,128,24,100.0%,100.0%,7.1,A- (3.89),A- (3.89)
+678,"Christman, Karen",BENG 87 - Freshman Seminar (A),FA12,18,8,87.5%,87.5%,1.5,A (4.00),
+679,"Mc Culloch, Andrew Douglas",BENG 87 - Freshman Seminar (B),FA12,20,11,77.8%,100.0%,0.5,A (4.00),
+680,"Omens, Jeffrey Howard",BENG 87 - Freshman Seminar (B),FA12,20,9,62.5%,87.5%,0.5,A (4.00),
+681,"Schmid-Schoenbein, Geert W",BENG 87 - Freshman Seminar (C),FA12,20,11,80.0%,100.0%,3.1,A (4.00),
+682,"Masuda, Koichi",BENG 87 - Freshman Seminar (D),FA12,19,10,80.0%,90.0%,1.1,,
+683,"Sah, Robert Lie-Yuan",BENG 87 - Freshman Seminar (D),FA12,19,10,66.7%,100.0%,1.61,,
+684,"Micou, Melissa Kurtis",BENG 100 - Intro to Bioengineering Design (A),SP12,119,58,86.2%,79.3%,5.09,B+ (3.55),B (3.16)
+685,"Gough, David A.",BENG 103B - Bioengineering Mass Transfer (A),SP12,135,52,74.5%,60.8%,8.74,B (3.04),B (3.26)
+686,"Sah, Robert Lie-Yuan",BENG 103B - Bioengineering Mass Transfer (A),SP12,135,46,75.0%,72.1%,8.59,B (3.04),B (3.26)
+687,"Engler, Adam J.",BENG 112B - Biomechanics II (A),SP12,82,50,98.0%,93.9%,8.82,B+ (3.42),B- (2.97)
+688,"Hasty, Jeff M",BENG 125 - Modeling & Computatio/Bioengr (A),SP12,144,64,79.7%,93.8%,10.21,B (3.22),B- (2.98)
+689,"Coleman, Todd Prentice",BENG 134 - Measurements/Stats/Probability (A),SP12,8,3,100.0%,100.0%,9.83,B (3.00),
+690,"Silva, Gabriel",BENG 140B - Bioengineering Physiology (A),SP12,38,15,84.6%,92.3%,5.79,B (3.21),B- (2.92)
+691,"Zhang, Kun",BENG 160 - Chem & Molecular BENG Techniqs (A),SP12,88,26,80.0%,80.0%,7.27,B+ (3.36),B+ (3.43)
+692,"Metallo, Christian Michael",BENG 168 - Biomolecular Engineering (A),SP12,88,21,85.0%,65.0%,5.17,B (3.22),B+ (3.42)
+693,"Sah, Robert Lie-Yuan",BENG 168 - Biomolecular Engineering (A),SP12,88,20,80.0%,85.0%,5.6,B (3.22),B+ (3.42)
+694,"Cabrales, Pedro",BENG 172 - Bioengineering Laboratory (A),SP12,83,32,86.7%,83.3%,11.25,B (3.29),B+ (3.33)
+695,"Omens, Jeffrey Howard",BENG 172 - Bioengineering Laboratory (A),SP12,83,31,86.7%,93.3%,11.6,B (3.29),B+ (3.33)
+696,"Christman, Karen",BENG 186A - Principles/Biomaterials Design (A),SP12,176,121,86.6%,86.6%,7.57,B (3.21),B- (2.89)
+697,"Watson, John Thomas",BENG 187A - BENG Design Project: Planning (A),SP12,130,34,94.1%,88.2%,0.91,A- (3.96),A (4.00)
+698,"Watson, John Thomas",BENG 187D - BENG Design Proj:Presentation (A),SP12,133,57,96.4%,96.4%,3.43,A- (3.83),A- (3.88)
+699,"Engler, Adam J.",BENG 87 - Freshman Seminar (A),SP12,7,5,100.0%,100.0%,0.9,,
+700,"Chien, Shu",BENG 1 - Introduction to Bioengineering (A),WI12,158,66,89.2%,95.4%,2.28,A (4.00),
+701,"Watson, John Thomas",BENG 1 - Introduction to Bioengineering (A),WI12,158,64,89.1%,90.6%,2.47,A (4.00),
+702,"Micou, Melissa Kurtis",BENG 109 - BENG Statics & Dynamics (A),WI12,72,36,80.0%,68.6%,5.56,B+ (3.44),B- (2.92)
+703,"Mc Culloch, Andrew Douglas",BENG 112A - Biomechanics I (A),WI12,84,36,85.7%,82.9%,8.67,B+ (3.53),B+ (3.36)
+704,"Cabrales, Pedro",BENG 119B - Design Implmntatn Biomechanics (A),WI12,22,6,100.0%,75.0%,10.1,A (4.00),B+ (3.61)
+705,"Gough, David A.",BENG 122A - Biosystems and Control (A),WI12,63,31,71.0%,56.7%,8.05,B (3.00),B- (2.83)
+706,"Hasty, Jeff M",BENG 122A - Biosystems and Control (A),WI12,63,31,74.2%,93.5%,7.73,B (3.00),B- (2.83)
+707,"Palsson, Bernhard O.",BENG 123 - Systems Biology & Bioenginring (A),WI12,102,44,81.8%,77.3%,10.23,B+ (3.55),B (3.16)
+708,"Engler, Adam J.",BENG 129B - Design Implmnt Cell Systm BENG (A),WI12,20,3,100.0%,100.0%,7.17,A (4.00),A- (3.80)
+709,"Varghese, Shyni",BENG 130 - Molecular Physical Chemistry (A),WI12,116,56,58.9%,35.7%,8.32,B- (2.94),C+ (2.70)
+710,"Schmid-Schoenbein, Geert W",BENG 139B - Design Implmntn Molecular BENG (A),WI12,24,7,100.0%,100.0%,12.21,A (4.00),A- (3.93)
+711,"Cabrales, Pedro",BENG 140A - Bioengineering Physiology (A),WI12,47,19,94.4%,100.0%,7.13,B+ (3.50),B- (2.78)
+712,"Silva, Gabriel",BENG 147B - Design Implmntatn Neural Engin (A),WI12,14,4,100.0%,100.0%,13.5,A- (3.75),
+713,"Subramaniam, Shankar",BENG 148B - Design Implmntatn Cardiac BENG (A),WI12,15,9,100.0%,87.5%,11.83,A- (3.75),
+714,"Metallo, Christian Michael",BENG 161B - Biochemical Engineering (A),WI12,81,30,60.0%,73.3%,8.83,B+ (3.30),B (3.29)
+715,"Sah, Robert Lie-Yuan",BENG 161B - Biochemical Engineering (A),WI12,81,28,60.7%,60.7%,8.43,B+ (3.30),B (3.29)
+716,"Varghese, Shyni",BENG 169B - Design Implmntatn Tissue Engin (A),WI12,18,5,100.0%,100.0%,8.1,A- (3.80),
+717,"Gough, David A.",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI12,17,4,75.0%,75.0%,7.0,A (4.00),
+718,"Pevzner, Pavel Arkadjevich",BENG 181 - Molecular Sequence Analysis (A),WI12,12,8,87.5%,87.5%,10.0,B+ (3.63),
+719,"Pevzner, Pavel Arkadjevich",BENG 181 - Molecular Sequence Analysis (A),WI12,5,3,100.0%,100.0%,12.5,B (3.00),
+720,"Cauwenberghs, Gert",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI12,83,38,84.2%,73.0%,11.39,B (3.16),B (3.24)
+721,"Micou, Melissa Kurtis",BENG 187C - BENG Design Proj:Implemntation (A),WI12,133,48,87.2%,95.7%,6.71,A- (3.76),A- (3.88)
+722,"Watson, John Thomas",BENG 191 - Senior Sem I: Professnl Issues (A),WI12,37,10,88.9%,77.8%,3.61,A (4.00),B+ (3.68)
+723,"Christman, Karen",BENG 87 - Freshman Seminar (A),WI12,15,10,100.0%,100.0%,0.5,A (4.00),
+724,"Gough, David A.",BENG 87 - Freshman Seminar (B),WI12,16,11,72.7%,72.7%,1.05,A (4.00),
+725,"Hall, David J",BENG 101 - Foundations/Biomedical Imaging (A),FA11,48,39,86.5%,75.7%,6.29,B+ (3.54),B+ (3.32)
+726,"Lal, Ratnesh",BENG 101 - Foundations/Biomedical Imaging (A),FA11,48,42,95.2%,85.7%,5.83,B+ (3.54),B+ (3.32)
+727,"Schmid-Schoenbein, Geert W",BENG 110 - Continuum Mechanics (A),FA11,82,49,78.7%,87.2%,8.09,B+ (3.31),B (3.16)
+728,"Cabrales, Pedro",BENG 119A - Design Develop.in Biomechanics (A),FA11,22,3,100.0%,100.0%,9.5,A (4.00),B+ (3.58)
+729,"Sah, Robert Lie-Yuan",BENG 119A - Design Develop.in Biomechanics (A),FA11,22,3,100.0%,100.0%,7.5,A (4.00),B+ (3.58)
+730,"Zhang, Kun",BENG 129A - Design Develp.Cell System BENG (A),FA11,19,3,100.0%,100.0%,7.17,B (3.00),
+731,"Hasty, Jeff M",BENG 139A - Design Develpmt Molecular BENG (A),FA11,24,7,100.0%,80.0%,8.1,A (4.00),B+ (3.62)
+732,"Schmid-Schoenbein, Geert W",BENG 139A - Design Develpmt Molecular BENG (A),FA11,24,8,100.0%,83.3%,10.17,A (4.00),B+ (3.62)
+733,"Cauwenberghs, Gert",BENG 147A - Design Develpmnt in Neural Eng (A),FA11,14,3,100.0%,100.0%,10.5,B+ (3.67),
+734,"Silva, Gabriel",BENG 147A - Design Develpmnt in Neural Eng (A),FA11,14,3,100.0%,100.0%,16.5,B+ (3.67),
+735,"Mc Culloch, Andrew Douglas",BENG 148A - Design Developmnt Cardiac BENG (A),FA11,15,5,100.0%,100.0%,7.3,A- (3.80),
+736,"Huang, Xiaohua",BENG 161A - Bioreactor Engineering (A),FA11,82,31,86.7%,73.3%,8.44,B+ (3.39),B+ (3.39)
+737,"Micou, Melissa Kurtis",BENG 162 - Biotechnology Laboratory (A),FA11,79,28,92.9%,96.4%,7.79,B+ (3.61),B+ (3.51)
+738,"Micou, Melissa Kurtis",BENG 166A - Cell and Tissue Engineering (A),FA11,103,33,93.9%,90.9%,8.74,B+ (3.59),B (3.15)
+739,"Christman, Karen",BENG 169A - Design Developmnt Tissue Engin (A),FA11,19,4,100.0%,66.7%,7.17,B+ (3.50),
+740,"Varghese, Shyni",BENG 169A - Design Developmnt Tissue Engin (A),FA11,19,3,100.0%,100.0%,6.5,B+ (3.50),
+741,"Gough, David A.",BENG 179A - Design Develop.Bioinstrumntatn (A),FA11,19,3,100.0%,100.0%,10.5,A (4.00),
+742,"Lal, Ratnesh",BENG 179A - Design Develop.Bioinstrumntatn (A),FA11,19,5,100.0%,100.0%,8.9,A (4.00),
+743,"Bafna, Vineet",BENG 182 - Biological Databases (A),FA11,14,3,100.0%,66.7%,7.83,B (3.00),
+744,"Bafna, Vineet",BENG 182 - Biological Databases (A),FA11,12,6,100.0%,100.0%,14.17,C+ (2.33),
+745,"Ideker, Trey",BENG 183 - Applied Genomic Technologies (A),FA11,21,13,100.0%,100.0%,6.96,B (3.25),B+ (3.53)
+746,"Micou, Melissa Kurtis",BENG 187B - BENG Design Project:Developmnt (A),FA11,133,42,92.9%,83.3%,7.98,B+ (3.65),A- (3.88)
+747,"Mc Culloch, Andrew Douglas",BENG 87 - Freshman Seminar (A),FA11,17,10,90.0%,90.0%,0.5,A (4.00),
+748,"Christman, Karen",BENG 87 - Freshman Seminar (B),FA11,20,12,91.7%,100.0%,0.67,A (4.00),
+749,"Wagner, Peter D.",BENG 104GS - Physiology of Human Endur/Exer (A),S211,28,22,100.0%,100.0%,7.45,B+ (3.50),B+ (3.52)
+750,"Wagner, Peter D.",BENG 105GS - Performnce Sci/Austral Inst Sp (A),S211,28,22,100.0%,100.0%,6.23,A- (3.70),B (3.17)
+751,"Micou, Melissa Kurtis",BENG 100 - Introduction to Bioengineering (A),SP11,196,83,73.5%,71.1%,5.17,B (3.29),B (3.15)
+752,"Watson, John Thomas",BENG 100 - Introduction to Bioengineering (A),SP11,196,70,80.9%,69.1%,5.05,B (3.29),B (3.15)
+753,"Gough, David A.",BENG 103B - Bioengineering Mass Transfer (A),SP11,143,77,51.3%,35.5%,9.51,B- (2.91),B (3.17)
+754,"Sah, Robert Lie-Yuan",BENG 103B - Bioengineering Mass Transfer (A),SP11,143,72,55.7%,60.9%,9.39,B- (2.91),B (3.17)
+755,"Engler, Adam J.",BENG 112B - Biomechanics (A),SP11,105,90,87.8%,94.4%,9.56,B (3.15),B- (2.90)
+756,"Hasty, Jeff M",BENG 125 - Modeling & Computatio/Bioengr (A),SP11,77,32,96.8%,96.7%,9.27,B (3.28),B+ (3.51)
+757,"Silva, Gabriel",BENG 140B - Bioengineering Physiology (A),SP11,61,37,97.2%,94.4%,5.85,B (3.11),B- (2.71)
+758,"Sung, Lanping Amy",BENG 160 - Chem & Molecular BENG Techniqs (A),SP11,84,29,96.3%,92.6%,8.81,A- (3.75),B+ (3.70)
+759,"Zhang, Kun",BENG 160 - Chem & Molecular BENG Techniqs (A),SP11,84,31,93.5%,87.1%,8.89,A- (3.75),B+ (3.70)
+760,"Sung, Lanping Amy",BENG 168 - Biomolecular Engineering (B),SP11,83,29,86.2%,75.9%,5.6,B+ (3.44),B+ (3.34)
+761,"Cabrales, Pedro",BENG 172 - Bioengineering Laboratory (A),SP11,117,56,91.1%,96.4%,11.79,B+ (3.41),B+ (3.38)
+762,"Omens, Jeffrey Howard",BENG 172 - Bioengineering Laboratory (A),SP11,117,57,93.0%,96.5%,11.5,B+ (3.41),B+ (3.38)
+763,"Bandeira, Nuno Filipe Cabrita",BENG 181 - Molecular Sequence Analysis (A),SP11,21,12,66.7%,41.7%,11.9,,C+ (2.35)
+764,"Christman, Karen",BENG 186A - Principles/Biomaterials Design (A),SP11,136,106,89.5%,89.4%,7.74,B (3.25),B- (2.91)
+765,"Watson, John Thomas",BENG 187A - BENG Design Project: Planning (A),SP11,138,56,96.4%,96.4%,1.85,A- (3.89),A- (3.70)
+766,"Watson, John Thomas",BENG 187D - BENG Design Proj:Presentation (A),SP11,74,28,88.9%,92.6%,3.02,A- (3.92),A- (3.71)
+767,"Lieber, Richard L",BENG 87 - Freshman Seminar (A),SP11,20,15,100.0%,93.3%,0.63,A (4.00),
+768,"Chien, Shu",BENG 1 - Introduction to Bioengineering (A),WI11,192,111,83.8%,90.9%,2.24,A (4.00),
+769,"Watson, John Thomas",BENG 1 - Introduction to Bioengineering (A),WI11,192,107,81.1%,90.6%,2.25,A (4.00),
+770,"Micou, Melissa Kurtis",BENG 109 - BENG Statics & Dynamics (A),WI11,103,51,88.0%,64.0%,6.66,B+ (3.40),B- (2.80)
+771,"Mc Culloch, Andrew Douglas",BENG 112A - Biomechanics (A),WI11,110,52,80.8%,78.8%,10.23,B (3.10),B+ (3.40)
+772,"Mc Culloch, Andrew Douglas",BENG 119B - Design Implmntatn Biomechanics (A),WI11,11,3,33.3%,66.7%,11.83,A (4.00),
+773,"Gough, David A.",BENG 122A - Biosystems and Control (A),WI11,43,18,83.3%,27.8%,6.83,B+ (3.41),B (3.10)
+774,"Hasty, Jeff M",BENG 122A - Biosystems and Control (A),WI11,43,17,82.4%,100.0%,7.09,B+ (3.41),B (3.10)
+775,"Palsson, Bernhard O.",BENG 123 - Systems Biology & Bioenginring (A),WI11,85,45,75.6%,77.8%,12.86,B (3.30),B (3.24)
+776,"Zhang, Kun",BENG 126B - Design Implmnt Informatcs BENG (A),WI11,9,3,66.7%,100.0%,15.5,A (4.00),
+777,"Hasty, Jeff M",BENG 127B - Design Implmnt Molec.Syst BENG (A),WI11,10,3,100.0%,100.0%,13.83,A (4.00),
+778,"Varghese, Shyni",BENG 130 - Molecular Physical Chemistry (A),WI11,143,74,64.4%,54.8%,6.5,B+ (3.30),B (3.14)
+779,"Micou, Melissa Kurtis",BENG 139B - Design Implmntn Molecular BENG (A),WI11,18,5,100.0%,100.0%,12.1,A- (3.75),
+780,"Cabrales, Pedro",BENG 140A - Bioengineering Physiology (A),WI11,72,35,97.1%,76.5%,7.41,B+ (3.42),B- (2.82)
+781,"Christman, Karen",BENG 148B - Design Implmntatn Cardiac BENG (A),WI11,8,4,100.0%,100.0%,10.5,A- (3.75),
+782,"Huang, Xiaohua",BENG 161B - Biochemical Engineering (A),WI11,38,16,81.3%,56.3%,9.38,B+ (3.60),B+ (3.49)
+783,"Zhang, Kun",BENG 161B - Biochemical Engineering (A),WI11,38,16,73.3%,66.7%,9.83,B+ (3.60),B+ (3.49)
+784,"Sah, Robert Lie-Yuan",BENG 169B - Design Implmntatn Tissue Engin (A),WI11,9,4,100.0%,100.0%,12.0,A- (3.75),
+785,"Cauwenberghs, Gert",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI11,9,5,100.0%,100.0%,11.7,A- (3.80),
+786,"Cauwenberghs, Gert",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI11,129,69,83.8%,69.1%,9.4,B (3.09),B (3.16)
+787,"Micou, Melissa Kurtis",BENG 187C - BENG Design Proj:Implemntation (A),WI11,74,33,90.6%,96.9%,8.38,B+ (3.68),A- (3.71)
+788,"Watson, John Thomas",BENG 191 - Senior Sem I: Professnl Issues (A),WI11,32,19,94.4%,100.0%,1.87,A (4.00),A- (3.97)
+789,"Gough, David A.",BENG 87 - Freshman Seminar (A),WI11,13,7,100.0%,100.0%,1.64,A (4.00),
+790,"Lal, Ratnesh",BENG 101 - Foundations/Biomedical Imaging (A),FA10,72,31,64.5%,45.2%,5.15,B+ (3.31),B (3.15)
+791,"Schmid-Schoenbein, Geert W",BENG 110 - Continuum Mechanics (A),FA10,108,46,82.6%,89.1%,9.48,B (3.20),B (3.05)
+792,"Cabrales, Pedro",BENG 119A - Design Develop.in Biomechanics (A),FA10,11,4,75.0%,75.0%,9.5,A (4.00),
+793,"Mc Culloch, Andrew Douglas",BENG 119A - Design Develop.in Biomechanics (A),FA10,11,3,33.3%,66.7%,7.17,A (4.00),
+794,"Lal, Ratnesh",BENG 126A - Design Dev Bioinformatics BENG (A),FA10,9,4,75.0%,75.0%,11.5,B+ (3.50),
+795,"Zhang, Kun",BENG 126A - Design Dev Bioinformatics BENG (A),FA10,9,5,75.0%,75.0%,8.9,B+ (3.50),
+796,"Baker, Dale Allen",BENG 127A - Design Dev.Molec. Systems BENG (A),FA10,10,3,100.0%,100.0%,14.5,A (4.00),
+797,"Micou, Melissa Kurtis",BENG 139A - Design Develpmt Molecular BENG (A),FA10,18,6,100.0%,100.0%,12.83,A- (3.80),
+798,"Watson, John Thomas",BENG 139A - Design Develpmt Molecular BENG (A),FA10,18,6,83.3%,83.3%,15.83,A- (3.80),
+799,"Omens, Jeffrey Howard",BENG 148A - Design Developmnt Cardiac BENG (A),FA10,8,3,100.0%,100.0%,6.5,A (4.00),
+800,"Huang, Xiaohua",BENG 161A - Bioreactor Engineering (A),FA10,38,20,100.0%,75.0%,7.7,B+ (3.53),B+ (3.61)
+801,"Micou, Melissa Kurtis",BENG 162 - Biotechnology Laboratory (A),FA10,35,19,84.2%,89.5%,10.61,B+ (3.32),B+ (3.35)
+802,"Micou, Melissa Kurtis",BENG 166A - Cell and Tissue Engineering (A),FA10,56,27,96.3%,92.6%,8.57,B (3.22),B+ (3.40)
+803,"Engler, Adam J.",BENG 169A - Design Developmnt Tissue Engin (A),FA10,9,4,100.0%,75.0%,10.5,A- (3.75),
+804,"Sah, Robert Lie-Yuan",BENG 169A - Design Developmnt Tissue Engin (A),FA10,9,4,75.0%,66.7%,8.0,A- (3.75),
+805,"Cauwenberghs, Gert",BENG 179A - Design Develop.Bioinstrumntatn (A),FA10,9,4,100.0%,100.0%,8.5,A (4.00),
+806,"Bafna, Vineet",BENG 182 - Biological Databases (A),FA10,17,8,100.0%,100.0%,11.93,,
+807,"Ideker, Trey",BENG 183 - Applied Genomic Technologies (A),FA10,16,6,83.3%,83.3%,7.5,B+ (3.50),
+808,"Micou, Melissa Kurtis",BENG 187B - BENG Design Project:Developmnt (A),FA10,74,34,82.4%,97.0%,9.15,B+ (3.62),A- (3.71)
+809,"Schmid-Schoenbein, Geert W",BENG 87 - Freshman Seminar (A),FA10,14,13,100.0%,100.0%,2.35,A (4.00),
+810,"Mc Culloch, Andrew Douglas",BENG 87 - Freshman Seminar (B),FA10,16,10,80.0%,90.0%,0.7,A (4.00),
+811,"Micou, Melissa Kurtis",BENG 100 - Introduction to Bioengineering (A),SP10,185,167,79.5%,77.0%,6.37,B+ (3.35),B- (2.90)
+812,"Watson, John Thomas",BENG 100 - Introduction to Bioengineering (A),SP10,185,156,80.8%,78.1%,5.83,B+ (3.35),B- (2.90)
+813,"Gough, David A.",BENG 103B - Bioengineering Mass Transfer (A),SP10,83,55,52.7%,9.1%,9.24,B (3.10),B (3.20)
+814,"Engler, Adam J.",BENG 112B - Biomechanics (A),SP10,112,97,85.4%,90.6%,8.01,B (3.25),B (3.15)
+815,"Hasty, Jeff M",BENG 125 - Modeling & Computatio/Bioengr (A),SP10,65,29,89.7%,96.6%,6.14,B+ (3.43),B- (2.99)
+816,"Engler, Adam J.",BENG 140B - Bioengineering Physiology (A),SP10,41,26,96.0%,100.0%,7.86,B (3.28),B (3.24)
+817,"Watson, John Thomas",BENG 140B - Bioengineering Physiology (A),SP10,41,26,96.2%,88.5%,7.92,B (3.28),B (3.24)
+818,"Sung, Lanping Amy",BENG 160 - Chem & Molecular BENG Techniqs (A),SP10,35,20,73.7%,73.7%,8.83,B+ (3.50),B+ (3.70)
+819,"Zhang, Kun",BENG 160 - Chem & Molecular BENG Techniqs (A),SP10,35,18,82.4%,88.2%,9.44,B+ (3.50),B+ (3.70)
+820,"Sung, Lanping Amy",BENG 168 - Biomolecular Engineering (A),SP10,48,22,76.2%,66.7%,10.4,B (3.17),B (3.30)
+821,"Omens, Jeffrey Howard",BENG 172 - Bioengineering Laboratory (A),SP10,119,59,98.3%,98.2%,11.03,B+ (3.48),B+ (3.36)
+822,"Pevzner, Pavel Arkadjevich",BENG 181 - Molecular Sequence Analysis (A),SP10,12,8,100.0%,87.5%,11.07,,
+823,"Christman, Karen",BENG 186A - Principles/Biomaterials Design (A),SP10,148,60,76.7%,78.0%,5.99,B (3.29),B- (2.86)
+824,"Watson, John Thomas",BENG 187A - BENG Design Project: Planning (A),SP10,73,39,84.2%,86.8%,1.74,A- (3.90),A- (3.71)
+825,"Watson, John Thomas",BENG 187D - BENG Design Proj:Presentation (A),SP10,65,27,92.3%,96.2%,1.7,A- (3.88),B+ (3.46)
+826,"Chen, Peter Chung-Yick",BENG 1 - Introduction to Bioengineering (A),WI10,244,112,91.8%,97.2%,1.94,A- (3.92),
+827,"Chien, Shu",BENG 1 - Introduction to Bioengineering (A),WI10,244,126,88.9%,92.9%,2.26,A- (3.92),
+828,"Micou, Melissa Kurtis",BENG 109 - BENG Statics & Dynamics (A),WI10,112,50,90.0%,86.0%,5.6,B+ (3.56),B- (2.88)
+829,"Schmid-Schoenbein, Geert W",BENG 112A - Biomechanics (A),WI10,112,41,80.5%,82.9%,9.28,B (3.28),B- (2.80)
+830,"Hasty, Jeff M",BENG 122A - Biosystems and Control (A),WI10,35,14,78.6%,92.3%,6.64,B (3.29),B- (2.86)
+831,"Palsson, Bernhard O.",BENG 123 - Systems Biology & Bioenginring (A),WI10,44,18,72.2%,72.2%,11.79,B+ (3.53),B (3.04)
+832,"Sung, Lanping Amy",BENG 127B - Design Implmnt Molec.Syst BENG (A),WI10,6,4,75.0%,100.0%,13.83,A (4.00),
+833,"Varghese, Shyni",BENG 130 - Molecular Physical Chemistry (A),WI10,109,53,58.8%,42.3%,6.62,B+ (3.33),B- (2.94)
+834,"Micou, Melissa Kurtis",BENG 139B - Design Implmntn Molecular BENG (A),WI10,7,3,100.0%,50.0%,9.17,A (4.00),
+835,"Silva, Gabriel",BENG 140A - Bioengineering Physiology (A),WI10,50,19,100.0%,94.7%,8.08,B (3.11),B- (2.80)
+836,"Christman, Karen",BENG 148B - Design Implmntatn Cardiac BENG (A),WI10,7,3,100.0%,100.0%,6.5,B+ (3.67),
+837,"Huang, Xiaohua",BENG 161B - Biochemical Engineering (A),WI10,40,15,86.7%,73.3%,8.9,B+ (3.50),B+ (3.36)
+838,"Zhang, Kun",BENG 161B - Biochemical Engineering (A),WI10,40,15,86.7%,80.0%,8.5,B+ (3.50),B+ (3.36)
+839,"Gough, David A.",BENG 169B - Design Implmntatn Tissue Engin (A),WI10,6,3,100.0%,100.0%,12.5,A (4.00),
+840,"Omens, Jeffrey Howard",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI10,6,3,100.0%,100.0%,8.5,B+ (3.67),
+841,"Wang, Wei",BENG 184 - Computational Molecular Biol. (A),WI10,10,3,33.3%,33.3%,6.5,,
+842,"Cauwenberghs, Gert",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI10,124,46,95.7%,56.5%,9.5,B (3.26),B (3.11)
+843,"Omens, Jeffrey Howard",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI10,124,48,97.9%,100.0%,9.29,B (3.26),B (3.11)
+844,"Micou, Melissa Kurtis",BENG 187C - BENG Design Proj:Implemntation (A),WI10,65,25,64.0%,76.0%,5.22,B+ (3.61),B+ (3.46)
+845,"Gough, David A.",BENG 87 - Freshman Seminar (A),WI10,16,13,84.6%,92.3%,0.81,,
+846,"Hall, David J",BENG 101 - Foundations/Biomedical Imaging (A),FA09,57,57,81.1%,79.2%,5.1,B+ (3.31),C+ (2.63)
+847,"Silva, Gabriel",BENG 101 - Foundations/Biomedical Imaging (A),FA09,57,57,81.1%,79.2%,5.1,B+ (3.31),C+ (2.63)
+848,"Engler, Adam J.",BENG 110 - Continuum Mechanics (A),FA09,118,103,85.7%,79.4%,7.78,B+ (3.34),B- (2.87)
+849,"Schmid-Schoenbein, Geert W",BENG 110 - Continuum Mechanics (A),FA09,118,103,82.5%,79.2%,7.75,B+ (3.34),B- (2.87)
+850,"Engler, Adam J.",BENG 119A - Design Develop.in Biomechanics (A),FA09,7,4,100.0%,100.0%,7.5,A- (3.75),
+851,"Zhang, Kun",BENG 126A - Design Dev Bioinformatics BENG (A),FA09,7,4,100.0%,100.0%,5.0,A (4.00),
+852,"Sung, Lanping Amy",BENG 127A - Design Dev.Molec. Systems BENG (A),FA09,7,6,100.0%,100.0%,6.83,A (4.00),
+853,"Schmid-Schoenbein, Geert W",BENG 129A - Design Develp.Cell System BENG (A),FA09,6,3,100.0%,100.0%,7.17,A (4.00),
+854,"Micou, Melissa Kurtis",BENG 139A - Design Develpmt Molecular BENG (A),FA09,7,4,100.0%,100.0%,14.0,A- (3.75),
+855,"Varghese, Shyni",BENG 149A - Design Develpmnt Vascular BENG (A),FA09,6,3,100.0%,100.0%,5.17,B+ (3.67),
+856,"Huang, Xiaohua",BENG 161A - Bioreactor Engineering (A),FA09,40,35,73.5%,44.1%,7.21,B+ (3.50),B+ (3.58)
+857,"Micou, Melissa Kurtis",BENG 162 - Biotechnology Laboratory (A),FA09,39,30,89.7%,86.2%,10.57,B+ (3.46),B+ (3.44)
+858,"Micou, Melissa Kurtis",BENG 166A - Cell and Tissue Engineering (A),FA09,49,32,100.0%,93.5%,5.81,B+ (3.47),B (3.17)
+859,"Gough, David A.",BENG 169A - Design Developmnt Tissue Engin (A),FA09,6,3,100.0%,100.0%,11.83,A (4.00),
+860,"Omens, Jeffrey Howard",BENG 179A - Design Develop.Bioinstrumntatn (A),FA09,6,5,100.0%,100.0%,5.7,A (4.00),
+861,"Bafna, Vineet",BENG 182 - Biological Databases (A),FA09,14,10,100.0%,100.0%,10.1,,
+862,"Ideker, Trey",BENG 183 - Applied Genomic Technologies (A),FA09,9,9,100.0%,100.0%,6.94,B+ (3.57),
+863,"Micou, Melissa Kurtis",BENG 187B - BENG Design Project:Developmnt (A),FA09,65,45,95.5%,90.7%,5.34,B+ (3.47),B+ (3.46)
+864,"Sah, Robert Lie-Yuan",BENG 192 - Senior Sem. in Bioengineering (A),FA09,12,8,100.0%,100.0%,1.0,A (4.00),
+865,"Micou, Melissa Kurtis",BENG 100 - Introduction to Bioengineering (A),SP09,156,100,75.3%,68.5%,6.37,B+ (3.41),B (3.14)
+866,"Watson, John Thomas",BENG 100 - Introduction to Bioengineering (A),SP09,156,94,82.8%,78.2%,5.98,B+ (3.41),B (3.14)
+867,"Gough, David A.",BENG 103B - Bioengineering Mass Transfer (A),SP09,63,34,46.9%,35.5%,7.03,B+ (3.30),B (3.28)
+868,"Engler, Adam J.",BENG 112B - Biomechanics (A),SP09,96,62,59.0%,48.4%,8.17,B (3.25),B (3.02)
+869,"Hasty, Jeff M",BENG 125 - Modeling & Computatio/Bioengr (A),SP09,81,45,79.5%,88.6%,4.17,A- (3.79),A- (3.85)
+870,"Vera, Carlos J",BENG 140B - Bioengineering Physiology (A),SP09,41,34,90.9%,75.8%,6.44,B+ (3.30),B (3.24)
+871,"Sung, Lanping Amy",BENG 160 - Chem & Molecular BENG Techniqs (A),SP09,43,37,97.2%,91.7%,7.64,A- (3.72),A- (3.83)
+872,"Zhang, Kun",BENG 160 - Chem & Molecular BENG Techniqs (A),SP09,43,37,97.2%,91.7%,7.64,A- (3.72),A- (3.83)
+873,"Sung, Lanping Amy",BENG 168 - Biomolecular Engineering (A),SP09,38,21,90.0%,95.0%,6.21,B+ (3.42),B+ (3.35)
+874,"Omens, Jeffrey Howard",BENG 172 - Bioengineering Laboratory (A),SP09,98,33,96.8%,100.0%,8.56,A- (3.89),B (3.28)
+875,"Pevzner, Pavel Arkadjevich",BENG 181 - Molecular Sequence Analysis (A),SP09,9,9,100.0%,100.0%,9.5,,
+876,"Christman, Karen",BENG 186A - Principles/Biomaterials Design (A),SP09,143,64,93.4%,90.2%,5.23,B+ (3.56),B- (2.89)
+877,"Watson, John Thomas",BENG 187A - BENG Design Project: Planning (A),SP09,65,41,92.1%,86.8%,1.2,A (4.00),A- (3.79)
+878,"Watson, John Thomas",BENG 187D - BENG Design Proj:Presentation (A),SP09,79,44,88.4%,97.7%,2.59,A- (3.95),A- (3.77)
+879,"Engler, Adam J.",BENG 192 - Senior Sem. in Bioengineering (A),SP09,7,6,83.3%,100.0%,2.17,,
+880,"Varghese, Shyni",BENG 192 - Senior Sem. in Bioengineering (B),SP09,9,7,100.0%,100.0%,0.5,,
+881,"Micou, Melissa Kurtis",BENG 87 - Freshman Seminar (A),SP09,19,16,100.0%,100.0%,0.5,,
+882,"Chen, Peter Chung-Yick",BENG 1 - Introduction to Bioengineering (A),WI09,246,69,89.4%,95.3%,1.06,A (4.00),
+883,"Chien, Shu",BENG 1 - Introduction to Bioengineering (A),WI09,246,88,86.4%,93.2%,2.39,A (4.00),
+884,"Micou, Melissa Kurtis",BENG 109 - BENG Statics & Dynamics (A),WI09,134,96,84.2%,77.9%,6.29,B+ (3.44),B (3.13)
+885,"Mc Culloch, Andrew Douglas",BENG 112A - Biomechanics (A),WI09,99,57,47.2%,50.9%,9.82,B+ (3.33),B+ (3.41)
+886,"Gough, David A.",BENG 122A - Biosystems and Control (A),WI09,42,32,58.1%,46.7%,9.69,B (3.27),B (3.06)
+887,"Hasty, Jeff M",BENG 122A - Biosystems and Control (A),WI09,42,32,60.0%,96.7%,9.34,B (3.27),B (3.06)
+888,"Palsson, Bernhard O.",BENG 123 - Systems Biology & Bioenginring (A),WI09,42,27,74.1%,85.2%,13.54,B+ (3.41),B- (2.97)
+889,"Varghese, Shyni",BENG 128B - Design Implmnt Genetic Circuit (A),WI09,8,4,75.0%,100.0%,5.5,B (3.00),
+890,"Zhang, Kun",BENG 128B - Design Implmnt Genetic Circuit (A),WI09,8,4,100.0%,100.0%,6.0,B (3.00),
+891,"Christman, Karen",BENG 129B - Design Implmnt Cell Systm BENG (A),WI09,10,4,75.0%,100.0%,8.5,A (4.00),
+892,"Sung, Lanping Amy",BENG 129B - Design Implmnt Cell Systm BENG (A),WI09,10,11,100.0%,100.0%,8.7,A (4.00),
+893,"Varghese, Shyni",BENG 130 - Molecular Physical Chemistry (A),WI09,83,56,40.0%,36.4%,6.8,B (3.16),B (3.05)
+894,"Lieber, Richard L",BENG 140A - Bioengineering Physiology (A),WI09,47,31,100.0%,92.3%,4.43,B+ (3.50),B- (2.88)
+895,"Silva, Gabriel",BENG 140A - Bioengineering Physiology (A),WI09,47,22,100.0%,100.0%,5.41,B+ (3.50),B- (2.88)
+896,"Ward, Samuel R.",BENG 140A - Bioengineering Physiology (A),WI09,47,28,96.2%,100.0%,4.58,B+ (3.50),B- (2.88)
+897,"Silva, Gabriel",BENG 147B - Design Implmntatn Neural Engin (A),WI09,7,4,100.0%,100.0%,13.0,B+ (3.33),
+898,"Mc Culloch, Andrew Douglas",BENG 148B - Design Implmntatn Cardiac BENG (A),WI09,8,12,83.3%,83.3%,6.0,A- (3.83),
+899,"Schmid-Schoenbein, Geert W",BENG 149B - Design Implmntn Vascular BENG (A),WI09,8,5,100.0%,100.0%,7.7,A- (3.75),
+900,"Baker, Dale Allen",BENG 161B - Biochemical Engineering (A),WI09,48,39,86.8%,100.0%,7.31,B (3.12),B (3.19)
+901,"Sah, Robert Lie-Yuan",BENG 169B - Design Implmntatn Tissue Engin (A),WI09,8,4,100.0%,100.0%,16.0,A (4.00),
+902,"Wang, Wei",BENG 184 - Computational Molecular Biol. (A),WI09,4,8,100.0%,100.0%,11.0,A- (3.75),
+903,"Omens, Jeffrey Howard",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI09,88,54,100.0%,100.0%,7.63,B+ (3.43),B (3.21)
+904,"Micou, Melissa Kurtis",BENG 187C - BENG Design Proj:Implemntation (A),WI09,80,51,80.0%,84.0%,6.07,B+ (3.62),B+ (3.57)
+905,"Watson, John Thomas",BENG 191 - Senior Sem I: Professnl Issues (A),WI09,12,12,91.7%,100.0%,1.67,A- (3.80),
+906,"Micou, Melissa Kurtis",BENG 192 - Senior Sem. in Bioengineering (G),WI09,8,3,100.0%,100.0%,8.5,A (4.00),
+907,"Omens, Jeffrey Howard",BENG 192 - Senior Sem. in Bioengineering (G),WI09,8,3,100.0%,100.0%,8.5,A (4.00),
+908,"Mc Culloch, Andrew Douglas",BENG 87 - Freshman Seminar (A),WI09,17,10,90.0%,90.0%,0.5,A (4.00),
+909,"Gough, David A.",BENG 87 - Freshman Seminar (B),WI09,13,7,100.0%,100.0%,0.79,A (4.00),
+910,"Hall, David J",BENG 101 - Foundations/Biomedical Imaging (A),FA08,34,20,90.0%,85.0%,4.29,B+ (3.47),B (3.02)
+911,"Silva, Gabriel",BENG 101 - Foundations/Biomedical Imaging (A),FA08,34,18,76.5%,87.5%,4.75,B+ (3.47),B (3.02)
+912,"Schmid-Schoenbein, Geert W",BENG 110 - Continuum Mechanics (A),FA08,107,78,71.8%,79.2%,8.86,B (3.14),B- (2.92)
+913,"Huang, Xiaohua",BENG 126A - Design Dev Bioinformatics BENG (A),FA08,8,3,100.0%,100.0%,5.83,A (4.00),
+914,"Ideker, Trey",BENG 126A - Design Dev Bioinformatics BENG (A),FA08,8,4,100.0%,100.0%,10.0,A (4.00),
+915,"Varghese, Shyni",BENG 128A - Design Dev.Genetc Circuit BENG (A),FA08,8,4,100.0%,100.0%,4.5,A (4.00),
+916,"Zhang, Kun",BENG 128A - Design Dev.Genetc Circuit BENG (A),FA08,8,4,100.0%,100.0%,5.0,A (4.00),
+917,"Christman, Karen",BENG 129A - Design Develp.Cell System BENG (A),FA08,10,4,100.0%,100.0%,7.0,A (4.00),
+918,"Sung, Lanping Amy",BENG 129A - Design Develp.Cell System BENG (A),FA08,10,7,100.0%,100.0%,9.36,A (4.00),
+919,"Silva, Gabriel",BENG 147A - Design Develpmnt in Neural Eng (A),FA08,7,4,100.0%,100.0%,9.0,A (4.00),
+920,"Ward, Samuel R.",BENG 147A - Design Develpmnt in Neural Eng (A),FA08,7,3,100.0%,100.0%,5.83,A (4.00),
+921,"Mc Culloch, Andrew Douglas",BENG 148A - Design Developmnt Cardiac BENG (A),FA08,8,8,87.5%,100.0%,7.0,A- (3.71),
+922,"Schmid-Schoenbein, Geert W",BENG 149A - Design Develpmnt Vascular BENG (A),FA08,8,4,100.0%,100.0%,8.5,A (4.00),
+923,"Huang, Xiaohua",BENG 161A - Bioreactor Engineering (A),FA08,46,33,81.3%,51.6%,6.08,B+ (3.37),B+ (3.43)
+924,"Sah, Robert Lie-Yuan",BENG 161A - Bioreactor Engineering (A),FA08,46,34,77.4%,83.9%,6.21,B+ (3.37),B+ (3.43)
+925,"Micou, Melissa Kurtis",BENG 162 - Biotechnology Laboratory (A),FA08,45,37,89.2%,86.5%,6.61,B+ (3.41),B+ (3.38)
+926,"Micou, Melissa Kurtis",BENG 166A - Cell and Tissue Engineering (A),FA08,52,36,97.1%,90.9%,5.17,B (3.28),B (3.26)
+927,"Gough, David A.",BENG 169A - Design Developmnt Tissue Engin (A),FA08,8,4,100.0%,100.0%,4.0,A (4.00),
+928,"Sah, Robert Lie-Yuan",BENG 169A - Design Developmnt Tissue Engin (A),FA08,8,4,100.0%,100.0%,13.5,A (4.00),
+929,"Omens, Jeffrey Howard",BENG 179A - Design Develop.Bioinstrumntatn (A),FA08,8,5,100.0%,100.0%,4.5,A (4.00),
+930,"Bafna, Vineet",BENG 182 - Biological Databases (A),FA08,10,9,100.0%,100.0%,9.83,,
+931,"Ideker, Trey",BENG 183 - Applied Genomic Technologies (A),FA08,12,10,100.0%,100.0%,7.17,B+ (3.56),
+932,"Micou, Melissa Kurtis",BENG 187B - BENG Design Project:Developmnt (A),FA08,80,53,84.6%,75.0%,6.5,B+ (3.67),B+ (3.62)
+933,"Sung, Lanping Amy",BENG 192 - Senior Sem. in Bioengineering (H),FA08,10,3,100.0%,100.0%,5.17,A (4.00),
+934,"Micou, Melissa Kurtis",BENG 100 - Introduction to Bioengineering (A),SP08,161,73,82.1%,77.6%,4.5,B+ (3.66),B- (2.90)
+935,"Watson, John Thomas",BENG 100 - Introduction to Bioengineering (A),SP08,161,61,78.9%,62.1%,4.3,B+ (3.66),B- (2.90)
+936,"Gough, David A.",BENG 103B - Bioengineering Mass Transfer (A),SP08,83,52,56.9%,30.8%,8.85,B (3.10),B (3.23)
+937,"HUANG, WEI",BENG 112B - Biomechanics (A),SP08,100,53,74.0%,28.0%,8.8,B+ (3.61),B (3.12)
+938,"Hasty, Jeff M",BENG 125 - Modeling & Computatio/Bioengr (A),SP08,91,44,100.0%,100.0%,3.73,A- (3.81),A- (3.72)
+939,"Vera, Carlos J",BENG 140B - Bioengineering Physiology (A),SP08,51,26,100.0%,86.4%,8.1,B+ (3.52),B (3.19)
+940,"Wagner, Peter D.",BENG 140B - Bioengineering Physiology (A),SP08,51,29,100.0%,96.6%,7.26,B+ (3.52),B (3.19)
+941,"Sung, Lanping Amy",BENG 160 - Chem & Molecular BENG Techniqs (A),SP08,43,28,100.0%,75.0%,6.21,B+ (3.43),B+ (3.67)
+942,"Zhang, Kun",BENG 160 - Chem & Molecular BENG Techniqs (A),SP08,43,30,100.0%,77.8%,5.67,B+ (3.43),B+ (3.67)
+943,"Micou, Melissa Kurtis",BENG 167 - Cell & Tissue Engineering Lab (A),SP08,6,6,100.0%,83.3%,3.17,B+ (3.67),
+944,"Sung, Lanping Amy",BENG 168 - Biomolecular Engineering (A),SP08,38,23,100.0%,78.3%,4.41,B (3.24),B (3.20)
+945,"Omens, Jeffrey Howard",BENG 172 - Bioengineering Laboratory (A),SP08,89,42,97.5%,100.0%,9.36,A- (3.73),B+ (3.36)
+946,"Pevzner, Pavel Arkadjevich",BENG 181 - Molecular Sequence Analysis (A),SP08,15,14,78.6%,85.7%,7.21,,
+947,"Christman, Karen",BENG 186A - Principles/Biomaterials Design (A),SP08,142,85,91.3%,97.5%,4.62,B+ (3.60),B- (2.89)
+948,"Omens, Jeffrey Howard",BENG 187A - BENG Design Project: Planning (A),SP08,82,54,96.0%,98.0%,0.5,A- (3.94),A- (3.83)
+949,"Omens, Jeffrey Howard",BENG 187D - BENG Design Proj:Presentation (A),SP08,80,36,66.7%,90.9%,2.8,A (4.00),
+950,"Varghese, Shyni",BENG 192 - Senior Sem. in Bioengineering (A),SP08,12,6,100.0%,100.0%,0.5,,
+951,"Gough, David A.",BENG 87 - Freshman Seminar (A),SP08,19,7,100.0%,100.0%,0.79,,
+952,"Micou, Melissa Kurtis",BENG 87 - Freshman Seminar (B),SP08,19,9,100.0%,100.0%,0.5,,
+953,"Sung, Lanping Amy",BENG 87 - Freshman Seminar (C),SP08,17,13,100.0%,100.0%,0.65,A (4.00),
+954,"Chen, Peter Chung-Yick",BENG 1 - Introduction to Bioengineering (A),WI08,216,56,96.3%,98.1%,1.87,A (4.00),
+955,"Chien, Shu",BENG 1 - Introduction to Bioengineering (A),WI08,216,126,96.0%,98.4%,2.37,A (4.00),
+956,"Micou, Melissa Kurtis",BENG 109 - BENG Statics & Dynamics (A),WI08,113,68,91.0%,86.2%,7.84,B+ (3.64),B (3.16)
+957,"Mc Culloch, Andrew Douglas",BENG 112A - Biomechanics (A),WI08,101,56,81.1%,78.8%,8.32,B+ (3.44),B+ (3.44)
+958,"Gough, David A.",BENG 122A - Biosystems and Control (A),WI08,29,20,90.0%,45.0%,7.0,B (3.20),B+ (3.42)
+959,"Palsson, Bernhard O.",BENG 123 - Systems Biology & Bioenginring (A),WI08,56,31,61.3%,74.2%,11.53,B (3.11),B- (2.97)
+960,"Huang, Xiaohua",BENG 126B - Design Implmnt Informatcs BENG (A),WI08,10,6,100.0%,100.0%,6.5,B+ (3.60),
+961,"Mc Culloch, Andrew Douglas",BENG 129B - Design Implmnt Cell Systm BENG (A),WI08,10,9,77.8%,88.9%,7.61,A (4.00),
+962,"Varghese, Shyni",BENG 130 - Molecular Physical Chemistry (A),WI08,84,52,44.2%,57.7%,5.27,B+ (3.35),B- (2.81)
+963,"Silva, Gabriel",BENG 140A - Bioengineering Physiology (A),WI08,58,35,97.1%,100.0%,5.3,B+ (3.60),B+ (3.34)
+964,"Silva, Gabriel",BENG 147B - Design Implmntatn Neural Engin (A),WI08,9,3,100.0%,100.0%,9.17,A (4.00),
+965,"Ward, Samuel R.",BENG 147B - Design Implmntatn Neural Engin (A),WI08,9,3,100.0%,100.0%,9.17,A (4.00),
+966,"Omens, Jeffrey Howard",BENG 148B - Design Implmntatn Cardiac BENG (A),WI08,10,6,100.0%,100.0%,5.83,A- (3.83),
+967,"Baker, Dale Allen",BENG 161B - Biochemical Engineering (A),WI08,64,51,68.0%,79.6%,9.79,B (3.04),B (3.17)
+968,"Sah, Robert Lie-Yuan",BENG 169B - Design Implmntatn Tissue Engin (A),WI08,9,8,100.0%,100.0%,10.75,A- (3.88),
+969,"Gough, David A.",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI08,14,5,100.0%,100.0%,6.9,A- (3.80),
+970,"Micou, Melissa Kurtis",BENG 179B - Design Implmnt Bioinstrumntatn (A),WI08,14,5,100.0%,100.0%,6.9,A- (3.80),
+971,"Wang, Wei",BENG 184 - Computational Molecular Biol. (A),WI08,15,8,75.0%,75.0%,9.25,,
+972,"Chen, Peter Chung-Yick",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI08,104,82,86.8%,93.5%,7.97,B+ (3.57),B (3.20)
+973,"Omens, Jeffrey Howard",BENG 186B - Princpls/Bioinstrumentatn Desn (A),WI08,104,62,91.8%,93.4%,7.92,B+ (3.57),B (3.20)
+974,"Micou, Melissa Kurtis",BENG 187C - BENG Design Proj:Implemntation (A),WI08,80,68,68.7%,62.7%,4.01,A- (3.72),B+ (3.61)
+975,"Watson, John Thomas",BENG 191 - Senior Sem I: Professnl Issues (A),WI08,24,16,93.8%,93.8%,1.5,A (4.00),A- (3.78)
+976,"Sung, Lanping Amy",BENG 192 - Senior Sem. in Bioengineering (A),WI08,8,10,100.0%,100.0%,4.72,A (4.00),
+977,"Mc Culloch, Andrew Douglas",BENG 192 - Senior Sem. in Bioengineering (D),WI08,9,9,87.5%,87.5%,3.61,A (4.00),
+978,"Omens, Jeffrey Howard",BENG 192 - Senior Sem. in Bioengineering (D),WI08,9,9,87.5%,87.5%,3.61,A (4.00),
+979,"Sah, Robert Lie-Yuan",BENG 192 - Senior Sem. in Bioengineering (E),WI08,8,8,100.0%,100.0%,10.25,A (4.00),
+980,"Gough, David A.",BENG 192 - Senior Sem. in Bioengineering (F),WI08,13,5,80.0%,100.0%,2.1,B+ (3.50),
+981,"Micou, Melissa Kurtis",BENG 192 - Senior Sem. in Bioengineering (F),WI08,13,5,80.0%,100.0%,2.1,B+ (3.50),
+982,"Mc Culloch, Andrew Douglas",BENG 87 - Freshman Seminar (B),WI08,16,15,93.3%,93.3%,0.63,A (4.00),
+983,"Omens, Jeffrey Howard",BENG 87 - Freshman Seminar (B),WI08,16,13,91.7%,91.7%,0.65,A (4.00),
+984,"Sung, Lanping Amy",BENG 87 - Freshman Seminar (E),WI08,18,13,76.9%,100.0%,0.81,,
+985,"Hall, David J",BENG 101 - Foundations/Biomedical Imaging (A),FA07,52,43,80.0%,61.5%,4.4,B+ (3.64),B+ (3.31)
+986,"Silva, Gabriel",BENG 101 - Foundations/Biomedical Imaging (A),FA07,52,43,80.0%,61.5%,4.4,B+ (3.64),B+ (3.31)
+987,"Schmid-Schoenbein, Geert W",BENG 110 - Continuum Mechanics (A),FA07,105,85,80.0%,88.2%,8.62,B+ (3.35),B (3.19)
+988,"Huang, Xiaohua",BENG 126A - Design Dev Bioinformatics BENG (A),FA07,10,8,100.0%,100.0%,5.93,A- (3.83),
+989,"Mc Culloch, Andrew Douglas",BENG 129A - Design Develp.Cell System BENG (A),FA07,10,9,100.0%,88.9%,6.5,A (4.00),
+990,"Sah, Robert Lie-Yuan",BENG 161A - Bioreactor Engineering (A),FA07,65,59,67.3%,68.5%,7.64,B+ (3.35),B+ (3.30)
+991,"Vera, Carlos J",BENG 162 - Biotechnology Laboratory (A),FA07,63,29,96.4%,81.5%,8.09,A- (3.93),A- (3.80)
+992,"Micou, Melissa Kurtis",BENG 166A - Cell and Tissue Engineering (A),FA07,69,55,94.3%,96.2%,6.75,B+ (3.42),B (3.17)
+993,"Sah, Robert Lie-Yuan",BENG 169A - Design Developmnt Tissue Engin (A),FA07,10,8,100.0%,87.5%,10.0,A (4.00),
+994,"Gough, David A.",BENG 179A - Design Develop.Bioinstrumntatn (A),FA07,14,4,100.0%,100.0%,4.5,B+ (3.67),
+995,"Micou, Melissa Kurtis",BENG 179A - Design Develop.Bioinstrumntatn (A),FA07,14,4,100.0%,100.0%,4.5,B+ (3.67),
+996,"Bafna, Vineet",BENG 182 - Biological Databases (A),FA07,15,13,84.6%,92.3%,10.04,,
+997,"Ideker, Trey",BENG 183 - Applied Genomic Technologies (A),FA07,18,16,93.8%,100.0%,6.38,B+ (3.50),
+998,"Omens, Jeffrey Howard",BENG 187B - BENG Design Project:Developmnt (A),FA07,81,45,77.5%,86.0%,5.43,A- (3.74),B+ (3.56)
+999,"Micou, Melissa Kurtis",BENG 87 - Freshman Seminar (A),FA07,20,18,100.0%,100.0%,0.5,A (4.00),

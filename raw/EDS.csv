@@ -1,0 +1,934 @@
+,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+0,"Ambo, Theresa Jean",EDS 102 - Intro to Qual Methods/EdRsrch (A),SP23,52,17,93.8%,100.0%,3.43,A (4.00),A- (3.96)
+1,"Eguchi, Emi",EDS 114 - Cogn Develp&Intractv Compt Env (A),SP23,27,7,100.0%,100.0%,6.5,B+ (3.57),B (3.18)
+2,"Clarke, Sherice Nicole",EDS 115 - Cog Development & Education (A),SP23,57,33,100.0%,93.9%,3.41,A- (3.81),A- (3.80)
+3,"Clarke, Sherice Nicole","EDS 117 - Language, Culture & Education (A)",SP23,68,43,97.6%,97.6%,4.07,A- (3.87),B+ (3.65)
+4,"Aragon, Maria Jose","EDS 117 - Language, Culture & Education (B)",SP23,66,28,100.0%,100.0%,3.46,A- (3.96),A- (3.77)
+5,"Raj, Anita",EDS 118 - Adolescent Devlp & Education (A),SP23,60,21,85.7%,70.0%,3.17,A- (3.89),A- (3.78)
+6,"Simon, Elizabeth A",EDS 124AR - Teach Computation/DigitalWorld (A),SP23,82,17,94.1%,94.1%,7.68,A- (3.88),B+ (3.68)
+7,"Simon, Elizabeth A",EDS 124AR - Teach Computation/DigitalWorld (C),SP23,130,26,91.7%,95.8%,6.5,A- (3.95),B+ (3.49)
+8,"Eguchi, Emi",EDS 124BR - Teach Computational Thinking (A),SP23,107,22,95.5%,95.5%,4.86,A- (3.73),B+ (3.62)
+9,"Pappas, Elizabeth",EDS 128B - Intro/Teaching&Learning (Elem) (A),SP23,41,12,100.0%,100.0%,4.67,A- (3.92),A- (3.90)
+10,"Scharton, Susan Michelle",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),SP23,38,31,96.8%,93.5%,4.82,A- (3.73),B+ (3.47)
+11,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),SP23,29,12,91.7%,100.0%,6.83,A- (3.82),A- (3.89)
+12,"Bintliff, Amy S.V.",EDS 145 - Arts Across the Curriculum (A),SP23,29,11,100.0%,100.0%,6.68,A- (3.91),B+ (3.49)
+13,"Ambo, Theresa Jean",EDS 180 - Topics in Education Studies (A),SP23,20,8,100.0%,100.0%,4.0,A (4.00),A (4.00)
+14,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),SP23,9,3,100.0%,100.0%,4.5,B (3.00),
+15,"Chung, Luz Marina",EDS 38 - Explorations in Education (A),SP23,18,8,100.0%,100.0%,5.25,A (4.00),
+16,"Halter, Christopher P.",EDS 103 - Intro to Quant Methods/EdRsrch (A),WI23,40,11,90.9%,100.0%,3.59,A- (3.73),B+ (3.35)
+17,"Halter, Christopher P.",EDS 103 - Intro to Quant Methods/EdRsrch (B),WI23,18,6,100.0%,100.0%,4.17,A- (3.83),
+18,"Cohen, Shana R",EDS 111 - Child Family Community (A),WI23,54,24,83.3%,87.5%,5.42,A (4.00),A- (3.79)
+19,"Eguchi, Emi",EDS 114 - Cogn Develp&Intractv Compt Env (A),WI23,23,8,100.0%,100.0%,4.17,A (4.00),B+ (3.51)
+20,"Clarke, Sherice Nicole",EDS 115 - Cog Development & Education (A),WI23,59,29,65.5%,85.7%,4.16,A- (3.90),A- (3.78)
+21,"Bintliff, Amy S.V.",EDS 118 - Adolescent Devlp & Education (A),WI23,60,53,100.0%,100.0%,4.24,A- (3.87),A- (3.85)
+22,"Munoz Sanchez, Alicia",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A),WI23,30,11,100.0%,100.0%,4.14,A- (3.88),B (3.23)
+23,"Eguchi, Emi",EDS 124AR - Teach Computation/DigitalWorld (A),WI23,92,26,100.0%,95.8%,5.5,A- (3.91),A- (3.76)
+24,"Simon, Elizabeth A",EDS 124BR - Teach Computational Thinking (A),WI23,96,31,92.9%,100.0%,6.5,A- (3.93),A- (3.90)
+25,"Simon, Elizabeth A",EDS 124BR - Teach Computational Thinking (C),WI23,103,17,100.0%,100.0%,6.26,A- (3.94),B+ (3.56)
+26,"Jones, Gabrielle Anastasia","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",WI23,60,36,100.0%,100.0%,3.64,A- (3.85),B+ (3.61)
+27,"Fargason, Sharon Gayle",EDS 128A - Intro/Teaching&Learning (Elem) (A),WI23,43,9,100.0%,88.9%,3.5,A (4.00),B+ (3.41)
+28,"Black, Alison Michelle",EDS 129B - Intro/Teach&Learn (Secondary) (A),WI23,53,26,92.3%,96.0%,4.5,A- (3.85),A- (3.82)
+29,"Choi, Bailey Miyeon",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),WI23,33,24,100.0%,100.0%,4.41,A- (3.75),A- (3.77)
+30,"Bintliff, Amy S.V.","EDS 133 - Counsel, Mentor, Advise (P-12) (A)",WI23,38,20,100.0%,100.0%,5.45,A- (3.79),A- (3.78)
+31,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),WI23,26,13,100.0%,100.0%,5.58,A- (3.85),B+ (3.64)
+32,"Chung, Luz Marina",EDS 140 - Intro Action Rsrch P-12 Edu (A),WI23,19,10,90.0%,90.0%,9.1,A- (3.70),
+33,"Hemans, Patricia Ann Benitez",EDS 23 - Higher Education Second Year (A),WI23,26,12,100.0%,100.0%,0.83,A (4.00),
+34,"Hemans, Patricia Ann Benitez",EDS 23 - Higher Education Second Year (B),WI23,15,9,100.0%,100.0%,1.17,A (4.00),
+35,"Heinzman, Erica M.",EDS 39 - Explore Secondary STEM Ed (A),WI23,24,22,100.0%,100.0%,3.32,A- (3.95),A (4.00)
+36,"Cohen, Shana R",EDS 110R - Early Learning Environments (A),FA22,50,13,84.6%,84.6%,7.12,B+ (3.58),B+ (3.30)
+37,"Sanchez, Adan Quetzalcoatl",EDS 113 - Chicanas/os & Latinos in Edu (A),FA22,50,16,93.8%,93.8%,3.38,A- (3.80),B+ (3.48)
+38,"Eguchi, Emi",EDS 114 - Cogn Develp&Intractv Compt Env (A),FA22,34,12,58.3%,58.3%,7.17,B+ (3.67),B+ (3.39)
+39,"Chung, Luz Marina","EDS 117 - Language, Culture & Education (A)",FA22,69,23,87.0%,95.5%,5.8,A- (3.82),B+ (3.54)
+40,"Simon, Elizabeth A",EDS 124AR - Teach Computation/DigitalWorld (A),FA22,92,23,95.7%,100.0%,6.15,A- (3.91),B+ (3.55)
+41,"Simon, Elizabeth A",EDS 124AR - Teach Computation/DigitalWorld (B),FA22,93,16,100.0%,100.0%,7.25,A- (3.81),B+ (3.63)
+42,"Eguchi, Emi",EDS 124BR - Teach Computational Thinking (A),FA22,81,21,90.0%,85.0%,7.34,A- (3.95),B+ (3.69)
+43,"Aragon, Maria Jose","EDS 125 - Hist,Polic&Theory/Bilingual Ed (B)",FA22,53,20,100.0%,100.0%,4.5,B+ (3.65),B (3.20)
+44,"Heinzman, Erica M.",EDS 129A - Intro/Teach&Learn (Secondary) (A),FA22,51,35,94.3%,97.1%,4.33,A- (3.94),A- (3.98)
+45,"Mendoza, Kathrina Esguerra",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),FA22,45,34,100.0%,100.0%,4.26,A- (3.73),A- (3.73)
+46,"Wishard Guerra, Alison G.",EDS 131 - Early Child Dev & Education (A),FA22,23,9,100.0%,88.9%,6.5,A- (3.78),A- (3.81)
+47,"Bintliff, Amy S.V.","EDS 133 - Counsel, Mentor, Advise (P-12) (A)",FA22,40,16,100.0%,100.0%,6.9,A- (3.87),A- (3.79)
+48,"Hemans, Patricia Ann Benitez",EDS 146 - Mindfulness and Education (A),FA22,18,4,100.0%,100.0%,7.0,A (4.00),
+49,"Halter, Christopher P.",EDS 150 - CASP Transfer Intro Course (C),FA22,18,6,100.0%,100.0%,2.9,A (4.00),
+50,"Garcia, Martha Diana",EDS 150 - CASP Transfer Intro Course (D),FA22,14,4,100.0%,100.0%,2.0,A (4.00),
+51,"Halter, Christopher P.",EDS 150 - CASP Transfer Intro Course (E),FA22,32,12,83.3%,91.7%,2.67,A (4.00),
+52,"Halter, Christopher P.",EDS 150 - CASP Transfer Intro Course (F),FA22,14,7,85.7%,85.7%,0.79,A (4.00),
+53,"Halter, Christopher P.",EDS 150 - CASP Transfer Intro Course (G),FA22,9,4,66.7%,100.0%,3.17,B+ (3.67),
+54,"Halter, Christopher P.",EDS 150 - CASP Transfer Intro Course (H),FA22,12,5,100.0%,100.0%,3.3,A (4.00),
+55,"Wishard Guerra, Alison G.",EDS 164R - Early Childhood Policy (A),FA22,50,11,100.0%,90.0%,6.86,A (4.00),B+ (3.59)
+56,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),FA22,8,4,100.0%,100.0%,2.5,A- (3.75),
+57,"Halter, Christopher P.",EDS 50 - CASP Frosh Intro Course (A),FA22,25,12,90.9%,90.9%,1.23,A (4.00),
+58,"Halter, Christopher P.",EDS 50 - CASP Frosh Intro Course (B),FA22,28,15,92.9%,92.9%,1.5,A- (3.89),
+59,"Halter, Christopher P.",EDS 50 - CASP Frosh Intro Course (C),FA22,18,4,100.0%,100.0%,0.5,A (4.00),
+60,"Halter, Christopher P.",EDS 50 - CASP Frosh Intro Course (D),FA22,24,8,85.7%,100.0%,1.36,A (4.00),
+61,"Halter, Christopher P.",EDS 50 - CASP Frosh Intro Course (E),FA22,15,8,100.0%,100.0%,1.93,A (4.00),
+62,"Garcia, Martha Diana",EDS 50 - CASP Frosh Intro Course (F),FA22,29,12,83.3%,83.3%,1.0,A (4.00),
+63,"Halter, Christopher P.",EDS 50 - CASP Frosh Intro Course (H),FA22,24,12,91.7%,91.7%,1.0,A- (3.90),
+64,"Halter, Christopher P.",EDS 50 - CASP Frosh Intro Course (I),FA22,15,9,100.0%,87.5%,1.75,B (3.25),
+65,"Halter, Christopher P.",EDS 50 - CASP Frosh Intro Course (J),FA22,30,15,92.9%,100.0%,0.64,A (4.00),
+66,"Garcia, Martha Diana",EDS 50 - CASP Frosh Intro Course (K),FA22,24,12,100.0%,100.0%,1.0,A (4.00),
+67,"Eguchi, Emi",EDS 87 - First-year Seminar (A),FA22,10,7,85.7%,85.7%,2.21,B+ (3.50),
+68,"Warstadt, Melissa Fawn",EDS 115 - Cog Development & Education (A),S322,19,8,100.0%,100.0%,4.5,A- (3.86),
+69,"Gallagher-Geurtsen, Tricia Meghan","EDS 117 - Language, Culture & Education (A)",S322,26,12,91.7%,91.7%,8.0,A- (3.90),A- (3.82)
+70,"Jones, Gabrielle Anastasia","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",S322,22,8,71.4%,42.9%,5.25,A (4.00),A- (3.70)
+71,"Pappas, Elizabeth",EDS 128A - Intro/Teaching&Learning (Elem) (A),S322,15,12,100.0%,100.0%,5.5,A (4.00),
+72,"Fargason, Sharon Gayle",EDS 128B - Intro/Teaching&Learning (Elem) (A),S322,15,7,100.0%,100.0%,5.93,A (4.00),
+73,"Enriquez, Jose Jesus",EDS 113 - Chicanas/os & Latinos in Edu (A),S222,24,6,100.0%,100.0%,5.83,A- (3.75),B+ (3.42)
+74,"Trejos, Jessica",EDS 115 - Cog Development & Education (A),S222,24,7,71.4%,57.1%,4.5,A- (3.83),B (3.16)
+75,"Warstadt, Melissa Fawn",EDS 118 - Adolescent Devlp & Education (A),S222,15,6,100.0%,100.0%,6.5,B+ (3.33),
+76,"Hemans, Patricia Ann Benitez",EDS 146 - Mindfulness and Education (A),S222,19,15,100.0%,100.0%,6.37,A- (3.87),
+77,"Guida, Tonia Floramaria",EDS 25 - Am Higher Edu&Collegiate Exper (A),S222,121,89,98.9%,98.9%,5.06,B+ (3.66),A- (3.78)
+78,"Ramirez, Brianna Rachelle",EDS 25 - Am Higher Edu&Collegiate Exper (B),S222,128,57,96.2%,98.0%,4.72,A- (3.84),A- (3.85)
+79,"Miguel, Jessica",EDS 110R - Early Learning Environments (A),S122,19,4,100.0%,100.0%,5.17,B+ (3.67),
+80,"Osoria, Ruby","EDS 117 - Language, Culture & Education (A)",S122,29,3,100.0%,66.7%,7.83,A (4.00),A- (3.73)
+81,"Eguchi, Emi",EDS 124BR - Teach Computational Thinking (A),S122,20,3,100.0%,100.0%,6.5,A (4.00),B+ (3.64)
+82,"Reece, Erika Rae",EDS 126 - Social Organization/Education (A),S122,16,3,100.0%,66.7%,9.83,A (4.00),
+83,"Drake, Kristy Nicole",EDS 135 - Newcomer Communities in SD (A),S122,26,6,100.0%,100.0%,10.5,B+ (3.67),B (3.23)
+84,"Ambo, Theresa Jean",EDS 102 - Intro to Qual Methods/EdRsrch (A),SP22,50,15,93.3%,100.0%,2.9,A (4.00),A- (3.99)
+85,"Gallagher-Geurtsen, Tricia Meghan",EDS 112 - U.S. Urban Education (A),SP22,56,47,97.8%,100.0%,4.72,A- (3.86),B+ (3.58)
+86,"Ramirez, Brianna Rachelle",EDS 113 - Chicanas/os & Latinos in Edu (A),SP22,54,16,93.3%,93.3%,3.03,A- (3.86),A- (3.71)
+87,"Eguchi, Emi",EDS 114 - Cogn Develp&Intractv Compt Env (B),SP22,27,8,75.0%,100.0%,6.75,B (3.29),B (3.20)
+88,"Mamas, Christoforos",EDS 115 - Cog Development & Education (A),SP22,62,23,100.0%,100.0%,3.83,A- (3.95),A- (3.86)
+89,"Museus, Samuel David",EDS 116 - Equity Minded Education (A),SP22,39,10,100.0%,100.0%,2.5,A (4.00),A- (3.92)
+90,"Jones, Makeba","EDS 117 - Language, Culture & Education (B)",SP22,139,45,97.6%,97.6%,4.69,A- (3.90),B+ (3.68)
+91,"Miguel, Jessica",EDS 118 - Adolescent Devlp & Education (A),SP22,58,52,100.0%,100.0%,3.92,A- (3.82),B+ (3.63)
+92,"Eguchi, Emi",EDS 124BR - Teach Computational Thinking (A),SP22,130,37,91.7%,94.4%,7.0,A- (3.86),B+ (3.57)
+93,"Gautsch, Leslie","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",SP22,55,16,87.5%,93.8%,5.38,A- (3.88),A- (3.81)
+94,"Pappas, Elizabeth",EDS 128B - Intro/Teaching&Learning (Elem) (A),SP22,44,8,100.0%,100.0%,4.0,A- (3.88),A- (3.79)
+95,"Heinzman, Erica M.",EDS 129C - Intro/Teach&Learn (Secondary) (A),SP22,43,26,100.0%,100.0%,4.58,A- (3.84),A- (3.98)
+96,"Scharton, Susan Michelle",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),SP22,51,46,97.8%,91.3%,7.21,A- (3.77),A- (3.80)
+97,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),SP22,36,14,100.0%,100.0%,6.07,A- (3.86),A- (3.74)
+98,"Mamas, Christoforos",EDS 141 - Adv. Action Rsrch in P-12 Educ (A),SP22,25,6,100.0%,100.0%,7.7,A (4.00),A- (3.80)
+99,"Bintliff, Amy S.V.",EDS 145 - Arts Across the Curriculum (A),SP22,22,8,100.0%,100.0%,8.0,A- (3.75),A- (3.96)
+100,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),SP22,10,5,100.0%,100.0%,3.7,B (3.20),
+101,"Halter, Christopher P.",EDS 103 - Intro to Quant Methods/EdRsrch (A),WI22,41,19,100.0%,100.0%,4.29,B+ (3.68),A- (3.82)
+102,"Cohen, Shana R",EDS 111 - Child Family Community (A),WI22,42,20,84.2%,94.7%,4.8,A- (3.95),A- (3.88)
+103,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (A),WI22,61,23,95.7%,95.7%,4.5,A- (3.96),B+ (3.68)
+104,"Eguchi, Emi",EDS 114 - Cogn Develp&Intractv Compt Env (A),WI22,33,11,90.9%,81.8%,4.68,A (4.00),B+ (3.57)
+105,"Cohen, Shana R",EDS 115 - Cog Development & Education (A),WI22,46,19,89.5%,78.9%,4.08,A- (3.82),A- (3.71)
+106,"Dean, Dallawrence Edward",EDS 116 - Equity Minded Education (A),WI22,21,9,100.0%,100.0%,5.0,A- (3.86),A- (3.92)
+107,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",WI22,73,31,100.0%,100.0%,5.53,A- (3.93),A- (3.84)
+108,"Aragon, Maria Jose","EDS 117 - Language, Culture & Education (B)",WI22,67,31,96.8%,96.8%,3.5,A- (3.74),A- (3.81)
+109,"Bintliff, Amy S.V.",EDS 118 - Adolescent Devlp & Education (A),WI22,49,49,100.0%,100.0%,4.17,A- (3.88),A- (3.96)
+110,"Goodall, Grant Todd",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A),WI22,27,11,100.0%,100.0%,3.59,B+ (3.40),C+ (2.35)
+111,"Eguchi, Emi",EDS 124AR - Teach Computation/DigitalWorld (A),WI22,98,22,86.4%,90.9%,6.6,A- (3.95),A- (3.73)
+112,"Simon, Elizabeth A",EDS 124BR - Teach Computational Thinking (A),WI22,134,44,97.5%,100.0%,6.0,A- (3.93),B+ (3.58)
+113,"Aragon, Maria Jose","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",WI22,33,17,100.0%,100.0%,3.91,A- (3.87),B+ (3.58)
+114,"Pitt, Richard Norris",EDS 126 - Social Organization/Education (A),WI22,27,25,96.0%,100.0%,4.74,A- (3.79),B+ (3.39)
+115,"Fargason, Sharon Gayle",EDS 128A - Intro/Teaching&Learning (Elem) (A),WI22,46,11,100.0%,100.0%,5.95,A- (3.82),A- (3.84)
+116,"Black, Alison Michelle",EDS 129B - Intro/Teach&Learn (Secondary) (A),WI22,44,27,96.3%,92.3%,5.69,A- (3.93),A- (3.91)
+117,"Hopkins, Megan Beth",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),WI22,33,29,100.0%,96.4%,6.02,A- (3.93),A- (3.92)
+118,"Bintliff, Amy S.V.","EDS 133 - Counsel, Mentor, Advise (P-12) (A)",WI22,25,13,100.0%,100.0%,5.0,A (4.00),A- (3.83)
+119,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),WI22,21,6,100.0%,100.0%,4.5,A (4.00),B+ (3.48)
+120,"Chung, Luz Marina",EDS 140 - Intro Action Rsrch P-12 Edu (B),WI22,29,10,88.9%,100.0%,7.9,A (4.00),A- (3.75)
+121,"Miguel, Jessica",EDS 164R - Early Childhood Policy (A),WI22,14,6,83.3%,100.0%,8.5,A- (3.83),
+122,"Museus, Samuel David",EDS 180 - Topics in Education Studies (A),WI22,14,7,100.0%,100.0%,5.36,B+ (3.57),
+123,"Dean, Dallawrence Edward",EDS 23 - Higher Education Second Year (A),WI22,17,10,90.0%,100.0%,1.5,A (4.00),
+124,"Dean, Dallawrence Edward",EDS 23 - Higher Education Second Year (B),WI22,11,5,100.0%,100.0%,1.7,,
+125,"Eguchi, Emi",EDS 87 - Freshman Seminar (A),WI22,19,9,75.0%,71.4%,2.0,A (4.00),
+126,"Wishard Guerra, Alison G.",EDS 110R - Early Learning Environments (A),FA21,44,20,94.4%,100.0%,7.28,A- (3.81),B+ (3.49)
+127,"Clarke, Sherice Nicole",EDS 115 - Cog Development & Education (A),FA21,54,32,83.9%,96.8%,4.19,B+ (3.61),A- (3.74)
+128,"Chung, Luz Marina","EDS 117 - Language, Culture & Education (A)",FA21,67,27,96.3%,96.3%,6.94,B+ (3.68),A- (3.77)
+129,"Simon, Elizabeth A",EDS 124AR - Teach Computation/DigitalWorld (A),FA21,100,35,94.1%,94.1%,6.79,A- (3.74),B+ (3.59)
+130,"Simon, Elizabeth A",EDS 124BR - Teach Computational Thinking (A),FA21,88,27,88.5%,92.3%,7.08,A- (3.88),B+ (3.62)
+131,"Eguchi, Emi",EDS 124BR - Teach Computational Thinking (C),FA21,72,25,96.0%,100.0%,7.3,A- (3.72),B+ (3.38)
+132,"Jones, Gabrielle Anastasia","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",FA21,55,49,89.8%,91.8%,4.54,B+ (3.61),B (3.25)
+133,"Jones, Makeba",EDS 126 - Social Organization/Education (A),FA21,59,25,96.0%,96.0%,3.7,A- (3.96),A- (3.81)
+134,"Millstone, Rachel Diana",EDS 129A - Intro/Teach&Learn (Secondary) (A),FA21,43,41,100.0%,100.0%,5.96,A- (3.92),A- (3.80)
+135,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),FA21,39,38,97.4%,97.3%,6.18,A- (3.70),B+ (3.69)
+136,"Wishard Guerra, Alison G.",EDS 131 - Early Child Dev & Education (A),FA21,18,15,92.9%,92.3%,7.36,A- (3.93),
+137,"Bintliff, Amy S.V.",EDS 136 - Intro/Acad Tut/Second Schl Std (A),FA21,28,15,100.0%,100.0%,6.07,A- (3.93),A- (3.70)
+138,"Hemans, Patricia Ann Benitez",EDS 146 - Mindfulness and Education (A),FA21,7,4,100.0%,100.0%,4.5,A (4.00),
+139,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (A),FA21,24,14,100.0%,100.0%,3.58,A (4.00),
+140,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (B),FA21,24,12,100.0%,100.0%,1.67,A (4.00),
+141,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (C),FA21,18,11,100.0%,100.0%,1.83,A- (3.80),
+142,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (D),FA21,10,4,100.0%,100.0%,5.83,,
+143,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (E),FA21,18,7,100.0%,100.0%,3.5,B+ (3.33),
+144,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (F),FA21,14,9,100.0%,100.0%,4.06,A (4.00),
+145,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (G),FA21,9,5,100.0%,100.0%,4.5,A (4.00),
+146,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (H),FA21,21,11,100.0%,90.9%,2.68,A (4.00),
+147,"Cohen, Shana R",EDS 164R - Early Childhood Policy (A),FA21,33,13,84.6%,84.6%,6.81,B+ (3.62),B (3.07)
+148,"Dean, Dallawrence Edward",EDS 25 - Am Higher Edu&Collegiate Exper (A),FA21,80,41,100.0%,97.4%,5.25,A- (3.74),A- (3.75)
+149,"Heinzman, Erica M.",EDS 39 - Explore Secondary STEM Ed (A),FA21,20,20,100.0%,100.0%,2.9,A- (3.89),A (4.00)
+150,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (A),FA21,25,14,92.9%,100.0%,1.07,A (4.00),
+151,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (B),FA21,25,12,100.0%,100.0%,1.3,A- (3.71),
+152,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (C),FA21,25,11,90.9%,100.0%,0.86,B+ (3.67),
+153,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (D),FA21,16,11,90.9%,90.9%,1.59,A (4.00),
+154,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (E),FA21,24,12,100.0%,100.0%,0.83,A (4.00),
+155,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (F),FA21,25,14,92.3%,100.0%,1.79,A- (3.83),
+156,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (G),FA21,24,10,100.0%,100.0%,0.72,A (4.00),
+157,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (H),FA21,13,6,83.3%,83.3%,1.5,A (4.00),
+158,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (I),FA21,18,10,100.0%,100.0%,1.17,A- (3.83),
+159,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (J),FA21,12,6,80.0%,100.0%,1.17,B+ (3.60),
+160,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",S321,28,7,85.7%,100.0%,8.21,A- (3.86),A- (3.73)
+161,"Jones, Gabrielle Anastasia","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",S321,13,4,100.0%,100.0%,13.0,A (4.00),
+162,"Pappas, Elizabeth",EDS 128A - Intro/Teaching&Learning (Elem) (A),S321,10,5,100.0%,100.0%,11.7,A (4.00),
+163,"Fargason, Sharon Gayle",EDS 128B - Intro/Teaching&Learning (Elem) (A),S321,10,4,100.0%,100.0%,8.5,A (4.00),
+164,"Dean, Dallawrence Edward",EDS 25 - Am Higher Edu&Collegiate Exper (A),S321,304,152,98.6%,100.0%,3.81,A- (3.87),A- (3.85)
+165,"Ramirez, Brianna Rachelle",EDS 113 - Chicanas/os & Latinos in Edu (A),S221,16,4,75.0%,100.0%,4.5,A (4.00),
+166,"Warstadt, Melissa Fawn",EDS 118 - Adolescent Devlp & Education (A),S221,20,4,100.0%,100.0%,6.5,A- (3.75),B (3.12)
+167,"Drake, Kristy Nicole",EDS 135 - Newcomer Communities in SD (A),S221,13,4,100.0%,100.0%,7.5,A- (3.75),
+168,"Miguel, Jessica",EDS 111 - Child Family Community (A),S121,14,4,100.0%,100.0%,4.5,A (4.00),
+169,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (A),S121,24,5,100.0%,100.0%,5.7,A (4.00),A- (3.90)
+170,"Matschiner, Andrew","EDS 117 - Language, Culture & Education (A)",S121,37,27,96.3%,96.3%,7.39,A- (3.88),A- (3.87)
+171,"Eguchi, Emi",EDS 124BR - Teach Computational Thinking (A),S121,25,6,100.0%,100.0%,10.17,A (4.00),B+ (3.55)
+172,"Rogers, Kirk Douglas",EDS 126 - Social Organization/Education (A),S121,10,3,100.0%,100.0%,7.83,B+ (3.67),
+173,"Hemans, Patricia Ann Benitez",EDS 146 - Mindfulness and Education (A),S121,16,9,100.0%,100.0%,6.5,B+ (3.67),
+174,"Ambo, Theresa Jean",EDS 102 - Intro to Qual Methods/EdRsrch (A),SP21,39,22,100.0%,100.0%,3.17,A- (3.90),A- (3.97)
+175,"Wishard Guerra, Alison G.",EDS 110R - Early Learning Environments (A),SP21,20,7,100.0%,100.0%,6.5,A- (3.83),B+ (3.50)
+176,"Wishard Guerra, Alison G.",EDS 111 - Child Family Community (A),SP21,17,6,100.0%,100.0%,6.17,A (4.00),
+177,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (A),SP21,51,17,100.0%,100.0%,5.79,A- (3.92),B+ (3.52)
+178,"Contreras, Frances E.",EDS 113 - Chicanas/os & Latinos in Edu (A),SP21,71,25,100.0%,100.0%,3.46,A- (3.74),A- (3.94)
+179,"Museus, Samuel David",EDS 116 - Equity Minded Education (A),SP21,38,21,85.7%,95.2%,3.07,A- (3.90),A- (3.85)
+180,"Dean, Dallawrence Edward","EDS 117 - Language, Culture & Education (A)",SP21,60,23,81.8%,77.3%,6.21,A- (3.95),A- (3.86)
+181,"Jones, Makeba","EDS 117 - Language, Culture & Education (B)",SP21,65,22,100.0%,100.0%,5.05,A- (3.95),A- (3.97)
+182,"Bintliff, Amy S.V.",EDS 118 - Adolescent Devlp & Education (A),SP21,59,53,100.0%,100.0%,4.58,A- (3.96),A- (3.92)
+183,"Raj, Anita",EDS 118 - Adolescent Devlp & Education (B),SP21,26,24,100.0%,100.0%,4.83,A- (3.83),A- (3.78)
+184,"Eguchi, Emi",EDS 124AR - Teach Computation/DigitalWorld (C),SP21,81,20,100.0%,100.0%,7.87,A (4.00),B+ (3.65)
+185,"Simon, Elizabeth A",EDS 124BR - Teach Computational Thinking (A),SP21,69,15,92.3%,100.0%,5.42,A (4.00),A- (3.83)
+186,"Eguchi, Emi",EDS 124BR - Teach Computational Thinking (C),SP21,73,22,95.5%,95.5%,6.23,A- (3.86),A- (3.70)
+187,"Aragon, Maria Jose","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",SP21,31,16,87.5%,93.8%,5.0,A- (3.87),B+ (3.62)
+188,"Jones, Makeba",EDS 126 - Social Organization/Education (A),SP21,54,15,100.0%,100.0%,4.36,A- (3.92),A- (3.86)
+189,"Fargason, Sharon Gayle",EDS 128B - Intro/Teaching&Learning (Elem) (A),SP21,53,15,100.0%,100.0%,4.77,A (4.00),A- (3.71)
+190,"Heinzman, Erica M.",EDS 129C - Intro/Teach&Learn (Secondary) (A),SP21,41,25,96.0%,96.0%,4.82,A (4.00),A- (3.95)
+191,"Scharton, Susan Michelle",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),SP21,51,21,90.0%,85.0%,7.9,A- (3.90),A- (3.89)
+192,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),SP21,42,12,100.0%,100.0%,8.33,A- (3.92),A- (3.87)
+193,"Bintliff, Amy S.V.",EDS 137 - Intro/Discipl/Specific Teachng (A),SP21,19,8,100.0%,100.0%,7.0,A (4.00),
+194,"Mamas, Christoforos",EDS 141 - Adv. Action Rsrch in P-12 Educ (A),SP21,9,6,100.0%,100.0%,5.5,A (4.00),
+195,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP21,5,3,100.0%,100.0%,1.5,B+ (3.50),
+196,"Dean, Dallawrence Edward",EDS 38 - Explorations in Education (A),SP21,14,5,100.0%,100.0%,6.5,B+ (3.50),
+197,"Halter, Christopher P.",EDS 103 - Intro to Quant Methods/EdRsrch (A),WI21,37,22,100.0%,100.0%,6.23,A- (3.91),A- (3.78)
+198,"Wishard Guerra, Alison G.",EDS 111 - Child Family Community (A),WI21,29,12,83.3%,100.0%,7.17,A (4.00),B+ (3.67)
+199,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (A),WI21,44,21,95.2%,95.2%,4.21,A- (3.89),A- (3.83)
+200,"Clarke, Sherice Nicole",EDS 115 - Cog Development & Education (A),WI21,51,30,90.0%,96.7%,4.43,B+ (3.62),B+ (3.40)
+201,"Dean, Dallawrence Edward",EDS 116 - Equity Minded Education (A),WI21,31,17,100.0%,100.0%,4.38,A- (3.82),A- (3.85)
+202,"Gallagher-Geurtsen, Tricia Meghan","EDS 117 - Language, Culture & Education (A)",WI21,64,50,98.0%,98.0%,4.95,A- (3.89),B+ (3.54)
+203,"Bintliff, Amy S.V.",EDS 118 - Adolescent Devlp & Education (A),WI21,56,55,100.0%,100.0%,4.28,A- (3.85),A- (3.88)
+204,"Eguchi, Emi",EDS 124AR - Teach Computation/DigitalWorld (A),WI21,59,14,92.3%,92.3%,8.81,A- (3.85),B+ (3.69)
+205,"Simon, Elizabeth A",EDS 124AR - Teach Computation/DigitalWorld (C),WI21,48,12,91.7%,91.7%,6.67,A- (3.82),A- (3.89)
+206,"Simon, Elizabeth A",EDS 124BR - Teach Computational Thinking (A),WI21,64,16,100.0%,100.0%,6.23,A- (3.87),A- (3.85)
+207,"Eguchi, Emi",EDS 124BR - Teach Computational Thinking (C),WI21,36,16,100.0%,100.0%,8.63,A- (3.92),A- (3.94)
+208,"Aragon, Maria Jose","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",WI21,38,15,100.0%,93.3%,4.23,A- (3.80),A- (3.71)
+209,"Jones, Makeba",EDS 126 - Social Organization/Education (A),WI21,58,20,95.0%,90.0%,4.9,A (4.00),A- (3.77)
+210,"Pappas, Elizabeth",EDS 128A - Intro/Teaching&Learning (Elem) (A),WI21,55,27,100.0%,100.0%,5.02,A- (3.96),A- (3.72)
+211,"Black, Alison Michelle",EDS 129B - Intro/Teach&Learn (Secondary) (A),WI21,42,26,92.0%,76.0%,4.92,A- (3.92),A- (3.90)
+212,"Drake, Kristy Nicole",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),WI21,33,14,100.0%,100.0%,5.42,A- (3.92),A- (3.74)
+213,"Cohen, Shana R",EDS 131 - Early Child Dev & Education (A),WI21,16,9,77.8%,77.8%,8.28,A (4.00),
+214,"Bintliff, Amy S.V.","EDS 133 - Counsel, Mentor, Advise (P-12) (A)",WI21,23,10,100.0%,100.0%,4.9,A (4.00),A- (3.94)
+215,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),WI21,32,14,100.0%,100.0%,5.5,A- (3.92),A- (3.82)
+216,"Chung, Luz Marina",EDS 140 - Intro Action Rsrch P-12 Edu (A),WI21,9,7,100.0%,100.0%,5.5,A (4.00),
+217,"Wishard Guerra, Alison G.",EDS 164R - Early Childhood Policy (A),WI21,11,9,100.0%,100.0%,5.61,A- (3.89),
+218,"Dean, Dallawrence Edward",EDS 23 - Higher Education Second Year (A),WI21,100,39,97.4%,100.0%,1.32,A (4.00),
+219,"Dean, Dallawrence Edward",EDS 23 - Higher Education Second Year (B),WI21,85,29,82.8%,96.6%,1.19,A- (3.78),
+220,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),WI21,4,4,75.0%,100.0%,1.5,B+ (3.67),
+221,"Heinzman, Erica M.",EDS 39 - Explore Secondary STEM Ed (A),WI21,23,17,100.0%,100.0%,3.09,A (4.00),A- (3.90)
+222,"Eguchi, Emi",EDS 87 - Freshman Seminar (A),WI21,7,4,75.0%,75.0%,2.5,,
+223,"Cohen, Shana R",EDS 110R - Early Learning Environments (A),FA20,31,13,83.3%,100.0%,6.33,A- (3.82),B+ (3.58)
+224,"Clarke, Sherice Nicole",EDS 115 - Cog Development & Education (A),FA20,57,26,92.3%,92.0%,4.66,B+ (3.64),B+ (3.64)
+225,"Dean, Dallawrence Edward",EDS 116 - Equity Minded Education (A),FA20,40,22,100.0%,76.2%,3.17,A (4.00),A (4.00)
+226,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",FA20,75,35,100.0%,100.0%,5.15,A- (3.85),A- (3.73)
+227,"Chung, Luz Marina","EDS 117 - Language, Culture & Education (B)",FA20,67,43,93.0%,100.0%,6.78,A- (3.88),A- (3.81)
+228,"Eguchi, Emi",EDS 124AR - Teach Computation/DigitalWorld (A),FA20,69,24,87.5%,91.7%,8.0,A- (3.96),A- (3.78)
+229,"Eguchi, Emi",EDS 124AR - Teach Computation/DigitalWorld (C),FA20,63,24,91.3%,90.5%,8.5,A- (3.83),B+ (3.65)
+230,"Simon, Elizabeth A",EDS 124BR - Teach Computational Thinking (A),FA20,65,24,90.9%,95.5%,5.32,A- (3.77),A- (3.83)
+231,"Simon, Elizabeth A",EDS 124BR - Teach Computational Thinking (C),FA20,24,7,71.4%,85.7%,6.79,A (4.00),A- (3.78)
+232,"Jones, Gabrielle Anastasia","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",FA20,59,26,96.2%,80.0%,4.19,A- (3.73),B+ (3.55)
+233,"Arciniega, Leroy Joey",EDS 126 - Social Organization/Education (A),FA20,55,20,100.0%,100.0%,4.2,A- (3.94),A- (3.89)
+234,"Millstone, Rachel Diana",EDS 129A - Intro/Teach&Learn (Secondary) (A),FA20,44,28,96.4%,100.0%,5.91,A- (3.89),A- (3.74)
+235,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),FA20,58,30,96.7%,100.0%,5.3,A- (3.80),A- (3.83)
+236,"Bintliff, Amy S.V.","EDS 133 - Counsel, Mentor, Advise (P-12) (A)",FA20,33,16,100.0%,100.0%,5.7,A- (3.93),A- (3.72)
+237,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (A),FA20,32,15,86.7%,93.3%,1.57,A- (3.83),
+238,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (B),FA20,6,3,100.0%,100.0%,1.17,A (4.00),
+239,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (C),FA20,21,10,100.0%,100.0%,1.9,B+ (3.50),
+240,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (D),FA20,24,15,76.9%,100.0%,2.5,A- (3.80),
+241,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (E),FA20,15,8,100.0%,100.0%,1.93,A (4.00),
+242,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (F),FA20,17,6,100.0%,83.3%,2.17,B+ (3.50),
+243,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (G),FA20,15,10,88.9%,100.0%,1.17,A (4.00),
+244,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (H),FA20,28,13,100.0%,83.3%,1.58,A (4.00),
+245,"Dean, Dallawrence Edward",EDS 25 - Am Higher Edu&Collegiate Exper (A),FA20,29,19,94.1%,94.1%,4.38,A (4.00),A- (3.85)
+246,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),FA20,6,4,100.0%,100.0%,4.0,A (4.00),
+247,"Heinzman, Erica M.",EDS 39 - Explore Secondary STEM Ed (A),FA20,23,14,100.0%,100.0%,3.5,A- (3.86),A (4.00)
+248,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (A),FA20,36,19,100.0%,92.9%,1.0,A- (3.75),
+249,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (B),FA20,37,23,100.0%,95.2%,0.79,A- (3.80),
+250,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (C),FA20,28,21,100.0%,95.0%,1.5,A- (3.83),
+251,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (D),FA20,25,16,93.8%,100.0%,0.63,A (4.00),
+252,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (E),FA20,37,25,100.0%,100.0%,1.06,A (4.00),
+253,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (F),FA20,27,13,100.0%,100.0%,1.42,A- (3.86),
+254,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (G),FA20,26,17,100.0%,100.0%,0.75,A (4.00),
+255,"Lockton, Marie",EDS 115 - Cog Development & Education (A),S320,28,7,100.0%,100.0%,5.07,A (4.00),A- (3.89)
+256,"Stephens, Ramon L","EDS 117 - Language, Culture & Education (A)",S320,32,7,100.0%,100.0%,6.21,A (4.00),A- (3.94)
+257,"Jones, Gabrielle Anastasia","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",S320,27,14,50.0%,78.6%,10.64,A- (3.79),A- (3.88)
+258,"Pappas, Elizabeth",EDS 128A - Intro/Teaching&Learning (Elem) (A),S320,17,12,100.0%,100.0%,10.5,A (4.00),
+259,"Fargason, Sharon Gayle",EDS 128B - Intro/Teaching&Learning (Elem) (A),S320,17,3,100.0%,100.0%,5.83,A (4.00),
+260,"Dean, Dallawrence Edward",EDS 25 - Am Higher Edu&Collegiate Exper (A),S220,107,68,95.4%,100.0%,3.47,A- (3.87),A- (3.94)
+261,"Gallagher-Geurtsen, Tricia Meghan",EDS 112 - U.S. Urban Education (A),S120,21,6,100.0%,100.0%,5.5,A- (3.80),B+ (3.69)
+262,"Eguchi, Emi",EDS 124AR - Teach Computation/DigitalWorld (A),S120,35,6,100.0%,100.0%,10.83,B+ (3.67),B+ (3.50)
+263,"Soosai Raj, Adalbert Geral",EDS 124BR - Teach Computational Thinking (A),S120,47,7,100.0%,100.0%,9.93,A- (3.86),B+ (3.51)
+264,"Soosai Raj, Adalbert Geral",EDS 124BR - Teach Computational Thinking (B),S120,22,5,80.0%,100.0%,7.7,A (4.00),A- (3.89)
+265,"Bintliff, Amy S.V.","EDS 133 - Counsel, Mentor, Advise (P-12) (A)",S120,24,6,100.0%,100.0%,8.17,A (4.00),A (4.00)
+266,"Gallagher-Geurtsen, Tricia Meghan",EDS 112 - U.S. Urban Education (A),SP20,56,35,97.0%,100.0%,5.13,A- (3.85),A- (3.81)
+267,"Contreras, Frances E.",EDS 113 - Chicanas/os & Latinos in Edu (A),SP20,65,17,100.0%,100.0%,5.97,B+ (3.60),A- (3.97)
+268,"Clarke, Sherice Nicole",EDS 115 - Cog Development & Education (A),SP20,54,17,94.1%,94.1%,4.38,A- (3.88),A- (3.89)
+269,"Dean, Dallawrence Edward",EDS 116 - Equity Minded Education (A),SP20,52,17,100.0%,88.2%,4.26,A- (3.94),A- (3.95)
+270,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",SP20,74,27,100.0%,100.0%,4.04,A- (3.96),A (4.00)
+271,"Dean, Dallawrence Edward","EDS 117 - Language, Culture & Education (B)",SP20,49,18,88.2%,82.4%,4.74,A (4.00),A- (3.87)
+272,"Lockton, Marie",EDS 118 - Adolescent Devlp & Education (A),SP20,69,31,100.0%,100.0%,4.69,A (4.00),A- (3.90)
+273,"Simon, Elizabeth A",EDS 124AR - Teach Computation/DigitalWorld (A),SP20,69,13,92.3%,100.0%,8.33,A- (3.88),A- (3.87)
+274,"Eguchi, Emi",EDS 124AR - Teach Computation/DigitalWorld (C),SP20,86,28,100.0%,96.4%,6.71,A- (3.96),A- (3.91)
+275,"Eguchi, Emi",EDS 124AR - Teach Computation/DigitalWorld (D),SP20,66,19,83.3%,100.0%,8.83,A- (3.93),A- (3.90)
+276,"Simon, Elizabeth A",EDS 124BR - Teach Computational Thinking (A),SP20,121,29,85.7%,96.4%,6.87,A- (3.95),A- (3.95)
+277,"Gallagher-Geurtsen, Tricia Meghan","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",SP20,57,42,100.0%,100.0%,5.26,A- (3.93),A- (3.92)
+278,"Jones, Makeba",EDS 126 - Social Organization/Education (A),SP20,47,20,94.4%,94.4%,3.34,A- (3.78),A- (3.92)
+279,"Fargason, Sharon Gayle",EDS 128B - Intro/Teaching&Learning (Elem) (A),SP20,32,4,100.0%,100.0%,3.5,A (4.00),A- (3.94)
+280,"Heinzman, Erica M.",EDS 129C - Intro/Teach&Learn (Secondary) (A),SP20,45,18,100.0%,100.0%,4.28,A- (3.94),A (4.00)
+281,"Scharton, Susan Michelle",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),SP20,40,13,91.7%,91.7%,6.65,A- (3.92),A- (3.87)
+282,"Bintliff, Amy S.V.","EDS 133 - Counsel, Mentor, Advise (P-12) (A)",SP20,30,13,100.0%,100.0%,5.27,A- (3.92),A- (3.95)
+283,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),SP20,20,8,100.0%,100.0%,5.5,A (4.00),A- (3.93)
+284,"Mamas, Christoforos",EDS 141 - Action Research in PreK-12 Edu (A),SP20,16,6,100.0%,100.0%,5.7,A (4.00),
+285,"Dean, Dallawrence Edward",EDS 25 - Am Higher Edu&Collegiate Exper (A),SP20,50,23,82.6%,86.4%,3.89,A- (3.80),A- (3.89)
+286,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),SP20,10,4,100.0%,100.0%,2.5,B (3.25),
+287,"Eguchi, Emi",EDS 87 - Freshman Seminar (A),SP20,11,6,100.0%,100.0%,4.5,,
+288,"Cohen, Shana R",EDS 111 - Child Family Community (A),WI20,38,19,100.0%,94.4%,3.83,A- (3.94),A- (3.94)
+289,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (A),WI20,51,17,93.8%,100.0%,4.25,B+ (3.69),A- (3.84)
+290,"Eguchi, Emi",EDS 114 - Cogn Develp&Intractv Compt Env (A),WI20,27,10,100.0%,100.0%,3.5,A (4.00),A- (3.85)
+291,"Eguchi, Emi",EDS 114 - Cogn Develp&Intractv Compt Env (B),WI20,31,13,76.9%,61.5%,4.04,B+ (3.69),A- (3.80)
+292,"Lockton, Marie",EDS 115 - Cog Development & Education (A),WI20,53,16,100.0%,100.0%,4.93,B+ (3.64),B+ (3.58)
+293,"Dean, Dallawrence Edward",EDS 116 - Equity Minded Education (A),WI20,40,22,100.0%,100.0%,2.5,A- (3.95),A- (3.95)
+294,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",WI20,79,36,100.0%,100.0%,3.81,A- (3.91),A- (3.95)
+295,"Munoz Sanchez, Alicia",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A),WI20,20,9,100.0%,77.8%,3.75,B+ (3.50),B (3.08)
+296,"Gallagher-Geurtsen, Tricia Meghan","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",WI20,56,50,98.0%,98.0%,3.54,A- (3.72),B+ (3.69)
+297,"Jones, Makeba",EDS 126 - Social Organization/Education (A),WI20,66,21,90.5%,95.2%,3.55,B+ (3.67),A- (3.72)
+298,"Pappas, Elizabeth",EDS 128A - Intro/Teaching&Learning (Elem) (A),WI20,35,13,91.7%,100.0%,3.0,B+ (3.67),B+ (3.65)
+299,"Black, Alison Michelle",EDS 129B - Intro/Teach&Learn (Secondary) (A),WI20,45,17,86.7%,66.7%,3.38,A (4.00),A- (3.93)
+300,"Bintliff, Amy S.V.",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),WI20,39,19,100.0%,100.0%,4.06,A- (3.79),A- (3.91)
+301,"Drake, Kristy Nicole",EDS 135 - Newcomer Communities in SD (A),WI20,18,17,100.0%,100.0%,6.38,A- (3.93),
+302,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),WI20,31,20,90.0%,100.0%,5.8,A- (3.71),B+ (3.67)
+303,"Holtzman, Caren Lynn",EDS 137 - Intro/Discipl/Specific Teachng (A),WI20,11,9,100.0%,100.0%,3.39,A- (3.78),
+304,"Chung, Luz Marina",EDS 140 - Intro Action Rsrch P-12 Edu (A),WI20,17,5,100.0%,100.0%,4.5,A (4.00),
+305,"Dean, Dallawrence Edward",EDS 23 - Higher Education Second Year (A),WI20,60,27,80.0%,88.0%,0.65,A (4.00),A- (3.85)
+306,"Dean, Dallawrence Edward",EDS 23 - Higher Education Second Year (C),WI20,56,27,88.5%,96.2%,0.73,A- (3.96),A- (3.99)
+307,"Dean, Dallawrence Edward",EDS 25 - Am Higher Edu&Collegiate Exper (A),WI20,58,27,92.0%,88.0%,3.5,A- (3.88),A- (3.89)
+308,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),WI20,9,5,100.0%,100.0%,1.0,A (4.00),
+309,"Heinzman, Erica M.",EDS 39 - Explore Secondary STEM Ed (A),WI20,20,16,100.0%,100.0%,2.88,B+ (3.69),A- (3.95)
+310,"Wishard Guerra, Alison G.",EDS 110R - Early Learning Environments (A),FA19,16,7,100.0%,100.0%,6.83,A- (3.83),
+311,"Eguchi, Emi",EDS 114 - Cogn Develp&Intractv Compt Env (A),FA19,27,12,100.0%,100.0%,3.41,A (4.00),A- (3.74)
+312,"Jones, Gabrielle Anastasia",EDS 115 - Cog Development & Education (A),FA19,58,29,92.9%,96.4%,3.07,A- (3.86),B+ (3.48)
+313,"Dean, Dallawrence Edward",EDS 116 - Equity Minded Education (A),FA19,53,28,96.4%,92.9%,2.5,A- (3.96),A- (3.97)
+314,"Gallagher-Geurtsen, Tricia Meghan","EDS 117 - Language, Culture & Education (A)",FA19,70,65,93.7%,98.4%,3.69,A- (3.72),A- (3.83)
+315,"Chung, Luz Marina","EDS 117 - Language, Culture & Education (B)",FA19,64,27,95.8%,100.0%,5.5,A- (3.96),A- (3.93)
+316,"Jones, Makeba",EDS 120 - Intro. to Design-Based Rsrch (A),FA19,11,6,100.0%,100.0%,2.5,A (4.00),
+317,"Simon, Elizabeth A",EDS 124BR - Teach Computational Thinking (A),FA19,159,42,89.7%,97.4%,7.47,B+ (3.67),A- (3.72)
+318,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",FA19,59,51,96.0%,96.0%,3.83,A- (3.84),A- (3.86)
+319,"Davis, Daniel Brent",EDS 126 - Social Organization/Education (A),FA19,35,16,100.0%,100.0%,5.25,A- (3.87),A- (3.84)
+320,"Millstone, Rachel Diana",EDS 129A - Intro/Teach&Learn (Secondary) (A),FA19,42,40,100.0%,100.0%,3.95,A- (3.97),A- (3.94)
+321,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),FA19,40,33,97.0%,96.9%,6.62,A- (3.75),A- (3.87)
+322,"Cohen, Shana R",EDS 131 - Early Child Dev & Education (A),FA19,25,10,88.9%,88.9%,4.5,A- (3.89),A- (3.83)
+323,"Bintliff, Amy S.V.",EDS 136 - Intro/Acad Tut/Second Schl Std (A),FA19,37,30,100.0%,100.0%,5.19,A- (3.79),A- (3.81)
+324,"Hofstetter, Carolyn",EDS 150 - CASP Transfer Intro Course (A),FA19,18,7,100.0%,100.0%,2.17,,
+325,"Hofstetter, Carolyn",EDS 150 - CASP Transfer Intro Course (B),FA19,20,9,77.8%,100.0%,1.61,A (4.00),
+326,"Hofstetter, Carolyn",EDS 150 - CASP Transfer Intro Course (C),FA19,18,9,88.9%,100.0%,2.06,A (4.00),
+327,"Hofstetter, Carolyn",EDS 150 - CASP Transfer Intro Course (D),FA19,13,4,100.0%,100.0%,1.17,A (4.00),
+328,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (E),FA19,20,12,90.0%,100.0%,4.1,B+ (3.67),
+329,"Hofstetter, Carolyn",EDS 150 - CASP Transfer Intro Course (F),FA19,25,9,100.0%,100.0%,1.75,B+ (3.50),
+330,"Dean, Dallawrence Edward",EDS 25 - Am Higher Edu&Collegiate Exper (A),FA19,91,48,93.2%,92.9%,4.5,A- (3.92),A- (3.74)
+331,"Heinzman, Erica M.",EDS 39 - Explore Secondary STEM Ed (A),FA19,16,16,93.8%,100.0%,4.0,A- (3.87),
+332,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (0),FA19,39,17,100.0%,100.0%,1.5,A (4.00),
+333,"Hofstetter, Carolyn",EDS 50 - CASP Frosh Intro Course (0),FA19,120,60,94.3%,98.1%,1.9,A- (3.92),
+334,"Wishard Guerra, Alison G.",EDS 115 - Cog Development & Education (A),S319,22,6,66.7%,66.7%,5.83,A (4.00),A- (3.95)
+335,"Black, Alison Michelle","EDS 117 - Language, Culture & Education (A)",S319,39,30,96.7%,100.0%,5.37,A- (3.97),A- (3.94)
+336,"Forbes, Cheryl A","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",S319,32,3,100.0%,100.0%,3.5,A (4.00),A- (3.92)
+337,"Holtzman, Caren Lynn",EDS 128B - Intro/Teaching&Learning (Elem) (A),S319,24,7,100.0%,100.0%,5.5,A (4.00),A (4.00)
+338,"Dean, Dallawrence Edward",EDS 25 - Am Higher Edu&Collegiate Exper (A),S219,144,72,96.8%,100.0%,4.65,B+ (3.69),B+ (3.51)
+339,"Dean, Dallawrence Edward",EDS 25 - Am Higher Edu&Collegiate Exper (B),S219,145,95,94.3%,95.4%,3.74,A- (3.73),A- (3.75)
+340,"Cohen, Shana R",EDS 110R - Early Learning Environments (A),SP19,20,5,100.0%,100.0%,4.5,B+ (3.60),B (3.06)
+341,"Cohen, Shana R",EDS 111 - Child Family Community (A),SP19,42,19,89.5%,88.9%,4.39,A- (3.83),B+ (3.68)
+342,"Gallagher-Geurtsen, Tricia Meghan",EDS 112 - U.S. Urban Education (A),SP19,49,40,95.0%,97.5%,4.55,A- (3.84),A- (3.70)
+343,"Contreras, Frances E.",EDS 113 - Chicanas/os & Latinos in Edu (A),SP19,53,17,88.2%,76.5%,4.15,A- (3.75),A- (3.82)
+344,"Lockton, Marie",EDS 115 - Cog Development & Education (A),SP19,49,11,100.0%,100.0%,2.7,A- (3.90),A- (3.74)
+345,"Dean, Dallawrence Edward",EDS 116 - Equity Minded Education (A),SP19,68,28,100.0%,100.0%,2.93,A (4.00),A- (3.99)
+346,"Dean, Dallawrence Edward",EDS 116 - Equity Minded Education (B),SP19,40,11,100.0%,100.0%,2.5,A (4.00),A- (3.99)
+347,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",SP19,70,25,95.8%,100.0%,3.3,A- (3.96),A- (3.82)
+348,"Dean, Dallawrence Edward","EDS 117 - Language, Culture & Education (B)",SP19,32,15,93.3%,92.9%,5.7,A- (3.75),B+ (3.64)
+349,"Simon Salazar, Harry Love",EDS 118 - Adolescent Devlp & Education (A),SP19,29,14,91.7%,81.8%,4.17,B+ (3.45),B+ (3.68)
+350,"Simon, Elizabeth A",EDS 124AR - Teach Computation/DigitalWorld (A),SP19,125,27,100.0%,100.0%,7.86,B+ (3.55),B+ (3.54)
+351,"Gallagher-Geurtsen, Tricia Meghan","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",SP19,59,56,98.2%,98.2%,3.43,A- (3.85),A- (3.92)
+352,"Jones, Makeba",EDS 126 - Social Organization/Education (A),SP19,35,11,90.9%,90.9%,3.59,B+ (3.44),B+ (3.55)
+353,"Pappas, Elizabeth",EDS 128B - Intro/Teaching&Learning (Elem) (A),SP19,23,6,100.0%,100.0%,2.5,A (4.00),A- (3.74)
+354,"Heinzman, Erica M.",EDS 129C - Intro/Teach&Learn (Secondary) (A),SP19,61,55,98.1%,98.1%,4.24,A- (3.98),A- (3.96)
+355,"Scharton, Susan Michelle",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),SP19,52,30,92.6%,96.3%,4.43,A- (3.85),A- (3.72)
+356,"Drake, Kristy Nicole",EDS 135 - Newcomer Communities in SD (A),SP19,10,10,100.0%,100.0%,4.1,B+ (3.60),
+357,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),SP19,42,21,95.2%,95.0%,6.4,A- (3.86),A- (3.79)
+358,"Mamas, Christoforos",EDS 141 - Action Research in PreK-12 Edu (A),SP19,9,4,100.0%,100.0%,7.5,A (4.00),
+359,"Dean, Dallawrence Edward",EDS 25 - Am Higher Edu&Collegiate Exper (A),SP19,52,23,100.0%,100.0%,2.79,A- (3.80),B+ (3.67)
+360,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP19,10,5,100.0%,100.0%,0.5,A (4.00),
+361,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),SP19,7,5,100.0%,100.0%,3.3,A- (3.80),
+362,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (A),WI19,57,21,94.7%,94.7%,2.29,A- (3.88),A- (3.79)
+363,"Mamas, Christoforos",EDS 115 - Cog Development & Education (A),WI19,53,23,95.2%,90.5%,2.68,A- (3.95),A- (3.82)
+364,"Dean, Dallawrence Edward",EDS 116 - Equity Minded Education (A),WI19,31,16,100.0%,100.0%,1.88,A- (3.79),A- (3.99)
+365,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",WI19,70,25,95.5%,95.2%,4.86,A (4.00),A- (3.88)
+366,"Munoz Sanchez, Alicia",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A),WI19,15,7,100.0%,100.0%,4.79,B+ (3.57),
+367,"Simon, Elizabeth A",EDS 124AR - Teach Computation/DigitalWorld (A),WI19,197,63,94.2%,94.2%,7.73,A- (3.86),B+ (3.63)
+368,"Gallagher-Geurtsen, Tricia Meghan","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",WI19,55,51,100.0%,100.0%,3.52,A- (3.88),A- (3.83)
+369,"Jones, Makeba",EDS 126 - Social Organization/Education (A),WI19,48,17,93.8%,93.8%,3.13,A- (3.93),A- (3.89)
+370,"Pappas, Elizabeth",EDS 128A - Intro/Teaching&Learning (Elem) (A),WI19,25,18,100.0%,100.0%,4.5,A- (3.94),A- (3.91)
+371,"Black, Alison Michelle",EDS 129B - Intro/Teach&Learn (Secondary) (A),WI19,63,24,90.0%,90.0%,5.26,A- (3.85),A- (3.73)
+372,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),WI19,52,43,100.0%,100.0%,5.33,A- (3.89),B+ (3.65)
+373,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),WI19,38,21,95.0%,95.0%,5.5,A- (3.88),A- (3.83)
+374,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),WI19,18,6,100.0%,100.0%,3.3,A (4.00),
+375,"Holtzman, Caren Lynn",EDS 137 - Intro/Discipl/Specific Teachng (B),WI19,25,22,100.0%,100.0%,6.12,A- (3.71),A- (3.84)
+376,"Chung, Luz Marina",EDS 140 - Intro Action Rsrch P-12 Edu (A),WI19,13,5,100.0%,100.0%,3.7,A- (3.80),
+377,"Dean, Dallawrence Edward",EDS 23 - Higher Education Second Year (A),WI19,54,23,94.7%,94.4%,1.03,A (4.00),A- (3.99)
+378,"Dean, Dallawrence Edward",EDS 23 - Higher Education Second Year (B),WI19,32,15,100.0%,100.0%,1.03,A- (3.86),A- (3.99)
+379,"Dean, Dallawrence Edward",EDS 25 - Am Higher Edu&Collegiate Exper (A),WI19,43,23,95.7%,100.0%,3.2,A- (3.70),A- (3.72)
+380,"Heinzman, Erica M.",EDS 39 - Explore Secondary STEM Ed (A),WI19,20,20,94.4%,100.0%,3.0,A- (3.70),A- (3.85)
+381,"Dean, Dallawrence Edward",EDS 116 - Psych/Teach&Struc/Information (A),FA18,24,8,100.0%,87.5%,2.5,A (4.00),
+382,"Gallagher-Geurtsen, Tricia Meghan","EDS 117 - Language, Culture & Education (A)",FA18,67,57,98.2%,100.0%,3.68,A- (3.80),A- (3.86)
+383,"Chung, Luz Marina","EDS 117 - Language, Culture & Education (B)",FA18,83,33,90.3%,100.0%,5.92,A- (3.76),B+ (3.65)
+384,"Rodriguez, Victoria Calip",EDS 118 - Adolescent Devlp & Education (A),FA18,55,38,94.7%,91.9%,4.29,B+ (3.68),A- (3.83)
+385,"Jones, Makeba",EDS 120 - Intro. to Design-Based Rsrch (A),FA18,7,6,100.0%,100.0%,4.5,A (4.00),
+386,"Simon, Elizabeth A",EDS 124BR - Teach Computational Thinking (A),FA18,101,43,90.0%,95.0%,8.21,A- (3.76),B+ (3.70)
+387,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",FA18,55,48,97.9%,97.9%,4.96,A- (3.98),A (4.00)
+388,"Binder, Amy",EDS 126 - Social Organization/Education (A),FA18,7,4,100.0%,100.0%,6.0,B (3.00),
+389,"Millstone, Rachel Diana",EDS 129A - Intro/Teach&Learn (Secondary) (A),FA18,48,44,100.0%,100.0%,6.05,A- (3.86),A- (3.81)
+390,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),FA18,56,32,93.3%,100.0%,5.34,A- (3.84),B+ (3.65)
+391,"Wishard Guerra, Alison G.",EDS 131 - Early Child Dev & Education (A),FA18,43,19,78.9%,94.7%,8.61,A- (3.81),B+ (3.69)
+392,"Drake, Kristy Nicole",EDS 136 - Intro/Acad Tut/Second Schl Std (A),FA18,53,48,89.6%,95.8%,5.82,A- (3.79),B+ (3.69)
+393,"Hofstetter, Carolyn",EDS 150 - CASP Transfer Intro Course (A),FA18,19,13,91.7%,100.0%,3.0,A- (3.80),
+394,"Van Ness, Karen Clark",EDS 150 - CASP Transfer Intro Course (B),FA18,17,9,87.5%,100.0%,2.5,A (4.00),
+395,"Dean, Dallawrence Edward",EDS 150 - CASP Transfer Intro Course (C),FA18,26,13,92.3%,100.0%,2.65,A (4.00),
+396,"Dean, Dallawrence Edward",EDS 25 - Am Higher Edu&Collegiate Exper (A),FA18,95,47,93.5%,91.1%,3.93,B+ (3.54),B (3.10)
+397,"Heinzman, Erica M.",EDS 39 - Prac/Sci&MathTeching/Learning (A),FA18,19,19,94.7%,100.0%,2.61,A- (3.89),
+398,"Hofstetter, Carolyn",EDS 50 - CASP Frosh Intro Course (A),FA18,22,12,90.9%,100.0%,2.86,A (4.00),
+399,"Hofstetter, Carolyn",EDS 50 - CASP Frosh Intro Course (B),FA18,27,19,88.9%,94.1%,1.94,A (4.00),
+400,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (C),FA18,12,6,100.0%,100.0%,1.17,A (4.00),
+401,"Hofstetter, Carolyn",EDS 50 - CASP Frosh Intro Course (D),FA18,30,18,92.9%,92.3%,1.57,A- (3.86),
+402,"Hofstetter, Carolyn",EDS 50 - CASP Frosh Intro Course (E),FA18,19,9,88.9%,100.0%,1.61,A (4.00),
+403,"Dean, Dallawrence Edward",EDS 50 - CASP Frosh Intro Course (F),FA18,30,22,95.5%,100.0%,1.23,B+ (3.67),
+404,"Van Ness, Karen Clark",EDS 50 - CASP Frosh Intro Course (G),FA18,8,5,100.0%,100.0%,1.7,,
+405,"Hofstetter, Carolyn",EDS 50 - CASP Frosh Intro Course (H),FA18,29,15,76.9%,100.0%,0.65,A (4.00),
+406,"Jones, Gabrielle Anastasia",EDS 115 - Cog Development & Education (A),S318,29,8,100.0%,100.0%,8.79,A (4.00),A (4.00)
+407,"Black, Alison Michelle","EDS 117 - Language, Culture & Education (A)",S318,43,8,85.7%,100.0%,9.07,A- (3.86),A- (3.97)
+408,"Forbes, Cheryl A","EDS 125 - Hist,Polic&Theory/Bilingual Ed (B)",S318,28,3,100.0%,100.0%,10.5,A (4.00),A (4.00)
+409,"Holtzman, Caren Lynn",EDS 128B - Intro/Teaching&Learning (Elem) (A),S318,26,6,100.0%,100.0%,10.9,A (4.00),A- (3.94)
+410,"Dean, Dallawrence Edward",EDS 20S - Intro/Principles of Learning (A),S218,98,54,66.0%,81.3%,7.04,B+ (3.46),
+411,"Dean, Dallawrence Edward",EDS 25 - Am Higher Edu&Collegiate Exper (A),S218,294,156,86.2%,91.4%,4.79,B+ (3.63),A- (3.73)
+412,"Drake, Kristy Nicole",EDS 137 - Intro/Discipl/Specific Teachng (A),S118,26,25,100.0%,100.0%,6.1,B+ (3.68),A- (3.77)
+413,"Cohen, Shana R",EDS 111 - Child Family Community (A),SP18,34,25,72.0%,87.5%,4.98,A- (3.71),A- (3.86)
+414,"Gallagher-Geurtsen, Tricia Meghan",EDS 112 - U.S. Urban Education (A),SP18,33,29,96.6%,100.0%,5.67,A- (3.83),A- (3.75)
+415,"Hofstetter, Carolyn",EDS 116 - Psych/Teach&Struc/Information (A),SP18,48,15,100.0%,100.0%,3.79,A (4.00),
+416,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",SP18,73,26,100.0%,100.0%,4.83,A- (3.88),A- (3.86)
+417,"Lockton, Marie",EDS 118 - Adolescent Devlp & Education (A),SP18,47,17,94.1%,100.0%,3.32,A- (3.94),A- (3.76)
+418,"Hopkins, Megan Beth","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",SP18,59,46,97.8%,100.0%,4.07,A- (3.88),A- (3.96)
+419,"Van Steenbergen, Suzanne Michele",EDS 126 - Social Organization/Education (A),SP18,33,27,100.0%,100.0%,3.39,A- (3.78),A- (3.94)
+420,"Pappas, Elizabeth",EDS 128B - Intro/Teaching&Learning (Elem) (A),SP18,27,15,100.0%,93.3%,5.43,A (4.00),A- (3.97)
+421,"Heinzman, Erica M.",EDS 129C - Intro/Teach&Learn (Secondary) (A),SP18,49,43,100.0%,100.0%,4.78,A- (3.93),A- (3.95)
+422,"Scharton, Susan Michelle",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),SP18,48,42,95.2%,100.0%,6.5,A- (3.90),A- (3.76)
+423,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),SP18,46,33,93.9%,97.0%,5.89,A- (3.90),A- (3.91)
+424,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),SP18,20,19,100.0%,100.0%,4.08,A- (3.83),A- (3.94)
+425,"Mamas, Christoforos",EDS 141 - Action Research in PreK-12 Edu (A),SP18,7,3,100.0%,100.0%,5.17,A (4.00),
+426,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP18,5,5,100.0%,100.0%,0.5,B+ (3.60),
+427,"Simon, Elizabeth A",EDS 87 - Freshman Seminar (B),SP18,11,6,100.0%,100.0%,2.1,A (4.00),
+428,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (A),WI18,53,24,100.0%,100.0%,3.25,A- (3.82),A- (3.83)
+429,"Contreras, Frances E.",EDS 113 - Chicanas/os & Latinos in Edu (A),WI18,38,24,95.5%,95.5%,3.83,A- (3.70),A- (3.87)
+430,"Cohen, Shana R",EDS 115 - Cog Development & Education (A),WI18,42,18,94.1%,88.2%,3.94,A- (3.83),A- (3.83)
+431,"Hofstetter, Carolyn",EDS 116 - Psych/Teach&Struc/Information (A),WI18,24,11,100.0%,100.0%,4.25,A (4.00),
+432,"Orozco, Agustin",EDS 116 - Psych/Teach&Struc/Information (A),WI18,24,11,100.0%,100.0%,4.25,A (4.00),
+433,"Van Steenbergen, Suzanne Michele","EDS 117 - Language, Culture & Education (A)",WI18,75,40,86.5%,89.2%,4.01,A- (3.82),A- (3.91)
+434,"Munoz Sanchez, Alicia",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A),WI18,11,3,66.7%,100.0%,4.5,B (3.00),
+435,"Simon, Elizabeth A",EDS 124AR - Teach Computation/DigitalWorld (A),WI18,30,10,100.0%,100.0%,8.79,A- (3.71),B+ (3.69)
+436,"Forbes, Cheryl A","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",WI18,41,19,88.9%,94.4%,5.06,A- (3.94),A- (3.84)
+437,"Jones, Makeba",EDS 126 - Social Organization/Education (B),WI18,49,26,92.3%,92.3%,3.58,A- (3.88),A- (3.80)
+438,"Bresser, Bernard George",EDS 128A - Intro/Teaching&Learning (Elem) (A),WI18,25,11,100.0%,100.0%,5.41,A- (3.91),A- (3.91)
+439,"Black, Alison Michelle",EDS 129B - Intro/Teach&Learn (Secondary) (A),WI18,52,20,100.0%,100.0%,5.45,A (4.00),A- (3.94)
+440,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),WI18,33,20,100.0%,100.0%,6.1,A- (3.79),B+ (3.60)
+441,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),WI18,40,33,93.8%,100.0%,6.88,A- (3.81),B+ (3.66)
+442,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),WI18,13,12,100.0%,100.0%,3.67,A- (3.92),
+443,"Lu, Charles",EDS 23 - Higher Education Second Year (C),WI18,53,14,92.9%,92.3%,0.93,B (3.00),
+444,"Lu, Charles",EDS 23 - Higher Education Second Year (D),WI18,30,13,91.7%,90.9%,2.17,B+ (3.50),
+445,"Harel, Guershon",EDS 30 - Introduction to Teaching Math (A),WI18,4,4,25.0%,50.0%,7.0,D+ (1.67),
+446,"Heinzman, Erica M.",EDS 39 - Prac/Sci&MathTeching/Learning (A),WI18,16,15,100.0%,100.0%,3.57,A- (3.86),
+447,"Simon, Elizabeth A",EDS 87 - Freshman Seminar (A),WI18,18,13,100.0%,100.0%,1.88,A (4.00),
+448,"Simon, Elizabeth A",EDS 87 - Freshman Seminar (B),WI18,17,9,71.4%,100.0%,1.07,A (4.00),
+449,"Guthals, Sarah Marie",EDS 114 - Cogn Develp&Intractv Compt Env (A),FA17,20,5,100.0%,100.0%,4.0,A (4.00),A- (3.85)
+450,"Garcia, Danika July",EDS 116 - Psych/Teach&Struc/Information (A),FA17,10,3,100.0%,100.0%,5.83,,
+451,"Gallagher-Geurtsen, Tricia Meghan","EDS 117 - Language, Culture & Education (A)",FA17,68,53,98.1%,100.0%,4.81,A- (3.72),A- (3.88)
+452,"Chung, Luz Marina","EDS 117 - Language, Culture & Education (B)",FA17,56,20,89.5%,94.7%,5.87,A- (3.87),B+ (3.68)
+453,"Page, Rachel Lys",EDS 118 - Adolescent Devlp & Education (A),FA17,45,21,85.7%,81.0%,3.5,A- (3.75),A- (3.92)
+454,"Jones, Makeba",EDS 120 - Intro. to Design-Based Rsrch (A),FA17,5,4,100.0%,100.0%,3.5,A (4.00),
+455,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",FA17,63,24,77.3%,86.4%,3.83,A- (3.83),A- (3.81)
+456,"Binder, Amy",EDS 126 - Social Organization/Education (A),FA17,20,9,100.0%,100.0%,4.72,B (3.25),B (3.08)
+457,"Millstone, Rachel Diana",EDS 129A - Intro/Teach&Learn (Secondary) (A),FA17,46,20,94.1%,100.0%,6.85,A- (3.94),A- (3.85)
+458,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),FA17,37,26,100.0%,100.0%,4.42,A- (3.88),A- (3.80)
+459,"Wishard Guerra, Alison G.",EDS 131 - Early Child Dev & Education (A),FA17,29,11,100.0%,80.0%,6.72,A- (3.80),B+ (3.42)
+460,"Drake, Kristy Nicole",EDS 136 - Intro/Acad Tut/Second Schl Std (A),FA17,27,27,96.3%,100.0%,5.54,A- (3.92),A- (3.87)
+461,"Hofstetter, Carolyn",EDS 150 - CASP Transfer Intro Course (A),FA17,18,10,83.3%,100.0%,1.17,A (4.00),
+462,"Van Ness, Karen Clark",EDS 150 - CASP Transfer Intro Course (B),FA17,23,13,90.9%,100.0%,2.5,A (4.00),
+463,"Hofstetter, Carolyn",EDS 150 - CASP Transfer Intro Course (C),FA17,20,12,87.5%,75.0%,2.5,A (4.00),
+464,"Heinzman, Erica M.",EDS 39 - Prac/Sci&MathTeching/Learning (A),FA17,13,12,100.0%,100.0%,3.5,A- (3.83),
+465,"Van Ness, Karen Clark",EDS 50 - CASP Frosh Intro Course (A),FA17,19,11,90.0%,100.0%,1.59,A- (3.86),
+466,"Hofstetter, Carolyn",EDS 50 - CASP Frosh Intro Course (B),FA17,20,12,75.0%,72.7%,1.0,A- (3.83),
+467,"Hofstetter, Carolyn",EDS 50 - CASP Frosh Intro Course (C),FA17,19,13,91.7%,91.7%,1.58,A- (3.78),
+468,"Van Ness, Karen Clark",EDS 50 - CASP Frosh Intro Course (D),FA17,19,14,92.3%,100.0%,1.79,A- (3.80),
+469,"Hofstetter, Carolyn",EDS 50 - CASP Frosh Intro Course (E),FA17,17,7,85.7%,100.0%,1.36,,
+470,"Hofstetter, Carolyn",EDS 50 - CASP Frosh Intro Course (F),FA17,18,9,100.0%,100.0%,1.07,B+ (3.67),
+471,"Hofstetter, Carolyn",EDS 50 - CASP Frosh Intro Course (G),FA17,20,11,90.9%,90.9%,2.5,B+ (3.60),
+472,"Hofstetter, Carolyn",EDS 50 - CASP Frosh Intro Course (H),FA17,9,6,100.0%,100.0%,1.17,A (4.00),
+473,"O'Connor, Wendy Lynn",EDS 115 - Cog Development & Education (A),S317,20,9,55.6%,44.4%,6.5,A (4.00),
+474,"Van Steenbergen, Suzanne Michele","EDS 117 - Language, Culture & Education (A)",S317,32,15,100.0%,100.0%,8.93,A (4.00),
+475,"Forbes, Cheryl A","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",S317,31,19,83.3%,88.9%,9.34,A (4.00),
+476,"Holtzman, Caren Lynn",EDS 128A - Intro/Teaching&Learning (Elem) (A),S317,25,22,95.5%,100.0%,9.59,A (4.00),
+477,"Bresser, Bernard George",EDS 128B - Intro/Teaching&Learning (Elem) (A),S317,25,13,100.0%,100.0%,10.04,A (4.00),
+478,"Garcia, Danika July",EDS 20S - Intro/Principles of Learning (A),S217,124,62,85.7%,100.0%,6.47,B (3.09),
+479,"Wishard Guerra, Alison G.",EDS 115GS - Cog Development & Education (A),S117,13,3,100.0%,100.0%,9.83,A (4.00),
+480,"Wishard Guerra, Alison G.","EDS 117GS - Language, Culture & Education (A)",S117,13,4,100.0%,100.0%,8.5,A- (3.75),
+481,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (C),SP17,48,15,100.0%,100.0%,5.42,A- (3.83),A- (3.78)
+482,"Esper, Sarah Marie",EDS 114 - Cogn Develp&Intractv Compt Env (A),SP17,25,10,100.0%,100.0%,4.28,A- (3.78),A- (3.93)
+483,"Wishard Guerra, Alison G.",EDS 115 - Cog Development & Education (A),SP17,55,25,100.0%,100.0%,3.86,A- (3.78),B+ (3.58)
+484,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),SP17,31,9,100.0%,100.0%,5.0,B (3.00),
+485,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",SP17,75,20,89.5%,94.7%,5.13,A- (3.83),A- (3.89)
+486,"Hopkins, Megan Beth","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",SP17,37,28,100.0%,100.0%,4.5,A- (3.71),A- (3.92)
+487,"Chapman, Thandeka K",EDS 126 - Social Organization/Education (A),SP17,37,15,84.6%,84.6%,3.88,B+ (3.69),B+ (3.46)
+488,"Pappas, Elizabeth",EDS 128B - Intro/Teaching&Learning (Elem) (A),SP17,29,17,100.0%,100.0%,4.85,A- (3.88),A- (3.90)
+489,"Heinzman, Erica M.",EDS 129C - Intro/Teach&Learn (Secondary) (A),SP17,50,40,100.0%,97.1%,4.8,A- (3.94),A- (3.92)
+490,"Scharton, Susan Michelle",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),SP17,48,40,94.9%,97.4%,5.45,A- (3.95),A- (3.75)
+491,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),SP17,57,50,95.9%,100.0%,6.7,A (4.00),A- (3.96)
+492,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),SP17,15,15,100.0%,100.0%,4.77,A- (3.93),
+493,"Jones, Makeba",EDS 141 - Action Research in PreK-12 Edu (A),SP17,13,5,100.0%,100.0%,4.5,A (4.00),
+494,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP17,5,4,100.0%,100.0%,0.5,A (4.00),
+495,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),SP17,9,3,100.0%,100.0%,3.83,A (4.00),
+496,"Heinzman, Erica M.",EDS 39 - Prac/Sci&MathTeching/Learning (A),SP17,28,26,100.0%,100.0%,3.27,A- (3.88),A- (3.80)
+497,"Simon, Elizabeth A",EDS 87 - Freshman Seminar (A),SP17,15,5,100.0%,100.0%,1.0,,
+498,"Cohen, Shana R",EDS 111 - Child Family Community (A),WI17,25,15,93.3%,93.3%,5.83,A- (3.92),A- (3.96)
+499,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (A),WI17,36,17,100.0%,100.0%,3.88,B+ (3.64),A- (3.86)
+500,"Simon, Elizabeth A",EDS 114 - Cogn Develp&Intractv Compt Env (A),WI17,10,10,100.0%,100.0%,4.1,A- (3.89),
+501,"Orozco, Agustin",EDS 116 - Psych/Teach&Struc/Information (A),WI17,31,10,100.0%,100.0%,2.25,,
+502,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",WI17,66,28,92.9%,96.4%,4.88,A- (3.92),A- (3.96)
+503,"Munoz Sanchez, Alicia",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A),WI17,16,6,100.0%,100.0%,3.83,B+ (3.67),
+504,"Forbes, Cheryl A","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",WI17,38,12,100.0%,100.0%,4.9,A (4.00),A- (3.72)
+505,"Jones, Makeba",EDS 126 - Social Organization/Education (A),WI17,46,19,88.2%,94.1%,3.44,A- (3.88),A- (3.86)
+506,"Bresser, Bernard George",EDS 128A - Intro/Teaching&Learning (Elem) (A),WI17,31,15,100.0%,100.0%,6.17,A- (3.83),A- (3.82)
+507,"Black, Alison Michelle",EDS 129B - Intro/Teach&Learn (Secondary) (A),WI17,52,41,100.0%,97.6%,5.23,A- (3.93),A- (3.90)
+508,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),WI17,50,27,92.6%,92.6%,6.66,A- (3.91),B+ (3.32)
+509,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),WI17,44,39,100.0%,100.0%,6.55,A- (3.79),A- (3.90)
+510,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),WI17,11,11,100.0%,100.0%,4.32,A- (3.90),
+511,"Chung, Luz Marina",EDS 140 - Intro Action Rsrch P-12 Edu (A),WI17,13,4,100.0%,100.0%,4.5,A (4.00),
+512,"Velasquez, Patrick",EDS 22 - Education in Cuba (A),WI17,14,8,100.0%,100.0%,3.5,A- (3.83),
+513,"Velasquez, Patrick",EDS 23 - Higher Education Second Year (A),WI17,42,16,100.0%,100.0%,1.36,A (4.00),
+514,"Velasquez, Patrick",EDS 23 - Higher Education Second Year (B),WI17,29,11,90.9%,100.0%,0.5,,
+515,"Heinzman, Erica M.",EDS 39 - Prac/Sci&MathTeching/Learning (A),WI17,18,18,100.0%,100.0%,4.5,A- (3.87),
+516,"Simon, Beth Shara",EDS 87 - Freshman Seminar (A),WI17,11,7,100.0%,100.0%,0.9,,
+517,"Simon, Elizabeth A",EDS 114 - Cogn Develp&Intractv Compt Env (A),FA16,18,8,87.5%,87.5%,4.0,A- (3.86),
+518,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),FA16,17,10,100.0%,100.0%,3.5,A (4.00),
+519,"Gallagher-Geurtsen, Tricia Meghan","EDS 117 - Language, Culture & Education (A)",FA16,66,55,96.2%,94.3%,5.42,A- (3.72),B+ (3.69)
+520,"Chung, Luz Marina","EDS 117 - Language, Culture & Education (B)",FA16,65,18,88.2%,94.1%,6.15,A- (3.81),B+ (3.55)
+521,"Mulloy, Austin Madison",EDS 118 - Adolescent Devlp & Education (A),FA16,42,27,79.2%,33.3%,4.92,A- (3.91),A- (3.85)
+522,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",FA16,68,57,96.4%,85.7%,4.87,A- (3.90),A- (3.75)
+523,"Binder, Amy",EDS 126 - Social Organization/Education (A),FA16,26,12,100.0%,90.9%,5.7,B (3.10),B (3.05)
+524,"Millstone, Rachel Diana",EDS 129A - Intro/Teach&Learn (Secondary) (A),FA16,53,26,100.0%,96.0%,6.18,A- (3.92),A- (3.90)
+525,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),FA16,47,33,100.0%,100.0%,4.5,A- (3.84),A- (3.75)
+526,"Cohen, Shana R",EDS 131 - Early Child Dev & Education (A),FA16,27,17,100.0%,100.0%,6.75,A- (3.79),B+ (3.52)
+527,"Jones, Makeba",EDS 136 - Intro/Acad Tut/Second Schl Std (A),FA16,53,50,94.0%,100.0%,5.07,A- (3.91),A (4.00)
+528,"Van Ness, Karen Clark",EDS 150 - CASP Transfer Intro Course (C),FA16,16,12,91.7%,91.7%,2.0,B+ (3.67),
+529,"Van Ness, Karen Clark",EDS 150 - CASP Transfer Intro Course (D),FA16,15,12,100.0%,100.0%,2.33,A (4.00),
+530,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),FA16,5,3,100.0%,100.0%,3.83,A (4.00),
+531,"Daly, Alan J.",EDS 50 - CASP Frosh Intro Course (B),FA16,20,8,100.0%,100.0%,3.83,A (4.00),
+532,"Daly, Alan J.",EDS 50 - CASP Frosh Intro Course (C),FA16,20,10,100.0%,100.0%,1.36,A (4.00),
+533,"Daly, Alan J.",EDS 50 - CASP Frosh Intro Course (D),FA16,19,11,77.8%,88.9%,1.83,A (4.00),
+534,"Daly, Alan J.",EDS 50 - CASP Frosh Intro Course (E),FA16,20,10,66.7%,88.9%,1.75,A- (3.75),
+535,"Daly, Alan J.",EDS 50 - CASP Frosh Intro Course (F),FA16,18,12,66.7%,100.0%,2.72,B+ (3.67),
+536,"Daly, Alan J.",EDS 50 - CASP Frosh Intro Course (G),FA16,20,14,92.9%,92.9%,0.93,A (4.00),
+537,"Daly, Alan J.",EDS 50 - CASP Frosh Intro Course (H),FA16,13,8,100.0%,85.7%,1.93,B+ (3.60),
+538,"Daly, Alan J.",EDS 50 - CASP Frosh Intro Course (I),FA16,20,11,100.0%,100.0%,2.0,B+ (3.33),
+539,"Simon, Elizabeth A",EDS 87 - Freshman Seminar (A),FA16,11,5,100.0%,100.0%,1.3,A (4.00),
+540,"Cohen, Shana R",EDS 115 - Cog Development & Education (A),S316,22,17,100.0%,93.8%,5.83,A (4.00),A- (3.93)
+541,"Forbes, Cheryl A","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",S316,26,11,100.0%,100.0%,11.95,A- (3.91),A- (3.93)
+542,"Holtzman, Caren Lynn",EDS 128A - Intro/Teaching&Learning (Elem) (A),S316,18,13,91.7%,91.7%,11.0,A (4.00),
+543,"Bresser, Bernard George",EDS 128B - Intro/Teaching&Learning (Elem) (A),S316,18,11,100.0%,100.0%,8.72,A (4.00),
+544,"Garcia, Danika July",EDS 20S - Intro/Principles of Learning (A),S216,114,36,75.8%,90.9%,7.29,B (3.25),
+545,"Given, William Allan",EDS 21S - Writing and Learning (A),S216,11,8,71.4%,85.7%,7.93,,
+546,"Coulter, Jane Elisabeth",EDS 21S - Writing and Learning (B),S216,9,5,100.0%,100.0%,7.17,,
+547,"Hall, Tanya",EDS 21S - Writing and Learning (D),S216,15,12,83.3%,100.0%,7.67,A (4.00),
+548,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (A),SP16,47,22,85.7%,95.2%,4.21,A- (3.89),A- (3.81)
+549,"Contreras, Frances E.",EDS 113 - Chicanas/os & Latinos in Edu (B),SP16,26,14,92.9%,100.0%,3.64,B+ (3.50),A- (3.98)
+550,"Jones, Gabrielle Anastasia",EDS 115 - Cog Development & Education (A),SP16,56,36,97.0%,93.9%,2.81,A- (3.77),B+ (3.66)
+551,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),SP16,57,21,94.7%,94.7%,3.34,B+ (3.67),
+552,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",SP16,73,26,92.0%,100.0%,4.34,A- (3.83),A- (3.91)
+553,"Nguyen, Hoaihuong T",EDS 118 - Adolescent Devlp & Education (A),SP16,22,10,100.0%,100.0%,3.5,A (4.00),A- (3.92)
+554,"Forbes, Cheryl A","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",SP16,54,17,88.2%,88.2%,5.56,A- (3.94),A- (3.86)
+555,"Chapman, Thandeka K",EDS 126 - Social Organization/Education (A),SP16,50,13,92.3%,84.6%,3.27,B+ (3.58),B+ (3.35)
+556,"Pappas, Elizabeth",EDS 128B - Intro/Teaching&Learning (Elem) (A),SP16,39,21,100.0%,100.0%,4.69,A- (3.81),A- (3.80)
+557,"Halter, Christopher P.",EDS 129C - Intro/Teach&Learn (Secondary) (A),SP16,67,26,96.0%,100.0%,3.22,A- (3.96),A- (3.95)
+558,"Scharton, Susan Michelle",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),SP16,38,27,88.5%,92.3%,6.5,A- (3.76),A- (3.74)
+559,"Renner, Nancy Owens",EDS 132 - Hands On Seminar (A),SP16,11,5,100.0%,100.0%,4.1,A (4.00),
+560,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),SP16,59,31,92.9%,100.0%,5.61,A- (3.88),A- (3.94)
+561,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),SP16,22,22,100.0%,100.0%,5.41,A- (3.95),A- (3.98)
+562,"Jones, Makeba",EDS 141 - Action Research in PreK-12 Edu (A),SP16,13,4,100.0%,100.0%,8.5,A- (3.75),
+563,"Velasquez, Patrick",EDS 22 - Education in Cuba (A),SP16,16,7,100.0%,100.0%,2.5,A (4.00),
+564,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (B),SP16,9,5,100.0%,100.0%,1.7,A- (3.80),
+565,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),SP16,3,3,100.0%,100.0%,2.5,A (4.00),
+566,"Chung, Luz Marina",EDS 39 - Prac/Sci&MathTeching/Learning (A),SP16,21,11,81.8%,100.0%,5.95,A (4.00),A- (3.85)
+567,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (A),WI16,40,18,88.2%,94.1%,3.44,B+ (3.69),B+ (3.62)
+568,"Wishard Guerra, Alison G.",EDS 115 - Cog Development & Education (A),WI16,54,25,100.0%,91.7%,3.63,A- (3.92),A- (3.87)
+569,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),WI16,31,13,100.0%,100.0%,4.04,A (4.00),
+570,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",WI16,68,37,97.3%,97.3%,4.77,A- (3.91),A- (3.90)
+571,"Munoz Sanchez, Alicia",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A),WI16,22,12,83.3%,91.7%,3.33,B+ (3.58),C+ (2.66)
+572,"Jones, Gabrielle Anastasia","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",WI16,44,28,82.1%,82.1%,5.0,A- (3.88),B+ (3.60)
+573,"Binder, Amy",EDS 126 - Social Organization/Education (A),WI16,37,21,100.0%,84.2%,4.06,B+ (3.63),B (3.28)
+574,"Bresser, Bernard George",EDS 128A - Intro/Teaching&Learning (Elem) (A),WI16,41,24,100.0%,100.0%,6.33,A- (3.87),A- (3.82)
+575,"Chavez, Denise Rivera",EDS 129B - Intro/Teach&Learn (Secondary) (A),WI16,67,38,89.5%,68.4%,3.92,A- (3.95),A- (4.00)
+576,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),WI16,44,37,97.2%,97.2%,6.44,A- (3.97),A- (3.80)
+577,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),WI16,37,35,97.1%,97.1%,6.56,A- (3.85),A- (3.72)
+578,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),WI16,19,17,100.0%,94.1%,4.26,A- (3.94),
+579,"Chung, Luz Marina",EDS 140 - Issues in PreK-12 Education (A),WI16,15,5,100.0%,100.0%,6.1,B+ (3.60),
+580,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),WI16,9,7,85.7%,100.0%,1.93,A (4.00),
+581,"Chung, Luz Marina",EDS 39 - Prac/Sci&MathTeching/Learning (A),WI16,19,14,100.0%,100.0%,4.65,A- (3.92),
+582,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",FA15,69,27,96.3%,96.3%,4.35,A- (3.79),A- (4.00)
+583,"Chung, Luz Marina","EDS 117 - Language, Culture & Education (B)",FA15,61,21,90.5%,90.5%,6.6,A- (3.90),A- (3.79)
+584,"Nguyen, Hoaihuong T",EDS 118 - Adolescent Devlp & Education (A),FA15,57,27,100.0%,96.3%,3.91,A- (3.96),A- (3.98)
+585,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",FA15,62,52,94.2%,80.8%,4.1,A- (3.86),B+ (3.68)
+586,"Millstone, Rachel Diana",EDS 129A - Intro/Teach&Learn (Secondary) (A),FA15,59,24,100.0%,95.7%,5.2,A (4.00),A- (3.86)
+587,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),FA15,52,45,97.7%,97.7%,5.14,A- (3.84),A- (3.87)
+588,"Wishard Guerra, Alison G.",EDS 131 - Intro/Early Childhood Educatn (A),FA15,22,14,100.0%,100.0%,6.35,B+ (3.62),A- (3.72)
+589,"Jones, Makeba",EDS 136 - Intro/Acad Tut/Second Schl Std (A),FA15,56,46,100.0%,100.0%,5.95,A- (3.93),A- (3.98)
+590,"Perez, Jason Magabo",EDS 150 - CASP Transfer Intro Course (A),FA15,35,23,91.3%,100.0%,4.5,A (4.00),
+591,"Simon, Harry Love",EDS 50 - CASP Frosh Intro Course (A),FA15,39,27,80.8%,96.2%,2.18,A- (3.82),
+592,"Van Ness, Karen Clark",EDS 50 - CASP Frosh Intro Course (B),FA15,31,16,84.6%,92.3%,2.65,A- (3.71),
+593,"Wishard Guerra, Alison G.",EDS 115 - Cog Development & Education (A),S315,28,13,91.7%,100.0%,9.17,A- (3.92),A- (3.86)
+594,"Nielsen, Kelly J","EDS 117 - Language, Culture & Education (A)",S315,37,10,100.0%,90.0%,9.9,A (4.00),A- (3.95)
+595,"Forbes, Cheryl A","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",S315,34,18,100.0%,100.0%,11.17,A (4.00),A- (3.93)
+596,"Holtzman, Caren Lynn",EDS 128A - Intro/Teaching&Learning (Elem) (A),S315,27,17,94.1%,94.1%,10.03,A- (3.82),A- (3.86)
+597,"Bresser, Bernard George",EDS 128B - Intro/Teaching&Learning (Elem) (A),S315,27,11,100.0%,100.0%,9.3,A- (3.91),A- (3.95)
+598,"Garcia, Danika July",EDS 20S - Intro/Principles of Learning (A),S215,185,91,88.9%,93.3%,6.9,B (3.14),
+599,"Bauer, Holly Jean",EDS 21S - Writing and Learning (A),S215,66,40,75.0%,83.3%,7.59,B (3.29),
+600,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (A),SP15,40,17,94.1%,88.2%,3.88,A- (3.82),B+ (3.55)
+601,"Contreras, Frances E.",EDS 113 - Chicanas/os & Latinos in Edu (A),SP15,23,8,100.0%,100.0%,3.64,B+ (3.57),A- (3.72)
+602,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),SP15,45,19,94.1%,100.0%,4.5,A (4.00),
+603,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",SP15,78,35,100.0%,100.0%,4.62,A- (3.94),A- (3.82)
+604,"Forbes, Cheryl A","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",SP15,36,12,83.3%,75.0%,4.33,A- (3.75),A- (3.70)
+605,"Chapman, Thandeka K",EDS 126 - Social Organization/Education (A),SP15,33,9,75.0%,100.0%,3.64,B+ (3.67),A- (3.74)
+606,"Forbes, Cheryl A",EDS 128B - Intro/Teaching&Learning (Elem) (A),SP15,38,19,94.1%,82.4%,4.97,A- (3.94),B+ (3.62)
+607,"Halter, Christopher P.",EDS 129C - Intro/Teach&Learn (Secondary) (A),SP15,47,18,100.0%,100.0%,3.83,A- (3.93),A- (3.92)
+608,"Scharton, Susan Michelle",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),SP15,53,36,94.3%,82.9%,5.5,A- (3.85),B+ (3.50)
+609,"Renner, Nancy Owens",EDS 132 - Hands On Seminar (A),SP15,7,4,100.0%,100.0%,5.17,A (4.00),
+610,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),SP15,45,40,100.0%,100.0%,7.4,A- (3.79),A- (3.73)
+611,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),SP15,29,28,100.0%,100.0%,4.96,A- (3.89),A (4.00)
+612,"Jones, Makeba",EDS 141 - Action Research in PreK-12 Edu (A),SP15,7,5,100.0%,100.0%,5.7,A (4.00),
+613,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP15,9,5,100.0%,100.0%,2.9,B+ (3.60),
+614,"Chung, Luz Marina",EDS 39 - Prac/Sci&MathTeching/Learning (A),SP15,11,6,100.0%,100.0%,4.5,A (4.00),
+615,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (A),WI15,28,10,100.0%,100.0%,3.3,A- (3.70),A- (3.86)
+616,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),WI15,27,13,100.0%,100.0%,3.12,B+ (3.50),
+617,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",WI15,68,28,96.4%,100.0%,5.17,A- (3.92),A- (3.86)
+618,"Pollock, Mica","EDS 117 - Language, Culture & Education (B)",WI15,64,30,83.3%,93.3%,4.03,A- (3.84),A- (3.84)
+619,"Cohen, Shana R",EDS 118 - Adolescent Devlp & Education (A),WI15,28,21,100.0%,89.5%,3.55,A- (3.95),A- (3.79)
+620,"Munoz Sanchez, Alicia",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A),WI15,28,13,100.0%,84.6%,4.04,B (3.27),B- (2.91)
+621,"Jones, Makeba",EDS 126 - Social Organization/Education (A),WI15,67,29,100.0%,100.0%,3.95,A- (3.93),A- (3.89)
+622,"Bresser, Bernard George",EDS 128A - Intro/Teaching&Learning (Elem) (A),WI15,40,19,100.0%,100.0%,5.83,A (4.00),A- (3.96)
+623,"Sewall, Marcia De Vore",EDS 129B - Intro/Teach&Learn (Secondary) (A),WI15,48,40,97.4%,97.4%,3.97,A- (3.95),A- (3.83)
+624,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),WI15,54,41,100.0%,100.0%,5.35,A- (3.95),A- (3.92)
+625,"Wishard Guerra, Alison G.",EDS 131 - Intro/Early Childhood Educatn (A),WI15,25,5,100.0%,80.0%,5.3,A (4.00),B+ (3.49)
+626,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),WI15,43,37,94.4%,97.2%,5.83,A- (3.89),A- (3.86)
+627,"Harel, Guershon",EDS 30 - Introduction to Teaching Math (A),WI15,5,4,75.0%,50.0%,1.5,B (3.25),
+628,"Chung, Luz Marina",EDS 39 - Prac/Sci&MathTeching/Learning (A),WI15,14,9,100.0%,100.0%,3.5,B+ (3.57),
+629,"Wishard Guerra, Alison G.",EDS 115 - Cog Development & Education (A),FA14,57,26,85.7%,71.4%,4.02,A- (3.90),B+ (3.64)
+630,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),FA14,9,6,100.0%,100.0%,2.5,A (4.00),
+631,"Chung, Luz Marina","EDS 117 - Language, Culture & Education (A)",FA14,80,37,91.4%,94.3%,5.79,A- (3.71),B+ (3.64)
+632,"Jones, Makeba","EDS 117 - Language, Culture & Education (B)",FA14,59,22,95.2%,95.2%,5.83,A- (3.94),A- (3.95)
+633,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",FA14,66,31,76.7%,66.7%,4.09,A- (3.96),A- (3.93)
+634,"Binder, Amy",EDS 126 - Social Organization/Education (A),FA14,52,20,90.0%,85.0%,5.2,B+ (3.37),B (3.01)
+635,"Millstone, Rachel Diana",EDS 129A - Intro/Teach&Learn (Secondary) (A),FA14,42,18,94.1%,100.0%,5.5,A- (3.94),A- (3.87)
+636,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),FA14,58,32,87.1%,90.3%,4.89,A- (3.93),A- (3.83)
+637,"Jones, Makeba",EDS 136 - Intro/Acad Tut/Second Schl Std (A),FA14,36,31,93.5%,96.8%,5.73,A- (3.93),A- (3.79)
+638,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),FA14,15,14,100.0%,100.0%,6.07,A (4.00),
+639,"Goldston, Jennifer Anne",EDS 115 - Cog Development & Education (A),S314,21,5,100.0%,100.0%,6.5,A (4.00),A- (3.78)
+640,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",S314,33,7,100.0%,100.0%,8.5,A (4.00),A- (3.96)
+641,"Forbes, Cheryl A","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",S314,30,16,100.0%,100.0%,9.3,A (4.00),A- (3.92)
+642,"Bresser, Bernard George",EDS 128A - Intro/Teaching&Learning (Elem) (A),S314,18,18,100.0%,100.0%,9.61,A (4.00),
+643,"Holtzman, Caren Lynn",EDS 128B - Intro/Teaching&Learning (Elem) (A),S314,18,9,100.0%,100.0%,9.83,A (4.00),
+644,"Velasquez, Patrick",EDS 20S - Intro/Principles of Learning (A),S214,164,67,92.5%,98.5%,7.05,B- (2.88),
+645,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (A),SP14,20,8,100.0%,100.0%,3.0,A (4.00),B+ (3.41)
+646,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),SP14,38,22,90.9%,95.5%,2.86,A (4.00),
+647,"Jones, Makeba","EDS 117 - Language, Culture & Education (A)",SP14,78,32,96.8%,100.0%,4.3,A- (3.90),A- (3.83)
+648,"Sarda, Zoltan Gerhardt",EDS 118 - Adolescent Devlp & Education (A),SP14,45,16,100.0%,93.8%,3.88,A- (3.87),A- (3.84)
+649,"Chapman, Thandeka K",EDS 126 - Social Organization/Education (A),SP14,31,13,92.3%,92.3%,4.81,B+ (3.62),B+ (3.49)
+650,"Holtzman, Caren Lynn",EDS 128B - Intro/Teaching&Learning (Elem) (A),SP14,36,34,100.0%,93.9%,5.05,A- (3.72),B+ (3.67)
+651,"Halter, Christopher P.",EDS 129C - Intro/Teach&Learn (Secondary) (A),SP14,39,13,100.0%,100.0%,5.27,B+ (3.67),A- (3.90)
+652,"Scharton, Susan Michelle",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),SP14,60,21,89.5%,89.5%,6.5,A (4.00),A- (3.72)
+653,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),SP14,46,38,100.0%,100.0%,5.69,A- (3.86),A- (3.80)
+654,"Chung, Luz Marina",EDS 138 - Intro/Acad Tutor/Chartr School (A),SP14,21,5,100.0%,100.0%,5.3,A- (3.80),B+ (3.62)
+655,"Jones, Makeba",EDS 141 - Action Research in PreK-12 Edu (A),SP14,9,4,100.0%,100.0%,9.5,A (4.00),
+656,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP14,7,5,100.0%,100.0%,0.5,A (4.00),
+657,"Chung, Luz Marina",EDS 39 - Prac/Sci&MathTeching/Learning (A),SP14,12,7,100.0%,100.0%,3.93,A (4.00),
+658,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (A),WI14,18,9,100.0%,100.0%,3.83,A- (3.89),
+659,"Levin, James",EDS 114 - Cogn Develp&Intractv Compt Env (A),WI14,15,10,80.0%,90.0%,2.7,A- (3.80),
+660,"Wishard Guerra, Alison G.",EDS 115 - Cog Development & Education (A),WI14,52,20,84.2%,89.5%,4.03,B+ (3.65),B+ (3.65)
+661,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),WI14,17,7,100.0%,100.0%,4.17,,
+662,"Gallagher-Geurtsen, Tricia Meghan","EDS 117 - Language, Culture & Education (A)",WI14,64,31,83.9%,80.6%,6.69,B+ (3.62),B+ (3.67)
+663,"Munoz Sanchez, Alicia",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A),WI14,47,19,83.3%,100.0%,4.28,B+ (3.33),B- (2.91)
+664,"Jones, Makeba",EDS 126 - Social Organization/Education (A),WI14,39,15,100.0%,100.0%,3.12,A- (3.93),A- (3.90)
+665,"Bresser, Bernard George",EDS 128A - Intro/Teaching&Learning (Elem) (A),WI14,41,23,95.5%,100.0%,5.05,A- (3.86),A- (3.90)
+666,"Sewall, Marcia De Vore",EDS 129B - Intro/Teach&Learn (Secondary) (A),WI14,40,37,94.6%,97.3%,5.09,A- (3.83),A- (3.72)
+667,"Jones, Makeba",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),WI14,58,21,100.0%,100.0%,5.39,A- (3.87),A- (3.96)
+668,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),WI14,35,30,92.6%,100.0%,5.46,A- (3.89),B+ (3.67)
+669,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),WI14,13,13,100.0%,100.0%,2.83,A- (3.82),
+670,"Chung, Luz Marina",EDS 140 - Issues in PreK-12 Education (A),WI14,12,5,100.0%,100.0%,6.5,A- (3.80),
+671,"Stevens, Laura Jeanette",EDS 30 - Introduction to Teaching Math (A),WI14,7,3,100.0%,100.0%,1.83,A (4.00),
+672,"Chung, Luz Marina",EDS 39 - Prac/Sci&MathTeching/Learning (A),WI14,19,12,100.0%,100.0%,3.5,A- (3.91),
+673,"Halter, Christopher P.",EDS 114 - Cogn Develp&Intractv Compt Env (A),FA13,17,8,100.0%,100.0%,5.93,A- (3.86),
+674,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),FA13,12,9,88.9%,88.9%,2.94,A (4.00),
+675,"Chung, Luz Marina","EDS 117 - Language, Culture & Education (A)",FA13,83,40,89.7%,94.9%,7.24,B+ (3.69),B+ (3.59)
+676,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",FA13,62,30,89.7%,96.6%,3.88,A- (3.86),A- (3.91)
+677,"Binder, Amy",EDS 126 - Social Organization/Education (A),FA13,19,9,100.0%,100.0%,4.72,B+ (3.44),
+678,"Millstone, Rachel Diana",EDS 129A - Intro/Teach&Learn (Secondary) (A),FA13,34,12,100.0%,100.0%,5.17,B+ (3.58),B+ (3.45)
+679,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),FA13,58,43,93.0%,100.0%,4.83,A- (3.83),A- (3.77)
+680,"Wishard Guerra, Alison G.",EDS 131 - Intro/Early Childhood Educatn (A),FA13,30,23,100.0%,86.4%,5.95,A- (3.89),B+ (3.67)
+681,"Jones, Makeba",EDS 136 - Intro/Acad Tut/Second Schl Std (A),FA13,25,23,91.3%,100.0%,6.5,A- (3.90),A- (3.76)
+682,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),FA13,10,10,100.0%,100.0%,6.3,A (4.00),
+683,"Wilson, Judy C",EDS 115 - Cog Development & Education (A),S313,29,9,37.5%,37.5%,12.79,B+ (3.39),B+ (3.39)
+684,"Nielsen, Kelly J","EDS 117 - Language, Culture & Education (A)",S313,26,8,75.0%,87.5%,11.25,A (4.00),B+ (3.50)
+685,"Forbes, Cheryl A","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",S313,32,9,66.7%,100.0%,9.39,A (4.00),A- (3.91)
+686,"Holtzman, Caren Lynn",EDS 128A - Intro/Teaching&Learning (Elem) (A),S313,23,6,100.0%,100.0%,13.7,A (4.00),A- (3.84)
+687,"Bresser, Bernard George",EDS 128B - Intro/Teaching&Learning (Elem) (A),S313,23,6,83.3%,83.3%,16.5,A (4.00),A (4.00)
+688,"Goodman, Jeremy Scott",EDS 20S - Intro/Principles of Learning (A),S213,149,62,86.4%,98.3%,8.25,B+ (3.47),
+689,"Halter, Christopher P.",EDS 114 - Cogn Develp&Intractv Compt Env (A),SP13,25,9,88.9%,100.0%,8.25,A- (3.71),A- (3.80)
+690,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),SP13,29,15,100.0%,100.0%,2.79,A (4.00),
+691,"Jones, Makeba","EDS 117 - Language, Culture & Education (B)",SP13,45,24,100.0%,100.0%,6.15,A- (3.73),A- (3.77)
+692,"Chapman, Thandeka K",EDS 126 - Social Organization/Education (A),SP13,34,13,69.2%,84.6%,4.5,B+ (3.58),B+ (3.48)
+693,"Holtzman, Caren Lynn",EDS 128B - Intro/Teaching&Learning (Elem) (A),SP13,32,27,92.6%,92.6%,5.61,A- (3.88),A- (3.81)
+694,"Butler, Elizabeth Annette",EDS 129C - Intro/Teach&Learn (Secondary) (A),SP13,37,28,82.1%,78.6%,6.0,B+ (3.64),B+ (3.51)
+695,"Scharton, Susan Michelle",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),SP13,51,17,100.0%,94.1%,7.5,A- (3.94),B+ (3.67)
+696,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),SP13,40,20,100.0%,100.0%,6.82,A- (3.72),A- (3.93)
+697,"Barraugh, Andrea Lynn",EDS 137 - Intro/Discipl/Specific Teachng (A),SP13,13,5,100.0%,100.0%,5.3,A- (3.75),
+698,"Jones, Makeba",EDS 137 - Intro/Discipl/Specific Teachng (B),SP13,7,4,100.0%,100.0%,15.5,A (4.00),
+699,"Chung, Luz Marina",EDS 138 - Intro/Acad Tutor/Chartr School (A),SP13,15,6,83.3%,83.3%,6.5,A- (3.80),
+700,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP13,8,3,100.0%,100.0%,0.5,A (4.00),
+701,"Czworkowski, John",EDS 31 - Introductn to Teaching Science (A),SP13,12,3,66.7%,100.0%,3.83,B+ (3.33),
+702,"Chung, Luz Marina",EDS 39 - Prac/Sci&MathTeching/Learning (A),SP13,13,6,100.0%,100.0%,5.83,,
+703,"Wishard Guerra, Alison G.",EDS 115 - Cog Development & Education (A),WI13,42,26,92.3%,100.0%,3.35,A- (3.85),A- (3.81)
+704,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),WI13,31,14,92.9%,92.9%,3.42,A (4.00),
+705,"Pollock, Mica","EDS 117 - Language, Culture & Education (A)",WI13,36,22,86.4%,86.4%,4.14,A- (3.80),A- (3.93)
+706,"Butler, Elizabeth Annette",EDS 118 - Adolescent Devlp & Education (B),WI13,41,20,100.0%,75.0%,5.76,B (3.20),B+ (3.50)
+707,"Munoz Sanchez, Alicia",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A),WI13,28,11,90.9%,81.8%,4.7,B+ (3.36),B- (2.86)
+708,"Jones, Makeba",EDS 126 - Social Organization/Education (A),WI13,34,20,90.0%,95.0%,3.5,A- (3.75),B+ (3.67)
+709,"Bresser, Bernard George",EDS 128A - Intro/Teaching&Learning (Elem) (A),WI13,33,23,100.0%,100.0%,6.76,A- (3.95),A- (3.93)
+710,"Sewall, Marcia De Vore",EDS 129B - Intro/Teach&Learn (Secondary) (B),WI13,36,29,93.1%,96.6%,4.29,A- (3.93),A- (3.92)
+711,"Jones, Makeba",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),WI13,48,24,100.0%,100.0%,5.8,A- (3.91),A- (3.85)
+712,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),WI13,33,17,94.1%,100.0%,7.21,A- (3.79),A- (3.87)
+713,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),WI13,8,8,100.0%,100.0%,6.0,A- (3.88),
+714,"Holtzman, Caren Lynn",EDS 137 - Intro/Discipl/Specific Teachng (B),WI13,10,3,100.0%,100.0%,3.17,B+ (3.50),
+715,"Chung, Luz Marina",EDS 140 - Issues in PreK-12 Education (A),WI13,11,6,100.0%,100.0%,9.7,B (3.20),
+716,"Stevens, Laura Jeanette",EDS 30 - Introduction to Teaching Math (A),WI13,7,3,100.0%,100.0%,1.83,A (4.00),
+717,"Chung, Luz Marina",EDS 39 - Prac/Sci&MathTeching/Learning (A),WI13,17,7,85.7%,85.7%,7.64,A (4.00),
+718,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),FA12,18,11,88.9%,100.0%,2.5,A (4.00),
+719,"Chung, Luz Marina","EDS 117 - Language, Culture & Education (A)",FA12,70,31,86.2%,93.1%,6.71,A- (3.76),B+ (3.64)
+720,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",FA12,48,32,90.3%,90.3%,4.5,A- (3.87),B+ (3.62)
+721,"Binder, Amy",EDS 126 - Social Organization/Education (A),FA12,42,19,100.0%,83.3%,5.91,B+ (3.56),B- (2.76)
+722,"Millstone, Rachel Diana",EDS 129A - Intro/Teach&Learn (Secondary) (A),FA12,32,17,100.0%,100.0%,7.44,A- (3.82),A- (3.77)
+723,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),FA12,49,41,97.5%,100.0%,6.71,A- (3.90),A- (3.88)
+724,"Wishard Guerra, Alison G.",EDS 131 - Intro/Early Childhood Educatn (A),FA12,26,13,100.0%,88.9%,9.17,A (4.00),B+ (3.52)
+725,"Jones, Makeba",EDS 136 - Intro/Acad Tut/Second Schl Std (A),FA12,21,12,100.0%,100.0%,6.5,A (4.00),A- (3.95)
+726,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),FA12,16,16,93.8%,93.8%,4.75,A- (3.81),
+727,"Wilson, Judy C",EDS 115 - Cog Development & Education (A),S312,21,8,100.0%,87.5%,6.5,A- (3.71),B+ (3.67)
+728,"Kravatz, Tanya Devra","EDS 117 - Language, Culture & Education (A)",S312,30,7,71.4%,85.7%,7.64,A- (3.86),B+ (3.33)
+729,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",S312,28,7,85.7%,28.6%,9.64,A- (3.86),A (4.00)
+730,"Holtzman, Caren Lynn",EDS 128A - Intro/Teaching&Learning (Elem) (A),S312,22,10,100.0%,100.0%,9.61,A- (3.88),A (4.00)
+731,"Allen, Bobbie M",EDS 128B - Intro/Teaching&Learning (Elem) (A),S312,22,7,85.7%,28.6%,9.36,A (4.00),A (4.00)
+732,"Goodman, Jeremy Scott",EDS 20S - Intro/Principles of Learning (A),S212,146,63,88.7%,98.4%,9.39,B (3.20),
+733,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),SP12,35,19,100.0%,100.0%,2.83,A (4.00),
+734,"Datnow, Amanda Lee","EDS 117 - Language, Culture & Education (A)",SP12,73,40,89.7%,97.4%,4.76,B+ (3.61),B+ (3.32)
+735,"Datnow, Amanda Lee","EDS 117 - Language, Culture & Education (A)",SP12,62,22,95.5%,100.0%,4.79,B+ (3.65),B+ (3.32)
+736,"Holtzman, Caren Lynn",EDS 128B - Intro/Teaching&Learning (Elem) (A),SP12,42,37,97.3%,97.3%,5.96,A- (3.81),A- (3.73)
+737,"Butler, Elizabeth Annette",EDS 129C - Intro/Teach&Learn (Secondary) (A),SP12,43,40,80.0%,57.5%,9.85,B+ (3.35),B+ (3.40)
+738,"Bresser, Bernard George",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),SP12,63,25,100.0%,92.0%,7.38,A- (3.84),A- (3.77)
+739,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),SP12,52,25,96.0%,96.0%,6.5,A- (3.91),A- (3.77)
+740,"Barraugh, Andrea Lynn",EDS 137 - Intro/Discipl/Specific Teachng (A),SP12,19,7,85.7%,100.0%,7.64,B+ (3.67),
+741,"Chung, Luz Marina",EDS 138 - Intro/Acad Tutor/Chartr School (A),SP12,49,19,89.5%,94.7%,6.83,A- (3.83),A- (3.77)
+742,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP12,17,10,90.0%,100.0%,2.7,A (4.00),
+743,"Czworkowski, John",EDS 31 - Introductn to Teaching Science (A),SP12,10,5,80.0%,100.0%,2.5,B+ (3.40),
+744,"Chung, Luz Marina",EDS 39 - Prac/Sci&MathTeching/Learning (A),SP12,9,3,66.7%,100.0%,2.5,,
+745,"Ramsey, Claire",EDS 115 - Cog Development & Education (A),WI12,67,40,74.4%,77.5%,3.1,A- (3.87),A- (3.95)
+746,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),WI12,26,17,100.0%,100.0%,3.79,,
+747,"Dietrich, Lisa Christine",EDS 118 - Adolescent Devlp & Education (A),WI12,54,29,93.1%,96.6%,4.36,A- (3.70),B+ (3.63)
+748,"Munoz Sanchez, Alicia",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A),WI12,36,17,88.2%,94.1%,4.74,A- (3.73),B (3.19)
+749,"Munoz Sanchez, Alicia",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A),WI12,76,46,100.0%,100.0%,3.11,A- (3.76),B (3.19)
+750,"Harel, Guershon",EDS 121A - Found of Teachg/Learng Math I (A),WI12,31,21,90.5%,71.4%,7.36,B+ (3.40),B- (2.82)
+751,"Czworkowski, John",EDS 122 - Foundn of Teach&Learn Science (A),WI12,13,5,80.0%,80.0%,4.1,A- (3.80),
+752,"Binder, Amy",EDS 126 - Social Organization/Education (A),WI12,39,21,85.7%,81.0%,5.17,B+ (3.67),B+ (3.30)
+753,"Binder, Amy",EDS 126 - Social Organization/Education (A),WI12,26,11,100.0%,90.9%,6.5,A- (3.70),B+ (3.30)
+754,"Barraugh, Andrea Lynn",EDS 128A - Intro/Teaching&Learning (Elem) (A),WI12,50,31,100.0%,100.0%,5.85,A- (3.84),B+ (3.64)
+755,"Sewall, Marcia De Vore",EDS 129B - Intro/Teach&Learn (Secondary) (A),WI12,46,27,100.0%,92.6%,5.83,A- (3.89),B+ (3.66)
+756,"Scharton, Susan Michelle",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),WI12,44,19,100.0%,100.0%,7.45,A- (3.84),A- (3.71)
+757,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),WI12,26,10,100.0%,100.0%,4.9,A (4.00),A- (3.91)
+758,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),WI12,13,13,100.0%,100.0%,6.96,A- (3.92),
+759,"Holtzman, Caren Lynn",EDS 137 - Intro/Discipl/Specific Teachng (B),WI12,12,5,100.0%,100.0%,5.3,A (4.00),
+760,"Chung, Luz Marina",EDS 138 - Intro/Acad Tutor/Chartr School (A),WI12,18,10,100.0%,100.0%,5.3,B+ (3.40),
+761,"Harel, Guershon",EDS 30 - Introduction to Teaching Math (A),WI12,8,5,80.0%,80.0%,3.7,A- (3.75),
+762,"Harel, Guershon",EDS 30 - Introduction to Teaching Math (A),WI12,8,5,80.0%,50.0%,8.0,B (3.20),
+763,"Czworkowski, John",EDS 31 - Introductn to Teaching Science (A),WI12,12,6,100.0%,100.0%,3.5,B+ (3.67),
+764,"Chung, Luz Marina",EDS 39 - Prac/Sci&MathTeching/Learning (A),WI12,19,13,100.0%,100.0%,4.19,,
+765,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),FA11,18,7,100.0%,100.0%,6.79,A (4.00),
+766,"Chung, Luz Marina","EDS 117 - Language, Culture & Education (A)",FA11,79,42,88.1%,97.6%,6.5,A- (3.79),B+ (3.57)
+767,"Chung, Luz Marina","EDS 117 - Language, Culture & Education (A)",FA11,59,37,89.2%,94.6%,4.82,A- (3.76),B+ (3.57)
+768,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (B)",FA11,72,43,78.6%,62.8%,4.5,A- (3.87),B+ (3.43)
+769,"Millstone, Rachel Diana",EDS 129A - Intro/Teach&Learn (Secondary) (A),FA11,39,24,100.0%,100.0%,7.75,A- (3.88),A- (3.75)
+770,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),FA11,72,54,98.1%,98.1%,6.02,A- (3.86),A- (3.92)
+771,"Butler, Elizabeth Annette",EDS 136 - Intro/Acad Tut/Second Schl Std (A),FA11,32,31,74.2%,71.0%,8.82,B+ (3.38),B+ (3.59)
+772,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),FA11,21,19,100.0%,100.0%,7.13,A- (3.84),A (4.00)
+773,"Wishard Guerra, Alison G.",EDS 115 - Cog Development & Education (A),S311,27,11,90.9%,81.8%,6.32,A- (3.91),A- (3.73)
+774,"Kravatz, Tanya Devra","EDS 117 - Language, Culture & Education (A)",S311,12,3,100.0%,100.0%,4.5,B+ (3.67),
+775,"Kravatz, Tanya Devra","EDS 117 - Language, Culture & Education (A)",S311,23,8,50.0%,62.5%,7.75,A (4.00),B (3.13)
+776,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",S311,30,10,90.0%,66.7%,8.3,A (4.00),A- (3.78)
+777,"Holtzman, Caren Lynn",EDS 128A - Intro/Teaching&Learning (Elem) (A),S311,24,10,100.0%,100.0%,8.5,A- (3.90),A (4.00)
+778,"Allen, Bobbie M",EDS 128B - Intro/Teaching&Learning (Elem) (A),S311,25,10,100.0%,80.0%,7.9,A (4.00),A (4.00)
+779,"Goodman, Jeremy Scott",EDS 20S - Intro/Principles of Learning (A),S211,140,51,92.2%,100.0%,8.5,B (3.29),
+780,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),SP11,26,11,100.0%,100.0%,3.77,,
+781,"Datnow, Amanda Lee","EDS 117 - Language, Culture & Education (A)",SP11,139,72,95.8%,98.6%,4.94,B+ (3.57),B+ (3.40)
+782,"Stevens, Laura Jeanne",EDS 121B - Found of Teachg/Learng Math II (A),SP11,28,21,100.0%,100.0%,5.83,,B+ (3.30)
+783,"Czworkowski, John",EDS 123 - Capstone Sem in Science Eductn (A),SP11,8,5,100.0%,100.0%,3.7,,
+784,"Holtzman, Caren Lynn",EDS 128B - Intro/Teaching&Learning (Elem) (A),SP11,38,30,100.0%,100.0%,6.23,A- (3.87),A- (3.83)
+785,"Halter, Christopher P.",EDS 129A - Intro/Teach&Learn (Secondary) (A),SP11,5,4,100.0%,100.0%,7.5,A (4.00),
+786,"Butler, Elizabeth Annette",EDS 129C - Intro/Teach&Learn (Secondary) (A),SP11,53,51,94.0%,82.4%,7.01,B+ (3.53),B+ (3.55)
+787,"Bresser, Bernard George",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),SP11,75,40,87.5%,95.0%,6.7,A- (3.90),A- (3.77)
+788,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),SP11,54,39,94.7%,100.0%,6.45,A- (3.78),A- (3.79)
+789,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),SP11,18,18,100.0%,100.0%,7.61,A- (3.94),
+790,"Chung, Luz Marina",EDS 138 - Intro/Acad Tutor/Chartr School (A),SP11,44,21,70.0%,90.0%,6.5,A- (3.70),A- (3.73)
+791,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP11,28,15,100.0%,100.0%,2.37,,
+792,"Czworkowski, John",EDS 31 - Introductn to Teaching Science (A),SP11,15,10,100.0%,100.0%,3.1,,
+793,"Chung, Luz Marina",EDS 39 - Prac/Sci&MathTeching/Learning (A),SP11,16,10,100.0%,100.0%,4.7,A (4.00),
+794,"Balzano, Gerald J.",EDS 114 - Cogn Develp&Intractv Compt Env (A),WI11,6,3,66.7%,66.7%,6.5,B (3.00),
+795,"Ramsey, Claire",EDS 115 - Cog Development & Education (A),WI11,64,35,88.6%,88.6%,2.39,A- (3.91),A- (3.98)
+796,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),WI11,26,17,100.0%,93.8%,2.88,,
+797,"Dietrich, Lisa Christine",EDS 118 - Adolescent Devlp & Education (A),WI11,36,23,95.5%,100.0%,5.02,A- (3.91),B+ (3.52)
+798,"Munoz Sanchez, Alicia",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (B),WI11,70,44,97.7%,97.7%,2.83,A- (3.77),B (3.22)
+799,"Munoz Sanchez, Alicia",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (B),WI11,22,11,90.9%,90.9%,4.7,B+ (3.64),B (3.22)
+800,"Stevens, Laura Jeanne",EDS 121A - Found of Teachg/Learng Math I (A),WI11,42,25,100.0%,100.0%,3.86,,B (3.23)
+801,"Czworkowski, John",EDS 122 - Foundn of Teach&Learn Science (B),WI11,13,7,100.0%,100.0%,2.79,,
+802,"Jacob-Almeida, Rachel",EDS 126 - Social Organization/Education (A),WI11,99,53,80.8%,68.6%,5.86,,B+ (3.38)
+803,"Forbes, Cheryl A",EDS 128A - Intro/Teaching&Learning (Elem) (A),WI11,43,31,100.0%,100.0%,7.02,A- (3.77),A- (3.71)
+804,"Sewall, Marcia De Vore",EDS 129B - Intro/Teach&Learn (Secondary) (A),WI11,55,40,97.5%,92.5%,5.3,A- (3.92),A- (3.89)
+805,"Scharton, Susan Michelle",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),WI11,62,29,89.7%,93.1%,8.22,A- (3.85),A- (3.77)
+806,"Wishard Guerra, Alison G.",EDS 131 - Intro/Early Childhood Educatn (A),WI11,30,16,100.0%,87.5%,9.38,A (4.00),A- (3.79)
+807,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),WI11,50,42,88.1%,95.2%,8.21,A- (3.87),A- (3.91)
+808,"Whiteside, Linda Sue",EDS 137 - Intro/Discipl/Specific Teachng (A),WI11,22,8,87.5%,87.5%,5.5,A- (3.71),B+ (3.37)
+809,"Chung, Luz Marina",EDS 138 - Intro/Acad Tutor/Chartr School (A),WI11,29,15,86.7%,100.0%,7.43,A- (3.71),B+ (3.33)
+810,"Harel, Guershon",EDS 30 - Introduction to Teaching Math (A),WI11,19,14,76.9%,69.2%,2.5,,
+811,"Czworkowski, John",EDS 31 - Introductn to Teaching Science (A),WI11,18,8,87.5%,100.0%,3.5,,
+812,"Chung, Luz Marina",EDS 39 - Prac/Sci&MathTeching/Learning (A),WI11,23,10,90.0%,90.0%,3.3,A (4.00),
+813,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),FA10,14,10,100.0%,100.0%,4.3,,
+814,"Chung, Luz Marina","EDS 117 - Language, Culture & Education (A)",FA10,132,64,98.4%,100.0%,5.56,B+ (3.68),A- (3.70)
+815,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",FA10,64,35,88.6%,62.9%,4.21,A- (3.86),B+ (3.49)
+816,"Millstone, Rachel Diana",EDS 129A - Intro/Teach&Learn (Secondary) (A),FA10,38,21,81.0%,100.0%,8.12,A- (3.90),B+ (3.68)
+817,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),FA10,88,41,100.0%,97.6%,6.6,A- (3.92),A- (3.88)
+818,"Butler, Elizabeth Annette",EDS 136 - Intro/Acad Tut/Second Schl Std (A),FA10,50,46,80.4%,78.3%,7.08,B+ (3.56),B+ (3.48)
+819,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),FA10,24,21,100.0%,100.0%,0.98,,
+820,"Burrows-Goodwill, Shivani L",EDS 115 - Cog Development & Education (A),SU10,27,10,80.0%,60.0%,9.9,A (4.00),
+821,"Ong-Dean, Colin William","EDS 117 - Language, Culture & Education (A)",SU10,43,18,66.7%,50.0%,7.83,,
+822,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",SU10,27,11,100.0%,72.7%,10.14,A (4.00),
+823,"Holtzman, Caren Lynn",EDS 128A - Intro/Teaching&Learning (Elem) (A),SU10,20,9,100.0%,100.0%,13.61,A (4.00),
+824,"Allen, Bobbie M",EDS 128B - Intro/Teaching&Learning (Elem) (A),SU10,21,9,88.9%,77.8%,10.06,A (4.00),
+825,"Goodman, Jeremy Scott",EDS 20S - Intro/Principles of Learning (A),SU10,140,76,98.7%,97.4%,9.86,B (3.19),
+826,"Deak, Gedeon O.",EDS 115 - Cog Development & Education (A),SP10,83,74,83.6%,80.6%,4.96,B+ (3.30),B (3.02)
+827,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),SP10,39,22,95.2%,100.0%,3.14,,
+828,"Mehan, Hugh B.",EDS 126 - Social Organization/Education (A),SP10,108,67,94.0%,98.5%,4.44,,B+ (3.32)
+829,"Holtzman, Caren Lynn",EDS 128B - Intro/Teaching&Learning (Elem) (A),SP10,58,42,100.0%,97.6%,5.72,A- (3.90),A- (3.76)
+830,"Halter, Christopher P.",EDS 129A - Intro/Teach&Learn (Secondary) (A),SP10,6,4,100.0%,100.0%,4.0,A (4.00),
+831,"Butler, Elizabeth Annette",EDS 129C - Intro/Teach&Learn (Secondary) (A),SP10,51,50,100.0%,93.8%,5.9,B+ (3.68),A- (3.76)
+832,"Bresser, Bernard George",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),SP10,76,47,91.3%,100.0%,7.31,A- (3.78),A- (3.81)
+833,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),SP10,49,27,85.2%,100.0%,8.2,A- (3.84),B+ (3.61)
+834,"Chung, Luz Marina",EDS 138 - Intro/Acad Tutor/Chartr School (A),SP10,51,42,85.7%,95.2%,6.74,A- (3.78),A- (3.90)
+835,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP10,28,19,94.7%,100.0%,2.29,,
+836,"Chung, Luz Marina",EDS 39 - Prac/Sci&MathTeching/Learning (A),SP10,17,13,100.0%,100.0%,6.96,A (4.00),
+837,"Balzano, Gerald J.",EDS 114 - Cogn Develp&Intractv Compt Env (A),WI10,17,9,44.4%,44.4%,3.83,B (3.22),
+838,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),WI10,24,13,100.0%,100.0%,3.42,A (4.00),
+839,"Datnow, Amanda Lee","EDS 117 - Language, Culture & Education (A)",WI10,139,72,90.3%,98.6%,4.28,B+ (3.61),B+ (3.37)
+840,"Dietrich, Lisa Christine",EDS 118 - Adolescent Devlp & Education (A),WI10,48,25,100.0%,92.0%,5.22,A- (3.79),B+ (3.56)
+841,"Munoz Sanchez, Alicia",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A),WI10,90,54,90.7%,96.3%,3.46,,B (3.07)
+842,"Czworkowski, John",EDS 122 - Foundn of Teach&Learn Science (A),WI10,13,6,100.0%,100.0%,4.5,,
+843,"Forbes, Cheryl A",EDS 128A - Intro/Teaching&Learning (Elem) (A),WI10,70,32,93.5%,93.5%,4.76,B+ (3.65),A- (3.81)
+844,"Sewall, Marcia De Vore",EDS 129B - Intro/Teach&Learn (Secondary) (A),WI10,51,30,100.0%,93.3%,4.77,A- (3.97),A- (3.89)
+845,"Scharton, Susan Michelle",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),WI10,69,32,96.9%,100.0%,5.75,A (4.00),B+ (3.69)
+846,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),WI10,62,22,86.4%,100.0%,5.95,A- (3.80),B+ (3.53)
+847,"Long, Pamela Kay",EDS 137 - Intro/Discipl/Specific Teachng (A),WI10,20,11,100.0%,100.0%,4.14,A- (3.89),A- (3.85)
+848,"Butler, Elizabeth Annette",EDS 138 - Intro/Acad Tutor/Chartr School (A),WI10,29,19,63.2%,63.2%,8.61,B+ (3.31),B+ (3.38)
+849,"Harel, Guershon",EDS 30 - Introduction to Teaching Math (A),WI10,15,10,100.0%,90.0%,3.1,,
+850,"Czworkowski, John",EDS 31 - Introductn to Teaching Science (A),WI10,15,8,87.5%,100.0%,3.93,,
+851,"Mehan, Hugh B.","EDS 117 - Language, Culture & Education (A)",FA09,118,82,88.9%,93.8%,4.5,,B (3.12)
+852,"Binder, Amy",EDS 126 - Social Organization/Education (A),FA09,56,38,94.6%,94.7%,4.29,,B (3.19)
+853,"Millstone, Rachel",EDS 129A - Intro/Teach&Learn (Secondary) (A),FA09,44,38,100.0%,100.0%,4.55,A- (3.76),B+ (3.64)
+854,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),FA09,62,46,97.8%,100.0%,5.41,A- (3.91),A- (3.77)
+855,"Wishard Guerra, Alison G.",EDS 131 - Intro/Early Childhood Educatn (A),FA09,22,18,100.0%,88.9%,4.28,A- (3.76),B+ (3.56)
+856,"Forbes, Cheryl A",EDS 115 - Cog Development & Education (A),SU09,20,12,91.7%,100.0%,6.33,A- (3.82),
+857,"Forbes, Cheryl A",EDS 115 - Cog Development & Education (A),SU09,33,17,88.2%,82.4%,4.5,A- (3.88),
+858,"Jacob-Almeida, Rachel","EDS 117 - Language, Culture & Education (A)",SU09,46,28,75.0%,57.1%,8.93,,
+859,"Jacob-Almeida, Rachel","EDS 117 - Language, Culture & Education (A)",SU09,46,28,75.0%,57.1%,8.93,,
+860,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",SU09,11,6,66.7%,50.0%,6.17,A- (3.80),
+861,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",SU09,20,15,66.7%,53.3%,10.37,A- (3.93),
+862,"Holtzman, Caren Lynn",EDS 128A - Intro/Teaching&Learning (Elem) (A),SU09,23,11,100.0%,100.0%,7.59,A (4.00),
+863,"Allen, Bobbie M",EDS 128B - Intro/Teaching&Learning (Elem) (A),SU09,23,16,93.8%,68.8%,10.0,A- (3.93),
+864,"Goodman, Jeremy Scott",EDS 20S - Intro/Principles of Learning (A),SU09,119,52,94.2%,96.2%,7.92,B (3.24),
+865,"Deak, Gedeon O.",EDS 115 - Cog Development & Education (A),SP09,61,42,85.4%,90.0%,3.33,B+ (3.49),B (3.26)
+866,"Goodman, Jeremy Scott",EDS 116 - Psych/Teach&Struc/Information (A),SP09,29,11,100.0%,100.0%,4.5,,
+867,"Datnow, Amanda Lee","EDS 117 - Language, Culture & Education (A)",SP09,133,76,93.1%,100.0%,4.37,B+ (3.49),B+ (3.60)
+868,"Binder, Amy",EDS 126 - Social Organization/Education (A),SP09,69,43,90.7%,93.0%,4.06,,B (3.18)
+869,"Holtzman, Caren Lynn",EDS 128B - Intro/Teaching&Learning (Elem) (A),SP09,40,34,100.0%,96.9%,4.91,A- (3.94),A- (3.73)
+870,"Blum, Brianne M.",EDS 129A - Intro/Teach&Learn (Secondary) (A),SP09,15,14,100.0%,100.0%,4.07,A- (3.93),
+871,"Halter, Christopher P.",EDS 129A - Intro/Teach&Learn (Secondary) (A),SP09,15,14,100.0%,100.0%,4.07,A- (3.93),
+872,"Halter, Christopher P.",EDS 129C - Intro/Teach&Learn (Secondary) (A),SP09,38,35,97.1%,91.4%,5.13,A- (3.88),A- (3.83)
+873,"Bresser, Bernard George",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),SP09,60,46,93.5%,91.3%,4.46,A- (3.79),A- (3.74)
+874,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),SP09,45,36,100.0%,100.0%,5.15,A- (3.85),A- (3.75)
+875,"Chung, Luz Marina",EDS 138 - Intro/Acad Tutor/Chartr School (A),SP09,47,39,94.7%,97.4%,6.04,A- (3.82),A- (3.76)
+876,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP09,24,22,100.0%,100.0%,1.41,,A- (3.94)
+877,"Czworkowski, John",EDS 31 - Introductn to Teaching Science (A),SP09,13,12,100.0%,100.0%,3.0,,
+878,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),WI09,31,25,96.0%,96.0%,4.9,A (4.00),
+879,"Goodall, Grant Todd",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A),WI09,67,25,92.0%,92.0%,2.9,,B- (2.94)
+880,"Stevens, Laura Jeanne",EDS 121A - Found of Teachg/Learng Math I (A),WI09,23,19,94.4%,100.0%,4.08,,B+ (3.35)
+881,"Mehan, Hugh B.",EDS 126 - Social Organization/Education (A),WI09,118,88,94.2%,97.7%,4.24,,B (3.03)
+882,"Forbes, Cheryl A",EDS 128A - Intro/Teaching&Learning (Elem) (A),WI09,51,42,95.0%,90.2%,4.64,A- (3.80),A- (3.81)
+883,"Sewall, Marcia De Vore",EDS 129B - Intro/Teach&Learn (Secondary) (A),WI09,40,35,100.0%,97.1%,4.61,A- (3.91),A- (3.78)
+884,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),WI09,67,61,93.1%,98.3%,4.77,A- (3.98),A- (3.89)
+885,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),WI09,35,29,89.7%,100.0%,5.05,A- (3.74),A- (3.84)
+886,"Chung, Luz Marina",EDS 138 - Intro/Acad Tutor/Chartr School (A),WI09,36,29,96.6%,100.0%,3.53,A- (3.92),A- (3.99)
+887,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),WI09,24,17,100.0%,100.0%,2.38,,B+ (3.57)
+888,"Czworkowski, John",EDS 31 - Introductn to Teaching Science (A),WI09,18,16,100.0%,93.3%,2.88,,
+889,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),FA08,15,14,100.0%,100.0%,2.79,A (4.00),
+890,"Mehan, Hugh B.","EDS 117 - Language, Culture & Education (A)",FA08,107,81,92.6%,91.4%,4.33,,B- (2.89)
+891,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",FA08,49,37,88.6%,86.1%,3.53,A- (3.89),B+ (3.67)
+892,"Millstone, Rachel",EDS 129A - Intro/Teach&Learn (Secondary) (A),FA08,37,37,100.0%,100.0%,5.67,A- (3.92),A- (3.90)
+893,"Scharton, Susan Michelle",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),FA08,65,50,96.0%,94.0%,4.86,A- (3.78),A- (3.76)
+894,"Holtzman, Caren Lynn",EDS 134 - Intro/Literacy &Numeracy Tutor (A),FA08,46,39,97.4%,100.0%,5.27,B+ (3.62),B+ (3.70)
+895,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),FA08,54,41,97.4%,100.0%,5.33,A- (3.97),A- (3.82)
+896,"Ramsey, Claire",EDS 115 - Cog Development & Education (A),SU08,26,19,88.9%,83.3%,3.97,A- (3.94),
+897,"Jacob-Almeida, Rachel","EDS 117 - Language, Culture & Education (A)",SU08,20,13,100.0%,100.0%,7.27,A- (3.82),
+898,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",SU08,23,19,100.0%,94.7%,7.28,A- (3.94),
+899,"Allen, Bobbie M",EDS 128B - Intro/Teaching&Learning (Elem) (A),SU08,14,14,100.0%,85.7%,9.93,A- (3.92),
+900,"Deak, Gedeon O.",EDS 115 - Cog Development & Education (A),SP08,54,34,82.4%,67.6%,4.03,B (3.21),C+ (2.67)
+901,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),SP08,30,23,95.7%,95.7%,2.41,A (4.00),
+902,"Ramsey, Claire","EDS 117 - Language, Culture & Education (A)",SP08,48,36,94.1%,94.1%,4.14,A- (3.77),A- (3.78)
+903,"Dietrich, Lisa Christine",EDS 118 - Adolescent Devlp & Education (A),SP08,51,39,94.6%,97.3%,3.97,B+ (3.53),B+ (3.32)
+904,"Holtzman, Caren Lynn",EDS 128B - Intro/Teaching&Learning (Elem) (A),SP08,51,37,100.0%,94.3%,5.64,A (4.00),B+ (3.55)
+905,"Halter, Christopher P.",EDS 129C - Intro/Teach&Learn (Secondary) (A),SP08,37,27,100.0%,100.0%,4.43,A- (3.85),A- (3.81)
+906,"Bresser, Bernard George",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),SP08,69,46,91.1%,100.0%,5.92,A- (3.93),A- (3.78)
+907,"Wishard Guerra, Alison G.",EDS 131 - Intro/Early Childhood Educatn (A),SP08,32,24,83.3%,75.0%,6.5,A- (3.79),A- (3.75)
+908,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),SP08,46,36,97.1%,100.0%,5.39,A- (3.88),A- (3.78)
+909,"Chung, Luz Marina",EDS 138 - Intro/Acad Tutor/Preuss School (A),SP08,30,25,100.0%,100.0%,4.5,A- (3.95),A- (3.88)
+910,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP08,26,17,100.0%,100.0%,1.21,,A- (3.95)
+911,"Czworkowski, John",EDS 31 - Introductn to Teaching Science (A),SP08,9,9,88.9%,100.0%,2.06,,
+912,"Balzano, Gerald J.",EDS 114 - Cogn Develp&Intractv Compt Env (A),WI08,20,18,44.4%,88.9%,5.94,B (3.18),B+ (3.49)
+913,"Velasquez, Patrick",EDS 116 - Psych/Teach&Struc/Information (A),WI08,32,29,100.0%,100.0%,3.12,A (4.00),
+914,"Goodall, Grant Todd",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A),WI08,65,37,100.0%,97.2%,3.44,,B- (2.78)
+915,"Harel, Guershon",EDS 121A - Found of Teachg/Learng Math I (A),WI08,19,18,88.2%,100.0%,4.61,,
+916,"Mehan, Hugh B.",EDS 126 - Social Organization/Education (A),WI08,120,80,92.3%,97.4%,4.38,,B- (2.92)
+917,"Bresser, Bernard George",EDS 128A - Intro/Teaching&Learning (Elem) (A),WI08,55,46,97.8%,97.7%,5.12,A- (3.89),A- (3.87)
+918,"Sewall, Marcia De Vore",EDS 129B - Intro/Teach&Learn (Secondary) (A),WI08,37,28,96.3%,76.9%,4.57,A- (3.81),A- (3.83)
+919,"Holtzman, Caren Lynn",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),WI08,47,37,89.2%,97.3%,5.85,A- (3.89),A- (3.89)
+920,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),WI08,33,23,91.3%,100.0%,6.93,A- (3.95),B+ (3.64)
+921,"Naismith, Campbell James",EDS 138 - Intro/Acad Tutor/Preuss School (A),WI08,22,20,90.0%,85.0%,2.7,A- (3.75),B+ (3.61)
+922,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),WI08,25,23,100.0%,100.0%,2.33,,A (4.00)
+923,"Czworkowski, John",EDS 31 - Introductn to Teaching Science (A),WI08,11,11,100.0%,100.0%,3.05,,
+924,"Mehan, Hugh B.","EDS 117 - Language,Culture & Education (A)",FA07,117,59,96.6%,98.3%,3.18,,B (3.30)
+925,"Allen, Bobbie M","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A)",FA07,53,45,91.1%,88.6%,4.54,A- (3.74),A- (3.84)
+926,"Binder, Amy",EDS 126 - Social Organization/Education (A),FA07,93,70,91.2%,89.7%,3.73,,B (3.07)
+927,"Millstone, Rachel",EDS 129A - Intro/Teach&Learn (Secondary) (A),FA07,31,29,100.0%,100.0%,8.14,A- (3.70),A- (3.78)
+928,"Scharton, Susan Michelle",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A),FA07,40,35,100.0%,97.1%,5.19,A- (3.89),A- (3.84)
+929,"Holtzman, Caren Lynn",EDS 134 - Intro/Literacy &Numeracy Tutor (A),FA07,44,33,100.0%,100.0%,5.35,A- (3.88),A- (3.81)
+930,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A),FA07,20,17,100.0%,100.0%,7.0,A- (3.77),B+ (3.55)
+931,"Naismith, Campbell James",EDS 138 - Intro/Acad Tutor/Preuss School (A),FA07,26,19,94.1%,82.4%,5.91,B+ (3.65),B+ (3.49)
+932,"Nunn, Lisa M.",EDS 126 - Social Organization/Education (B),SU07,27,25,82.6%,83.3%,6.5,A- (3.78),

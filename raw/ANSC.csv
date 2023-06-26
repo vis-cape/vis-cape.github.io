@@ -1,0 +1,479 @@
+,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+0,"Sloane, Julia Kathryn",ANSC 101 - Aging: Culture&Health/Hum Dev (A),SP23,38,12,91.7%,100.0%,3.17,A- (3.75),A- (3.75)
+1,"Stewart, Alexander B",ANSC 105 - Global Health and Inequality (A),SP23,30,20,95.0%,100.0%,3.45,A- (3.79),B+ (3.67)
+2,"Kang, Byung Chu",ANSC 117 - Transgenderisms (A),SP23,15,4,100.0%,100.0%,5.0,B+ (3.50),
+3,"Yeh, Rihan Wen Xin",ANSC 122 - Language in Society (A),SP23,26,8,75.0%,87.5%,5.5,B+ (3.57),B- (2.88)
+4,"Brenner, Suzanne A","ANSC 125 - Gender, Sexuality, & Society (A)",SP23,64,29,100.0%,100.0%,3.6,B+ (3.68),B+ (3.57)
+5,"Stewart, Alexander B",ANSC 137 - Chinese Popular Religion (A),SP23,36,25,92.0%,96.0%,4.02,B+ (3.60),B+ (3.40)
+6,"Kennemore, Amy Michelle",ANSC 142 - Anthropology of Latin America (A),SP23,44,13,100.0%,100.0%,5.5,A- (3.82),A- (3.83)
+7,"Stewart, Alexander B",ANSC 147 - Global Health and Environment (A),SP23,30,14,100.0%,100.0%,4.79,A- (3.79),B+ (3.33)
+8,"Olivas Hernandez, Olga Lid",ANSC 148 - Global Health&Cultrl Diversity (A),SP23,48,9,88.9%,77.8%,4.28,A- (3.88),B+ (3.60)
+9,"Jenkins, Janis A.",ANSC 156 - Mad Films (A),SP23,17,5,100.0%,100.0%,1.7,A- (3.80),
+10,"Brenner, Suzanne A",ANSC 173 - Ethnography in Practice (A),SP23,12,7,100.0%,100.0%,3.07,A- (3.71),
+11,"Pedersen, David",ANSC 177 - Anthrohistory: Past/Future (A),SP23,13,7,100.0%,100.0%,3.36,A- (3.71),
+12,"Katz, Hazel",ANSC 186 - Gender and Incarceration (A),SP23,24,17,100.0%,100.0%,3.56,A (4.00),
+13,"Bialecki, Jon Anthony",ANSC 124 - Cultural Anthropology (A),WI23,29,13,83.3%,100.0%,3.5,B+ (3.40),B+ (3.46)
+14,"Kennemore, Amy Michelle",ANSC 135 - Indigenous Peoples/Latin Amer. (A),WI23,60,14,100.0%,100.0%,5.27,A- (3.83),B+ (3.63)
+15,"Kang, Byung Chu",ANSC 146 - Global Health Persp/HIV (A),WI23,45,22,81.8%,77.3%,3.23,A- (3.82),B+ (3.67)
+16,"Walkover, Lillian B",ANSC 148 - Global Health&Cultrl Diversity (A),WI23,25,16,87.5%,87.5%,3.38,B+ (3.60),B (3.17)
+17,"Sloane, Julia Kathryn",ANSC 150 - Culture and Mental Health (A),WI23,29,10,90.0%,90.0%,4.1,B+ (3.50),B+ (3.41)
+18,"Brenner, Suzanne A",ANSC 154 - Gender and Religion (A),WI23,11,7,100.0%,100.0%,6.5,A- (3.71),
+19,"Stewart, Alexander B",ANSC 164 - Intro to Medical Anthropology (A),WI23,25,17,100.0%,100.0%,4.03,B+ (3.41),B (3.03)
+20,"Hankins, Joseph D.",ANSC 180 - Capitalism & Gender (A),WI23,24,11,100.0%,100.0%,4.32,A- (3.91),A- (3.87)
+21,"Fortier, Jana","ANSC 184 - Food, Culture, and Society (A)",WI23,23,5,100.0%,75.0%,4.5,A (4.00),B (3.21)
+22,"Jassal, Aftab",ANSC 188 - Cultures of Healing (A),WI23,36,10,100.0%,100.0%,4.72,A- (3.89),A- (3.83)
+23,"Jassal, Aftab",ANSC 190 - Yoga Practices (A),WI23,34,12,81.8%,90.9%,4.68,A- (3.80),B+ (3.64)
+24,"Yeh, Rihan Wen Xin",ANSC 104 - The US-Mexico Border (A),FA22,42,10,90.0%,100.0%,5.9,B+ (3.63),C- (1.70)
+25,"Olivas Hernandez, Olga Lid",ANSC 105 - Global Health and Inequality (A),FA22,41,14,92.3%,92.3%,3.27,A- (3.75),B+ (3.70)
+26,"Jassal, Aftab",ANSC 120 - Religion and Culture (A),FA22,38,21,90.5%,85.0%,3.93,B+ (3.60),A (4.00)
+27,"Sloane, Julia Kathryn",ANSC 121 - Psychological Anthropology (A),FA22,31,8,100.0%,100.0%,3.25,B+ (3.63),B+ (3.55)
+28,"Wilson, Brenda K",ANSC 148 - Global Health&Cultrl Diversity (A),FA22,31,23,82.6%,78.3%,4.33,B (3.22),B+ (3.33)
+29,"Fortier, Jana",ANSC 169 - Culture & Envr/Resrch Sem/Prac (A),FA22,19,4,75.0%,75.0%,6.5,A (4.00),
+30,"Pedersen, David",ANSC 175 - Beyond Capitalism (A),FA22,36,8,85.7%,100.0%,4.21,A- (3.71),A- (3.87)
+31,"Bialecki, Jon Anthony",ANSC 120 - Religion and Culture (A),S222,19,6,100.0%,100.0%,7.17,A- (3.83),
+32,"Parish, Steven Martin",ANSC 166 - Film and Culture in Asia (A),S222,71,16,100.0%,100.0%,4.23,A (4.00),A (4.00)
+33,"Jassal, Aftab",ANSC 188 - Cultures of Healing (A),S222,24,16,100.0%,100.0%,4.38,A- (3.94),A- (3.71)
+34,"Berman, Michael David",ANSC 122 - Language in Society (A),S122,30,8,100.0%,100.0%,3.64,A- (3.83),B+ (3.37)
+35,"Lewis, Leslie R",ANSC 190GS - Medicine&Healing in South Asia (A),S122,27,14,100.0%,100.0%,4.21,A (4.00),A- (3.99)
+36,"Sloane, Julia Kathryn",ANSC 101 - Aging: Culture&Health/Hum Dev (A),SP22,35,12,100.0%,100.0%,2.14,A (4.00),A- (3.75)
+37,"Yeh, Rihan Wen Xin",ANSC 104 - The US-Mexico Border (A),SP22,35,14,92.9%,100.0%,6.21,B+ (3.54),B (3.26)
+38,"Berman, Michael David",ANSC 118 - Language and Culture (A),SP22,33,13,92.3%,100.0%,3.88,B+ (3.69),B+ (3.68)
+39,"Stewart, Alexander B",ANSC 137 - Chinese Popular Religion (A),SP22,27,14,92.9%,92.3%,5.07,B+ (3.64),B+ (3.33)
+40,"Postero, Nancy Grey",ANSC 140 - Human Rights II: Contemp Issue (A),SP22,38,3,100.0%,100.0%,5.17,B+ (3.50),B (3.24)
+41,"Kurian, Amrita Achamma",ANSC 144 - Immigrant and Refugee Health (A),SP22,41,20,100.0%,100.0%,3.6,B+ (3.60),B (3.04)
+42,"Stewart, Alexander B",ANSC 147 - Global Health and Environment (A),SP22,35,22,77.3%,81.8%,4.86,B+ (3.50),B+ (3.69)
+43,"Walkover, Lillian B",ANSC 148 - Global Health&Cultrl Diversity (A),SP22,29,20,90.0%,90.0%,4.4,B+ (3.45),B- (2.79)
+44,"Pedersen, David",ANSC 193 - Capitalism and Nature (A),SP22,19,7,100.0%,100.0%,3.83,B+ (3.67),
+45,"Kang, Byung Chu",ANSC 101A - KoreanWaveMedia&CulturalChange (A),WI22,156,58,98.3%,94.8%,3.36,A- (3.91),A- (3.75)
+46,"Pedersen, David",ANSC 107 - Capitalism and Empire (A),WI22,15,4,100.0%,100.0%,3.0,B- (2.75),
+47,"Fortier, Jana",ANSC 114 - Food Cultures of South Asia (A),WI22,14,6,100.0%,100.0%,2.83,A (4.00),
+48,"Sloane, Julia Kathryn",ANSC 121 - Psychological Anthropology (A),WI22,39,16,93.8%,93.3%,3.0,B+ (3.63),A- (3.73)
+49,"Brenner, Suzanne A","ANSC 125 - Gender, Sexuality, & Society (A)",WI22,86,34,100.0%,100.0%,3.97,B+ (3.59),B+ (3.67)
+50,"Petterson, John C.",ANSC 134 - Politics/Environmental Change (A),WI22,16,5,100.0%,100.0%,3.3,A- (3.80),
+51,"Kennemore, Amy Michelle",ANSC 135 - Indigenous Peoples/Latin Amer. (A),WI22,32,9,100.0%,100.0%,4.94,A- (3.78),B+ (3.30)
+52,"Csordas, Thomas J.",ANSC 139 - Native American Health (A),WI22,21,10,88.9%,88.9%,4.1,B+ (3.40),B+ (3.62)
+53,"Hannah, Seth Donal",ANSC 148 - Global Health&Cultrl Diversity (A),WI22,29,10,100.0%,90.0%,6.1,A- (3.90),B+ (3.66)
+54,"Berman, Michael David","ANSC 162 - Language, Identity & Community (A)",WI22,42,22,100.0%,100.0%,3.5,A- (3.86),B+ (3.49)
+55,"Stewart, Alexander B",ANSC 164 - Intro to Medical Anthropology (A),WI22,24,16,93.8%,93.8%,5.88,B+ (3.64),B (3.23)
+56,"Kurian, Amrita Achamma",ANSC 165 - Contemporary South Asia (A),WI22,15,4,100.0%,100.0%,3.5,A (4.00),
+57,"Brenner, Suzanne A",ANSC 173 - Ethnography in Practice (A),WI22,9,7,100.0%,100.0%,3.64,A- (3.71),
+58,"Hankins, Joseph D.",ANSC 186 - Gender and Incarceration (A),WI22,21,5,100.0%,100.0%,4.5,A- (3.80),B- (2.91)
+59,"Yeh, Rihan Wen Xin",ANSC 122 - Language in Society (A),FA21,41,28,82.1%,92.9%,3.29,B+ (3.37),B (3.07)
+60,"Kurian, Amrita Achamma",ANSC 123 - Political Anthropology (A),FA21,16,9,88.9%,88.9%,7.39,B+ (3.56),
+61,"Bialecki, Jon Anthony",ANSC 124 - Cultural Anthropology (A),FA21,26,6,100.0%,80.0%,2.5,B+ (3.67),A- (3.78)
+62,"Hallingstad Obrien, Dylan Jam","ANSC 131 - Language, Law, Social Justice (A)",FA21,28,25,87.0%,100.0%,4.33,A- (3.79),B+ (3.69)
+63,"Varma, Saiba",ANSC 148 - Global Health&Cultrl Diversity (A),FA21,44,32,100.0%,100.0%,4.25,A- (3.78),B+ (3.68)
+64,"Olivas Hernandez, Olga Lid",ANSC 150 - Culture and Mental Health (A),FA21,58,20,77.8%,83.3%,4.5,B (3.24),B- (2.71)
+65,"Pedersen, David",ANSC 175 - Beyond Capitalism (A),FA21,26,8,100.0%,85.7%,3.07,A- (3.71),A- (3.84)
+66,"Olivas Hernandez, Olga Lid",ANSC 105 - Global Health and Inequality (A),S221,11,4,100.0%,100.0%,4.5,A (4.00),
+67,"Postero, Nancy Grey",ANSC 106GS - GH: Indig Med in Latin America (A),S221,10,5,100.0%,100.0%,6.1,A (4.00),
+68,"Postero, Nancy Grey",ANSC 135GS - Indigenous Peoples/Latin Amer. (A),S221,10,5,100.0%,100.0%,5.7,A (4.00),
+69,"Wu, Hua",ANSC 164 - Intro to Medical Anthropology (A),S221,8,4,100.0%,100.0%,6.5,A (4.00),
+70,"Parish, Steven Martin",ANSC 166 - Film and Culture in Asia (A),S221,155,32,100.0%,96.8%,6.05,A- (3.94),A- (3.97)
+71,"Jassal, Aftab",ANSC 188 - Cultures of Healing (A),S221,21,12,100.0%,100.0%,5.41,A- (3.75),A- (3.79)
+72,"Sloane, Julia Kathryn",ANSC 121 - Psychological Anthropology (A),S121,26,4,75.0%,100.0%,4.0,A- (3.75),B+ (3.68)
+73,"Berman, Michael David",ANSC 122 - Language in Society (A),S121,20,11,100.0%,100.0%,3.05,B+ (3.50),B (3.12)
+74,"Csordas, Thomas J.",ANSC 129 - Meaning and Healing (A),S121,4,3,100.0%,100.0%,11.17,A (4.00),
+75,"Jenkins, Janis A.",ANSC 156 - Mad Films (A),S121,21,6,83.3%,66.7%,4.83,B+ (3.33),B+ (3.56)
+76,"Deniz, Dilsa",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),SP21,8,3,100.0%,100.0%,5.17,B+ (3.67),
+77,"Yeh, Rihan Wen Xin",ANSC 104 - The US-Mexico Border (A),SP21,24,10,100.0%,100.0%,4.3,A- (3.78),B (3.02)
+78,"Hicks, Rachel Dorlene Emerine",ANSC 118 - Language and Culture (A),SP21,29,15,100.0%,100.0%,6.21,B+ (3.60),B+ (3.56)
+79,"Stewart, Alexander B",ANSC 137 - Chinese Popular Religion (A),SP21,30,21,90.5%,95.2%,4.31,B+ (3.56),B (3.29)
+80,"Postero, Nancy Grey",ANSC 140 - Human Rights II: Contemp Issue (A),SP21,26,12,100.0%,100.0%,3.77,A- (3.73),B+ (3.32)
+81,"Berman, Michael David","ANSC 141 - Language, Politics & Identity (A)",SP21,25,13,100.0%,100.0%,2.65,A- (3.92),A- (3.78)
+82,"Kennemore, Amy Michelle",ANSC 142 - Anthropology of Latin America (A),SP21,29,17,100.0%,100.0%,4.97,A- (3.87),A (4.00)
+83,"Stewart, Alexander B",ANSC 147 - Global Health and Environment (A),SP21,43,36,100.0%,100.0%,5.13,A- (3.73),A- (3.77)
+84,"Hannah, Seth Donal",ANSC 148 - Global Health&Cultrl Diversity (A),SP21,48,25,96.0%,100.0%,4.18,A- (3.96),A- (3.90)
+85,"Olivas Hernandez, Olga Lid",ANSC 150 - Culture and Mental Health (A),SP21,43,13,84.6%,91.7%,4.5,A- (3.82),A- (3.96)
+86,"Fortier, Jana",ANSC 165 - Contemporary South Asia (A),SP21,17,10,90.0%,77.8%,4.9,B (3.11),
+87,"Parish, Steven Martin",ANSC 183 - Visualizing the Human (A),SP21,19,4,100.0%,100.0%,3.5,A (4.00),
+88,"Garth, Hanna Fitzmaurice",ANSC 185 - #BlackLivesMatter (A),SP21,12,8,100.0%,100.0%,3.0,A- (3.83),
+89,"Jassal, Aftab",ANSC 190 - Yoga Practices (A),SP21,24,19,100.0%,100.0%,4.5,A- (3.75),B+ (3.66)
+90,"Pedersen, David",ANSC 192 - Capitalism and Imperialism (A),SP21,14,6,100.0%,100.0%,3.83,B+ (3.67),
+91,"Sloane, Julia Kathryn",ANSC 101 - Aging: Culture&Health/Hum Dev (A),WI21,34,18,100.0%,100.0%,3.61,A- (3.83),B+ (3.67)
+92,"Olivas Hernandez, Olga Lid",ANSC 106 - GH: Indig Med in Latin America (A),WI21,49,22,95.5%,95.5%,3.59,A- (3.82),A- (3.83)
+93,"Jassal, Aftab",ANSC 120 - Religion and Culture (A),WI21,26,15,93.3%,93.3%,5.79,A- (3.86),B+ (3.55)
+94,"Brenner, Suzanne A","ANSC 125 - Gender, Sexuality, & Society (A)",WI21,72,32,96.8%,100.0%,3.79,B+ (3.59),B+ (3.68)
+95,"Postero, Nancy Grey",ANSC 134 - Politics/Environmental Change (A),WI21,30,14,100.0%,100.0%,5.36,A- (3.83),A- (3.87)
+96,"Kennemore, Amy Michelle",ANSC 135 - Indigenous Peoples/Latin Amer. (A),WI21,29,11,100.0%,100.0%,7.23,A- (3.91),B+ (3.68)
+97,"Saravia, Paula F",ANSC 148 - Global Health&Cultrl Diversity (A),WI21,14,13,92.3%,91.7%,5.58,B+ (3.67),
+98,"Deniz, Dilsa",ANSC 153 - War in Lived Experience (A),WI21,14,7,100.0%,85.7%,4.79,A- (3.86),
+99,"Varma, Saiba",ANSC 155 - Humanitarian Aid (A),WI21,24,11,100.0%,100.0%,4.14,A (4.00),A- (3.90)
+100,"Berman, Michael David","ANSC 162 - Language, Identity & Community (A)",WI21,30,25,100.0%,100.0%,2.82,B+ (3.70),B+ (3.58)
+101,"Brenner, Suzanne A",ANSC 173 - Ethnography in Practice (A),WI21,10,5,100.0%,100.0%,6.1,A (4.00),
+102,"Pedersen, David",ANSC 175 - Beyond Capitalism (A),WI21,16,9,87.5%,87.5%,4.5,A- (3.75),
+103,"Mendelsohn, Asa Lipman",ANSC 117 - Transgenderisms (A),FA20,15,5,100.0%,100.0%,3.7,A- (3.75),
+104,"Olivas Hernandez, Olga Lid",ANSC 121 - Psychological Anthropology (A),FA20,31,13,83.3%,75.0%,3.83,A- (3.77),A- (3.91)
+105,"Yeh, Rihan Wen Xin",ANSC 122 - Language in Society (A),FA20,28,21,95.0%,100.0%,4.9,A- (3.72),B (3.30)
+106,"Bialecki, Jon Anthony",ANSC 124 - Cultural Anthropology (A),FA20,25,10,100.0%,100.0%,5.5,A- (3.70),B+ (3.53)
+107,"Deniz, Dilsa",ANSC 133 - Peoples&Cultures/Middle East (A),FA20,25,14,78.6%,85.7%,3.27,A- (3.79),B+ (3.46)
+108,"Kurian, Amrita Achamma",ANSC 144 - Immigrant and Refugee Health (A),FA20,42,25,100.0%,100.0%,4.42,B+ (3.58),A- (3.74)
+109,"Varma, Saiba",ANSC 148 - Global Health&Cultrl Diversity (A),FA20,15,11,90.9%,90.9%,6.5,A (4.00),
+110,"Stewart, Alexander B",ANSC 164 - Intro to Medical Anthropology (A),FA20,43,32,96.9%,93.8%,5.75,B+ (3.67),A- (3.73)
+111,"Whitley, Leila Marie",ANSC 180 - Capitalism & Gender (A),FA20,23,12,100.0%,100.0%,4.17,B+ (3.58),A- (3.88)
+112,"Whitley, Leila Marie",ANSC 186 - Gender and Incarceration (A),FA20,15,4,100.0%,100.0%,4.5,A- (3.75),
+113,"Saravia, Paula F",ANSC 105 - Global Health and Inequality (A),S220,18,16,81.3%,93.8%,7.75,B+ (3.60),
+114,"Azarova, Mayya",ANSC 138 - Cultural Design Practicum (A),S220,6,6,100.0%,100.0%,5.17,A- (3.83),
+115,"Streuli, Samantha Aubrey",ANSC 144 - Immigrant and Refugee Health (A),S220,18,6,100.0%,100.0%,3.5,A- (3.83),
+116,"Kozelka, Ellen Elizabeth",ANSC 148 - Global Health&Cultrl Diversity (A),S220,15,13,100.0%,100.0%,3.58,A- (3.75),
+117,"Parish, Steven Martin",ANSC 166 - Film and Culture in Asia (A),S220,164,39,100.0%,100.0%,4.34,A- (3.87),A- (3.98)
+118,"Wu, Hua",ANSC 121 - Psychological Anthropology (A),S120,26,9,100.0%,100.0%,4.06,A (4.00),A- (3.83)
+119,"Csordas, Thomas J.",ANSC 129 - Meaning and Healing (A),S120,6,6,100.0%,100.0%,5.83,B+ (3.33),
+120,"Jenkins, Janis A.",ANSC 156 - Mad Films (A),S120,15,15,100.0%,86.7%,2.9,A- (3.87),
+121,"Olivas Hernandez, Olga Lid",ANSC 121 - Psychological Anthropology (A),SP20,62,25,68.0%,79.2%,3.7,A- (3.75),A- (3.84)
+122,"Deniz, Dilsa",ANSC 133 - Peoples&Cultures/Middle East (A),SP20,12,6,83.3%,100.0%,7.83,B+ (3.40),
+123,"Csordas, Thomas J.",ANSC 139 - Native American Health (A),SP20,40,25,100.0%,91.7%,3.83,B+ (3.55),B+ (3.59)
+124,"Postero, Nancy Grey",ANSC 140 - Human Rights II: Contemp Issue (A),SP20,32,14,100.0%,100.0%,5.21,A- (3.79),A- (3.90)
+125,"Stewart, Alexander B",ANSC 147 - Global Health and Environment (A),SP20,36,20,100.0%,100.0%,4.0,A- (3.88),A- (3.76)
+126,"Hannah, Seth Donal",ANSC 148 - Global Health&Cultrl Diversity (A),SP20,35,14,100.0%,100.0%,3.07,A (4.00),A (4.00)
+127,"Arani, Alexia Alisabeth",ANSC 155 - Humanitarian Aid (A),SP20,20,10,100.0%,100.0%,4.5,A- (3.70),A- (3.95)
+128,"Jenkins, Janis A.",ANSC 156 - Mad Films (A),SP20,47,30,96.7%,93.3%,2.77,A- (3.75),B+ (3.66)
+129,"Fortier, Jana",ANSC 165 - Contemporary South Asia (A),SP20,29,13,91.7%,91.7%,4.0,B+ (3.50),B+ (3.59)
+130,"Hankins, Joseph D.",ANSC 180 - Capitalism & Gender (A),SP20,27,8,100.0%,100.0%,3.25,B+ (3.63),A (4.00)
+131,"Williams Green, Leanne Judith","ANSC 184 - Food, Culture, and Society (A)",SP20,30,15,100.0%,100.0%,5.57,B+ (3.64),A- (3.92)
+132,"Yeh, Rihan Wen Xin","ANSC 194 - Language, Migration, Borders (A)",SP20,8,6,83.3%,100.0%,7.17,B+ (3.67),
+133,"Williams Green, Leanne Judith",ANSC 101 - Aging: Culture&Health/Hum Dev (A),WI20,25,12,66.7%,75.0%,2.17,B+ (3.60),B+ (3.56)
+134,"Kang, Byung Chu",ANSC 117 - Transgenderisms (A),WI20,19,8,87.5%,100.0%,2.0,B+ (3.67),
+135,"Haviland, John B.",ANSC 122 - Language in Society (A),WI20,32,17,37.5%,62.5%,2.63,B (3.08),B+ (3.40)
+136,"Brenner, Suzanne A","ANSC 125 - Gender, Sexuality, & Society (A)",WI20,67,27,96.3%,96.3%,4.57,B+ (3.60),B+ (3.45)
+137,"Csordas, Thomas J.",ANSC 129 - Meaning and Healing (A),WI20,8,4,100.0%,100.0%,4.5,A (4.00),
+138,"Denham, Aaron Renfrew",ANSC 148 - Global Health&Cultrl Diversity (A),WI20,45,16,93.8%,87.5%,5.5,B (3.07),B- (2.94)
+139,"Varma, Saiba","ANSC 149 - Conflict, Health, & Inequality (A)",WI20,28,23,100.0%,100.0%,4.05,A- (3.76),A- (3.87)
+140,"Olivas Hernandez, Olga Lid",ANSC 150 - Culture and Mental Health (A),WI20,34,19,84.2%,78.9%,3.66,B+ (3.56),B+ (3.62)
+141,"Brenner, Suzanne A",ANSC 173 - Ethnography in Practice (A),WI20,14,7,85.7%,100.0%,6.21,B+ (3.67),
+142,"Jassal, Aftab",ANSC 188 - Cultures of Healing (A),WI20,22,20,95.0%,95.0%,3.87,A- (3.75),A- (3.76)
+143,"Jassal, Aftab",ANSC 190 - Yoga Practices (A),WI20,27,25,84.0%,84.0%,3.54,A- (3.74),B+ (3.66)
+144,"Yeh, Rihan Wen Xin",ANSC 191 - Narrative and Subjectivity (A),WI20,6,6,100.0%,100.0%,4.83,B+ (3.33),
+145,"Pedersen, David",ANSC 193 - Capitalism and Nature (A),WI20,13,6,100.0%,100.0%,5.17,B+ (3.67),
+146,"Yeh, Rihan Wen Xin",ANSC 104 - The US-Mexico Border (A),FA19,17,12,100.0%,100.0%,5.33,B+ (3.50),
+147,"Olivas Hernandez, Olga Lid",ANSC 105 - Global Health and Inequality (A),FA19,34,15,100.0%,100.0%,3.36,B+ (3.57),B+ (3.68)
+148,"Williams Green, Leanne Judith",ANSC 118 - Language and Culture (A),FA19,36,24,95.7%,100.0%,5.2,B+ (3.41),B+ (3.60)
+149,"Haviland, John B.","ANSC 119 - Gesture, Communication & Body (A)",FA19,10,6,83.3%,83.3%,5.17,B+ (3.40),
+150,"Jassal, Aftab",ANSC 120 - Religion and Culture (A),FA19,46,38,86.1%,88.9%,4.22,B+ (3.50),B+ (3.35)
+151,"Haviland, John B.","ANSC 131 - Language, Law, Social Justice (A)",FA19,16,6,66.7%,66.7%,4.5,B+ (3.33),
+152,"Stewart, Alexander B",ANSC 137 - Chinese Popular Religion (A),FA19,33,18,94.1%,94.1%,3.91,B (3.18),B- (2.78)
+153,"Kaiser, Bronwyn Nicole",ANSC 148 - Global Health&Cultrl Diversity (A),FA19,79,74,87.5%,90.1%,4.31,B+ (3.55),B+ (3.49)
+154,"Deniz, Dilsa",ANSC 154 - Gender and Religion (A),FA19,16,7,85.7%,66.7%,4.79,A (4.00),
+155,"Fortier, Jana",ANSC 169 - Culture & Envr/Resrch Sem/Prac (A),FA19,8,4,100.0%,100.0%,4.5,A (4.00),
+156,"Parish, Steven Martin",ANSC 166 - Film and Culture in Asia (A),S219,165,44,100.0%,97.7%,4.5,A- (3.91),A- (3.96)
+157,"Berman, Michael David",ANSC 122 - Language in Society (A),S119,29,11,90.9%,100.0%,5.95,B+ (3.60),B+ (3.40)
+158,"Kozelka, Ellen Elizabeth",ANSC 148 - Global Health&Cultrl Diversity (A),S119,17,16,100.0%,100.0%,3.63,B+ (3.67),
+159,"Olivas Hernandez, Olga Lid",ANSC 106 - GH: Indig Med in Latin America (A),SP19,37,12,90.9%,72.7%,2.32,A- (3.73),B+ (3.54)
+160,"Saravia, Paula F",ANSC 106 - GH: Indig Med in Latin America (A),SP19,37,12,90.9%,90.9%,2.32,A- (3.73),B+ (3.54)
+161,"Fortier, Jana",ANSC 114 - Food Cultures of South Asia (A),SP19,22,9,100.0%,100.0%,2.79,B+ (3.43),B+ (3.66)
+162,"Haviland, John B.",ANSC 122 - Language in Society (A),SP19,44,12,63.6%,60.0%,6.83,B- (2.91),B (3.09)
+163,"Csordas, Thomas J.",ANSC 139 - Native American Health (A),SP19,28,14,84.6%,61.5%,3.42,B+ (3.33),B+ (3.32)
+164,"Postero, Nancy Grey",ANSC 140 - Human Rights II: Contemp Issue (A),SP19,33,11,90.9%,100.0%,5.77,B+ (3.55),B+ (3.52)
+165,"Kaiser, Bronwyn Nicole",ANSC 148 - Global Health&Cultrl Diversity (A),SP19,44,38,92.1%,100.0%,3.71,B+ (3.56),B+ (3.53)
+166,"Varma, Saiba","ANSC 149 - Conflict, Health, & Inequality (A)",SP19,30,23,91.3%,100.0%,4.76,B+ (3.50),A- (3.80)
+167,"Jenkins, Janis A.",ANSC 150 - Culture and Mental Health (A),SP19,5,3,100.0%,100.0%,9.83,B+ (3.50),
+168,"Garth, Hanna Fitzmaurice","ANSC 184 - Food, Culture, and Society (A)",SP19,29,12,90.0%,100.0%,4.7,B+ (3.50),B+ (3.39)
+169,"Hankins, Joseph D.",ANSC 186 - Gender and Incarceration (A),SP19,28,5,100.0%,100.0%,3.7,B (3.20),B+ (3.37)
+170,"Goodman, Yehuda Chaim",ANSC 187 - Mental Health/Israel&Diaspora (A),SP19,6,4,75.0%,75.0%,2.5,B (3.00),
+171,"Jassal, Aftab",ANSC 188 - Cultures of Healing (A),SP19,14,13,100.0%,100.0%,5.12,A- (3.92),
+172,"Jassal, Aftab",ANSC 190 - Yoga Practices (A),SP19,29,19,94.4%,100.0%,2.83,A- (3.88),B+ (3.61)
+173,"Jassal, Aftab",ANSC 120 - Anthropology of Religion (A),WI19,26,24,87.0%,86.4%,3.75,A- (3.75),B+ (3.66)
+174,"Brenner, Suzanne A","ANSC 125 - Gender, Sexuality, & Society (A)",WI19,68,32,93.3%,93.3%,4.5,B+ (3.60),B+ (3.61)
+175,"Csordas, Thomas J.",ANSC 129 - Meaning and Healing (A),WI19,8,3,100.0%,100.0%,5.83,B+ (3.67),
+176,"Jordan, David K.",ANSC 136 - Traditional Chinese Society (A),WI19,40,13,81.8%,81.8%,3.41,B+ (3.45),B (3.13)
+177,"Jenkins, Janis A.",ANSC 143 - Mental Health/Global Hlth Prty (A),WI19,27,11,72.7%,81.8%,3.77,B (3.18),B (3.25)
+178,"Saravia, Paula F",ANSC 144 - Immigrant and Refugee Health (A),WI19,36,32,100.0%,90.6%,4.63,A- (3.74),A- (3.71)
+179,"Varma, Saiba",ANSC 148 - Global Health&Cultrl Diversity (A),WI19,35,34,73.5%,69.7%,5.85,C+ (2.67),C+ (2.52)
+180,"Olivas Hernandez, Olga Lid",ANSC 151 - US-Mexico Border Ethnographies (A),WI19,17,8,100.0%,100.0%,3.75,A- (3.88),
+181,"Rothschild, Amy C",ANSC 155 - Humanitarian Aid (A),WI19,20,10,100.0%,100.0%,3.39,A- (3.88),B+ (3.51)
+182,"Brenner, Suzanne A",ANSC 159 - Anthropology of Marriage (A),WI19,18,11,100.0%,100.0%,6.5,B+ (3.60),
+183,"Parish, Steven Martin",ANSC 183 - Visualizing the Human (A),WI19,15,6,83.3%,83.3%,1.5,A- (3.83),
+184,"Pedersen, David",ANSC 192 - Capitalism and Imperialism (A),WI19,11,4,75.0%,75.0%,2.5,C+ (2.67),
+185,"Pedersen, David",ANSC 193 - Capitalism and Nature (A),WI19,15,9,83.3%,100.0%,3.83,B (3.00),
+186,"Goodman, Yehuda Chaim",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),FA18,12,4,75.0%,75.0%,3.5,B (3.25),
+187,"Jenkins, Janis A.",ANSC 100 - Spec Top/Socio-Cultural Anthro (C),FA18,11,5,100.0%,100.0%,5.0,A (4.00),
+188,"Saravia, Paula F",ANSC 105 - Global Health and Inequality (A),FA18,20,17,94.1%,88.2%,6.03,A- (3.88),A- (3.96)
+189,"Olivas Hernandez, Olga Lid",ANSC 106 - GH: Indig Med in Latin America (A),FA18,39,14,92.9%,92.9%,3.07,A- (3.86),A- (3.81)
+190,"Hauck, Jan",ANSC 118 - Language and Culture (A),FA18,21,13,92.3%,100.0%,6.35,B+ (3.69),A- (3.80)
+191,"Kang, Byung Chu",ANSC 146 - Global Health Persp/HIV (A),FA18,40,22,90.9%,86.4%,4.23,A- (3.73),A- (3.74)
+192,"Saravia, Paula F",ANSC 148 - Global Health&Cultrl Diversity (A),FA18,88,74,54.8%,52.1%,4.53,B+ (3.40),B+ (3.52)
+193,"Pedersen, David",ANSC 175 - Anthropology of Capitalism (A),FA18,33,12,58.3%,50.0%,3.83,B+ (3.50),B+ (3.68)
+194,"Kang, Byung Chu",ANSC 105GS - Global Health and Inequality (A),S218,21,13,100.0%,100.0%,4.5,A (4.00),A- (3.71)
+195,"Kang, Byung Chu","ANSC 125GS - Gender, Sexuality, & Society (A)",S218,21,13,100.0%,100.0%,4.35,A- (3.92),B+ (3.60)
+196,"Saravia, Paula F",ANSC 144 - Immigrant and Refugee Health (A),S218,23,21,100.0%,100.0%,4.79,A- (3.76),B+ (3.63)
+197,"Parish, Steven Martin",ANSC 166 - Film and Culture in Asia (A),S218,110,37,94.3%,94.3%,4.16,A- (3.94),A- (3.98)
+198,"Berman, Michael David",ANSC 122 - Language in Society (A),S118,38,15,93.3%,93.3%,4.9,B+ (3.50),B+ (3.42)
+199,"Pedersen, David",ANSC 100 - Spec Top/Socio-Cultural Anthro (B),SP18,14,7,85.7%,85.7%,3.64,A (4.00),
+200,"Saravia, Paula F",ANSC 106 - GH: Indig Med in Latin America (A),SP18,43,39,97.4%,94.9%,4.29,A- (3.78),B+ (3.62)
+201,"Haviland, John B.",ANSC 122 - Language in Society (A),SP18,31,16,46.7%,53.3%,5.83,B- (2.92),B (3.00)
+202,"Rothschild, Amy C",ANSC 140 - Human Rights II: Contemp Issue (A),SP18,24,9,88.9%,77.8%,3.17,A (4.00),A- (3.79)
+203,"Olivas Hernandez, Olga Lid",ANSC 150 - Culture and Mental Health (A),SP18,12,5,100.0%,100.0%,4.5,A- (3.80),
+204,"Olivas Hernandez, Olga Lid",ANSC 150 - Culture and Mental Health (B),SP18,12,7,100.0%,100.0%,4.5,A (4.00),
+205,"Garth, Hanna Fitzmaurice",ANSC 185 - #BlackLivesMatter (A),SP18,46,24,100.0%,100.0%,5.42,A- (3.74),B+ (3.51)
+206,"Hankins, Joseph D.",ANSC 186 - Gender and Incarceration (A),SP18,31,15,100.0%,100.0%,5.12,A (4.00),A- (3.72)
+207,"Kang, Byung Chu",ANSC 117 - Transgenderisms (A),WI18,10,7,85.7%,100.0%,2.79,B+ (3.57),
+208,"Haviland, John B.",ANSC 118 - Language and Culture (A),WI18,17,10,66.7%,77.8%,6.5,B (3.22),
+209,"Brenner, Suzanne A","ANSC 125 - Gender, Sexuality, & Society (A)",WI18,60,30,96.4%,96.4%,4.64,A- (3.74),B+ (3.54)
+210,"Haviland, John B.","ANSC 131 - Language, Law, Social Justice (A)",WI18,13,9,66.7%,66.7%,5.39,B+ (3.33),
+211,"Jordan, David K.",ANSC 137 - Chinese Popular Religion (A),WI18,41,15,66.7%,83.3%,5.73,B+ (3.46),B (3.20)
+212,"Postero, Nancy Grey",ANSC 142 - Anthropology of Latin America (A),WI18,33,13,91.7%,100.0%,4.81,A- (3.77),B+ (3.59)
+213,"Kang, Byung Chu",ANSC 148 - Global Health/Cultrl Diversity (A),WI18,69,58,94.8%,96.6%,4.22,A- (3.88),A- (3.88)
+214,"Brenner, Suzanne A",ANSC 154 - Gender and Religion (A),WI18,15,9,100.0%,100.0%,6.75,A- (3.88),
+215,"Pedersen, David","ANSC 178 - Brain, Mind, Culture & History (A)",WI18,26,11,63.6%,80.0%,2.14,B+ (3.55),A (4.00)
+216,"Hankins, Joseph D.",ANSC 180 - Capitalism & Gender (A),WI18,17,8,100.0%,100.0%,6.0,B (3.29),
+217,"Olivas Hernandez, Olga Lid",ANSC 105 - Global Health & Inequality (B),FA17,25,7,100.0%,100.0%,3.5,A (4.00),A- (3.83)
+218,"Saravia, Paula F",ANSC 121 - Psychological Anthropology (A),FA17,42,20,60.0%,57.9%,3.97,B (3.05),B+ (3.39)
+219,"Bialecki, Jon Anthony",ANSC 124 - Cultural Anthropology (A),FA17,28,18,50.0%,70.6%,4.17,B+ (3.38),B (3.18)
+220,"Csordas, Thomas J.",ANSC 129 - Meaning and Healing (A),FA17,18,12,100.0%,100.0%,5.33,A- (3.92),
+221,"Saravia, Paula F",ANSC 148 - Global Health/Cultrl Diversity (A),FA17,81,41,77.5%,74.4%,3.6,A- (3.90),A- (3.77)
+222,"Varma, Saiba",ANSC 155 - Humanitarian Aid (A),FA17,18,16,100.0%,100.0%,6.25,A- (3.94),
+223,"Pedersen, David",ANSC 177 - Anthrohistory: Past/Future (A),FA17,10,3,100.0%,100.0%,1.83,B (3.00),
+224,"Kurian, Amrita Achamma",ANSC 165 - Contemporary South Asia (A),S217,6,5,60.0%,80.0%,10.5,B+ (3.60),
+225,"Parish, Steven Martin",ANSC 166 - Film and Culture in Asia (A),S217,111,32,93.3%,90.0%,3.85,A- (3.79),
+226,"Butt, Waqas H",ANSC 121 - Psychological Anthropology (A),S117,20,10,80.0%,88.9%,6.3,B+ (3.40),B- (2.93)
+227,"Ribot Bencomo, Aida",ANSC 122 - Language in Society (A),S117,27,8,75.0%,75.0%,7.25,B+ (3.50),B (3.26)
+228,"Bialecki, Jon Anthony",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),SP17,8,4,50.0%,75.0%,2.5,B+ (3.50),
+229,"Bialecki, Jon Anthony",ANSC 124 - Cultural Anthropology (A),SP17,21,7,28.6%,57.1%,5.93,B (3.00),B+ (3.62)
+230,"Postero, Nancy Grey",ANSC 140 - Human Rights II: Contemp Issue (A),SP17,29,10,100.0%,100.0%,6.06,B+ (3.56),B+ (3.36)
+231,"Kang, Byung Chu",ANSC 146 - Global Health Persp/HIV (A),SP17,26,9,75.0%,75.0%,3.5,A- (3.86),A (4.00)
+232,"Parish, Steven Martin",ANSC 147 - Global Health/ Environment (A),SP17,63,23,90.9%,86.4%,1.93,A- (3.90),A- (3.91)
+233,"Olivas Hernandez, Olga Lid",ANSC 151 - US-Mexico Border Ethnographies (A),SP17,17,7,100.0%,100.0%,4.79,A- (3.83),
+234,"Itzhak, Nofit",ANSC 164 - Intro to Medical Anthropology (A),SP17,19,7,85.7%,71.4%,6.79,B- (2.71),
+235,"Hartblay, Cassandra S",ANSC 173 - Ethnography in Practice (A),SP17,7,5,100.0%,100.0%,7.3,B+ (3.33),
+236,"Pedersen, David",ANSC 175 - Anthropology of Capitalism (A),SP17,23,8,100.0%,85.7%,4.5,A- (3.83),A- (3.93)
+237,"Jenkins, Janis A.",ANSC 182 - Gun Violence/Social Pathology (A),SP17,12,6,83.3%,83.3%,3.3,B+ (3.67),
+238,"Parish, Steven Martin",ANSC 101 - Aging: Cult/Health Hum Dev (A),WI17,50,23,81.0%,85.7%,2.31,A- (3.74),A- (3.99)
+239,"Olivas Hernandez, Olga Lid",ANSC 106 - GH: Indig Med in Latin Amer (A),WI17,22,11,100.0%,100.0%,4.68,B+ (3.55),A- (3.85)
+240,"Woolard, Kathryn A",ANSC 122 - Language in Society (A),WI17,46,16,73.3%,86.7%,3.7,B (3.18),B (3.11)
+241,"Brenner, Suzanne A","ANSC 125 - Gender, Sexuality, & Society (A)",WI17,55,34,96.7%,93.3%,4.7,A- (3.80),A- (3.75)
+242,"Postero, Nancy Grey",ANSC 135 - Indigenous Peoples/Latin Amer. (A),WI17,41,19,94.1%,88.2%,4.03,B+ (3.63),B+ (3.44)
+243,"Jordan, David K.",ANSC 136 - Traditional Chinese Society (A),WI17,44,18,61.1%,72.2%,4.15,B (3.29),B (3.19)
+244,"Varma, Saiba",ANSC 148 - Global Health/Cultrl Diversity (A),WI17,185,176,86.7%,86.1%,5.87,B (3.26),B- (2.96)
+245,"Pedersen, David","ANSC 178 - Brain, Mind, Culture & History (A)",WI17,12,9,100.0%,100.0%,5.36,B+ (3.67),
+246,"Haviland, John B.",ANSC 118 - Language and Culture (A),FA16,24,13,61.5%,53.8%,4.96,B+ (3.46),B+ (3.38)
+247,"Itzhak, Nofit",ANSC 121 - Psychological Anthropology (A),FA16,37,22,77.3%,81.8%,5.59,B+ (3.43),B (3.26)
+248,"Haviland, John B.","ANSC 131 - Language, Law, Social Justice (A)",FA16,20,9,62.5%,75.0%,6.0,B (3.25),B+ (3.32)
+249,"Varma, Saiba",ANSC 155 - Humanitarian Aid (A),FA16,30,25,100.0%,100.0%,4.32,B+ (3.64),B+ (3.66)
+250,"Brenner, Suzanne A",ANSC 159 - Anthropology of Marriage (A),FA16,16,13,100.0%,100.0%,5.88,A- (3.85),
+251,"Pedersen, David",ANSC 176 - Critical Military Studies (A),FA16,12,9,66.7%,55.6%,3.83,B+ (3.56),
+252,"Hankins, Joseph D.",ANSC 180 - Labor's Relations (A),FA16,20,15,100.0%,100.0%,6.5,B (3.23),B (3.27)
+253,"Hankins, Joseph D.",ANSC 181 - Animal Affairs (A),FA16,36,22,100.0%,100.0%,5.86,B+ (3.55),B+ (3.50)
+254,"Welji, Haleema Nazir",ANSC 122 - Language in Society (A),S216,33,12,72.7%,100.0%,9.05,B+ (3.40),B (3.30)
+255,"Parish, Steven Martin",ANSC 166 - Film and Culture in Asia (A),S216,57,17,100.0%,100.0%,3.57,A- (3.93),A- (3.92)
+256,"Saravia, Paula F",ANSC 105 - Global Health & Inequality (A),S116,28,9,100.0%,100.0%,6.0,B+ (3.50),B+ (3.66)
+257,"Jenkins, Janis A.",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),SP16,16,14,92.9%,100.0%,5.83,A- (3.77),
+258,"Klimova, Julia Germanovna",ANSC 120 - Anthropology of Religion (A),SP16,30,16,68.8%,68.8%,4.79,B+ (3.54),B+ (3.36)
+259,"Brenner, Suzanne A","ANSC 125 - Gender, Sexuality, & Society (A)",SP16,91,49,87.5%,87.5%,5.14,A- (3.72),B+ (3.43)
+260,"Parish, Steven Martin",ANSC 138 - Cultural Design Practicum (A),SP16,13,6,83.3%,100.0%,6.17,A- (3.83),
+261,"Postero, Nancy Grey",ANSC 140 - Human Rights II: Contemp Issue (A),SP16,23,12,83.3%,100.0%,5.95,B+ (3.50),B (3.17)
+262,"Varma, Saiba",ANSC 148 - Global Health/Cultrl Diversity (A),SP16,124,83,93.7%,91.1%,4.47,B+ (3.60),B (3.25)
+263,"Brenner, Suzanne A",ANSC 154 - Gender and Religion (A),SP16,14,7,85.7%,85.7%,5.07,A- (3.86),
+264,"Woolard, Kathryn A","ANSC 162 - Language, Identity & Community (A)",SP16,42,17,100.0%,87.5%,4.63,B (3.29),B (3.12)
+265,"Hankins, Joseph D.",ANSC 180 - Labor's Relations (A),SP16,20,14,100.0%,100.0%,4.79,A- (3.71),B+ (3.55)
+266,"Shin, Layoung",ANSC 100 - Spec Top/Socio-Cultural Anthro (B),WI16,19,14,100.0%,100.0%,3.5,A- (3.79),
+267,"Haviland, John B.","ANSC 119 - Gesture, Communication & Body (A)",WI16,10,4,75.0%,100.0%,4.0,B (3.25),
+268,"Woolard, Kathryn A",ANSC 122 - Language in Society (A),WI16,62,35,90.6%,96.9%,4.56,B+ (3.36),B (3.00)
+269,"Jordan, David K.",ANSC 137 - Chinese Popular Religion (A),WI16,43,16,81.3%,93.8%,4.13,B (3.29),B+ (3.33)
+270,"Jenkins, Janis A.",ANSC 150 - Culture and Mental Health (A),WI16,64,54,96.3%,88.9%,5.35,B+ (3.64),B+ (3.63)
+271,"Pedersen, David","ANSC 178 - Brain, Mind, Culture & History (A)",WI16,25,9,77.8%,88.9%,6.5,A (4.00),B+ (3.64)
+272,"Haviland, John B.",ANSC 118 - Language and Culture (A),FA15,20,10,70.0%,90.0%,6.1,B (3.00),B (3.24)
+273,"Klimova, Julia Germanovna",ANSC 121 - Psychological Anthropology (A),FA15,32,9,88.9%,88.9%,4.75,B+ (3.67),B+ (3.45)
+274,"Varma, Saiba",ANSC 148 - Global Health/Cultrl Diversity (A),FA15,94,48,91.3%,87.0%,5.59,B+ (3.36),B (3.27)
+275,"Friedman, Jonathan A",ANSC 158 - Anthropology of Crisis (A),FA15,14,5,60.0%,60.0%,6.1,B+ (3.60),
+276,"Pedersen, David",ANSC 175 - Anthropology of Capitalism (A),FA15,26,9,100.0%,100.0%,3.0,A- (3.75),A- (3.73)
+277,"Pedersen, David",ANSC 176 - Critical Military Studies (A),FA15,14,4,75.0%,75.0%,2.5,B+ (3.50),
+278,"Welji, Haleema Nazir",ANSC 122 - Language in Society (A),S215,22,12,100.0%,100.0%,7.17,B+ (3.57),B+ (3.34)
+279,"Parish, Steven Martin",ANSC 166 - Film and Culture in Asia (A),S215,30,4,100.0%,100.0%,4.5,A (4.00),A (4.00)
+280,"Saravia, Paula F",ANSC 105 - Global Health & Inequality (A),S115,11,5,100.0%,100.0%,8.5,B+ (3.40),
+281,"Stewart, Alexander B",ANSC 164 - Intro to Medical Anthropology (A),S115,19,8,100.0%,85.7%,5.93,B (3.29),
+282,"Parish, Steven Martin",ANSC 101 - Aging: Cult/Health Hum Dev (A),SP15,24,12,100.0%,100.0%,4.83,A- (3.91),A (4.00)
+283,"Brenner, Suzanne A","ANSC 125 - Gender, Sexuality, & Society (A)",SP15,66,37,97.3%,94.6%,4.23,A- (3.70),B+ (3.59)
+284,"Novak, Jessica M",ANSC 128 - Culture and Emotion (A),SP15,12,6,100.0%,83.3%,6.5,B+ (3.50),
+285,"Stewart, Alexander B",ANSC 136 - Traditional Chinese Society (A),SP15,22,18,58.8%,76.5%,3.68,B (3.19),B (3.24)
+286,"Postero, Nancy Grey",ANSC 140 - Human Rights II: Contemp Issue (B),SP15,10,5,100.0%,100.0%,2.5,B+ (3.60),
+287,"Jenkins, Janis A.",ANSC 156 - Mad Films (A),SP15,33,16,100.0%,93.8%,3.7,A- (3.71),B (3.28)
+288,"Brenner, Suzanne A",ANSC 159 - Anthropology of Marriage (A),SP15,13,11,100.0%,100.0%,7.23,B+ (3.55),
+289,"Woolard, Kathryn A","ANSC 162 - Language, Identity & Community (A)",SP15,37,16,56.3%,93.8%,4.63,B (3.00),B (3.10)
+290,"Kramer, Elise A.",ANSC 163 - Culture&Commnication/Education (A),SP15,17,6,100.0%,100.0%,5.17,A- (3.83),
+291,"Parish, Steven Martin",ANSC 165 - Contemporary South Asia (A),SP15,37,10,80.0%,90.0%,2.94,B+ (3.67),A- (3.96)
+292,"Woolard, Kathryn A",ANSC 122 - Language in Society (A),WI15,49,26,100.0%,100.0%,3.83,B (3.21),B (3.11)
+293,"Kramer, Elise A.","ANSC 127 - Discourse,Interactn&SocialLife (A)",WI15,49,15,86.7%,80.0%,4.37,A- (3.73),B (3.25)
+294,"Novak, Jessica M",ANSC 144 - Immigrant and Refugee Health (A),WI15,44,20,80.0%,85.0%,4.8,B+ (3.45),B (3.07)
+295,"Jenkins, Janis A.",ANSC 148 - Global Health/Cultrl Diversity (A),WI15,106,43,83.7%,65.1%,4.74,B+ (3.49),B+ (3.51)
+296,"Kim, Mi Kyung",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),FA14,35,33,97.0%,84.8%,5.44,B+ (3.41),B+ (3.63)
+297,"Hankins, Joseph D.",ANSC 102 - The Anthropology of Work (A),FA14,26,16,93.8%,93.8%,5.38,A- (3.94),B+ (3.43)
+298,"Stasch, Rupert S",ANSC 103 - Photography & Visual Culture (A),FA14,34,17,78.6%,92.9%,3.93,A- (3.71),B+ (3.38)
+299,"Kramer, Elise A.",ANSC 118 - Language and Culture (A),FA14,31,17,75.0%,87.5%,3.5,B+ (3.50),B (3.26)
+300,"Kim, Mi Kyung",ANSC 121 - Psychological Anthropology (A),FA14,24,21,81.0%,81.0%,6.69,B+ (3.33),B+ (3.53)
+301,"Friedman, Jonathan A",ANSC 152 - Cultures of Crisis/Pol Correct (A),FA14,15,7,71.4%,57.1%,8.5,B (3.00),
+302,"McComsey, Melanie E",ANSC 122 - Language in Society (A),S214,28,19,84.2%,89.5%,5.24,B (3.25),B (3.05)
+303,"Itzhak, Nofit",ANSC 164 - Intro to Medical Anthropology (A),S214,24,10,100.0%,100.0%,7.39,B (3.22),C+ (2.70)
+304,"Parish, Steven Martin",ANSC 166 - Film and Culture in Asia (A),S214,24,5,100.0%,100.0%,2.5,A (4.00),A (4.00)
+305,"Saravia, Paula F",ANSC 148 - Global Health/Cultrl Diversity (A),S114,19,4,100.0%,100.0%,9.5,A- (3.75),
+306,"Jenkins, Janis A.",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),SP14,38,17,100.0%,100.0%,3.21,B+ (3.69),B+ (3.62)
+307,"Pedersen, David",ANSC 107 - Meaning/Symbols in Social Life (A),SP14,16,5,60.0%,80.0%,3.3,B (3.20),
+308,"Haviland, John B.",ANSC 116 - Languages of Americas: Mayan (A),SP14,11,5,75.0%,75.0%,5.0,A (4.00),
+309,"Csordas, Thomas J.",ANSC 129 - Meaning and Healing (A),SP14,34,17,88.2%,70.6%,6.03,B+ (3.59),B+ (3.50)
+310,"Postero, Nancy Grey",ANSC 140 - Human Rights II: Contemp Issue (A),SP14,40,16,100.0%,100.0%,4.5,B+ (3.54),B+ (3.46)
+311,"Lewis, Leslie R",ANSC 147 - Global Health/ Environment (A),SP14,33,24,100.0%,100.0%,3.98,A- (3.84),A- (3.82)
+312,"Jenkins, Janis A.",ANSC 150 - Culture and Mental Health (A),SP14,27,16,93.3%,93.3%,4.9,A- (3.79),B+ (3.60)
+313,"Kramer, Elise A.","ANSC 162 - Language, Identity & Community (A)",SP14,60,28,88.9%,96.3%,3.39,A- (3.75),B+ (3.47)
+314,"Fortier, Jana",ANSC 165 - Contemporary South Asia (A),SP14,15,5,100.0%,100.0%,5.3,A- (3.80),
+315,"Parish, Steven Martin",ANSC 168 - The Human Condition (A),SP14,59,21,100.0%,100.0%,4.18,A- (3.94),A- (3.79)
+316,"Pedersen, David",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),WI14,6,4,75.0%,75.0%,5.0,B+ (3.67),
+317,"Kramer, Elise A.","ANSC 109 - Jokes, Monsters, and Strangers (A)",WI14,30,17,70.6%,70.6%,4.26,B (3.29),B (3.06)
+318,"Kramer, Elise A.",ANSC 122 - Language in Society (A),WI14,42,17,86.7%,86.7%,3.97,B+ (3.54),B (3.18)
+319,"Brenner, Suzanne A",ANSC 124 - Cultural Anthropology (A),WI14,39,18,94.1%,100.0%,5.21,A- (3.82),A- (3.72)
+320,"Postero, Nancy Grey",ANSC 142 - Anthropology of Latin America (A),WI14,33,14,92.9%,100.0%,5.07,A- (3.86),B+ (3.55)
+321,"Jenkins, Janis A.",ANSC 148 - Global Health/Cultrl Diversity (A),WI14,66,28,65.4%,65.4%,4.88,B+ (3.63),B (3.25)
+322,"Brenner, Suzanne A",ANSC 154 - Gender and Religion (A),WI14,17,10,100.0%,90.0%,6.1,A- (3.80),
+323,"Fortier, Jana",ANSC 169 - Culture & Envr/Resrch Sem/Prac (B),WI14,9,3,100.0%,100.0%,5.83,A (4.00),
+324,"Luna, Sarah L",ANSC 174 - Sex / Money: the Anth/Sex Work (A),WI14,24,15,93.3%,93.3%,3.57,A- (3.80),B+ (3.65)
+325,"Stasch, Rupert S",ANSC 108 - Tourism and Global Culture (A),FA13,47,24,95.8%,95.8%,3.92,A- (3.79),A- (3.72)
+326,"Kramer, Elise A.",ANSC 118 - Language and Culture (A),FA13,20,5,60.0%,60.0%,4.9,B+ (3.50),C+ (2.47)
+327,"van den Hout, Charlotte Emma",ANSC 121 - Psychological Anthropology (B),FA13,18,6,83.3%,83.3%,6.5,B+ (3.67),
+328,"Friedman, Jonathan A",ANSC 123 - Political Anthropology (A),FA13,22,10,70.0%,80.0%,4.9,B+ (3.33),B+ (3.60)
+329,"Brenner, Suzanne A","ANSC 125 - Gender, Sexuality, & Society (A)",FA13,75,47,100.0%,97.8%,5.39,A- (3.82),A- (3.70)
+330,"van den Hout, Charlotte Emma",ANSC 126 - Childhood and Adolescence (A),FA13,69,33,96.8%,96.8%,4.63,B+ (3.65),A- (3.81)
+331,"Csordas, Thomas J.",ANSC 145 - Indigenous People/Nrth America (A),FA13,58,28,70.4%,63.0%,4.94,B+ (3.39),B- (2.85)
+332,"Csordas, Thomas J.",ANSC 146 - Global Health Persp/HIV (A),FA13,15,5,100.0%,75.0%,2.5,A (4.00),
+333,"Dawley, William C","ANSC 125 - Gender, Sexuality, & Society (A)",S213,6,4,100.0%,100.0%,8.5,B (3.25),
+334,"Parish, Steven Martin",ANSC 166 - Film and Culture in Asia (A),S213,22,5,100.0%,75.0%,4.0,A (4.00),A- (3.92)
+335,"McComsey, Melanie E",ANSC 122 - Language in Society (A),S113,15,8,87.5%,87.5%,4.0,B+ (3.40),
+336,"Saravia, Paula F",ANSC 148 - Global Health/Cultrl Diversity (A),S113,21,4,100.0%,100.0%,5.0,B (3.25),B+ (3.64)
+337,"Bialecki, Jon Anthony",ANSC 104 - Anthropology of Fantasy (A),SP13,40,17,76.5%,82.4%,6.85,B+ (3.57),B+ (3.63)
+338,"Woolard, Kathryn A","ANSC 113 - Lang, Style & Youth Identities (A)",SP13,30,16,68.8%,87.5%,3.97,B (3.07),B+ (3.31)
+339,"Haviland, John B.","ANSC 119 - Gesture, Communication & Body (A)",SP13,7,5,100.0%,100.0%,4.5,B (3.00),
+340,"Bialecki, Jon Anthony",ANSC 121 - Psychological Anthropology (A),SP13,30,19,73.7%,84.2%,4.82,B+ (3.65),B+ (3.43)
+341,"Brenner, Suzanne A","ANSC 125 - Gender, Sexuality, & Society (A)",SP13,83,31,80.0%,83.3%,4.16,B+ (3.38),B+ (3.52)
+342,"Ozyurek, Esra",ANSC 134 - Global Islam (A),SP13,30,12,75.0%,58.3%,3.83,A- (3.83),A- (3.95)
+343,"Jordan, David K.",ANSC 137 - Chinese Popular Religion (A),SP13,25,12,100.0%,100.0%,3.83,B+ (3.30),B+ (3.46)
+344,"Postero, Nancy Grey",ANSC 140 - Human Rights II: Contemp Issue (A),SP13,32,16,100.0%,93.8%,5.43,B (3.25),B+ (3.35)
+345,"Jenkins, Janis A.",ANSC 148 - Global Health/Cultrl Diversity (A),SP13,67,29,100.0%,89.7%,3.88,B+ (3.56),B+ (3.54)
+346,"SYVERTSEN, JENNIFER",ANSC 164 - Intro to Medical Anthropology (A),SP13,55,47,100.0%,89.4%,4.33,B+ (3.67),A- (3.70)
+347,"Bialecki, Jon Anthony",ANSC 120 - Anthropology of Religion (A),WI13,50,19,66.7%,88.9%,5.06,B+ (3.53),B+ (3.46)
+348,"Woolard, Kathryn A",ANSC 122 - Language in Society (A),WI13,49,20,85.0%,95.0%,3.9,B (3.25),B- (2.95)
+349,"Brenner, Suzanne A",ANSC 124 - Cultural Anthropology (A),WI13,66,28,78.6%,92.9%,4.79,B+ (3.54),B+ (3.49)
+350,"Jordan, David K.",ANSC 136 - Traditional Chinese Society (A),WI13,39,15,86.7%,93.3%,4.23,B+ (3.33),B+ (3.32)
+351,"Csordas, Thomas J.",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),FA12,11,6,66.7%,50.0%,6.83,A (4.00),
+352,"Friedman, Jonathan K.",ANSC 100 - Spec Top/Socio-Cultural Anthro (B),FA12,10,3,100.0%,100.0%,6.5,A (4.00),
+353,"Goldsmith, Trevor A",ANSC 118 - Language and Culture (A),FA12,35,19,50.0%,44.4%,7.0,B+ (3.36),B (3.15)
+354,"Caperna, Joseph C.",ANSC 146 - Global Health Persp/HIV (A),FA12,15,6,83.3%,83.3%,3.83,B+ (3.67),
+355,"Csordas, Thomas J.",ANSC 146 - Global Health Persp/HIV (A),FA12,15,7,100.0%,100.0%,3.5,A- (3.83),
+356,"Jenkins, Janis A.",ANSC 150 - Culture and Mental Health (A),FA12,50,23,95.2%,85.7%,5.17,A- (3.75),B+ (3.64)
+357,"Parish, Steven Martin",ANSC 170 - Modernity and Human Experience (A),FA12,49,22,76.5%,76.5%,3.56,B+ (3.44),B+ (3.66)
+358,"Bialecki, Jon Anthony",ANSC 189 - Anthropology of End of World (A),FA12,32,18,81.3%,100.0%,5.63,B+ (3.40),B+ (3.51)
+359,"Snyder-Frey, Alicia C.",ANSC 122 - Language in Society (A),S212,25,7,100.0%,85.7%,5.93,B+ (3.33),B (3.27)
+360,"Csordas, Thomas J.",ANSC 129 - Meaning and Healing (A),S212,15,5,75.0%,75.0%,11.7,B+ (3.50),
+361,"Elinoff, Eli Asher","ANSC 160 - Nature, Culture, & Environment (A)",S212,8,3,100.0%,100.0%,8.5,B+ (3.67),
+362,"Parish, Steven Martin",ANSC 166 - Film and Culture in Asia (A),S212,33,11,100.0%,100.0%,6.86,A- (3.90),A- (3.98)
+363,"Gideonse, Theodore Karwoski","ANSC 125 - Gender, Sexuality, & Society (A)",S112,18,14,100.0%,100.0%,7.64,A- (3.71),
+364,"Pimentel Walker, Ana Paula",ANSC 142 - Anthropology of Latin America (A),S112,9,3,100.0%,100.0%,7.83,A (4.00),
+365,"Parish, Steven Martin",ANSC 167 - Rituals and Celebrations (A),S112,17,4,100.0%,100.0%,6.5,B+ (3.50),
+366,"Yarris, Kristin E",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),SP12,21,17,94.1%,100.0%,6.5,B+ (3.60),A- (3.83)
+367,"Bialecki, Jon Anthony",ANSC 100 - Spec Top/Socio-Cultural Anthro (B),SP12,23,7,100.0%,100.0%,3.36,B+ (3.57),B+ (3.48)
+368,"Jordan, David K.",ANSC 100 - Spec Top/Socio-Cultural Anthro (C),SP12,22,9,100.0%,88.9%,4.28,B+ (3.38),B (3.09)
+369,"Pedersen, David",ANSC 100 - Spec Top/Socio-Cultural Anthro (D),SP12,14,7,42.9%,42.9%,2.79,A- (3.86),
+370,"Ozyurek, Esra",ANSC 100 - Spec Top/Socio-Cultural Anthro (E),SP12,9,5,100.0%,100.0%,4.5,B+ (3.60),
+371,"Haviland, John B.",ANSC 100 - Spec Top/Socio-Cultural Anthro (F),SP12,10,4,100.0%,100.0%,3.5,A (4.00),
+372,"Hankins, Joseph D.",ANSC 100 - Spec Top/Socio-Cultural Anthro (G),SP12,12,7,100.0%,100.0%,8.21,A- (3.71),
+373,"Stasch, Rupert S","ANSC 109 - Jokes, Monsters, and Strangers (A)",SP12,104,50,91.8%,93.9%,4.38,B+ (3.68),B+ (3.37)
+374,"Yarris, Kristin E",ANSC 121 - Psychological Anthropology (A),SP12,50,32,90.6%,90.6%,7.06,B+ (3.61),B+ (3.64)
+375,"Postero, Nancy Grey",ANSC 140 - Human Rights II: Contemp Issue (B),SP12,23,11,100.0%,100.0%,5.23,B+ (3.67),B+ (3.38)
+376,"Postero, Nancy Grey",ANSC 140 - Human Rights II: Contemp Issue (B),SP12,20,12,90.9%,90.9%,6.1,B+ (3.67),B+ (3.38)
+377,"Woolard, Kathryn A","ANSC 162 - Language, Identity & Community (A)",SP12,41,21,76.2%,90.5%,5.83,B (3.22),B (3.07)
+378,"Friedman, Jonathan K.",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),WI12,13,6,66.7%,83.3%,8.17,B+ (3.60),
+379,"Stasch, Rupert S",ANSC 107 - Meaning/Symbols in Social Life (A),WI12,46,24,83.3%,95.8%,4.67,A- (3.87),B+ (3.55)
+380,"Haviland, John B.",ANSC 116 - Languages of Americas: Mayan (B),WI12,12,7,71.4%,71.4%,8.83,B+ (3.67),
+381,"Bialecki, Jon Anthony",ANSC 120 - Anthropology of Religion (A),WI12,45,23,66.7%,76.2%,5.02,B+ (3.50),B+ (3.45)
+382,"Woolard, Kathryn A",ANSC 122 - Language in Society (A),WI12,33,21,85.7%,95.2%,4.4,B (3.22),B- (2.96)
+383,"Brenner, Suzanne A","ANSC 125 - Gender, Sexuality, & Society (A)",WI12,113,56,94.5%,89.1%,4.94,B+ (3.56),B+ (3.52)
+384,"Yarris, Kristin E",ANSC 148 - Global Health/Cultrl Diversity (A),WI12,100,55,100.0%,98.2%,5.59,A- (3.72),B+ (3.54)
+385,"Friedman, Jonathan K.",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),FA11,26,9,33.3%,44.4%,4.5,B (3.00),B+ (3.62)
+386,"Ozyurek, Esra",ANSC 100 - Spec Top/Socio-Cultural Anthro (B),FA11,37,27,73.1%,69.2%,6.81,A- (3.71),B (3.22)
+387,"Bialecki, Jon Anthony",ANSC 100 - Spec Top/Socio-Cultural Anthro (C),FA11,50,25,76.0%,84.0%,6.02,B+ (3.33),B+ (3.50)
+388,"Peacock, Elizabeth A.",ANSC 118 - Language and Culture (B),FA11,34,19,73.7%,66.7%,6.5,B+ (3.38),B- (2.96)
+389,"Yarris, Kristin E",ANSC 144 - Immigrant and Refugee Health (A),FA11,69,47,95.7%,93.6%,5.99,A- (3.80),A- (3.73)
+390,"Eliot, Krista Shawn","ANSC 125 - Gender, Sexuality, & Society (A)",S211,19,5,100.0%,100.0%,5.7,A (4.00),
+391,"Elinoff, Eli Asher",ANSC 140 - Human Rights II: Contemp Issue (A),S211,9,5,100.0%,100.0%,10.1,B+ (3.60),
+392,"Gideonse, Theodore Karwoski",ANSC 164 - Intro to Medical Anthropology (A),S211,14,6,83.3%,100.0%,9.17,B+ (3.40),
+393,"Parish, Steven Martin",ANSC 166 - Film and Culture in Asia (A),S211,28,8,100.0%,100.0%,3.25,A- (3.75),B+ (3.67)
+394,"Klimova, Julia Germanovna",ANSC 120 - Anthropology of Religion (A),S111,16,5,100.0%,100.0%,8.5,A- (3.80),
+395,"Snyder-Frey, Alicia C.",ANSC 122 - Language in Society (A),S111,21,7,85.7%,100.0%,4.79,B+ (3.43),B (3.15)
+396,"Tran, Allen",ANSC 128 - Culture and Emotion (A),S111,15,6,83.3%,83.3%,8.5,B+ (3.40),
+397,"Csordas, Thomas J.",ANSC 129 - Meaning and Healing (A),S111,13,4,100.0%,100.0%,10.0,B+ (3.50),
+398,"Bialecki, Jon Anthony",ANSC 100 - Spec Top/Socio-Cultural Anthro (B),SP11,29,14,85.7%,92.9%,5.58,B+ (3.36),A- (3.76)
+399,"Csordas, Thomas J.",ANSC 100 - Spec Top/Socio-Cultural Anthro (C),SP11,34,14,100.0%,85.7%,2.93,B+ (3.64),B (3.22)
+400,"Stasch, Rupert S",ANSC 103 - Photography & Visual Culture (A),SP11,69,34,94.1%,91.2%,5.26,B+ (3.65),B+ (3.42)
+401,"McNeal, Keith",ANSC 110 - Societies & Cultures/Caribbean (A),SP11,49,27,96.2%,100.0%,7.12,B+ (3.69),B+ (3.67)
+402,"Haviland, John B.","ANSC 119 - Gesture, Communication & Body (A)",SP11,32,14,42.9%,57.1%,9.64,B (3.15),B- (2.90)
+403,"McNeal, Keith",ANSC 121 - Psychological Anthropology (A),SP11,59,32,93.8%,90.3%,6.38,A- (3.83),A- (3.75)
+404,"Shafir, Gershon",ANSC 140 - Human Rights II: Contemp Issue (A),SP11,36,14,100.0%,92.9%,3.64,B+ (3.62),B+ (3.44)
+405,"Woolard, Kathryn A","ANSC 162 - Language, Identity & Community (A)",SP11,43,19,84.2%,94.7%,3.45,B+ (3.50),B (3.21)
+406,"Pedersen, David",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),WI11,11,9,88.9%,100.0%,4.94,A- (3.78),
+407,"Bialecki, Jon Anthony",ANSC 100 - Spec Top/Socio-Cultural Anthro (B),WI11,19,15,93.3%,100.0%,5.83,A- (3.71),
+408,"Black, Steve",ANSC 100 - Spec Top/Socio-Cultural Anthro (C),WI11,7,7,100.0%,100.0%,6.79,B+ (3.33),
+409,"Black, Steve",ANSC 100 - Spec Top/Socio-Cultural Anthro (D),WI11,13,7,85.7%,85.7%,9.64,B+ (3.43),
+410,"Stasch, Rupert S",ANSC 108 - Tourism and Global Culture (A),WI11,48,25,95.8%,91.7%,4.9,B+ (3.56),B (3.22)
+411,"Woolard, Kathryn A",ANSC 122 - Language in Society (A),WI11,47,30,76.7%,85.7%,5.81,B (3.21),B- (2.99)
+412,"Brenner, Suzanne A",ANSC 124 - Cultural Anthropology (A),WI11,57,32,90.6%,87.1%,7.66,B+ (3.32),B+ (3.40)
+413,"Jordan, David K.",ANSC 137 - Chinese Popular Religion (A),WI11,59,31,67.7%,74.2%,5.79,B (3.24),B (3.27)
+414,"Jenkins, Janis A.",ANSC 148 - Global Health/Cultrl Diversity (A),WI11,84,61,85.2%,83.3%,6.2,B+ (3.46),B (3.29)
+415,"Black, Steve",ANSC 118 - Language and Culture (A),FA10,42,26,92.3%,100.0%,5.5,B+ (3.42),B+ (3.51)
+416,"Bialecki, Jon Anthony",ANSC 120 - Anthropology of Religion (A),FA10,103,57,83.9%,87.5%,6.54,B+ (3.69),B+ (3.46)
+417,"Csordas, Thomas J.",ANSC 145 - Indigenous People/Nrth America (A),FA10,38,24,87.5%,83.3%,5.42,B (3.09),B (3.16)
+418,"Peacock, Elizabeth A.",ANSC 122 - Language in Society (A),SU10,23,12,75.0%,63.6%,5.33,B+ (3.64),
+419,"Eliot, Krista Shawn","ANSC 125 - Gender, Sexuality, & Society (A)",SU10,25,11,81.8%,81.8%,9.23,B+ (3.50),
+420,"Hallman, Heather Spector",ANSC 126 - Childhood and Adolescence (A),SU10,11,4,100.0%,100.0%,7.5,B+ (3.50),
+421,"Parish, Steven Martin",ANSC 167 - Rituals and Celebrations (A),SU10,24,7,100.0%,100.0%,9.07,A- (3.83),
+422,"Pedersen, David",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),SP10,17,10,90.0%,90.0%,3.7,A- (3.80),
+423,"Bialecki, Jon Anthony",ANSC 100 - Spec Top/Socio-Cultural Anthro (B),SP10,20,12,100.0%,100.0%,6.32,B (3.27),B+ (3.61)
+424,"Stasch, Rupert S","ANSC 109 - Jokes, Monsters, and Strangers (A)",SP10,64,34,79.4%,67.6%,3.79,B+ (3.33),B+ (3.32)
+425,"Woolard, Kathryn A",ANSC 112 - Linguistic Anthropology Wkshp (A),SP10,6,3,100.0%,100.0%,2.5,A (4.00),
+426,"McNeal, Keith",ANSC 121 - Psychological Anthropology (A),SP10,49,31,90.3%,93.5%,6.18,B+ (3.47),B+ (3.61)
+427,"Postero, Nancy Grey",ANSC 140 - Human Rights II: Contemp Issue (A),SP10,54,28,92.9%,100.0%,6.93,B+ (3.63),B+ (3.58)
+428,"Hurst, Samantha",ANSC 164 - The Anthropology of Medicine (A),SP10,61,28,85.7%,88.9%,4.5,A- (3.71),B (3.17)
+429,"Parish, Steven Martin",ANSC 168 - The Human Condition (A),SP10,30,14,100.0%,100.0%,4.79,B+ (3.50),B+ (3.64)
+430,"Parish, Steven Martin",ANSC 172 - Life-History Seminar&Practicum (A),SP10,15,9,100.0%,100.0%,3.83,A- (3.89),
+431,"McNeal, Keith",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),WI10,30,11,81.8%,81.8%,3.23,A- (3.89),A- (3.76)
+432,"Stasch, Rupert S",ANSC 107 - Meaning/Symbols in Social Life (A),WI10,24,8,100.0%,100.0%,4.5,A (4.00),B+ (3.44)
+433,"Haviland, John B.","ANSC 119 - Gesture, Communication & Body (A)",WI10,24,5,100.0%,100.0%,6.5,B- (2.75),B (3.06)
+434,"Woolard, Kathryn A",ANSC 122 - Language in Society (A),WI10,60,24,83.3%,95.8%,4.75,B+ (3.30),B- (2.90)
+435,"Bialecki, Jon Anthony",ANSC 124 - Cultural Anthropology (A),WI10,31,16,81.3%,81.3%,5.0,B+ (3.40),B+ (3.56)
+436,"Brenner, Suzanne A","ANSC 125 - Gender, Sexuality, & Society (A)",WI10,79,39,94.9%,97.4%,5.68,B+ (3.65),B+ (3.43)
+437,"Cassaniti, Julia",ANSC 128 - Culture and Emotion (A),WI10,52,32,100.0%,96.8%,6.88,A- (3.77),B+ (3.37)
+438,"Friedman, Jonathan K.",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),FA09,29,20,60.0%,60.0%,4.1,B (3.22),B+ (3.56)
+439,"Haviland, John B.",ANSC 118 - Language and Culture (A),FA09,25,19,63.2%,84.2%,4.5,B- (2.94),B- (2.86)
+440,"Bialecki, Jon Anthony",ANSC 120 - Anthropology of Religion (A),FA09,53,32,78.1%,87.5%,4.24,B (3.20),B (3.24)
+441,"Cassaniti, Julia",ANSC 126 - Childhood and Adolescence (A),FA09,53,39,94.9%,94.9%,4.65,B+ (3.68),B+ (3.54)
+442,"Cassaniti, Julia",ANSC 129 - Meaning and Healing (A),FA09,41,33,96.9%,96.8%,5.69,B+ (3.62),B+ (3.62)
+443,"Parish, Steven Martin",ANSC 167 - Rituals and Celebrations (A),SU09,36,11,90.9%,90.9%,6.14,A- (3.82),
+444,"Stasch, Rupert S",ANSC 108 - Tourism and Global Culture (A),SP09,31,18,83.3%,83.3%,3.06,B+ (3.53),B+ (3.39)
+445,"Cassaniti, Julia",ANSC 121 - Psychological Anthropology (A),SP09,28,22,86.4%,90.9%,3.95,B+ (3.50),B+ (3.41)
+446,"Brenner, Suzanne A",ANSC 124 - Cultural Anthropology (A),SP09,64,39,97.3%,100.0%,4.76,B+ (3.63),B+ (3.43)
+447,"Montoya Rojas, Ciro Rodrigo",ANSC 135 - Indigenous Peoples/Latin Amer. (A),SP09,20,12,91.7%,75.0%,6.33,B+ (3.64),B+ (3.44)
+448,"Jordan, David K.",ANSC 137 - Chinese Popular Religion (A),SP09,63,48,87.5%,95.7%,4.38,B+ (3.43),B (3.17)
+449,"Carlisle, Steven G","ANSC 139 - Freud, Psychoanalysis, Culture (A)",SP09,16,9,100.0%,100.0%,4.5,B+ (3.33),
+450,"Postero, Nancy Grey",ANSC 140 - Human Rights II: Contemp Issue (A),SP09,113,62,98.4%,96.8%,6.15,B+ (3.49),B (3.21)
+451,"Woolard, Kathryn A","ANSC 162 - Language, Identity & Community (A)",SP09,20,16,68.8%,87.5%,5.0,B- (2.93),B- (2.80)
+452,"Cassaniti, Julia",ANSC 167 - Rituals and Celebrations (A),SP09,22,14,92.9%,92.9%,5.79,B (3.21),B+ (3.31)
+453,"Carlisle, Steven G",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),WI09,33,24,91.7%,100.0%,4.17,B+ (3.30),B- (2.87)
+454,"Pedersen, David",ANSC 100 - Spec Top/Socio-Cultural Anthro (B),WI09,15,10,90.0%,90.0%,3.39,B+ (3.50),
+455,"Haviland, John B.","ANSC 119 - Gesture, Communication & Body (A)",WI09,32,17,82.4%,100.0%,5.79,B+ (3.35),B- (2.86)
+456,"Woolard, Kathryn A",ANSC 122 - Language in Society (A),WI09,38,29,92.9%,100.0%,3.5,B+ (3.37),B (3.05)
+457,"Haviland, John B.",ANSC 118 - Language and Culture (A),FA08,11,10,40.0%,80.0%,5.5,B- (2.88),
+458,"Brenner, Suzanne A","ANSC 125 - Gender, Sexuality, & Society (A)",FA08,75,54,82.7%,86.5%,5.1,B+ (3.54),B+ (3.36)
+459,"Carlisle, Steven G",ANSC 128 - Culture and Emotion (A),FA08,45,24,87.5%,87.5%,3.92,B (3.20),C+ (2.70)
+460,"Postero, Nancy Grey",ANSC 142 - Anthropology of Latin America (A),FA08,50,57,96.5%,94.6%,6.15,B+ (3.42),B- (2.96)
+461,"Hurst, Samantha",ANSC 164 - The Anthropology of Medicine (A),FA08,66,43,93.0%,90.7%,3.57,A- (3.78),A- (3.71)
+462,"Haviland, John B.",ANSC 117GS - Language and (Multi)Culture (A),SU08,9,9,87.5%,100.0%,9.83,B+ (3.56),
+463,"Haviland, John B.","ANSC 119GS - Gesture, Communication & Body (A)",SU08,9,9,77.8%,100.0%,9.39,B+ (3.50),
+464,"Carlisle, Steven G",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),SP08,23,15,100.0%,100.0%,5.03,B+ (3.47),B (3.02)
+465,"Dernbach, Katherine",ANSC 100 - Spec Top/Socio-Cultural Anthro (B),SP08,8,8,87.5%,100.0%,2.5,B+ (3.67),
+466,"McNeal, Keith",ANSC 121 - Psychological Anthropology (A),SP08,51,38,91.9%,94.6%,3.64,B+ (3.45),B+ (3.46)
+467,"Woolard, Kathryn A",ANSC 122 - Language in Society (A),SP08,53,38,86.5%,94.4%,3.71,B (3.09),B- (2.89)
+468,"Brenner, Suzanne A",ANSC 124 - Cultural Anthropology (A),SP08,68,33,97.0%,100.0%,3.59,B (3.23),B (3.25)
+469,"Carlisle, Steven G",ANSC 126 - Childhood and Adolescence (A),SP08,18,9,100.0%,87.5%,6.72,B+ (3.38),
+470,"Hurst, Samantha",ANSC 164 - The Anthropology of Medicine (A),SP08,60,34,97.1%,97.1%,4.56,A- (3.94),A- (3.75)
+471,"Parish, Steven Martin",ANSC 165 - Contemporary South Asia (A),SP08,25,17,100.0%,100.0%,3.56,A- (3.88),B+ (3.57)
+472,"Woolard, Kathryn A",ANSC 100 - Spec Top/Socio-Cultural Anthro (A),WI08,13,10,100.0%,100.0%,6.1,B+ (3.38),
+473,"Haviland, John B.",ANSC 118 - Language and Culture (A),WI08,18,14,64.3%,78.6%,3.36,B (3.23),
+474,"Jordan, David K.",ANSC 136 - Traditional Chinese Society (A),WI08,80,53,96.2%,98.1%,3.79,B+ (3.50),B+ (3.42)
+475,"Carlisle, Steven G","ANSC 139 - Freud, Psychoanalysis, Culture (A)",WI08,41,24,87.0%,91.3%,4.08,B- (2.95),B- (2.86)
+476,"Brenner, Suzanne A","ANSC 125 - Gender, Sexuality, & Society (A)",FA07,83,58,94.7%,100.0%,5.32,B+ (3.53),B+ (3.47)
+477,"Carlisle, Steven G",ANSC 167 - Rituals and Celebrations (A),FA07,43,17,88.2%,82.4%,3.91,B+ (3.56),B- (2.71)

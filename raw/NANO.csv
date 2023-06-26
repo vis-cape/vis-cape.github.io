@@ -1,0 +1,365 @@
+,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+0,"Yang, Kesong",NANO 106 - Crystallography of Materials (A),SP23,30,14,100.0%,100.0%,6.36,B+ (3.64),B (3.17)
+1,"Meyers, Marc",NANO 108 - Materials Science & Engineerng (A),SP23,50,44,86.4%,77.3%,4.45,B+ (3.61),B+ (3.34)
+2,"Vazquez Mena, Oscar",NANO 112 - Synthesis/Fabricatn/NanoEngSys (A),SP23,52,20,100.0%,100.0%,5.5,A- (3.70),
+3,"Tao, Andrea Rae",NANO 115L - NanoEngineering Laboratory (A),SP23,7,4,100.0%,100.0%,2.5,A (4.00),
+4,"Horvath, Stephen",NANO 115L - NanoEngineering Laboratory (B),SP23,29,13,46.2%,76.9%,6.81,B+ (3.46),B (3.16)
+5,"Vecchio, Kenneth S",NANO 120B - NanoEng Systems Design II (B),SP23,13,3,100.0%,100.0%,9.83,A (4.00),
+6,"Ong, Shyue Ping",NANO 120B - NanoEng Systems Design II (C),SP23,17,6,100.0%,100.0%,8.5,A (4.00),
+7,"Lubarda, Vlado",NANO 141A - Eng Mech I: Analysis of Equil (A),SP23,19,15,93.3%,100.0%,6.1,A- (3.73),
+8,"Fullerton, Eric E",NANO 156 - Modern Concepts/Nanotechnology (A),SP23,28,10,60.0%,60.0%,7.3,B- (2.78),B (3.13)
+9,"Steinmetz, Nicole F",NANO 175 - NanoEngineering in Medicine (A),SP23,35,13,100.0%,100.0%,4.65,B+ (3.67),B+ (3.62)
+10,"Sirbuly, Donald",NANO 104 - Foundatn NanoEng/Physical Prin (A),WI23,49,14,92.9%,92.9%,7.79,B+ (3.36),B (3.20)
+11,"Cubukcu, Ertugrul",NANO 107 - Elect Dev&Circuits for NanoEng (A),WI23,44,16,50.0%,43.8%,8.88,B (3.13),B- (2.96)
+12,"Lubarda, Vlado",NANO 108 - Materials Science & Engineerng (A),WI23,45,30,100.0%,100.0%,5.23,B+ (3.53),B+ (3.59)
+13,"Lipomi, Darren John",NANO 11 - Intro to NanoEngineering (A),WI23,55,27,91.7%,95.8%,6.0,B (3.29),B (3.24)
+14,"Lubarda, Vlado",NANO 114 - Prob and Stat Methods for Eng (A),WI23,36,27,92.6%,100.0%,4.43,B+ (3.59),B+ (3.34)
+15,"Yang, Kesong",NANO 120A - NanoEng Systems Design I (A),WI23,7,3,100.0%,100.0%,15.17,A (4.00),
+16,"Horvath, Stephen",NANO 120A - NanoEng Systems Design I (B),WI23,25,11,70.0%,100.0%,7.59,A- (3.70),B+ (3.48)
+17,"Pokorski, Jonathan Kyle",NANO 134 - Polymeric Materials (A),WI23,31,17,76.5%,88.2%,5.79,B (3.25),B- (2.90)
+18,"Luo, Jian",NANO 148 - Thermodynamics of Materials (A),WI23,39,15,46.7%,53.3%,7.93,B- (2.92),B (3.21)
+19,"Drews, Aaron",NANO 15 - Engin. Comp Using MATLAB (A),WI23,25,15,71.4%,71.4%,7.17,B+ (3.50),C+ (2.58)
+20,"Tao, Andrea Rae",NANO 102 - Foundatn NanoEng: Chem Princpl (A),FA22,64,24,91.7%,91.7%,7.0,B+ (3.33),B- (2.92)
+21,"Pascal, Tod A",NANO 110 - Modeling of Nanoscale Systems (A),FA22,40,36,88.9%,97.2%,8.22,B+ (3.34),B (3.24)
+22,"Fenning, David",NANO 111 - Characterization/NanoEng Systm (A),FA22,51,24,65.2%,56.5%,8.07,B (3.04),B (3.15)
+23,"Cubukcu, Ertugrul",NANO 117 - Multi-scale Transport (A),FA22,26,8,75.0%,75.0%,5.0,B (3.13),B+ (3.35)
+24,"Vazquez Mena, Oscar",NANO 119 - NanoEng System Design Seminar (A),FA22,4,4,50.0%,100.0%,5.0,A- (3.75),
+25,"Wang, Joseph",NANO 159 - Electrochem:Fundamentals&Appl (A),FA22,27,9,100.0%,100.0%,7.0,A- (3.86),B (3.22)
+26,"Lubarda, Vlado",NANO 15R - Eng Comp Using MATLAB Online (A),FA22,24,12,100.0%,91.7%,3.67,A- (3.83),B (3.28)
+27,"Lubarda, Vlado",NANO 15R - Eng Comp Using MATLAB Online (B),FA22,26,14,85.7%,92.9%,4.36,B+ (3.46),B (3.04)
+28,"Ong, Shyue Ping",NANO 181 - Data Sci in Materials Sci (A),FA22,10,6,100.0%,100.0%,9.83,B+ (3.50),
+29,"Sirbuly, Donald",NANO 20L - IntroNanomaterialSynthesisLab (A),FA22,29,9,100.0%,100.0%,2.94,A- (3.89),B+ (3.68)
+30,"Sirbuly, Donald",NANO 20L - IntroNanomaterialSynthesisLab (C),FA22,14,8,100.0%,100.0%,2.5,A- (3.86),
+31,"Vazquez Mena, Oscar",NANO 4 - Experience NanoEngineering (A),FA22,17,16,100.0%,100.0%,1.63,A (4.00),
+32,"Vazquez Mena, Oscar",NANO 4 - Experience NanoEngineering (B),FA22,20,16,100.0%,100.0%,1.5,B+ (3.40),
+33,"Vazquez Mena, Oscar",NANO 4 - Experience NanoEngineering (C),FA22,16,7,100.0%,85.7%,1.64,,
+34,"Yang, Kesong",NANO 15 - Engin. Comp Using MATLAB (A),S222,9,5,60.0%,80.0%,4.1,B+ (3.60),
+35,"Jahed Motlagh, Zeinab",NANO 103 - Foundatn NanoEng/Biochem Princ (A),SP22,24,21,85.7%,85.7%,5.36,B+ (3.42),B+ (3.51)
+36,"Yang, Kesong",NANO 106 - Crystallography of Materials (A),SP22,21,16,100.0%,100.0%,4.75,B+ (3.56),B (3.08)
+37,"Luo, Jian",NANO 108 - Materials Science & Engineerng (A),SP22,71,43,88.1%,71.4%,5.36,B+ (3.40),B (3.04)
+38,"Vazquez Mena, Oscar",NANO 112 - Synthesis/Fabricatn/NanoEngSys (A),SP22,64,55,90.9%,98.2%,5.19,B+ (3.43),B+ (3.48)
+39,"Tao, Andrea Rae",NANO 115L - NanoEngineering Laboratory (A),SP22,13,6,80.0%,100.0%,5.7,A (4.00),
+40,"Cubukcu, Ertugrul",NANO 117 - Multi-scale Transport (A),SP22,24,9,88.9%,88.9%,6.72,B+ (3.63),B (3.23)
+41,"Pokorski, Jonathan Kyle",NANO 120B - NanoEng Systems Design II (A),SP22,34,14,75.0%,91.7%,7.0,A- (3.83),A- (3.72)
+42,"Ong, Shyue Ping",NANO 120B - NanoEng Systems Design II (B),SP22,20,6,100.0%,100.0%,10.83,A (4.00),A- (3.78)
+43,"Xu, Sheng",NANO 156 - Modern Concepts/Nanotechnology (A),SP22,74,34,96.9%,100.0%,4.56,B+ (3.35),A- (3.71)
+44,"Steinmetz, Nicole F",NANO 175 - NanoEngineering in Medicine (A),SP22,24,10,100.0%,100.0%,5.3,B+ (3.60),B+ (3.37)
+45,"Sirbuly, Donald",NANO 104 - Foundatn NanoEng/Physical Prin (A),WI22,51,25,70.8%,78.3%,7.33,B (3.13),B (3.24)
+46,"Cubukcu, Ertugrul",NANO 107 - Elect Dev&Circuits for NanoEng (A),WI22,29,11,72.7%,81.8%,7.59,B+ (3.30),B (3.26)
+47,"Lubarda, Vlado",NANO 108 - Materials Science & Engineerng (A),WI22,68,31,96.8%,100.0%,4.82,A- (3.74),B+ (3.51)
+48,"Lipomi, Darren John",NANO 11 - Intro to NanoEngineering (A),WI22,48,24,87.0%,95.7%,6.33,B+ (3.38),B+ (3.53)
+49,"Vecchio, Kenneth S",NANO 111 - Characterization/NanoEng Systm (A),WI22,27,14,92.9%,92.3%,7.36,B+ (3.36),B (3.06)
+50,"Jahed Motlagh, Zeinab",NANO 114 - Prob and Stat Methods for Eng (A),WI22,19,19,84.2%,89.5%,5.97,B+ (3.50),
+51,"Yang, Kesong",NANO 120A - NanoEng Systems Design I (A),WI22,29,28,89.3%,96.4%,6.71,B+ (3.68),A- (3.71)
+52,"Xu, Sheng",NANO 120A - NanoEng Systems Design I (B),WI22,27,26,100.0%,100.0%,8.0,B+ (3.52),B+ (3.63)
+53,"Pokorski, Jonathan Kyle",NANO 134 - Polymeric Materials (A),WI22,29,16,85.7%,92.3%,4.93,B (3.29),B (3.03)
+54,"Drews, Aaron",NANO 15 - Engin. Comp Using MATLAB (A),WI22,13,5,80.0%,60.0%,9.7,B (3.25),
+55,"Drews, Aaron",NANO 15 - Engin. Comp Using MATLAB (B),WI22,11,5,100.0%,100.0%,6.9,B (3.00),
+56,"Meyers, Marc",NANO 174 - Mech. Behavior of Materials (A),WI22,16,12,100.0%,100.0%,6.0,A- (3.83),
+57,"Vecchio, Kenneth S",NANO 100L - Physical Prop.of Materials Lab (A),FA21,20,13,91.7%,100.0%,12.0,A- (3.75),A- (3.72)
+58,"Jokerst, Jesse Vincent",NANO 102 - Foundatn NanoEng: Chem Princpl (A),FA21,46,43,81.4%,67.4%,9.01,B- (2.79),B- (2.85)
+59,"Pascal, Tod A",NANO 110 - Modeling of Nanoscale Systems (A),FA21,58,54,71.7%,86.8%,10.35,B (3.08),B (3.01)
+60,"Fenning, David",NANO 111 - Characterization/NanoEng Systm (A),FA21,31,19,83.3%,100.0%,5.94,B (3.22),B (3.23)
+61,"Vazquez Mena, Oscar",NANO 119 - NanoEng System Design Seminar (A),FA21,5,5,100.0%,100.0%,2.1,A (4.00),
+62,"Meng, Y.Shirley",NANO 148 - Thermodynamics of Materials (A),FA21,51,33,71.9%,71.9%,6.69,B- (2.94),B+ (3.67)
+63,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),FA21,48,19,44.4%,72.2%,4.5,B (3.06),B- (2.94)
+64,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (B),FA21,43,25,63.6%,72.7%,5.41,B (3.23),B (3.13)
+65,"Sirbuly, Donald",NANO 20L - IntroNanomaterialSynthesisLab (C),FA21,13,5,100.0%,100.0%,3.3,A (4.00),
+66,"Sirbuly, Donald",NANO 20L - IntroNanomaterialSynthesisLab (D),FA21,17,10,100.0%,100.0%,3.7,A- (3.78),
+67,"Vazquez Mena, Oscar",NANO 4 - Experience NanoEngineering (A),FA21,19,16,100.0%,100.0%,1.13,C (2.00),
+68,"Vazquez Mena, Oscar",NANO 4 - Experience NanoEngineering (B),FA21,19,19,100.0%,94.7%,1.24,A (4.00),
+69,"Vazquez Mena, Oscar",NANO 4 - Experience NanoEngineering (C),FA21,14,11,100.0%,100.0%,1.41,A (4.00),
+70,"Vecchio, Kenneth S",NANO 100L - Physical Prop.of Materials Lab (A),SP21,6,3,66.7%,100.0%,15.83,A (4.00),
+71,"Tao, Andrea Rae",NANO 102 - Foundatn NanoEng: Chem Princpl (A),SP21,9,6,83.3%,100.0%,6.83,A (4.00),
+72,"Chen, Yi",NANO 103 - Foundatn NanoEng/Biochem Princ (A),SP21,53,35,80.0%,85.7%,6.16,B+ (3.43),B+ (3.54)
+73,"Yang, Kesong",NANO 106 - Crystallography of Materials (A),SP21,27,20,90.0%,95.0%,5.9,B (3.28),B (3.23)
+74,"Luo, Jian",NANO 108 - Materials Science & Engineerng (A),SP21,65,44,100.0%,83.7%,5.76,A- (3.73),B+ (3.37)
+75,"Sirbuly, Donald",NANO 112 - Synthesis/Fabricatn/NanoEngSys (A),SP21,44,10,100.0%,100.0%,4.7,A- (3.80),B+ (3.52)
+76,"Pokorski, Jonathan Kyle",NANO 120B - NanoEng Systems Design II (B),SP21,22,7,66.7%,66.7%,4.5,A (4.00),A- (3.87)
+77,"Lubarda, Vlado",NANO 150 - Mechanics of Nanomaterials (A),SP21,26,10,100.0%,88.9%,6.5,A- (3.89),B+ (3.38)
+78,"Horvath, Stephen",NANO 161 - Material Selection/Engineering (A),SP21,31,12,100.0%,100.0%,8.5,B+ (3.55),B (3.20)
+79,"Lipomi, Darren John",NANO 101 - Introduction to NanoEngineerng (A),WI21,30,13,100.0%,100.0%,6.96,A- (3.77),A- (3.74)
+80,"Sirbuly, Donald",NANO 104 - Foundatn NanoEng/Physical Prin (A),WI21,55,22,77.3%,68.2%,8.68,B (3.06),B (3.24)
+81,"Cubukcu, Ertugrul",NANO 107 - Elect Dev&Circuits for NanoEng (A),WI21,53,18,83.3%,82.4%,8.17,B (3.00),B (3.28)
+82,"Lubarda, Vlado",NANO 108 - Materials Science & Engineerng (A),WI21,51,22,100.0%,95.5%,5.77,A- (3.71),B+ (3.66)
+83,"Lipomi, Darren John",NANO 11 - Intro to NanoEngineering (A),WI21,37,23,100.0%,100.0%,6.67,A- (3.73),A- (3.75)
+84,"Vecchio, Kenneth S",NANO 111 - Characterization/NanoEng Systm (A),WI21,37,24,72.7%,63.6%,6.93,B (3.10),B+ (3.44)
+85,"Drews, Aaron",NANO 114 - Prob and Stat Methods for Eng (A),WI21,20,17,100.0%,100.0%,4.74,B+ (3.53),A- (3.76)
+86,"Jokerst, Jesse Vincent",NANO 120A - NanoEng Systems Design I (A),WI21,20,18,76.5%,88.2%,12.06,B+ (3.56),B+ (3.57)
+87,"Xu, Sheng",NANO 120A - NanoEng Systems Design I (B),WI21,16,14,64.3%,78.6%,9.79,B+ (3.50),
+88,"Pokorski, Jonathan Kyle",NANO 134 - Polymeric Materials (A),WI21,15,8,100.0%,100.0%,5.5,B (3.29),
+89,"Yang, Kesong",NANO 15 - Engin. Comp Using MATLAB (A),WI21,5,3,100.0%,100.0%,5.83,A (4.00),
+90,"Steinmetz, Nicole F",NANO 175 - NanoEngineering in Medicine (A),WI21,47,22,95.5%,100.0%,4.05,A- (3.86),A- (3.86)
+91,"Chen, Yi",NANO 102 - Foundatn NanoEng: Chem Princpl (A),FA20,53,46,84.8%,84.8%,7.67,B+ (3.30),B (3.29)
+92,"Pascal, Tod A",NANO 110 - Modeling of Nanoscale Systems (A),FA20,37,35,79.4%,94.1%,8.09,B (3.21),B- (2.99)
+93,"Meng, Y.Shirley",NANO 148 - Thermodynamics of Materials (A),FA20,36,21,95.2%,95.2%,6.79,B+ (3.43),A- (3.71)
+94,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),FA20,42,19,94.7%,100.0%,6.71,B+ (3.58),B+ (3.62)
+95,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (B),FA20,30,25,95.7%,95.7%,5.2,A- (3.78),A- (3.86)
+96,"Tao, Andrea Rae",NANO 156 - Nanomaterials (A),FA20,78,45,73.3%,77.8%,7.79,B (3.05),B (3.17)
+97,"Meyers, Marc",NANO 174 - Mech. Behavior of Materials (A),FA20,15,10,88.9%,88.9%,5.17,B+ (3.44),
+98,"Vazquez Mena, Oscar",NANO 4 - Experience NanoEngineering (A),FA20,30,19,100.0%,100.0%,1.66,A (4.00),
+99,"Vazquez Mena, Oscar",NANO 4 - Experience NanoEngineering (B),FA20,18,16,100.0%,100.0%,2.0,A (4.00),
+100,"Chen, Yi",NANO 103 - Foundatn NanoEng/Biochem Princ (A),SP20,40,20,89.5%,84.2%,6.82,B+ (3.67),B+ (3.54)
+101,"Ong, Shyue Ping",NANO 106 - Crystallography of Materials (A),SP20,61,41,87.8%,92.7%,6.99,B (3.27),B+ (3.41)
+102,"Tao, Andrea Rae",NANO 112 - Synthesis/Fabricatn/NanoEngSys (A),SP20,64,20,84.2%,94.7%,4.61,A- (3.76),B+ (3.41)
+103,"Cubukcu, Ertugrul",NANO 120B - NanoEng Systems Design II (A),SP20,26,9,75.0%,87.5%,8.0,A- (3.71),A- (3.83)
+104,"Tao, Andrea Rae",NANO 120B - NanoEng Systems Design II (B),SP20,34,9,50.0%,62.5%,11.75,B+ (3.33),A- (3.73)
+105,"Bae, Jinhye",NANO 134 - Polymeric Materials (A),SP20,26,25,100.0%,96.0%,6.26,B+ (3.42),B+ (3.54)
+106,"Lubarda, Vlado",NANO 141A - Eng Mech I: Analysis of Equil (A),SP20,35,9,100.0%,100.0%,5.17,A- (3.71),B+ (3.42)
+107,"Meng, Y.Shirley",NANO 148 - Thermodynamics of Materials (A),SP20,47,31,96.8%,96.7%,5.4,B+ (3.64),A- (3.71)
+108,"Lubarda, Vlado",NANO 150 - Mechanics of Nanomaterials (A),SP20,15,7,100.0%,100.0%,7.07,A (4.00),
+109,"Wang, Joseph",NANO 159 - Electrochem:Fundamentals&Appl (A),SP20,14,8,100.0%,100.0%,8.0,A (4.00),
+110,"Horvath, Stephen",NANO 161 - Material Selection/Engineering (A),SP20,16,7,66.7%,83.3%,6.83,B (3.17),
+111,"Steinmetz, Nicole F",NANO 175 - NanoEngineering in Medicine (A),SP20,28,13,100.0%,100.0%,4.17,A- (3.82),A- (3.70)
+112,"Vecchio, Kenneth S",NANO 100L - Physical Prop.of Materials Lab (A),WI20,11,7,66.7%,83.3%,8.5,B (3.17),
+113,"Lipomi, Darren John",NANO 101 - Introduction to NanoEngineerng (A),WI20,29,12,91.7%,100.0%,7.0,B+ (3.50),B+ (3.58)
+114,"Lipomi, Darren John",NANO 101 - Introduction to NanoEngineerng (B),WI20,33,13,92.3%,100.0%,6.35,B (3.23),B+ (3.48)
+115,"Vazquez Mena, Oscar",NANO 104 - Foundatn NanoEng/Physical Prin (A),WI20,37,33,100.0%,100.0%,4.94,B+ (3.66),B+ (3.48)
+116,"Cubukcu, Ertugrul",NANO 107 - Elect Dev&Circuits for NanoEng (A),WI20,38,21,89.5%,89.5%,6.8,B+ (3.37),B (3.25)
+117,"Vecchio, Kenneth S",NANO 111 - Characterization/NanoEng Systm (A),WI20,56,24,68.2%,54.5%,6.59,B+ (3.64),B+ (3.52)
+118,"Opatkiewicz, Justin Paul",NANO 114 - Prob and Stat Methods for Eng (A),WI20,13,11,80.0%,100.0%,9.41,B (3.00),
+119,"Sirbuly, Donald",NANO 120A - NanoEng Systems Design I (A),WI20,29,11,80.0%,80.0%,13.59,B+ (3.55),B+ (3.39)
+120,"Jokerst, Jesse Vincent",NANO 120A - NanoEng Systems Design I (B),WI20,30,12,50.0%,75.0%,12.83,B (3.25),B+ (3.44)
+121,"Pokorski, Jonathan Kyle",NANO 134 - Polymeric Materials (A),WI20,15,4,100.0%,100.0%,3.5,B- (2.75),
+122,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),WI20,11,4,100.0%,100.0%,3.5,B+ (3.67),
+123,"Luo, Jian",NANO 158 - Phase Transformations/Kinetics (A),WI20,13,6,83.3%,50.0%,6.5,A (4.00),
+124,"Xu, Sheng",NANO 4 - Experience NanoEngineering (A),WI20,10,6,100.0%,100.0%,0.83,A (4.00),
+125,"Xu, Sheng",NANO 4 - Experience NanoEngineering (B),WI20,11,5,100.0%,100.0%,0.5,,
+126,"Vazquez Mena, Oscar",NANO 4 - Experience NanoEngineering (C),WI20,20,11,90.9%,100.0%,0.5,A (4.00),
+127,"Chen, Yi",NANO 102 - Foundatn NanoEng: Chem Princpl (A),FA19,16,11,90.9%,81.8%,7.23,B (3.18),
+128,"Tao, Andrea Rae",NANO 102 - Foundatn NanoEng: Chem Princpl (B),FA19,25,12,83.3%,91.7%,6.5,B (3.00),B (3.07)
+129,"Fenning, David",NANO 108 - Materials Science & Engineerng (A),FA19,48,30,59.3%,66.7%,8.63,B (3.10),B (3.07)
+130,"Pascal, Tod A",NANO 110 - Modeling of Nanoscale Systems (A),FA19,61,54,75.9%,88.9%,11.35,B- (2.94),B (3.23)
+131,"Yang, Kesong",NANO 15 - Engin. Comp Using MATLAB (A),FA19,35,29,100.0%,86.2%,4.71,B+ (3.59),B (3.04)
+132,"Yang, Kesong",NANO 15 - Engin. Comp Using MATLAB (B),FA19,32,26,92.3%,88.0%,5.27,B+ (3.50),B (3.10)
+133,"Xu, Sheng",NANO 156 - Nanomaterials (B),FA19,63,44,86.0%,81.0%,4.73,B (3.21),B+ (3.52)
+134,"Drews, Aaron",NANO 15R - Eng Comp Using MATLAB Online (A),FA19,14,10,80.0%,90.0%,7.1,B+ (3.50),
+135,"Meng, Y.Shirley",NANO 164 - Adv Micro & Nano Materl/Energy (A),FA19,44,34,94.1%,94.1%,5.59,B+ (3.62),B+ (3.65)
+136,"Opatkiewicz, Justin Paul",NANO 114 - Prob and Stat Methods for Eng (A),S219,8,7,100.0%,100.0%,9.64,B (3.14),
+137,"Herz, Richard K",NANO 15 - Engin. Comp Using MATLAB (A),S219,6,4,100.0%,100.0%,6.5,A (4.00),
+138,"Chen, Yi",NANO 103 - Foundatn NanoEng/Biochem Princ (A),SP19,58,38,86.5%,73.0%,5.58,B+ (3.43),B+ (3.52)
+139,"Ong, Shyue Ping",NANO 106 - Crystallography of Materials (A),SP19,53,46,80.4%,86.7%,8.15,B- (2.80),B- (2.83)
+140,"Chen, Shaochen",NANO 112 - Synthesis/Fabricatn/NanoEngSys (A),SP19,67,30,83.3%,96.7%,3.03,B+ (3.47),B+ (3.52)
+141,"Tao, Andrea Rae",NANO 120B - NanoEng Systems Design II (A),SP19,25,7,100.0%,83.3%,6.21,B+ (3.33),B+ (3.34)
+142,"Sirbuly, Donald",NANO 120B - NanoEng Systems Design II (B),SP19,34,15,42.9%,69.2%,8.21,B+ (3.43),B+ (3.45)
+143,"Pokorski, Jonathan Kyle",NANO 134 - Polymeric Materials (A),SP19,46,20,88.9%,77.8%,5.17,B (3.11),B (3.01)
+144,"Lubarda, Vlado",NANO 141A - Eng Mech I: Analysis of Equil (A),SP19,18,9,100.0%,100.0%,5.5,A (4.00),
+145,"Fullerton, Eric E",NANO 168 - Electr/Dielectr/Magnetic Propr (A),SP19,19,6,60.0%,80.0%,11.3,B (3.00),
+146,"Horvath, Stephen",NANO 174L - Mech. Behavior Laboratory (A),SP19,11,4,100.0%,100.0%,6.0,A- (3.75),
+147,"Horvath, Stephen",NANO 1 - NanoEngineering Seminar (A),WI19,32,9,77.8%,100.0%,0.5,A (4.00),
+148,"Cubukcu, Ertugrul",NANO 100L - Physical Prop.of Materials Lab (A),WI19,22,9,88.9%,88.9%,7.83,A- (3.78),B+ (3.63)
+149,"Lipomi, Darren John",NANO 101 - Introduction to NanoEngineerng (A),WI19,66,21,94.4%,100.0%,6.17,B+ (3.53),B (3.25)
+150,"Vazquez Mena, Oscar",NANO 104 - Foundatn NanoEng/Physical Prin (A),WI19,60,53,67.9%,77.4%,6.35,B (3.23),B+ (3.36)
+151,"Cubukcu, Ertugrul",NANO 107 - Elect Dev&Circuits for NanoEng (A),WI19,56,27,95.8%,95.7%,7.42,B+ (3.38),B (3.06)
+152,"Vecchio, Kenneth S",NANO 111 - Characterization/NanoEng Systm (A),WI19,63,18,72.2%,55.6%,4.39,B (3.17),B (3.12)
+153,"Ong, Shyue Ping",NANO 114 - Prob and Stat Methods for Eng (A),WI19,18,15,93.3%,93.3%,5.17,B+ (3.33),
+154,"Sirbuly, Donald",NANO 120A - NanoEng Systems Design I (A),WI19,29,9,77.8%,100.0%,9.17,B (3.22),B+ (3.57)
+155,"Jokerst, Jesse Vincent",NANO 120A - NanoEng Systems Design I (B),WI19,29,7,57.1%,100.0%,11.36,B+ (3.43),B (3.24)
+156,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),WI19,13,4,75.0%,100.0%,5.0,B (3.25),
+157,"Meyers, Marc",NANO 174 - Mech. Behavior of Materials (A),WI19,28,9,62.5%,50.0%,6.25,A- (3.88),B+ (3.34)
+158,"Vazquez Mena, Oscar",NANO 4 - Experience NanoEngineering (C),WI19,20,19,100.0%,100.0%,0.5,A (4.00),
+159,"Xu, Sheng",NANO 4 - Experience NanoEngineering (D),WI19,28,12,100.0%,100.0%,0.5,A (4.00),
+160,"Chen, Yi",NANO 102 - Foundatn NanoEng: Chem Princpl (A),FA18,60,52,78.8%,73.1%,6.58,B (3.25),B+ (3.31)
+161,"Horvath, Stephen",NANO 108 - Materials Science & Engineerng (A),FA18,73,44,92.7%,87.8%,7.02,B (3.02),C+ (2.63)
+162,"Pascal, Tod A",NANO 110 - Modeling of Nanoscale Systems (A),FA18,61,30,64.3%,75.0%,7.21,B (3.29),C+ (2.65)
+163,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),FA18,47,19,82.4%,75.0%,4.97,A- (3.71),B+ (3.35)
+164,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (B),FA18,44,24,86.4%,81.8%,4.77,B+ (3.48),B+ (3.35)
+165,"Drews, Aaron",NANO 15 - Engin. Comp Using MATLAB (C),FA18,19,9,100.0%,100.0%,10.06,B+ (3.33),
+166,"Xu, Sheng",NANO 156 - Nanomaterials (A),FA18,103,78,90.8%,93.4%,4.34,B+ (3.54),B+ (3.69)
+167,"Herz, Richard K",NANO 15 - Engin. Comp Using MATLAB (A),S218,6,3,100.0%,100.0%,4.5,B+ (3.67),
+168,"Chen, Yi",NANO 103 - Foundatn NanoEng/Biochem Princ (A),SP18,63,26,56.0%,68.0%,3.86,B+ (3.44),B+ (3.48)
+169,"Ong, Shyue Ping",NANO 106 - Crystallography of Materials (A),SP18,67,63,81.0%,93.5%,8.21,B (3.13),B- (2.92)
+170,"Chen, Shaochen",NANO 112 - Synthesis/Fabricatn/NanoEngSys (A),SP18,43,16,75.0%,87.5%,2.63,A- (3.81),B+ (3.69)
+171,"Tao, Andrea Rae",NANO 120B - NanoEng Systems Design II (A),SP18,24,9,87.5%,71.4%,8.25,B+ (3.38),B+ (3.41)
+172,"Sirbuly, Donald",NANO 120B - NanoEng Systems Design II (B),SP18,18,5,100.0%,100.0%,5.3,B+ (3.60),
+173,"Lipomi, Darren John",NANO 134 - Polymeric Materials (A),SP18,62,35,91.2%,97.1%,6.21,B+ (3.40),B (3.14)
+174,"Meng, Y.Shirley",NANO 148 - Thermodynamics of Materials (A),SP18,41,35,100.0%,100.0%,5.41,B+ (3.50),B+ (3.55)
+175,"Lubarda, Vlado",NANO 161 - Material Selection/Engineering (A),SP18,20,11,90.9%,90.9%,5.41,B+ (3.45),B+ (3.41)
+176,"Luo, Jian",NANO 1 - NanoEngineering Seminar (A),WI18,18,8,100.0%,87.5%,1.5,B+ (3.50),
+177,"Luo, Jian",NANO 1 - NanoEngineering Seminar (B),WI18,8,6,50.0%,83.3%,0.5,A (4.00),
+178,"Cubukcu, Ertugrul",NANO 100L - Physical Prop.of Materials Lab (A),WI18,20,6,100.0%,100.0%,6.9,A- (3.83),A- (3.79)
+179,"Lipomi, Darren John",NANO 101 - Introduction to NanoEngineerng (A),WI18,82,43,100.0%,100.0%,6.16,B+ (3.46),B (3.29)
+180,"Vazquez Mena, Oscar",NANO 104 - Foundatn NanoEng/Physical Prin (A),WI18,63,26,26.1%,26.1%,4.33,B+ (3.43),B (3.28)
+181,"Cubukcu, Ertugrul",NANO 107 - Elect Dev&Circuits for NanoEng (A),WI18,65,22,80.0%,90.0%,6.9,B (3.14),B (3.27)
+182,"Fenning, David",NANO 111 - Characterization/NanoEng Systm (B),WI18,47,19,77.8%,77.8%,6.82,B (3.06),B (3.13)
+183,"Ong, Shyue Ping",NANO 114 - Prob and Stat Methods for Eng (A),WI18,14,8,100.0%,75.0%,6.5,B+ (3.38),
+184,"Chen, Yi",NANO 120A - NanoEng Systems Design I (A),WI18,27,11,90.9%,100.0%,9.05,B (3.18),B+ (3.62)
+185,"Lubarda, Vlado",NANO 141A - Eng Mech I: Analysis of Equil (A),WI18,18,6,83.3%,100.0%,5.5,B+ (3.67),
+186,"Yang, Kesong",NANO 15 - Engin. Comp Using MATLAB (A),WI18,19,13,84.6%,91.7%,3.88,A- (3.88),
+187,"Drews, Aaron",NANO 15 - Engin. Comp Using MATLAB (B),WI18,9,5,100.0%,100.0%,6.5,B (3.20),
+188,"Meyers, Marc",NANO 150 - Mechanics of Nanomaterials (A),WI18,15,8,62.5%,62.5%,6.5,B (3.13),
+189,"Vazquez Mena, Oscar",NANO 4 - Experience NanoEngineering (A),WI18,20,10,100.0%,100.0%,1.17,,
+190,"Xu, Sheng",NANO 4 - Experience NanoEngineering (C),WI18,13,11,90.9%,100.0%,1.23,A (4.00),
+191,"Xu, Sheng",NANO 4 - Experience NanoEngineering (D),WI18,10,6,83.3%,100.0%,1.17,A (4.00),
+192,"Jokerst, Jesse Vincent",NANO 102 - Foundatn NanoEng: Chem Princpl (A),FA17,70,62,93.4%,86.9%,6.47,B (3.28),B (3.05)
+193,"Vecchio, Kenneth S",NANO 108 - Materials Science & Engineerng (A),FA17,55,29,67.9%,60.7%,6.07,B (3.26),B- (2.82)
+194,"Yang, Kesong",NANO 110 - Modeling of Nanoscale Systems (A),FA17,45,35,94.3%,97.1%,5.53,A- (3.76),A- (3.75)
+195,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),FA17,42,15,92.3%,69.2%,4.21,A- (3.79),B+ (3.62)
+196,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (B),FA17,59,28,84.0%,80.0%,6.1,B+ (3.64),B+ (3.62)
+197,"Xu, Sheng",NANO 156 - Nanomaterials (A),FA17,87,74,98.6%,98.6%,4.8,A- (3.73),A- (3.77)
+198,"Luo, Jian",NANO 158 - Phase Transformations/Kinetics (A),FA17,17,11,100.0%,100.0%,5.59,A- (3.70),
+199,"Herz, Richard K",NANO 15 - Engin. Comp Using MATLAB (A),S217,7,4,100.0%,100.0%,4.5,A (4.00),
+200,"Chen, Yi",NANO 103 - Foundatn NanoEng/Biochem Princ (A),SP17,31,15,80.0%,93.3%,5.03,B+ (3.64),B+ (3.69)
+201,"Ong, Shyue Ping",NANO 106 - Crystallography of Materials (A),SP17,80,74,90.3%,91.7%,8.56,B (3.25),B- (2.91)
+202,"Chen, Shaochen",NANO 112 - Synthesis/Fabricatn/NanoEngSys (A),SP17,75,18,64.7%,70.6%,2.75,B+ (3.31),B+ (3.66)
+203,"Tao, Andrea Rae",NANO 120B - NanoEng Systems Design II (A),SP17,80,16,53.3%,73.3%,9.3,B+ (3.50),B+ (3.62)
+204,"Lipomi, Darren John",NANO 134 - Polymeric Materials (A),SP17,49,24,95.7%,100.0%,6.95,B+ (3.41),B (3.01)
+205,"Meng, Y.Shirley",NANO 148 - Thermodynamics of Materials (A),SP17,44,35,94.1%,91.2%,5.44,B+ (3.67),B+ (3.52)
+206,"Lubarda, Vlado",NANO 150 - Mechanics of Nanomaterials (A),SP17,29,10,100.0%,100.0%,6.9,B+ (3.30),B+ (3.45)
+207,"Fullerton, Eric E",NANO 168 - Electr/Dielectr/Magnetic Propr (A),SP17,16,3,100.0%,100.0%,6.5,A (4.00),
+208,"Wang, Joseph",NANO 1 - NanoEngineering Seminar (A),WI17,33,19,84.2%,94.7%,0.61,B+ (3.50),
+209,"Cubukcu, Ertugrul",NANO 100L - Physical Prop.of Materials Lab (A),WI17,27,11,100.0%,90.9%,8.7,B (3.27),B+ (3.57)
+210,"Horvath, Stephen",NANO 100L - Physical Prop.of Materials Lab (A),WI17,26,11,100.0%,100.0%,8.5,B (3.27),B+ (3.57)
+211,"Lipomi, Darren John",NANO 101 - Introduction to NanoEngineerng (A),WI17,97,59,89.3%,94.6%,5.46,B+ (3.44),B (3.11)
+212,"Sirbuly, Donald",NANO 104 - Foundatn NanoEng/Physical Prin (A),WI17,44,15,76.9%,69.2%,8.5,B (3.08),B- (2.86)
+213,"Vazquez Mena, Oscar",NANO 104 - Foundatn NanoEng/Physical Prin (A),WI17,44,15,76.9%,92.3%,8.5,B (3.08),B- (2.86)
+214,"Cubukcu, Ertugrul",NANO 107 - Elect Dev&Circuits for NanoEng (A),WI17,61,24,87.5%,95.8%,6.41,B (3.17),B (3.05)
+215,"Fenning, David",NANO 111 - Characterization/NanoEng Systm (A),WI17,66,54,70.4%,66.7%,6.19,B (3.17),B (3.03)
+216,"Ong, Shyue Ping",NANO 114 - Prob and Stat Methods for Eng (A),WI17,15,11,100.0%,100.0%,7.05,B (3.27),
+217,"Sirbuly, Donald",NANO 120A - NanoEng Systems Design I (A),WI17,80,29,85.2%,88.9%,9.37,B+ (3.46),B (3.21)
+218,"Lubarda, Vlado",NANO 141A - Eng Mech I: Analysis of Equil (A),WI17,18,10,87.5%,100.0%,3.93,B+ (3.57),
+219,"Yang, Kesong",NANO 15 - Engin. Comp Using MATLAB (A),WI17,46,38,92.1%,76.3%,5.45,B+ (3.54),B (3.03)
+220,"Lubarda, Vlado",NANO 174 - Mech. Behavior of Materials (A),WI17,17,10,100.0%,100.0%,4.72,B+ (3.44),
+221,"Xu, Sheng",NANO 4 - Experience NanoEngineering (A),WI17,28,20,94.7%,94.7%,0.83,A (4.00),
+222,"Vazquez Mena, Oscar",NANO 4 - Experience NanoEngineering (B),WI17,25,15,93.3%,93.3%,0.63,A (4.00),
+223,"Tao, Andrea Rae",NANO 102 - Foundatn NanoEng: Chem Princpl (A),FA16,42,21,85.0%,85.0%,7.9,B- (2.95),C+ (2.69)
+224,"Vecchio, Kenneth S",NANO 108 - Materials Science & Engineerng (A),FA16,77,31,78.6%,42.9%,6.14,B (3.00),C+ (2.45)
+225,"Arya, Gaurav",NANO 110 - Modeling of Nanoscale Systems (A),FA16,79,33,78.1%,87.5%,6.1,B+ (3.32),B (3.09)
+226,"Drews, Aaron",NANO 15 - Engin. Comp Using MATLAB (A),FA16,13,13,100.0%,100.0%,6.5,B+ (3.33),
+227,"Drews, Aaron",NANO 15 - Engin. Comp Using MATLAB (B),FA16,14,13,84.6%,92.3%,7.88,B+ (3.38),
+228,"Drews, Aaron",NANO 15 - Engin. Comp Using MATLAB (C),FA16,15,13,92.3%,92.3%,7.12,A- (3.73),
+229,"Xu, Sheng",NANO 156 - Nanomaterials (A),FA16,51,23,95.5%,95.5%,3.93,B+ (3.67),B+ (3.66)
+230,"Meng, Y.Shirley",NANO 164 - Adv Micro & Nano Materl/Energy (A),FA16,39,24,90.9%,95.5%,5.59,B+ (3.41),B+ (3.67)
+231,"Herz, Richard K",NANO 15 - Engin. Comp Using MATLAB (A),S216,11,6,100.0%,100.0%,5.0,A (4.00),
+232,"Opatkiewicz, Justin Paul",NANO 114 - Prob and Stat Methods for Eng (A),S116,15,12,83.3%,91.7%,6.67,B (3.25),
+233,"Chen, Yi",NANO 103 - Foundatn NanoEng/Biochem Princ (A),SP16,84,41,80.5%,56.1%,5.63,B+ (3.30),B (3.29)
+234,"Ong, Shyue Ping",NANO 106 - Crystallography of Materials (A),SP16,88,70,84.3%,90.0%,7.92,B (3.25),B- (2.92)
+235,"Chen, Shaochen",NANO 112 - Synthesis/Fabricatn/NanoEngSys (A),SP16,68,22,63.6%,72.7%,3.23,B+ (3.50),B (3.16)
+236,"Cubukcu, Ertugrul",NANO 120B - NanoEng Systems Design II (A),SP16,72,24,75.0%,66.7%,9.28,B+ (3.38),B+ (3.52)
+237,"Fenning, David",NANO 120B - NanoEng Systems Design II (A),SP16,72,23,78.3%,82.6%,9.5,B+ (3.39),B+ (3.52)
+238,"Luo, Jian",NANO 120B - NanoEng Systems Design II (A),SP16,72,23,78.3%,82.6%,9.5,B+ (3.39),B+ (3.52)
+239,"Sirbuly, Donald",NANO 120B - NanoEng Systems Design II (A),SP16,72,23,78.3%,91.3%,9.5,B+ (3.39),B+ (3.52)
+240,"Liu, Ping",NANO 148 - Thermodynamics of Materials (A),SP16,78,64,70.3%,64.1%,7.38,B+ (3.35),B (3.13)
+241,"Lubarda, Vlado",NANO 150 - Mechanics of Nanomaterials (A),SP16,31,10,90.0%,90.0%,6.3,B+ (3.56),B+ (3.32)
+242,"Horvath, Stephen",NANO 161 - Material Selection/Engineering (A),SP16,55,26,96.0%,96.0%,4.66,A- (3.72),B+ (3.48)
+243,"Fullerton, Eric E",NANO 168 - Electr/Dielectr/Magnetic Propr (A),SP16,19,8,83.3%,100.0%,7.17,B (3.17),
+244,"Wang, Joseph",NANO 1 - NanoEngineering Seminar (A),WI16,41,21,89.5%,94.7%,1.87,A (4.00),
+245,"Chen, Shaochen",NANO 101 - Introduction to NanoEngineerng (A),WI16,77,39,89.7%,87.2%,3.91,B+ (3.45),B (3.13)
+246,"Sirbuly, Donald",NANO 104 - Foundatn NanoEng/Physical Prin (A),WI16,90,78,71.8%,73.1%,7.47,B- (2.97),B- (2.86)
+247,"Esener, Sadik C",NANO 107 - Elect Dev&Circuits for NanoEng (A),WI16,103,55,49.0%,62.7%,10.08,B- (2.96),B- (2.95)
+248,"Meng, Y.Shirley",NANO 111 - Characterization/NanoEng Systm (A),WI16,90,61,88.3%,78.3%,4.78,B+ (3.49),B+ (3.48)
+249,"Ong, Shyue Ping",NANO 114 - Prob and Stat Methods for Eng (A),WI16,14,12,100.0%,100.0%,6.83,B+ (3.50),
+250,"Chen, Yi",NANO 120A - NanoEng Systems Design I (A),WI16,72,27,91.7%,83.3%,7.67,B (3.25),B+ (3.39)
+251,"Jokerst, Jesse Vincent",NANO 120A - NanoEng Systems Design I (A),WI16,72,27,91.7%,100.0%,7.67,B (3.25),B+ (3.39)
+252,"Sirbuly, Donald",NANO 120A - NanoEng Systems Design I (A),WI16,72,27,91.7%,100.0%,7.67,B (3.25),B+ (3.39)
+253,"Lipomi, Darren John",NANO 134 - Polymeric Materials (A),WI16,61,29,96.3%,100.0%,4.8,B+ (3.50),B+ (3.36)
+254,"Lubarda, Vlado",NANO 141A - Eng Mech I: Analysis of Equil (A),WI16,45,23,100.0%,90.9%,6.32,B+ (3.62),B (3.20)
+255,"Xu, Sheng",NANO 4 - Experience NanoEngineering (A),WI16,16,8,87.5%,87.5%,0.75,A (4.00),
+256,"Xu, Sheng",NANO 4 - Experience NanoEngineering (B),WI16,15,6,100.0%,100.0%,0.83,A (4.00),
+257,"Vecchio, Kenneth S",NANO 100L - Physical Prop.of Materials Lab (A),FA15,14,4,100.0%,100.0%,7.0,A- (3.75),
+258,"Tao, Andrea Rae",NANO 102 - Foundatn NanoEng: Chem Princpl (A),FA15,101,34,90.9%,90.9%,7.29,B (3.15),C+ (2.63)
+259,"Vecchio, Kenneth S",NANO 108 - Materials Science & Engineerng (A),FA15,102,42,68.3%,48.8%,5.25,B (3.03),B- (2.96)
+260,"Arya, Gaurav",NANO 110 - Modeling of Nanoscale Systems (A),FA15,74,23,95.5%,81.8%,6.41,B+ (3.36),B (3.01)
+261,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),FA15,72,31,87.1%,74.2%,5.4,A- (3.71),B+ (3.34)
+262,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (B),FA15,70,42,85.4%,68.3%,5.95,B+ (3.65),B+ (3.34)
+263,"Graeve, Olivia A",NANO 156 - Nanomaterials (A),FA15,54,9,77.8%,77.8%,4.94,A- (3.89),B (3.04)
+264,"Luo, Jian",NANO 158 - Phase Transformations/Kinetics (A),FA15,28,9,88.9%,55.6%,5.39,B+ (3.33),B+ (3.50)
+265,"Opatkiewicz, Justin Paul",NANO 114 - Prob and Stat Methods for Eng (A),S215,16,13,92.3%,100.0%,9.0,B+ (3.38),
+266,"Chen, Yi",NANO 103 - Foundatn NanoEng/Biochem Princ (A),SP15,90,36,68.8%,53.1%,5.27,B+ (3.38),B (3.22)
+267,"Ong, Shyue Ping",NANO 106 - Crystallography of Materials (A),SP15,133,104,85.3%,97.1%,9.05,B (3.18),B- (2.99)
+268,"Chen, Shaochen",NANO 112 - Synthesis/Fabricatn/NanoEngSys (A),SP15,66,19,89.5%,89.5%,3.55,B+ (3.47),B+ (3.42)
+269,"Esener, Sadik C",NANO 120B - NanoEng Systems Design II (A),SP15,83,23,81.0%,81.0%,7.0,A- (3.71),B+ (3.54)
+270,"Luo, Jian",NANO 120B - NanoEng Systems Design II (A),SP15,83,23,80.0%,90.0%,6.92,A- (3.75),B+ (3.54)
+271,"Sirbuly, Donald",NANO 120B - NanoEng Systems Design II (A),SP15,83,23,75.0%,90.0%,6.92,A- (3.75),B+ (3.54)
+272,"Tao, Andrea Rae",NANO 120B - NanoEng Systems Design II (A),SP15,83,23,80.0%,85.0%,6.92,A- (3.75),B+ (3.54)
+273,"Lubarda, Vlado",NANO 148 - Thermodynamics of Materials (A),SP15,62,26,87.5%,91.7%,7.08,B+ (3.50),B+ (3.41)
+274,"Vecchio, Kenneth S",NANO 158L - Materials Processing Lab (A),SP15,12,6,100.0%,100.0%,14.5,A- (3.83),
+275,"Fullerton, Eric E",NANO 168 - Electr/Dielectr/Magnetic Propr (A),SP15,38,11,80.0%,100.0%,4.9,B+ (3.40),B (3.06)
+276,"Wang, Joseph",NANO 1 - NanoEngineering Seminar (A),WI15,89,39,84.2%,81.6%,1.04,A (4.00),
+277,"Vecchio, Kenneth S",NANO 100L - Physical Prop.of Materials Lab (A),WI15,24,15,100.0%,100.0%,8.21,B+ (3.50),B+ (3.34)
+278,"Chen, Shaochen",NANO 101 - Introduction to NanoEngineerng (A),WI15,212,79,79.5%,57.5%,4.24,B+ (3.45),B- (2.85)
+279,"Sirbuly, Donald",NANO 104 - Foundatn NanoEng/Physical Prin (A),WI15,75,45,74.4%,72.1%,8.02,B- (2.98),B- (2.93)
+280,"Esener, Sadik C",NANO 107 - Elect Dev&Circuits for NanoEng (A),WI15,48,13,54.5%,63.6%,7.59,B- (2.91),B- (2.95)
+281,"Meng, Y.Shirley",NANO 111 - Characterization/NanoEng Systm (A),WI15,97,33,43.3%,33.3%,4.0,B+ (3.36),B+ (3.63)
+282,"Ong, Shyue Ping",NANO 114 - Prob and Stat Methods for Eng (A),WI15,8,8,87.5%,87.5%,7.75,B+ (3.38),
+283,"Chen, Yi",NANO 120A - NanoEng Systems Design I (A),WI15,83,17,93.8%,87.5%,6.1,B+ (3.43),B+ (3.30)
+284,"Heller, Michael J",NANO 120A - NanoEng Systems Design I (A),WI15,83,17,93.8%,81.3%,6.1,B+ (3.43),B+ (3.30)
+285,"Sirbuly, Donald",NANO 120A - NanoEng Systems Design I (A),WI15,83,17,93.8%,100.0%,6.1,B+ (3.43),B+ (3.30)
+286,"Lipomi, Darren John",NANO 134 - Polymeric Materials (A),WI15,55,26,96.0%,96.0%,6.67,B+ (3.61),B+ (3.38)
+287,"Yang, Kesong",NANO 15 - Engin. Comp Using MATLAB (A),WI15,45,17,94.1%,76.5%,4.85,B+ (3.65),B+ (3.30)
+288,"Lubarda, Vlado",NANO 150 - Mechanics of Nanomaterials (A),WI15,37,17,93.8%,100.0%,6.75,B+ (3.63),B+ (3.32)
+289,"Horvath, Stephen",NANO 161 - Material Selection/Engineering (A),WI15,34,14,100.0%,100.0%,4.79,A- (3.79),B+ (3.63)
+290,"Meyers, Marc",NANO 174 - Mech. Behavior of Materials (A),WI15,11,5,100.0%,100.0%,5.7,B+ (3.40),
+291,"Vecchio, Kenneth S",NANO 100L - Physical Prop.of Materials Lab (A),FA14,13,3,100.0%,100.0%,7.83,B+ (3.67),
+292,"Tao, Andrea Rae",NANO 102 - Foundatn NanoEng: Chem Princpl (A),FA14,86,71,91.3%,88.4%,7.38,B (3.21),B- (2.79)
+293,"Lubarda, Vlado",NANO 108 - Materials Science & Engineerng (A),FA14,101,50,93.5%,82.6%,6.31,B+ (3.56),B+ (3.41)
+294,"Arya, Gaurav",NANO 110 - Modeling of NanoEng Systems (A),FA14,83,34,71.9%,53.1%,6.05,B+ (3.52),B- (2.96)
+295,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),FA14,126,59,86.3%,66.7%,6.11,A- (3.81),B+ (3.44)
+296,"Jin, Sungho",NANO 156 - Nanomaterials (A),FA14,28,12,81.8%,81.8%,4.32,B (3.18),B+ (3.55)
+297,"Luo, Jian",NANO 158 - Phase Transformations/Kinetics (A),FA14,26,10,100.0%,88.9%,3.83,A- (3.78),B+ (3.56)
+298,"Meng, Y.Shirley",NANO 164 - Adv Micro & Nano Materl/Energy (A),FA14,74,40,85.7%,65.7%,5.15,B+ (3.50),B+ (3.62)
+299,"Herz, Richard K",NANO 15 - Engin. Comp Using MATLAB (A),S214,9,3,100.0%,100.0%,8.5,B+ (3.67),
+300,"Lipomi, Darren John",NANO 103 - Foundatn NanoEng/Biochem Princ (A),SP14,99,33,90.3%,93.5%,6.37,B+ (3.39),B (3.23)
+301,"Ong, Shyue Ping",NANO 106 - Crystallography of Solids (A),SP14,16,6,50.0%,50.0%,12.5,C+ (2.67),
+302,"Chen, Shaochen",NANO 112 - Synthesis/Fabricatn/NanoEngSys (A),SP14,84,26,88.5%,92.3%,3.5,B+ (3.52),B+ (3.43)
+303,"Esener, Sadik C",NANO 120B - NanoEng Systems Design II (A),SP14,71,26,73.1%,80.8%,6.92,B+ (3.50),B+ (3.51)
+304,"Yang, Kesong",NANO 148 - Thermodynamics of Materials (A),SP14,53,38,84.2%,57.9%,4.87,B+ (3.56),B (3.20)
+305,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),SP14,17,6,100.0%,83.3%,3.17,A- (3.80),
+306,"Fullerton, Eric E",NANO 168 - Electr/Dielectr/Magnetic Propr (A),SP14,37,16,100.0%,100.0%,5.43,B+ (3.56),B (3.23)
+307,"Vecchio, Kenneth S",NANO 174L - Mech. Behavior Laboratory (A),SP14,14,5,80.0%,60.0%,6.5,B+ (3.60),
+308,"Vecchio, Kenneth S",NANO 1 - NanoEngineering Seminar (A),WI14,130,55,96.1%,94.1%,0.88,A- (3.86),
+309,"Vecchio, Kenneth S",NANO 100L - Physical Prop.of Materials Lab (A),WI14,26,10,100.0%,100.0%,5.9,A- (3.90),A- (3.86)
+310,"Wang, Joseph",NANO 101 - Introduction to NanoEngineerng (A),WI14,193,80,89.9%,72.2%,4.21,B+ (3.52),B+ (3.36)
+311,"Sirbuly, Donald",NANO 104 - Foundatn NanoEng/Physical Prin (A),WI14,84,50,83.7%,75.5%,7.52,B (3.14),B (3.10)
+312,"Meng, Y.Shirley",NANO 111 - Characterization/NanoEng Systm (A),WI14,99,29,78.6%,82.1%,4.94,B (3.30),B+ (3.55)
+313,"Heller, Michael J",NANO 120A - NanoEng Systems Design I (A),WI14,70,20,100.0%,93.8%,9.3,B (3.13),B+ (3.49)
+314,"Sirbuly, Donald",NANO 120A - NanoEng Systems Design I (A),WI14,70,19,100.0%,100.0%,8.75,B+ (3.40),B+ (3.49)
+315,"Tao, Andrea Rae",NANO 120A - NanoEng Systems Design I (A),WI14,70,19,100.0%,94.1%,8.88,B+ (3.44),B+ (3.49)
+316,"Yang, Kesong",NANO 15 - Engin. Comp Using MATLAB (A),WI14,45,13,76.9%,53.8%,9.0,B+ (3.60),B (3.21)
+317,"Lubarda, Vlado",NANO 150 - Mechanics of Nanomaterials (A),WI14,59,21,85.7%,85.7%,6.79,B+ (3.30),B+ (3.57)
+318,"Horvath, Stephen",NANO 161 - Material Selection/Engineering (A),WI14,43,15,92.3%,92.3%,5.88,B+ (3.69),B+ (3.48)
+319,"Meyers, Marc",NANO 174 - Mech. Behavior of Materials (A),WI14,9,7,100.0%,100.0%,4.5,B+ (3.43),
+320,"Tao, Andrea Rae",NANO 102 - Foundatn NanoEng: Chem Princpl (A),FA13,92,22,100.0%,95.5%,7.86,B+ (3.43),B- (2.86)
+321,"Lubarda, Vlado",NANO 108 - Materials Science & Engineerng (A),FA13,100,26,96.0%,84.0%,6.18,A- (3.71),B- (2.95)
+322,"Arya, Gaurav",NANO 110 - Modeling of NanoEng Systems (A),FA13,73,39,64.9%,40.5%,7.58,B+ (3.38),B (3.11)
+323,"Lubarda, Vlado",NANO 15 - Engin. Comp Using MATLAB (A),FA13,92,43,88.4%,46.5%,7.04,A- (3.76),B+ (3.43)
+324,"Jin, Sungho",NANO 156 - Nanomaterials (A),FA13,73,22,76.2%,85.7%,3.4,A- (3.81),B+ (3.46)
+325,"Luo, Jian",NANO 158 - Phase Transformations/Kinetics (A),FA13,30,10,100.0%,100.0%,6.1,B+ (3.67),B+ (3.53)
+326,"Herz, Richard K",NANO 15 - Engin. Comp Using MATLAB (A),S213,30,6,100.0%,80.0%,6.5,A (4.00),B+ (3.54)
+327,"Lipomi, Darren John",NANO 103 - Foundatn NanoEng/Biochem Princ (A),SP13,90,39,97.4%,100.0%,5.85,B+ (3.53),B (3.20)
+328,"Chen, Shaochen",NANO 112 - Synthesis/Fabricatn/NanoEngSys (A),SP13,30,13,66.7%,66.7%,3.83,B+ (3.67),B+ (3.32)
+329,"Esener, Sadik C",NANO 120B - NanoEng Systems Design II (A),SP13,23,10,100.0%,100.0%,8.06,A (4.00),B+ (3.61)
+330,"Tao, Andrea Rae",NANO 120B - NanoEng Systems Design II (A),SP13,23,12,91.7%,91.7%,8.33,A (4.00),B+ (3.61)
+331,"Sirbuly, Donald",NANO 146 - Nanoscale Optic. Microsp&Spect (A),SP13,17,6,83.3%,83.3%,6.83,B- (2.80),
+332,"Meng, Y.Shirley",NANO 148 - Thermodynamics of Materials (A),SP13,26,19,100.0%,94.7%,5.66,A- (3.79),A- (3.76)
+333,"Fullerton, Eric E",NANO 168 - Electr/Dielectr/Magnetic Propr (A),SP13,23,10,100.0%,100.0%,5.5,B+ (3.67),B+ (3.44)
+334,"Vecchio, Kenneth S",NANO 1 - NanoEngineering Seminar (A),WI13,125,53,94.0%,94.0%,0.59,A (4.00),
+335,"Wang, Joseph",NANO 101 - Introduction to NanoEngineerng (A),WI13,220,80,92.4%,94.9%,3.47,B+ (3.59),B+ (3.32)
+336,"Sirbuly, Donald",NANO 104 - Foundatn NanoEng/Physical Prin (A),WI13,80,38,86.5%,94.6%,7.64,B+ (3.32),B (3.18)
+337,"Meng, Y.Shirley",NANO 111 - Characterization/NanoEng Systm (A),WI13,26,9,66.7%,55.6%,3.83,B+ (3.67),A- (3.83)
+338,"Heller, Michael J",NANO 120A - NanoEng Systems Design I (A),WI13,23,9,100.0%,77.8%,8.21,B+ (3.44),A- (3.77)
+339,"Sirbuly, Donald",NANO 120A - NanoEng Systems Design I (A),WI13,23,10,100.0%,100.0%,8.1,B+ (3.50),A- (3.77)
+340,"Chen, Shaochen",NANO 150 - Mechanics of Nanomaterials (A),WI13,23,8,100.0%,100.0%,2.5,A- (3.86),B+ (3.44)
+341,"Jin, Sungho",NANO 156 - Nanomaterials (A),WI13,34,14,92.9%,92.9%,3.07,A- (3.92),A- (3.85)
+342,"Meyers, Marc",NANO 161 - Material Selection/Engineering (A),WI13,26,14,100.0%,42.9%,4.36,A (4.00),A (4.00)
+343,"Vecchio, Kenneth S",NANO 161 - Material Selection/Engineering (A),WI13,26,15,100.0%,100.0%,4.1,A (4.00),A (4.00)
+344,"Tao, Andrea Rae",NANO 102 - Foundatn NanoEng: Chem Princpl (A),FA12,87,57,91.1%,85.7%,7.46,B+ (3.31),B- (2.76)
+345,"Vecchio, Kenneth S",NANO 108 - Materials Science & Engineerng (A),FA12,56,28,96.3%,85.2%,4.81,B+ (3.41),B- (2.96)
+346,"Arya, Gaurav",NANO 110 - Modeling of NanoEng Systems (A),FA12,23,14,92.3%,100.0%,5.27,B+ (3.46),B+ (3.37)
+347,"Herz, Richard K",NANO 15 - Engin. Comp Using MATLAB (A),FA12,302,127,87.7%,56.1%,5.57,B+ (3.46),B+ (3.39)
+348,"Meng, Y.Shirley",NANO 164 - Adv Micro & Nano Materl/Energy (A),FA12,27,16,100.0%,100.0%,5.0,B+ (3.64),A- (3.74)
+349,"Cha, Jennifer N",NANO 103 - Foundatn NanoEng/Biochem Princ (A),SP12,63,36,75.0%,63.9%,5.94,B+ (3.36),B (3.19)
+350,"Chen, Shaochen",NANO 112 - Synthesis/Fabricatn/NanoEngSys (A),SP12,15,9,100.0%,100.0%,4.72,A- (3.89),
+351,"Meng, Y.Shirley",NANO 148 - Thermodynamics of Materials (A),SP12,6,6,66.7%,100.0%,4.83,B+ (3.67),
+352,"Vecchio, Kenneth S",NANO 1 - NanoEngineering Seminar (A),WI12,121,54,98.1%,96.2%,1.0,A (4.00),
+353,"Wang, Joseph",NANO 101 - Introduction to NanoEngineerng (A),WI12,149,80,97.5%,94.9%,4.0,B+ (3.66),B+ (3.46)
+354,"Sirbuly, Donald",NANO 104 - Foundatn NanoEng/Physical Prin (A),WI12,23,19,100.0%,100.0%,6.82,B+ (3.44),B (3.26)
+355,"Meng, Y.Shirley",NANO 111 - Characterization/NanoEng Systm (A),WI12,8,6,100.0%,100.0%,6.83,B+ (3.40),
+356,"Meyers, Marc",NANO 150 - Mechanics of Nanomaterials (A),WI12,13,7,66.7%,50.0%,5.93,A- (3.71),
+357,"Tao, Andrea Rae",NANO 102 - Foundatn NanoEng: Chem Princpl (A),FA11,29,25,96.0%,96.0%,8.1,B (3.26),B (3.05)
+358,"Vecchio, Kenneth S",NANO 108 - Materials Science & Engineerng (A),FA11,14,9,100.0%,100.0%,5.39,A- (3.78),
+359,"Meng, Y.Shirley",NANO 164 - Adv Micro & Nano Materl/Energy (A),FA11,15,12,100.0%,91.7%,6.33,A (4.00),
+360,"Sirbuly, Donald",NANO 104 - Foundatn NanoEng/Physical Prin (A),SP11,11,5,80.0%,80.0%,6.1,B+ (3.40),
+361,"Vecchio, Kenneth S",NANO 1 - NanoEngineering Seminar (A),WI11,81,40,94.6%,97.3%,0.61,A (4.00),
+362,"Wang, Joseph",NANO 101 - Introduction to NanoEngineerng (A),WI11,72,37,100.0%,97.2%,4.67,B+ (3.62),B+ (3.60)
+363,"Tao, Andrea Rae",NANO 102 - Foundatn NanoEng: Chem Princpl (A),FA10,28,22,85.7%,95.2%,8.21,B (3.05),B (3.00)

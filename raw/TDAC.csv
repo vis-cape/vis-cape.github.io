@@ -1,0 +1,787 @@
+,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+0,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),SP23,20,11,100.0%,100.0%,2.1,A (4.00),A- (3.88)
+1,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),SP23,19,12,100.0%,90.0%,4.5,A- (3.88),
+2,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),SP23,20,7,100.0%,100.0%,1.83,A- (3.75),A- (3.73)
+3,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),SP23,19,3,100.0%,100.0%,3.5,A (4.00),
+4,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),SP23,22,6,100.0%,100.0%,2.9,A (4.00),A- (3.82)
+5,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),SP23,22,8,100.0%,100.0%,2.21,A (4.00),A- (3.99)
+6,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),SP23,21,7,100.0%,100.0%,2.21,A (4.00),A- (3.81)
+7,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),SP23,24,11,100.0%,100.0%,3.1,A (4.00),A (4.00)
+8,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),SP23,20,9,100.0%,100.0%,2.28,A (4.00),A- (3.90)
+9,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),SP23,19,8,100.0%,85.7%,3.36,A (4.00),
+10,"Harting, Carla Kelso",TDAC 101 - Acting I (A),SP23,22,6,100.0%,100.0%,3.3,A (4.00),B+ (3.63)
+11,"Walsh, Kim C.",TDAC 101 - Acting I (B),SP23,18,6,83.3%,83.3%,2.17,A (4.00),
+12,"Barnes, Eva E",TDAC 102 - Acting II (B),SP23,20,8,87.5%,87.5%,3.75,A (4.00),A (4.00)
+13,"Barricelli, Marc Alexander",TDAC 105 - Rehearsing Shakespeare (A),SP23,20,3,100.0%,100.0%,4.5,B+ (3.67),A- (3.89)
+14,"Buescher, Stephen W.",TDAC 108 - Advanced Topics (B),SP23,19,14,100.0%,100.0%,1.07,A (4.00),
+15,"Blair, Kyle Adam",TDAC 109 - Singing for Actors (A),SP23,20,6,100.0%,100.0%,2.83,A (4.00),A (4.00)
+16,"Meyer, Ursula",TDAC 111 - Freeing The Voice (A),SP23,22,16,100.0%,100.0%,3.17,A- (3.87),A- (3.79)
+17,"Buescher, Stephen W.",TDAC 115 - Movement for Actors (A),SP23,14,10,100.0%,100.0%,0.7,A- (3.90),
+18,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),WI23,20,9,100.0%,100.0%,1.61,A (4.00),A- (3.93)
+19,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),WI23,20,6,100.0%,100.0%,1.5,A (4.00),A- (3.98)
+20,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),WI23,20,11,100.0%,100.0%,3.5,A (4.00),A- (3.85)
+21,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),WI23,20,7,100.0%,100.0%,2.79,A- (3.86),B+ (3.66)
+22,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),WI23,18,6,80.0%,80.0%,2.9,B+ (3.60),
+23,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),WI23,22,8,100.0%,100.0%,2.0,A (4.00),B+ (3.59)
+24,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),WI23,20,8,100.0%,100.0%,2.5,A (4.00),A- (3.77)
+25,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),WI23,20,15,92.3%,91.7%,3.0,A- (3.91),A- (3.89)
+26,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),WI23,20,7,100.0%,100.0%,4.5,A (4.00),A (4.00)
+27,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),WI23,21,16,100.0%,100.0%,2.0,A (4.00),A- (3.90)
+28,"Harting, Carla Kelso",TDAC 101 - Acting I (A),WI23,20,10,100.0%,100.0%,1.9,A (4.00),A- (3.84)
+29,"Salovey, Todd",TDAC 101 - Acting I (C),WI23,21,7,100.0%,100.0%,5.93,A (4.00),A- (3.92)
+30,"Basso, Beatrice",TDAC 102 - Acting II (A),WI23,23,4,75.0%,75.0%,2.0,A (4.00),A (4.00)
+31,"Meyer, Ursula",TDAC 106 - Chekhov Acting (A),WI23,19,5,100.0%,100.0%,4.1,A (4.00),
+32,"Flesher, Rachel Lee",TDAC 108 - Advanced Topics (A),WI23,19,7,100.0%,100.0%,3.07,A (4.00),
+33,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),FA22,19,7,100.0%,100.0%,1.64,A (4.00),
+34,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),FA22,20,9,100.0%,100.0%,2.28,A (4.00),
+35,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),FA22,20,5,100.0%,100.0%,1.7,A (4.00),A (4.00)
+36,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),FA22,22,11,100.0%,81.8%,2.5,A (4.00),A (4.00)
+37,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),FA22,20,8,100.0%,100.0%,1.75,A (4.00),A (4.00)
+38,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),FA22,22,9,100.0%,88.9%,2.06,A- (3.89),A (4.00)
+39,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),FA22,20,9,100.0%,100.0%,2.0,A- (3.86),A- (3.77)
+40,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),FA22,20,6,100.0%,100.0%,3.7,A (4.00),A (4.00)
+41,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),FA22,20,8,100.0%,100.0%,3.0,A- (3.86),A (4.00)
+42,"Harting, Carla Kelso",TDAC 101 - Acting I (A),FA22,21,5,100.0%,100.0%,3.7,A (4.00),B+ (3.63)
+43,"Salovey, Todd",TDAC 101 - Acting I (B),FA22,19,5,100.0%,100.0%,2.5,A (4.00),
+44,"Walsh, Kim C.",TDAC 101 - Acting I (C),FA22,20,6,100.0%,100.0%,3.17,A (4.00),A- (3.98)
+45,"Basso, Beatrice",TDAC 102 - Acting II (A),FA22,21,5,100.0%,100.0%,1.7,A (4.00),A- (3.97)
+46,"Castro, Robert Jess",TDAC 103A - Acting Intensive I (A),FA22,23,4,100.0%,66.7%,4.0,A (4.00),A- (3.82)
+47,"Huynh, Michelle Vy",TDAC 108 - Advanced Topics (A),FA22,23,5,100.0%,100.0%,3.7,A- (3.80),
+48,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),S222,15,3,100.0%,66.7%,2.5,A (4.00),
+49,"Harting, Carla Kelso",TDAC 1 - Introduction to Acting (B),S222,16,3,100.0%,100.0%,3.17,B+ (3.67),
+50,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),SP22,20,8,87.5%,75.0%,4.75,A- (3.71),B+ (3.46)
+51,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),SP22,20,9,100.0%,100.0%,3.07,A- (3.83),A- (3.70)
+52,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),SP22,20,6,100.0%,100.0%,2.5,B+ (3.50),A- (3.80)
+53,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),SP22,20,14,100.0%,100.0%,2.96,A- (3.85),A- (3.74)
+54,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),SP22,18,10,100.0%,88.9%,3.9,A (4.00),
+55,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),SP22,20,6,100.0%,100.0%,2.1,A (4.00),A- (3.72)
+56,"Walsh, Kim C.",TDAC 101 - Acting I (A),SP22,19,6,100.0%,100.0%,3.17,A- (3.83),
+57,"Harting, Carla Kelso",TDAC 101 - Acting I (B),SP22,24,14,100.0%,100.0%,3.36,A- (3.92),B+ (3.53)
+58,"Basso, Beatrice",TDAC 102 - Acting II (A),SP22,18,4,100.0%,100.0%,3.0,A (4.00),
+59,"Chang, Jennifer M.",TDAC 102 - Acting II (B),SP22,18,3,100.0%,100.0%,4.5,A (4.00),
+60,"Barricelli, Marc Alexander",TDAC 104 - Classical Text (A),SP22,19,9,100.0%,100.0%,4.06,A- (3.89),
+61,"Meyer, Ursula",TDAC 111 - Freeing The Voice (A),SP22,19,15,100.0%,100.0%,2.63,A- (3.93),
+62,"Buescher, Stephen W.",TDAC 115 - Movement for Actors (A),SP22,25,16,100.0%,100.0%,1.5,A- (3.81),B+ (3.56)
+63,"Williams, Madison Mae",TDAC 122 - Ensemble: Undergrad Production (A),SP22,11,3,100.0%,100.0%,10.5,A (4.00),
+64,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),WI22,19,7,100.0%,100.0%,1.93,A- (3.83),
+65,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),WI22,19,13,100.0%,100.0%,2.17,A- (3.91),
+66,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),WI22,20,8,100.0%,100.0%,4.21,A (4.00),A- (3.80)
+67,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),WI22,18,7,100.0%,100.0%,2.9,A- (3.75),
+68,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),WI22,20,11,100.0%,100.0%,2.5,A (4.00),A- (3.98)
+69,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),WI22,20,11,100.0%,100.0%,3.5,A (4.00),A- (3.94)
+70,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),WI22,20,9,100.0%,100.0%,4.94,A- (3.89),A (4.00)
+71,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),WI22,21,11,100.0%,100.0%,2.9,A (4.00),A (4.00)
+72,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),WI22,20,6,100.0%,100.0%,1.7,A (4.00),A- (3.96)
+73,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (K),WI22,20,13,90.9%,100.0%,1.33,A (4.00),A- (3.90)
+74,"Salovey, Todd",TDAC 101 - Acting I (A),WI22,22,6,100.0%,100.0%,3.83,A (4.00),A- (3.94)
+75,"Harting, Carla Kelso",TDAC 101 - Acting I (B),WI22,23,14,85.7%,78.6%,3.07,A (4.00),A- (3.86)
+76,"Basso, Beatrice",TDAC 102 - Acting II (A),WI22,21,8,100.0%,100.0%,3.5,A (4.00),A (4.00)
+77,"Walsh, Kim C.",TDAC 102 - Acting II (B),WI22,14,4,100.0%,100.0%,2.5,A- (3.75),
+78,"Blair, Kyle Adam",TDAC 109 - Singing for Actors (A),WI22,13,4,100.0%,100.0%,3.0,A (4.00),
+79,"Chang, Jennifer M.",TDAC 112 - Senior Seminar in Acting (A),WI22,28,7,100.0%,100.0%,3.93,A- (3.83),A- (3.74)
+80,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),FA21,19,10,100.0%,100.0%,1.61,A (4.00),
+81,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),FA21,20,9,100.0%,100.0%,4.94,A (4.00),A- (3.94)
+82,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),FA21,20,16,93.8%,93.3%,2.5,A- (3.94),A- (3.84)
+83,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),FA21,20,13,100.0%,100.0%,2.0,A (4.00),A (4.00)
+84,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),FA21,20,13,84.6%,84.6%,3.12,A- (3.92),A- (3.82)
+85,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),FA21,20,13,100.0%,100.0%,2.96,A- (3.85),B+ (3.65)
+86,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),FA21,22,9,100.0%,100.0%,2.0,A (4.00),A (4.00)
+87,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),FA21,21,13,100.0%,100.0%,1.67,A (4.00),A- (3.86)
+88,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),FA21,21,6,100.0%,100.0%,1.7,A (4.00),A (4.00)
+89,"Harting, Carla Kelso",TDAC 101 - Acting I (A),FA21,20,16,100.0%,100.0%,3.63,A- (3.88),A- (3.76)
+90,"Salovey, Todd",TDAC 101 - Acting I (B),FA21,22,15,100.0%,100.0%,3.3,A (4.00),A (4.00)
+91,"Barnes, Eva E",TDAC 102 - Acting II (B),FA21,23,8,100.0%,87.5%,5.25,A (4.00),A (4.00)
+92,"Oates, Charles Bruce",TDAC 115 - Movement for Actors (A),FA21,20,5,100.0%,100.0%,0.5,A (4.00),A- (3.80)
+93,"Stalling, Vanessa",TDAC 122 - Ensemble: Undergrad Production (A),FA21,12,10,100.0%,100.0%,10.5,A (4.00),
+94,"Stalling, Vanessa",TDAC 122 - Ensemble: Undergrad Production (B),FA21,7,3,100.0%,66.7%,17.83,A (4.00),
+95,"Stalling, Vanessa",TDAC 122 - Ensemble: Undergrad Production (D),FA21,9,4,100.0%,100.0%,7.17,A (4.00),
+96,"Harting, Carla Kelso",TDAC 1 - Introduction to Acting (B),S221,17,3,100.0%,100.0%,3.83,A (4.00),
+97,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),S221,17,3,100.0%,100.0%,7.5,A (4.00),
+98,"Harting, Carla Kelso",TDAC 101 - Acting I (B),S221,11,6,100.0%,100.0%,2.17,A (4.00),
+99,"Meyer, Ursula",TDAC 1 - Introduction to Acting (A),S121,18,3,100.0%,100.0%,5.83,A (4.00),
+100,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),S121,17,6,100.0%,100.0%,2.17,A (4.00),
+101,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),SP21,19,16,93.3%,92.9%,2.5,A- (3.77),
+102,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),SP21,17,8,85.7%,100.0%,0.79,A (4.00),
+103,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),SP21,20,19,100.0%,94.1%,2.38,A (4.00),A (4.00)
+104,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),SP21,20,10,100.0%,100.0%,2.5,A (4.00),A (4.00)
+105,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),SP21,20,8,100.0%,100.0%,1.5,A- (3.86),A (4.00)
+106,"Salovey, Todd",TDAC 101 - Acting I (A),SP21,16,8,100.0%,100.0%,2.5,A (4.00),
+107,"Harting, Carla Kelso",TDAC 101 - Acting I (B),SP21,21,18,100.0%,100.0%,2.61,A- (3.72),A- (3.94)
+108,"Chang, Jennifer M.",TDAC 102 - Acting II (A),SP21,14,4,100.0%,100.0%,4.0,A (4.00),
+109,"Barnes, Eva E",TDAC 102 - Acting II (B),SP21,10,4,100.0%,100.0%,3.5,A (4.00),
+110,"Blair, Kyle Adam",TDAC 109 - Singing for Actors (A),SP21,15,8,100.0%,100.0%,2.0,A- (3.86),
+111,"Osmanski, Joy K",TDAC 110 - Acting for the Camera (A),SP21,22,11,100.0%,100.0%,3.95,A- (3.82),A (4.00)
+112,"Meyer, Ursula",TDAC 111 - Freeing The Voice (A),SP21,20,5,100.0%,100.0%,3.7,B+ (3.60),A- (3.94)
+113,"Buescher, Stephen W.",TDAC 115 - Movement for Actors (A),SP21,18,8,100.0%,100.0%,1.64,A- (3.86),
+114,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),WI21,19,9,100.0%,100.0%,3.0,A- (3.75),
+115,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),WI21,14,7,100.0%,100.0%,2.79,A- (3.86),
+116,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),WI21,20,7,100.0%,100.0%,2.0,A- (3.75),A- (3.99)
+117,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),WI21,18,14,92.3%,100.0%,2.5,A- (3.85),
+118,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),WI21,20,14,100.0%,100.0%,1.93,A (4.00),A- (3.72)
+119,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),WI21,16,13,100.0%,100.0%,1.33,A- (3.91),
+120,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),WI21,15,11,90.9%,90.9%,3.05,A- (3.80),
+121,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),WI21,14,3,50.0%,50.0%,0.5,A (4.00),
+122,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (K),WI21,9,8,100.0%,87.5%,2.5,A (4.00),
+123,"Salovey, Todd",TDAC 101 - Acting I (A),WI21,18,10,100.0%,100.0%,3.3,A (4.00),
+124,"Harting, Carla Kelso",TDAC 101 - Acting I (B),WI21,13,13,100.0%,100.0%,3.27,A (4.00),
+125,"Chang, Jennifer M.",TDAC 102 - Acting II (A),WI21,14,6,83.3%,83.3%,5.5,A (4.00),
+126,"Walsh, Kim C.",TDAC 102 - Acting II (C),WI21,10,6,100.0%,100.0%,4.17,A (4.00),
+127,"Gilmore, Gerald Allen",TDAC 104 - Classical Text (A),WI21,8,5,60.0%,40.0%,3.7,B+ (3.60),
+128,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),FA20,20,9,100.0%,88.9%,1.83,A (4.00),A- (3.98)
+129,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),FA20,20,17,100.0%,100.0%,2.0,A- (3.93),A (4.00)
+130,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),FA20,20,8,100.0%,100.0%,2.5,A (4.00),A- (3.83)
+131,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),FA20,20,6,100.0%,100.0%,0.9,A (4.00),A- (3.96)
+132,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),FA20,20,11,100.0%,87.5%,2.5,A- (3.89),A (4.00)
+133,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),FA20,20,16,100.0%,100.0%,2.75,A- (3.94),A (4.00)
+134,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),FA20,20,11,100.0%,90.0%,2.3,A (4.00),A- (3.98)
+135,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),FA20,21,17,100.0%,100.0%,2.0,A (4.00),A (4.00)
+136,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),FA20,20,17,100.0%,100.0%,1.63,A (4.00),A (4.00)
+137,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (K),FA20,20,13,100.0%,92.3%,3.58,A (4.00),A- (3.98)
+138,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (L),FA20,20,17,100.0%,100.0%,2.85,A- (3.94),B+ (3.54)
+139,"Salovey, Todd",TDAC 101 - Acting I (A),FA20,20,7,100.0%,100.0%,1.93,A (4.00),A- (3.98)
+140,"Harting, Carla Kelso",TDAC 101 - Acting I (B),FA20,20,11,90.9%,100.0%,3.41,A (4.00),B+ (3.60)
+141,"Castro, Robert Jess",TDAC 102 - Acting II (B),FA20,10,4,100.0%,100.0%,5.0,A- (3.75),
+142,"Walsh, Kim C.",TDAC 102 - Acting II (C),FA20,12,12,100.0%,100.0%,3.83,A (4.00),
+143,"Castro, Robert Jess",TDAC 108 - Advanced Topics (B),FA20,11,4,100.0%,100.0%,6.5,B+ (3.50),
+144,"Chang, Jennifer M.",TDAC 112 - Senior Seminar in Acting (A),FA20,19,8,100.0%,100.0%,3.5,A- (3.75),
+145,"Buescher, Stephen W.",TDAC 115 - Movement for Actors (A),FA20,13,6,100.0%,100.0%,0.5,A (4.00),
+146,"Stalling, Vanessa",TDAC 122 - Ensemble: Undergrad Production (A),FA20,12,4,100.0%,100.0%,5.5,A (4.00),
+147,"Meyer, Ursula",TDAC 1 - Introduction to Acting (A),S220,15,8,100.0%,100.0%,2.25,A (4.00),
+148,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),S220,12,11,100.0%,100.0%,3.59,A (4.00),
+149,"Fulton, Julia",TDAC 107 - Improvisation for the Theatre (A),S220,9,3,100.0%,100.0%,4.5,A (4.00),
+150,"Salovey, Todd",TDAC 1 - Introduction to Acting (A),S120,20,10,100.0%,100.0%,2.5,A (4.00),A- (3.97)
+151,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),S120,17,11,100.0%,100.0%,2.14,A- (3.90),
+152,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),SP20,19,8,100.0%,100.0%,1.75,A (4.00),
+153,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),SP20,18,5,100.0%,100.0%,3.5,A- (3.75),
+154,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),SP20,20,3,100.0%,100.0%,3.83,B+ (3.67),A- (3.77)
+155,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),SP20,19,6,100.0%,100.0%,2.1,A (4.00),
+156,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),SP20,20,8,100.0%,100.0%,2.25,A (4.00),A- (3.76)
+157,"Salovey, Todd",TDAC 101 - Acting I (A),SP20,15,10,100.0%,100.0%,4.1,A (4.00),
+158,"Harting, Carla Kelso",TDAC 101 - Acting I (B),SP20,20,13,100.0%,100.0%,3.12,A- (3.85),A- (3.85)
+159,"Walsh, Kim C.",TDAC 102 - Acting II (A),SP20,10,10,100.0%,100.0%,4.9,A- (3.70),
+160,"Robichaux, Natalie Griffith",TDAC 102 - Acting II (B),SP20,12,4,100.0%,100.0%,1.0,A (4.00),
+161,"Barricelli, Marc Alexander",TDAC 104 - Classical Text (A),SP20,8,4,100.0%,100.0%,1.5,A (4.00),
+162,"Rubinstein, Kim",TDAC 108 - Advanced Topics (B),SP20,24,5,80.0%,100.0%,2.9,A (4.00),A- (3.89)
+163,"Fulton, Julia",TDAC 110 - Acting for the Camera (A),SP20,18,4,100.0%,100.0%,2.5,A (4.00),
+164,"Meyer, Ursula",TDAC 111 - Freeing The Voice (A),SP20,17,5,100.0%,80.0%,2.9,A- (3.80),
+165,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),WI20,20,7,100.0%,100.0%,1.83,A (4.00),A (4.00)
+166,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),WI20,20,8,100.0%,100.0%,2.5,A- (3.88),A- (3.71)
+167,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),WI20,19,14,100.0%,100.0%,2.93,A- (3.93),
+168,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),WI20,20,11,100.0%,100.0%,3.41,B+ (3.60),B+ (3.66)
+169,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),WI20,20,9,88.9%,88.9%,4.06,A- (3.78),B+ (3.47)
+170,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),WI20,20,4,100.0%,100.0%,2.5,A (4.00),A (4.00)
+171,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),WI20,18,8,100.0%,100.0%,2.79,A- (3.86),
+172,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),WI20,20,20,100.0%,100.0%,2.61,A (4.00),A- (3.87)
+173,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),WI20,20,6,100.0%,100.0%,3.3,A (4.00),A (4.00)
+174,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),WI20,19,7,100.0%,100.0%,2.21,A- (3.86),
+175,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (K),WI20,17,12,100.0%,100.0%,2.94,A (4.00),
+176,"Harting, Carla Kelso",TDAC 101 - Acting I (A),WI20,20,7,100.0%,100.0%,2.5,A (4.00),A (4.00)
+177,"Walsh, Kim C.",TDAC 101 - Acting I (B),WI20,20,7,100.0%,100.0%,4.1,A- (3.80),A- (3.94)
+178,"Robichaux, Natalie Griffith",TDAC 102 - Acting II (A),WI20,18,3,100.0%,100.0%,5.83,A (4.00),
+179,"Barnes, Eva E",TDAC 102 - Acting II (B),WI20,20,6,100.0%,100.0%,3.83,A (4.00),A (4.00)
+180,"Barricelli, Marc Alexander",TDAC 104 - Classical Text (A),WI20,17,3,100.0%,100.0%,3.83,A (4.00),
+181,"Robichaux, Natalie Griffith",TDAC 115 - Movement for Actors (A),WI20,22,6,100.0%,100.0%,3.83,A- (3.83),A (4.00)
+182,"Jones, William Jadie",TDAC 122 - Ensemble: Undergrad Production (A),WI20,16,8,100.0%,100.0%,3.25,A (4.00),
+183,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),FA19,20,17,100.0%,93.8%,2.26,A- (3.88),A- (3.93)
+184,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),FA19,20,11,100.0%,88.9%,2.68,A- (3.73),B+ (3.30)
+185,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),FA19,20,9,100.0%,100.0%,3.17,A- (3.89),A- (3.83)
+186,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),FA19,19,8,100.0%,100.0%,4.75,A- (3.86),
+187,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),FA19,20,11,100.0%,100.0%,2.28,A (4.00),A- (3.90)
+188,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),FA19,20,9,88.9%,88.9%,2.72,A (4.00),A (4.00)
+189,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),FA19,20,6,100.0%,100.0%,1.7,A- (3.75),A- (3.91)
+190,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),FA19,20,13,100.0%,92.3%,2.19,A (4.00),A- (3.97)
+191,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),FA19,20,16,100.0%,100.0%,2.36,A- (3.86),A- (3.90)
+192,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),FA19,20,10,100.0%,87.5%,3.61,A (4.00),A- (3.84)
+193,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (K),FA19,20,10,100.0%,100.0%,1.61,A (4.00),A- (3.87)
+194,"Harting, Carla Kelso",TDAC 101 - Acting I (A),FA19,23,12,100.0%,100.0%,3.5,A- (3.92),A- (3.93)
+195,"Robichaux, Natalie Griffith",TDAC 101 - Acting I (B),FA19,21,11,100.0%,88.9%,2.9,A- (3.89),A- (3.83)
+196,"Castro, Robert Jess",TDAC 102 - Acting II (A),FA19,17,4,100.0%,100.0%,7.0,A (4.00),
+197,"Castro, Robert Jess",TDAC 108 - Advanced Topics (A),FA19,18,3,100.0%,100.0%,4.5,A (4.00),
+198,"Meyer, Ursula",TDAC 1 - Introduction to Acting (A),S219,16,10,100.0%,88.9%,4.06,A- (3.75),
+199,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),S219,17,14,100.0%,100.0%,2.79,A- (3.92),
+200,"Buescher, Stephen W.",TDAC 1 - Introduction to Acting (C),S219,20,13,100.0%,100.0%,1.83,A (4.00),A- (3.86)
+201,"Harting, Carla Kelso",TDAC 1 - Introduction to Acting (D),S219,16,6,100.0%,100.0%,2.5,A (4.00),
+202,"Harting, Carla Kelso",TDAC 101 - Acting I (A),S219,15,8,100.0%,100.0%,2.83,B+ (3.67),
+203,"Fulton, Julia",TDAC 107 - Improvisation for the Theatre (A),S219,16,7,100.0%,100.0%,7.3,A (4.00),
+204,"Salovey, Todd",TDAC 1 - Introduction to Acting (A),S119,20,10,100.0%,100.0%,2.9,A- (3.90),A- (3.91)
+205,"Javier, Nicole",TDAC 1 - Introduction to Acting (B),S119,20,20,100.0%,100.0%,2.5,A- (3.94),A (4.00)
+206,"Harting, Carla Kelso",TDAC 101 - Acting I (A),S119,17,7,100.0%,100.0%,5.93,A- (3.86),
+207,"Salovey, Todd",TDAC 1 - Introduction to Acting (A),SP19,20,4,100.0%,100.0%,1.5,A (4.00),A- (3.94)
+208,"Salovey, Todd",TDAC 1 - Introduction to Acting (B),SP19,20,11,100.0%,88.9%,2.5,A (4.00),A- (3.94)
+209,"Salovey, Todd",TDAC 1 - Introduction to Acting (C),SP19,20,15,100.0%,100.0%,2.17,A- (3.83),A- (3.94)
+210,"Salovey, Todd",TDAC 1 - Introduction to Acting (D),SP19,20,7,100.0%,100.0%,2.83,B+ (3.67),A- (3.94)
+211,"Salovey, Todd",TDAC 1 - Introduction to Acting (E),SP19,20,7,100.0%,100.0%,2.5,A (4.00),A- (3.94)
+212,"Salovey, Todd",TDAC 1 - Introduction to Acting (F),SP19,20,15,100.0%,100.0%,1.83,A- (3.93),A- (3.94)
+213,"Chang, Jennifer M.",TDAC 101 - Acting I (A),SP19,20,6,100.0%,100.0%,5.7,B+ (3.60),B+ (3.46)
+214,"Harting, Carla Kelso",TDAC 101 - Acting I (B),SP19,22,19,100.0%,94.7%,3.13,A- (3.95),A- (3.97)
+215,"Walsh, Kim C.",TDAC 102 - Acting II (A),SP19,20,14,100.0%,100.0%,3.58,A- (3.85),A- (3.97)
+216,"Rubinstein, Kim",TDAC 103B - Acting Intensive II (A),SP19,23,4,100.0%,100.0%,8.0,A (4.00),A (4.00)
+217,"Chang, Jennifer M.",TDAC 106 - Chekhov Acting (B),SP19,16,4,100.0%,100.0%,4.5,B+ (3.67),
+218,"Robichaux, Natalie Griffith",TDAC 108 - Advanced Topics (A),SP19,12,3,100.0%,100.0%,4.5,A (4.00),
+219,"Vickerman, Linda Joanne",TDAC 109 - Singing for Actors (A),SP19,15,4,100.0%,100.0%,9.0,A (4.00),
+220,"Robichaux, Richard Michael",TDAC 110 - Acting for the Camera (A),SP19,22,6,100.0%,100.0%,5.83,A- (3.83),A- (3.88)
+221,"Chang, Jennifer M.",TDAC 112 - Senior Seminar in Acting (B),SP19,25,4,100.0%,100.0%,5.5,A- (3.75),B+ (3.60)
+222,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),WI19,20,8,100.0%,75.0%,3.07,A- (3.86),A- (3.98)
+223,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),WI19,21,17,100.0%,100.0%,2.07,A (4.00),A- (3.98)
+224,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),WI19,20,7,100.0%,83.3%,3.17,A (4.00),A- (3.98)
+225,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),WI19,20,17,100.0%,100.0%,2.38,A- (3.93),A- (3.98)
+226,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),WI19,21,16,100.0%,100.0%,2.37,A (4.00),A- (3.98)
+227,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),WI19,20,11,100.0%,100.0%,2.0,A (4.00),A- (3.98)
+228,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),WI19,19,15,100.0%,100.0%,4.1,A- (3.93),
+229,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),WI19,18,12,90.0%,80.0%,2.7,A- (3.70),
+230,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),WI19,19,14,100.0%,100.0%,2.75,A- (3.75),
+231,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),WI19,18,14,100.0%,100.0%,2.17,A- (3.86),
+232,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (K),WI19,19,6,100.0%,100.0%,4.0,A (4.00),
+233,"Salovey, Todd",TDAC 101 - Acting I (A),WI19,21,13,100.0%,90.9%,4.5,A- (3.85),A- (3.84)
+234,"Walsh, Kim C.",TDAC 101 - Acting I (B),WI19,19,9,100.0%,100.0%,2.75,A- (3.88),
+235,"Harting, Carla Kelso",TDAC 102 - Acting II (A),WI19,14,3,100.0%,100.0%,4.5,A (4.00),
+236,"Robichaux, Natalie Griffith",TDAC 102 - Acting II (B),WI19,16,7,100.0%,100.0%,4.5,A- (3.86),
+237,"Rubinstein, Kim",TDAC 103A - Acting Intensive I (A),WI19,26,10,100.0%,100.0%,6.72,A- (3.89),A- (3.90)
+238,"Barricelli, Marc Alexander",TDAC 104 - Classical Text (A),WI19,16,3,100.0%,100.0%,1.83,A (4.00),
+239,"Barnes, Eva E",TDAC 108 - Advanced Topics (A),WI19,24,7,100.0%,100.0%,5.07,A (4.00),A- (3.91)
+240,"Tregar, Kristen Lauren",TDAC 122 - Ensemble: Undergrad Production (B),WI19,16,6,100.0%,100.0%,8.1,A (4.00),
+241,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),FA18,20,12,100.0%,77.8%,2.9,A- (3.78),B+ (3.42)
+242,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),FA18,18,13,100.0%,100.0%,4.17,B+ (3.62),
+243,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),FA18,20,13,100.0%,100.0%,1.95,A- (3.91),B+ (3.42)
+244,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),FA18,20,15,100.0%,100.0%,2.63,A (4.00),B+ (3.42)
+245,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),FA18,20,6,83.3%,83.3%,3.5,A- (3.83),B+ (3.42)
+246,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),FA18,20,14,100.0%,100.0%,2.68,A- (3.92),B+ (3.42)
+247,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),FA18,19,10,100.0%,100.0%,1.1,A (4.00),
+248,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),FA18,20,15,100.0%,100.0%,1.97,A- (3.80),B+ (3.42)
+249,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),FA18,20,20,100.0%,100.0%,2.3,A (4.00),B+ (3.42)
+250,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),FA18,20,20,100.0%,100.0%,2.2,A- (3.95),B+ (3.42)
+251,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (K),FA18,20,14,100.0%,100.0%,2.5,A (4.00),B+ (3.42)
+252,"Harting, Carla Kelso",TDAC 101 - Acting I (A),FA18,20,16,93.3%,100.0%,2.5,A- (3.87),A- (3.81)
+253,"Robichaux, Natalie Griffith",TDAC 101 - Acting I (B),FA18,19,9,100.0%,88.9%,3.39,A (4.00),
+254,"Castro, Robert Jess",TDAC 102 - Acting II (A),FA18,19,5,100.0%,100.0%,9.3,A- (3.80),
+255,"Barricelli, Marc Alexander",TDAC 108 - Advanced Topics (A),FA18,15,3,100.0%,100.0%,3.83,B+ (3.67),
+256,"Robichaux, Natalie Griffith",TDAC 115 - Movement for Actors (A),FA18,17,10,66.7%,77.8%,2.5,A- (3.70),
+257,"Stokes, Cynthia Sue",TDAC 1 - Introduction to Acting (A),S218,21,19,100.0%,100.0%,3.66,A- (3.95),A- (3.97)
+258,"Harting, Carla Kelso",TDAC 1 - Introduction to Acting (B),S218,18,3,100.0%,100.0%,3.17,A (4.00),
+259,"Schwartz, Michael",TDAC 1 - Introduction to Acting (C),S218,15,3,100.0%,100.0%,2.5,A (4.00),
+260,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),S218,18,5,100.0%,100.0%,4.9,A (4.00),
+261,"Stokes, Cynthia Sue",TDAC 1 - Introduction to Acting (A),S118,20,19,100.0%,100.0%,3.34,A- (3.94),A (4.00)
+262,"Harting, Carla Kelso",TDAC 1 - Introduction to Acting (C),S118,18,6,100.0%,100.0%,2.5,A (4.00),
+263,"Salovey, Todd",TDAC 107 - Improvisation for the Theatre (A),S118,17,3,100.0%,100.0%,2.5,A (4.00),
+264,"Harting, Carla Kelso",TDAC 1 - Introduction to Acting (A),SP18,19,11,100.0%,100.0%,4.5,A (4.00),
+265,"Harting, Carla Kelso",TDAC 1 - Introduction to Acting (B),SP18,22,12,100.0%,90.0%,2.9,A- (3.90),A- (3.79)
+266,"Harting, Carla Kelso",TDAC 1 - Introduction to Acting (C),SP18,21,4,100.0%,100.0%,5.83,A (4.00),A- (3.79)
+267,"Harting, Carla Kelso",TDAC 1 - Introduction to Acting (D),SP18,20,17,100.0%,100.0%,3.32,A- (3.85),A- (3.79)
+268,"Harting, Carla Kelso",TDAC 1 - Introduction to Acting (E),SP18,20,5,100.0%,100.0%,5.5,A (4.00),A- (3.79)
+269,"Harting, Carla Kelso",TDAC 1 - Introduction to Acting (F),SP18,20,9,100.0%,100.0%,3.39,A- (3.89),A- (3.79)
+270,"Robichaux, Natalie Griffith",TDAC 101 - Acting I (A),SP18,16,14,92.9%,100.0%,3.93,A (4.00),
+271,"Harting, Carla Kelso",TDAC 101 - Acting I (B),SP18,20,12,100.0%,100.0%,3.67,A (4.00),B+ (3.51)
+272,"Salovey, Todd",TDAC 102 - Acting II (A),SP18,21,9,100.0%,100.0%,6.06,A- (3.78),A- (3.88)
+273,"Walsh, Kim C.",TDAC 102 - Acting II (B),SP18,20,4,100.0%,100.0%,4.0,A (4.00),A- (3.93)
+274,"Vickerman, Linda Joanne",TDAC 109 - Singing for Actors (A),SP18,15,5,100.0%,100.0%,4.9,A (4.00),
+275,"Osmanski, Joy K",TDAC 110 - Acting for the Camera (A),SP18,19,6,100.0%,100.0%,3.17,B+ (3.67),
+276,"Meyer, Ursula",TDAC 111 - Freeing The Voice (A),SP18,22,7,100.0%,100.0%,5.36,A- (3.86),A- (3.89)
+277,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),WI18,19,13,100.0%,100.0%,5.05,B+ (3.58),
+278,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),WI18,19,15,92.9%,92.9%,2.36,A- (3.93),
+279,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),WI18,19,16,100.0%,100.0%,3.0,A- (3.86),
+280,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),WI18,23,18,100.0%,100.0%,2.72,A- (3.88),A- (3.73)
+281,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),WI18,20,8,100.0%,100.0%,2.25,A- (3.71),A- (3.73)
+282,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),WI18,23,10,100.0%,100.0%,2.06,B+ (3.67),A- (3.73)
+283,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),WI18,19,15,100.0%,100.0%,1.88,A- (3.92),
+284,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),WI18,20,19,100.0%,100.0%,2.5,A- (3.88),A- (3.73)
+285,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),WI18,20,16,100.0%,100.0%,3.3,A (4.00),A- (3.73)
+286,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),WI18,20,13,88.9%,77.8%,4.72,A- (3.90),A- (3.73)
+287,"Salovey, Todd",TDAC 101 - Acting I (A),WI18,21,12,100.0%,100.0%,4.83,A- (3.92),A- (3.98)
+288,"Walsh, Kim C.",TDAC 101 - Acting I (B),WI18,19,16,100.0%,100.0%,3.7,B+ (3.67),
+289,"Harting, Carla Kelso",TDAC 102 - Acting II (A),WI18,22,13,100.0%,100.0%,4.04,A (4.00),A- (3.81)
+290,"Rubinstein, Kim",TDAC 103B - Acting Intensive II (A),WI18,22,7,100.0%,85.7%,5.64,A (4.00),A- (3.80)
+291,"Harting, Carla Kelso",TDAC 108 - Advanced Topics (A),WI18,16,5,66.7%,100.0%,5.17,A (4.00),
+292,"Robichaux, Natalie Griffith",TDAC 115 - Movement for Actors (A),WI18,17,10,70.0%,77.8%,5.9,B+ (3.30),
+293,"Means, Charles E.",TDAC 122 - Ensemble: Undergrad Production (A),WI18,13,3,100.0%,66.7%,14.5,A (4.00),
+294,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),FA17,22,18,94.4%,100.0%,2.94,A- (3.94),A- (3.86)
+295,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),FA17,20,15,100.0%,100.0%,2.5,A (4.00),A- (3.86)
+296,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),FA17,22,11,100.0%,100.0%,2.5,A- (3.89),A- (3.86)
+297,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),FA17,20,11,100.0%,100.0%,2.1,A (4.00),A- (3.86)
+298,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),FA17,21,20,100.0%,100.0%,2.18,A- (3.95),A- (3.86)
+299,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),FA17,20,16,100.0%,92.9%,2.9,A- (3.80),A- (3.86)
+300,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),FA17,24,22,100.0%,100.0%,1.74,A (4.00),A- (3.86)
+301,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),FA17,21,11,100.0%,100.0%,1.9,A- (3.90),A- (3.86)
+302,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),FA17,19,12,100.0%,80.0%,4.5,A (4.00),
+303,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),FA17,20,20,100.0%,100.0%,1.9,A- (3.89),A- (3.86)
+304,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (K),FA17,19,14,100.0%,100.0%,3.79,A- (3.92),
+305,"Chang, Jennifer M.",TDAC 101 - Acting I (A),FA17,18,4,100.0%,100.0%,4.5,A- (3.75),
+306,"Walsh, Kim C.",TDAC 101 - Acting I (B),FA17,18,17,100.0%,100.0%,3.32,A- (3.88),
+307,"Robichaux, Natalie Griffith",TDAC 101 - Acting I (C),FA17,10,4,100.0%,100.0%,4.0,A (4.00),
+308,"Castro, Robert Jess",TDAC 102 - Acting II (A),FA17,18,5,100.0%,100.0%,8.5,B+ (3.60),
+309,"Rubinstein, Kim",TDAC 103A - Acting Intensive I (A),FA17,22,8,100.0%,100.0%,6.5,A- (3.88),A- (3.90)
+310,"Jahn, David F.",TDAC 107 - Improvisation for the Theatre (A),FA17,21,14,92.3%,100.0%,1.12,A (4.00),A- (3.75)
+311,"Basso, Beatrice",TDAC 108 - Advanced Topics (B),FA17,11,6,100.0%,100.0%,2.83,B+ (3.50),
+312,"Harting, Carla Kelso",TDAC 1 - Introduction to Acting (A),S217,16,10,100.0%,100.0%,3.9,A (4.00),
+313,"Stokes, Cynthia Sue",TDAC 1 - Introduction to Acting (B),S217,19,17,100.0%,94.1%,4.26,A (4.00),
+314,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),S217,16,5,100.0%,100.0%,5.7,A- (3.80),
+315,"Harting, Carla Kelso",TDAC 101 - Acting I (A),S217,14,3,100.0%,100.0%,3.17,A (4.00),
+316,"Schwartz, Michael",TDAC 1 - Introduction to Acting (A),S117,19,5,100.0%,100.0%,3.5,A (4.00),
+317,"Meyer, Ursula",TDAC 1 - Introduction to Acting (B),S117,20,3,100.0%,100.0%,2.5,A (4.00),B+ (3.63)
+318,"Barnes, Eva E",TDAC 1 - Introduction to Acting (C),S117,19,8,100.0%,100.0%,4.25,A (4.00),
+319,"Salovey, Todd",TDAC 107 - Improvisation for the Theatre (A),S117,15,3,100.0%,100.0%,5.83,A (4.00),
+320,"Salovey, Todd",TDAC 1 - Introduction to Acting (A),SP17,19,6,100.0%,100.0%,3.3,A (4.00),
+321,"Salovey, Todd",TDAC 1 - Introduction to Acting (B),SP17,17,11,100.0%,100.0%,2.17,A (4.00),
+322,"Salovey, Todd",TDAC 1 - Introduction to Acting (C),SP17,19,8,100.0%,100.0%,4.5,A- (3.80),
+323,"Salovey, Todd",TDAC 1 - Introduction to Acting (D),SP17,21,8,100.0%,100.0%,4.21,A (4.00),A- (3.99)
+324,"Salovey, Todd",TDAC 1 - Introduction to Acting (E),SP17,23,14,100.0%,100.0%,3.33,A (4.00),A- (3.99)
+325,"Walsh, Kim C.",TDAC 101 - Acting I (A),SP17,20,19,100.0%,100.0%,3.55,A- (3.78),A- (3.92)
+326,"Walsh, Kim C.",TDAC 101 - Acting I (B),SP17,20,14,100.0%,92.9%,3.07,A- (3.86),A- (3.92)
+327,"Salovey, Todd",TDAC 102 - Acting II (A),SP17,22,7,100.0%,100.0%,4.79,A (4.00),A- (3.96)
+328,"Vickerman, Linda Joanne",TDAC 109 - Singing for Actors (A),SP17,18,7,100.0%,100.0%,2.79,A- (3.71),
+329,"Fulton, Julia",TDAC 110 - Acting for the Camera (A),SP17,13,6,100.0%,80.0%,3.3,A (4.00),
+330,"Chang, Jennifer M.",TDAC 112 - Senior Seminar in Acting (A),SP17,16,5,100.0%,100.0%,5.7,B+ (3.67),
+331,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),WI17,21,12,100.0%,100.0%,3.23,A- (3.89),A- (3.87)
+332,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),WI17,19,9,100.0%,100.0%,2.25,A (4.00),
+333,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),WI17,19,16,100.0%,100.0%,3.39,A (4.00),
+334,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),WI17,20,14,100.0%,92.3%,1.42,A- (3.92),A- (3.87)
+335,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),WI17,20,8,100.0%,100.0%,4.5,A (4.00),A- (3.87)
+336,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),WI17,20,12,100.0%,100.0%,1.95,A (4.00),A- (3.87)
+337,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),WI17,20,7,100.0%,100.0%,2.5,A (4.00),A- (3.87)
+338,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),WI17,20,7,100.0%,100.0%,4.5,A- (3.80),A- (3.87)
+339,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),WI17,18,13,87.5%,100.0%,3.5,B+ (3.44),
+340,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),WI17,20,15,100.0%,100.0%,2.21,A (4.00),A- (3.87)
+341,"Salovey, Todd",TDAC 101 - Acting I (A),WI17,20,12,100.0%,100.0%,5.17,A- (3.88),A- (3.96)
+342,"Chang, Jennifer M.",TDAC 101 - Acting I (B),WI17,19,9,100.0%,100.0%,4.28,B+ (3.67),
+343,"Castro, Robert Jess",TDAC 102 - Acting II (A),WI17,18,7,100.0%,100.0%,6.17,B+ (3.60),
+344,"Rubinstein, Kim",TDAC 103B - Acting Intensive II (A),WI17,17,6,100.0%,100.0%,9.5,A (4.00),
+345,"Chang, Jennifer M.",TDAC 106 - Chekhov Acting (A),WI17,14,9,100.0%,85.7%,7.93,B+ (3.67),
+346,"Oates, Charles Bruce",TDAC 115 - Movement for Actors (A),WI17,20,9,100.0%,100.0%,2.25,A (4.00),A- (3.87)
+347,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),FA16,20,14,100.0%,100.0%,2.5,A- (3.85),A- (3.70)
+348,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),FA16,20,15,90.9%,90.9%,3.05,A- (3.90),A- (3.70)
+349,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),FA16,20,11,100.0%,75.0%,6.0,A (4.00),A- (3.70)
+350,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),FA16,18,12,100.0%,100.0%,1.64,A (4.00),
+351,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),FA16,20,14,100.0%,91.7%,3.17,A- (3.82),A- (3.70)
+352,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),FA16,20,14,100.0%,100.0%,4.32,A (4.00),A- (3.70)
+353,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),FA16,20,16,100.0%,100.0%,3.17,A- (3.89),A- (3.70)
+354,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),FA16,22,9,100.0%,100.0%,2.5,A (4.00),A- (3.70)
+355,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),FA16,22,18,100.0%,100.0%,4.88,A- (3.75),A- (3.70)
+356,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),FA16,19,15,100.0%,92.3%,2.65,A- (3.75),
+357,"Walsh, Kim C.",TDAC 101 - Acting I (A),FA16,18,16,93.8%,93.8%,4.1,A- (3.80),
+358,"Salovey, Todd",TDAC 101 - Acting I (B),FA16,17,6,100.0%,100.0%,3.7,A- (3.80),
+359,"Castro, Robert Jess",TDAC 102 - Acting II (A),FA16,12,5,100.0%,100.0%,5.7,A (4.00),
+360,"Rubinstein, Kim",TDAC 103A - Acting Intensive I (A),FA16,22,8,100.0%,100.0%,6.79,A- (3.86),A- (3.85)
+361,"Castro, Robert Jess",TDAC 108 - Advanced Topics (A),FA16,14,5,100.0%,100.0%,6.0,A (4.00),
+362,"Means, Charles E.",TDAC 122 - Ensemble: Undergrad Production (A),FA16,12,4,100.0%,100.0%,13.0,A (4.00),
+363,"Harting, Carla Kelso",TDAC 1 - Introduction to Acting (A),S216,15,10,100.0%,100.0%,3.3,A- (3.80),
+364,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),S216,19,5,100.0%,100.0%,0.5,A (4.00),
+365,"Stokes, Cynthia Sue",TDAC 1 - Introduction to Acting (C),S216,17,16,100.0%,100.0%,4.0,A- (3.93),
+366,"Meyer, Ursula",TDAC 1 - Introduction to Acting (D),S216,19,7,100.0%,85.7%,3.93,A (4.00),
+367,"Harting, Carla Kelso",TDAC 1 - Introduction to Acting (A),S116,17,5,100.0%,100.0%,3.3,A (4.00),
+368,"Barnes, Eva E",TDAC 1 - Introduction to Acting (B),S116,18,3,100.0%,100.0%,4.5,B+ (3.67),
+369,"Barnes, Eva E",TDAC 1 - Introduction to Acting (C),S116,14,5,100.0%,100.0%,3.3,A (4.00),
+370,"Schwartz, Michael",TDAC 1 - Introduction to Acting (D),S116,20,7,100.0%,100.0%,4.17,A (4.00),A (4.00)
+371,"Salovey, Todd",TDAC 107 - Improvisation for the Theatre (A),S116,18,7,100.0%,100.0%,3.83,A (4.00),
+372,"Salovey, Todd",TDAC 1 - Introduction to Acting (A),SP16,20,6,100.0%,100.0%,1.83,A (4.00),A- (3.84)
+373,"Salovey, Todd",TDAC 1 - Introduction to Acting (B),SP16,19,6,100.0%,100.0%,4.1,A (4.00),
+374,"Salovey, Todd",TDAC 1 - Introduction to Acting (C),SP16,19,15,100.0%,100.0%,3.21,A- (3.92),
+375,"Salovey, Todd",TDAC 1 - Introduction to Acting (D),SP16,20,17,100.0%,100.0%,2.1,A- (3.87),A- (3.84)
+376,"Salovey, Todd",TDAC 1 - Introduction to Acting (E),SP16,20,17,100.0%,100.0%,4.64,B+ (3.69),A- (3.84)
+377,"Salovey, Todd",TDAC 1 - Introduction to Acting (F),SP16,17,14,100.0%,100.0%,3.73,A- (3.92),
+378,"Salovey, Todd",TDAC 101 - Acting I (A),SP16,16,11,100.0%,100.0%,4.5,A- (3.90),
+379,"Walsh, Kim C.",TDAC 101 - Acting I (B),SP16,20,11,100.0%,100.0%,2.14,A- (3.70),A- (3.71)
+380,"Walsh, Kim C.",TDAC 102 - Acting II (A),SP16,17,7,83.3%,100.0%,3.17,A (4.00),
+381,"Barnes, Eva E",TDAC 108 - Advanced Topics (A),SP16,19,10,100.0%,100.0%,5.9,A (4.00),
+382,"Vickerman, Linda Joanne",TDAC 109 - Singing for Actors (A),SP16,18,17,100.0%,100.0%,3.09,A- (3.76),
+383,"George, Nadine",TDAC 122 - Ensemble: Undergrad Production (A),SP16,22,7,100.0%,100.0%,5.3,A (4.00),A (4.00)
+384,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),WI16,19,10,88.9%,77.8%,3.17,B+ (3.67),
+385,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),WI16,19,6,100.0%,100.0%,6.9,A- (3.83),
+386,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),WI16,20,9,100.0%,100.0%,4.06,A (4.00),B+ (3.57)
+387,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),WI16,21,5,100.0%,75.0%,3.5,A (4.00),B+ (3.57)
+388,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),WI16,20,13,100.0%,100.0%,3.23,A- (3.73),B+ (3.57)
+389,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),WI16,18,17,92.9%,85.7%,3.79,A (4.00),
+390,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),WI16,19,17,100.0%,100.0%,4.62,A (4.00),
+391,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),WI16,19,8,100.0%,100.0%,2.25,A- (3.88),
+392,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),WI16,20,9,100.0%,100.0%,5.39,A- (3.89),B+ (3.57)
+393,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (K),WI16,17,14,92.9%,100.0%,2.64,A- (3.80),
+394,"Salovey, Todd",TDAC 101 - Acting I (A),WI16,21,15,100.0%,100.0%,4.5,A (4.00),A- (3.94)
+395,"Walsh, Kim C.",TDAC 101 - Acting I (B),WI16,19,14,100.0%,100.0%,3.5,A- (3.83),
+396,"Castro, Robert Jess",TDAC 102 - Acting II (A),WI16,17,8,75.0%,50.0%,4.25,A- (3.86),
+397,"Castro, Robert Jess",TDAC 103A - Acting Intensive I (A),WI16,7,3,100.0%,100.0%,6.5,A (4.00),
+398,"Barricelli, Marc Alexander",TDAC 105 - Rehearsing Shakespeare (A),WI16,15,7,100.0%,100.0%,4.5,A- (3.71),
+399,"Walsh, Kim C.",TDAC 108 - Advanced Topics (A),WI16,11,8,100.0%,87.5%,3.75,A- (3.88),
+400,"Meyer, Ursula",TDAC 111 - Freeing The Voice (A),WI16,17,8,100.0%,100.0%,4.5,A- (3.83),
+401,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),FA15,20,10,100.0%,100.0%,3.17,A- (3.78),B+ (3.62)
+402,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),FA15,20,15,100.0%,100.0%,2.9,A- (3.70),B+ (3.62)
+403,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),FA15,20,15,100.0%,91.7%,2.83,A- (3.90),B+ (3.62)
+404,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),FA15,20,12,81.8%,90.9%,2.1,A (4.00),B+ (3.62)
+405,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),FA15,19,12,100.0%,100.0%,4.25,A (4.00),
+406,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),FA15,21,16,100.0%,92.3%,2.04,A- (3.85),B+ (3.62)
+407,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),FA15,20,9,100.0%,100.0%,2.75,A (4.00),B+ (3.62)
+408,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),FA15,20,11,100.0%,100.0%,2.3,A (4.00),B+ (3.62)
+409,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),FA15,20,8,100.0%,100.0%,1.83,A (4.00),B+ (3.62)
+410,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),FA15,19,14,100.0%,100.0%,2.7,A- (3.91),
+411,"Salovey, Todd",TDAC 101 - Acting I (A),FA15,19,10,100.0%,100.0%,6.5,A (4.00),
+412,"Harting, Carla Kelso",TDAC 101 - Acting I (B),FA15,20,7,100.0%,100.0%,4.83,A- (3.83),A- (3.85)
+413,"Castro, Robert Jess",TDAC 102 - Acting II (A),FA15,15,6,100.0%,100.0%,4.5,A- (3.83),
+414,"Wallace, Gregory D.",TDAC 108 - Advanced Topics (A),FA15,12,9,100.0%,100.0%,7.17,A- (3.89),
+415,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (A),S215,15,4,100.0%,100.0%,1.83,A (4.00),
+416,"Schwartz, Michael",TDAC 1 - Introduction to Acting (B),S215,20,12,100.0%,100.0%,5.5,A- (3.92),A (4.00)
+417,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),S215,19,3,66.7%,66.7%,4.5,B+ (3.67),
+418,"Fulton, Julia",TDAC 107 - Improvisation for the Theatre (A),S215,12,10,100.0%,100.0%,4.72,B+ (3.67),
+419,"Barnes, Eva E",TDAC 1 - Introduction to Acting (A),S115,17,6,100.0%,100.0%,3.17,A (4.00),
+420,"Donnelly, Kyle E.",TDAC 1 - Introduction to Acting (B),S115,18,5,100.0%,100.0%,4.0,A (4.00),
+421,"Meyer, Ursula",TDAC 1 - Introduction to Acting (C),S115,19,9,100.0%,88.9%,4.72,A- (3.78),
+422,"Wallace, Gregory D.",TDAC 1 - Introduction to Acting (D),S115,20,10,100.0%,100.0%,4.1,A- (3.80),A- (3.80)
+423,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),SP15,18,16,100.0%,85.7%,2.79,A- (3.92),
+424,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),SP15,21,14,100.0%,100.0%,2.83,A (4.00),A- (3.74)
+425,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),SP15,20,4,100.0%,100.0%,5.83,A (4.00),A- (3.74)
+426,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),SP15,19,8,100.0%,100.0%,2.75,A (4.00),
+427,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),SP15,18,15,100.0%,100.0%,3.5,A (4.00),
+428,"Salovey, Todd",TDAC 101 - Acting I (A),SP15,20,16,100.0%,100.0%,3.43,A- (3.93),A- (3.97)
+429,"Salovey, Todd",TDAC 101 - Acting I (B),SP15,19,9,100.0%,88.9%,2.06,A- (3.78),
+430,"Walsh, Kim C.",TDAC 102 - Acting II (A),SP15,19,12,100.0%,100.0%,4.0,A- (3.91),
+431,"Rubinstein, Kim",TDAC 103A - Acting Intensive I (A),SP15,22,8,85.7%,85.7%,5.07,A- (3.83),A- (3.82)
+432,"Ramey, Heather L",TDAC 108 - Advanced Topics (A),SP15,13,5,100.0%,100.0%,0.9,A (4.00),
+433,"Vickerman, Linda Joanne",TDAC 109 - Singing for Actors (A),SP15,13,11,100.0%,100.0%,6.5,A- (3.90),
+434,"Wallace, Gregory D.",TDAC 112 - Senior Seminar in Acting (A),SP15,15,9,100.0%,100.0%,5.5,B+ (3.63),
+435,"Rubinstein, Kim",TDAC 126 - Acting-Directing Process (A),SP15,13,5,100.0%,100.0%,3.5,A (4.00),
+436,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),WI15,20,13,100.0%,100.0%,3.17,A (4.00),A- (3.77)
+437,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),WI15,20,6,100.0%,100.0%,3.3,A (4.00),A- (3.77)
+438,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),WI15,22,13,100.0%,100.0%,2.32,A (4.00),A- (3.77)
+439,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),WI15,20,8,100.0%,100.0%,3.25,A (4.00),A- (3.77)
+440,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),WI15,20,8,100.0%,100.0%,2.25,A (4.00),A- (3.77)
+441,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),WI15,17,7,100.0%,100.0%,2.83,A- (3.83),
+442,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),WI15,20,14,100.0%,100.0%,1.88,A- (3.92),A- (3.77)
+443,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),WI15,21,12,100.0%,100.0%,2.7,B+ (3.64),A- (3.77)
+444,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),WI15,20,10,100.0%,100.0%,3.5,A (4.00),A- (3.77)
+445,"Salovey, Todd",TDAC 101 - Acting I (A),WI15,18,15,100.0%,92.3%,4.5,A (4.00),
+446,"Brody, Joshua Kahan",TDAC 101 - Acting I (B),WI15,20,20,95.0%,95.0%,3.03,A- (3.89),A- (3.77)
+447,"Harting, Carla Kelso",TDAC 102 - Acting II (A),WI15,17,9,75.0%,87.5%,4.0,A- (3.75),
+448,"Rubinstein, Kim",TDAC 112 - Senior Seminar in Acting (A),WI15,9,3,100.0%,100.0%,3.17,A (4.00),
+449,"Oates, Charles Bruce",TDAC 115 - Movement for Actors (A),WI15,15,5,100.0%,100.0%,2.1,A- (3.80),
+450,"Tompa, Gabor",TDAC 126 - Acting-Directing Process (A),WI15,5,4,100.0%,75.0%,2.0,A (4.00),
+451,"Salovey, Todd",TDAC 1 - Introduction to Acting (A),FA14,20,7,100.0%,100.0%,3.83,A (4.00),A- (3.88)
+452,"Salovey, Todd",TDAC 1 - Introduction to Acting (B),FA14,20,8,100.0%,100.0%,2.0,A (4.00),A- (3.88)
+453,"Salovey, Todd",TDAC 1 - Introduction to Acting (C),FA14,19,7,100.0%,100.0%,3.0,A (4.00),
+454,"Salovey, Todd",TDAC 1 - Introduction to Acting (D),FA14,19,9,100.0%,100.0%,2.0,A (4.00),
+455,"Salovey, Todd",TDAC 1 - Introduction to Acting (E),FA14,20,4,100.0%,100.0%,2.5,A (4.00),A- (3.88)
+456,"Salovey, Todd",TDAC 1 - Introduction to Acting (F),FA14,19,10,100.0%,100.0%,3.17,A- (3.90),
+457,"Salovey, Todd",TDAC 1 - Introduction to Acting (G),FA14,19,9,100.0%,100.0%,4.5,A (4.00),
+458,"Salovey, Todd",TDAC 1 - Introduction to Acting (H),FA14,19,7,100.0%,83.3%,3.83,A (4.00),
+459,"Salovey, Todd",TDAC 1 - Introduction to Acting (I),FA14,19,12,100.0%,91.7%,2.5,A- (3.82),
+460,"Harting, Carla Kelso",TDAC 101 - Acting I (A),FA14,18,11,100.0%,90.0%,3.5,A- (3.90),
+461,"Walsh, Kim C.",TDAC 101 - Acting I (B),FA14,19,9,100.0%,100.0%,5.75,A (4.00),
+462,"Dugdale, Thomas W",TDAC 102 - Acting II (A),FA14,13,4,100.0%,100.0%,4.5,A- (3.75),
+463,"Meyer, Ursula",TDAC 104 - Classical Text (A),FA14,16,10,100.0%,100.0%,4.1,A- (3.89),
+464,"Harting, Carla Kelso",TDAC 108 - Advanced Topics (A),FA14,7,6,83.3%,83.3%,3.17,A (4.00),
+465,"Ramey, Heather L",TDAC 108 - Advanced Topics (B),FA14,21,16,100.0%,100.0%,6.25,A- (3.86),A- (3.97)
+466,"Donnelly, Kyle E.",TDAC 108 - Advanced Topics (C),FA14,10,7,85.7%,85.7%,5.64,A (4.00),
+467,"Tompa, Gabor",TDAC 126 - Acting-Directing Process (A),FA14,10,5,100.0%,100.0%,4.9,A (4.00),
+468,"Hale, Debra",TDAC 1 - Introduction to Acting (A),S214,15,15,100.0%,100.0%,5.7,A- (3.71),
+469,"Rouse, John Samuel",TDAC 1 - Introduction to Acting (B),S214,17,6,80.0%,80.0%,2.9,A (4.00),
+470,"Schwartz, Michael",TDAC 1 - Introduction to Acting (C),S214,17,10,100.0%,100.0%,4.72,A (4.00),
+471,"Stokes, Cynthia Sue",TDAC 1 - Introduction to Acting (D),S214,20,7,85.7%,100.0%,5.83,A- (3.83),B+ (3.50)
+472,"Barnes, Eva E",TDAC 1 - Introduction to Acting (A),S114,18,5,100.0%,100.0%,7.7,A (4.00),
+473,"Donnelly, Kyle E.",TDAC 1 - Introduction to Acting (B),S114,20,10,100.0%,100.0%,4.28,A- (3.71),A- (3.71)
+474,"Meyer, Ursula",TDAC 1 - Introduction to Acting (C),S114,14,3,100.0%,100.0%,3.83,A (4.00),
+475,"Salovey, Todd",TDAC 107 - Improvisation for the Theatre (A),S114,16,3,100.0%,100.0%,1.83,B+ (3.33),
+476,"Salovey, Todd",TDAC 1 - Introduction to Acting (A),SP14,19,10,100.0%,90.0%,2.1,A (4.00),
+477,"Salovey, Todd",TDAC 1 - Introduction to Acting (B),SP14,20,5,100.0%,100.0%,3.0,A (4.00),B+ (3.67)
+478,"Salovey, Todd",TDAC 1 - Introduction to Acting (C),SP14,19,7,100.0%,100.0%,2.5,A (4.00),
+479,"Salovey, Todd",TDAC 1 - Introduction to Acting (D),SP14,20,9,100.0%,100.0%,3.0,A- (3.71),B+ (3.67)
+480,"Salovey, Todd",TDAC 1 - Introduction to Acting (E),SP14,19,15,93.3%,100.0%,4.36,A- (3.91),
+481,"Stokes, Cynthia Sue",TDAC 101 - Acting I (A),SP14,19,3,66.7%,100.0%,5.83,B+ (3.67),
+482,"Walsh, Kim C.",TDAC 101 - Acting I (B),SP14,18,9,100.0%,100.0%,4.28,A- (3.78),
+483,"Salovey, Todd",TDAC 102 - Acting II (A),SP14,20,10,100.0%,100.0%,3.7,A (4.00),A- (3.87)
+484,"Tompa, Gabor",TDAC 108 - Advanced Topics (A),SP14,11,4,100.0%,100.0%,3.0,A- (3.75),
+485,"Vickerman, Linda Joanne",TDAC 109 - Singing for Actors (A),SP14,18,14,100.0%,100.0%,5.79,B+ (3.64),
+486,"Meyer, Ursula",TDAC 111 - Freeing The Voice (A),SP14,22,5,80.0%,100.0%,6.1,A (4.00),A- (3.83)
+487,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),WI14,20,15,77.8%,66.7%,3.17,A- (3.78),B+ (3.59)
+488,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),WI14,20,12,100.0%,100.0%,4.9,A- (3.80),B+ (3.59)
+489,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),WI14,20,8,100.0%,100.0%,2.17,A- (3.83),B+ (3.59)
+490,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),WI14,20,5,100.0%,100.0%,2.5,A (4.00),B+ (3.59)
+491,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),WI14,21,11,90.9%,90.9%,2.5,A- (3.91),B+ (3.59)
+492,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),WI14,20,10,100.0%,100.0%,3.5,A (4.00),B+ (3.59)
+493,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),WI14,20,11,100.0%,100.0%,3.25,A (4.00),B+ (3.59)
+494,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),WI14,19,8,83.3%,100.0%,2.83,B+ (3.67),
+495,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),WI14,18,6,100.0%,100.0%,3.17,A- (3.83),
+496,"Ramey, Heather L",TDAC 101 - Acting I (A),WI14,19,7,100.0%,100.0%,5.93,A (4.00),
+497,"Walsh, Kim C.",TDAC 101 - Acting I (B),WI14,19,13,92.3%,100.0%,4.81,B+ (3.69),
+498,"Dugdale, Thomas W",TDAC 102 - Acting II (A),WI14,15,3,100.0%,100.0%,3.17,A (4.00),
+499,"Rudko, Michael",TDAC 105 - Rehearsing Shakespeare (A),WI14,13,4,100.0%,100.0%,3.5,A- (3.75),
+500,"Castro, Robert Jess",TDAC 108 - Advanced Topics (A),WI14,7,3,100.0%,100.0%,7.5,A (4.00),
+501,"Rubinstein, Kim",TDAC 108 - Advanced Topics (B),WI14,13,5,100.0%,100.0%,4.0,A (4.00),
+502,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),FA13,20,6,100.0%,100.0%,4.17,A (4.00),A- (3.83)
+503,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),FA13,20,10,100.0%,100.0%,2.5,A- (3.89),A- (3.83)
+504,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),FA13,20,18,100.0%,100.0%,2.07,A- (3.87),A- (3.83)
+505,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),FA13,20,8,100.0%,100.0%,2.25,A- (3.88),A- (3.83)
+506,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),FA13,19,11,100.0%,100.0%,2.5,B+ (3.67),
+507,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),FA13,19,12,100.0%,100.0%,2.86,A- (3.73),
+508,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),FA13,19,9,100.0%,100.0%,2.06,A (4.00),
+509,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),FA13,20,7,100.0%,100.0%,3.5,A (4.00),A- (3.83)
+510,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),FA13,20,13,100.0%,100.0%,2.35,A- (3.92),A- (3.83)
+511,"Salovey, Todd",TDAC 101 - Acting I (A),FA13,15,10,100.0%,100.0%,5.3,A- (3.88),
+512,"Stokes, Cynthia Sue",TDAC 101 - Acting I (B),FA13,19,6,100.0%,100.0%,4.83,A (4.00),
+513,"Brody, Joshua Kahan",TDAC 102 - Acting II (A),FA13,9,6,100.0%,100.0%,3.7,A (4.00),
+514,"Rubinstein, Kim",TDAC 103B - Acting Intensive II (A),FA13,11,3,100.0%,100.0%,7.83,A (4.00),
+515,"Manke, Art",TDAC 104 - Classical Text (A),FA13,8,3,100.0%,100.0%,2.5,A (4.00),
+516,"Barnes, Eva E",TDAC 108 - Advanced Topics (B),FA13,18,16,100.0%,100.0%,5.0,A- (3.94),
+517,"Wallace, Gregory D.",TDAC 108 - Advanced Topics (C),FA13,12,12,100.0%,100.0%,7.0,B+ (3.58),
+518,"Oates, Charles Bruce",TDAC 115 - Movement for Actors (A),FA13,11,8,87.5%,87.5%,2.0,A (4.00),
+519,"Schwartz, Michael",TDAC 1 - Introduction to Acting (A),S213,19,3,100.0%,100.0%,6.5,A (4.00),
+520,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),S213,20,8,100.0%,100.0%,3.93,A- (3.71),A- (3.85)
+521,"Schwartz, Michael",TDAC 1 - Introduction to Acting (C),S213,19,5,100.0%,100.0%,4.5,A (4.00),
+522,"Rubinstein, Kim",TDAC 101 - Acting I (A),S213,14,3,100.0%,66.7%,3.83,B+ (3.33),
+523,"Rouse, John Samuel",TDAC 1 - Introduction to Acting (A),S113,21,5,100.0%,100.0%,3.5,A (4.00),A- (3.76)
+524,"Barnes, Eva E",TDAC 1 - Introduction to Acting (B),S113,17,6,100.0%,100.0%,3.17,A (4.00),
+525,"Wallace, Gregory D.",TDAC 1 - Introduction to Acting (C),S113,15,3,100.0%,100.0%,4.5,A (4.00),
+526,"Meyer, Ursula",TDAC 101 - Acting I (A),S113,9,4,100.0%,100.0%,4.0,A (4.00),
+527,"Salovey, Todd",TDAC 107 - Improvisation for the Theatre (A),S113,19,5,100.0%,100.0%,5.7,A- (3.80),
+528,"Fulton, Julia",TDAC 108 - Advanced Topics (B),S113,10,3,100.0%,100.0%,4.5,B+ (3.67),
+529,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),SP13,21,10,80.0%,80.0%,4.7,A- (3.83),A- (3.75)
+530,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),SP13,19,8,87.5%,87.5%,3.0,A (4.00),
+531,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),SP13,22,10,100.0%,100.0%,3.3,A (4.00),A- (3.75)
+532,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),SP13,20,10,100.0%,90.0%,2.7,A- (3.78),A- (3.75)
+533,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),SP13,20,6,100.0%,100.0%,6.9,A- (3.80),A- (3.75)
+534,"Salovey, Todd",TDAC 101 - Acting I (A),SP13,17,7,85.7%,85.7%,4.5,A (4.00),
+535,"Walsh, Kim C.",TDAC 101 - Acting I (B),SP13,16,13,100.0%,100.0%,4.96,B+ (3.54),
+536,"Salovey, Todd",TDAC 102 - Acting II (A),SP13,21,8,100.0%,100.0%,7.5,A- (3.88),A- (3.82)
+537,"Rubinstein, Kim",TDAC 103A - Acting Intensive I (A),SP13,19,7,100.0%,100.0%,7.5,A- (3.83),
+538,"Vickerman, Linda Joanne",TDAC 109 - Singing for Actors (A),SP13,18,13,100.0%,100.0%,5.12,A (4.00),
+539,"Rubinstein, Kim",TDAC 120 - Ensemble (A),SP13,14,6,100.0%,100.0%,12.17,A (4.00),
+540,"Carmody, James",TDAC 122 - Ensemble: Undergrad Production (A),SP13,14,3,66.7%,100.0%,13.83,A (4.00),
+541,"Salovey, Todd",TDAC 1 - Introduction to Acting (A),WI13,21,12,100.0%,100.0%,1.83,A (4.00),A- (3.83)
+542,"Salovey, Todd",TDAC 1 - Introduction to Acting (B),WI13,19,10,80.0%,90.0%,2.5,B+ (3.67),
+543,"Salovey, Todd",TDAC 1 - Introduction to Acting (C),WI13,19,8,100.0%,100.0%,2.5,A (4.00),
+544,"Salovey, Todd",TDAC 1 - Introduction to Acting (D),WI13,19,8,100.0%,100.0%,5.64,A- (3.86),
+545,"Salovey, Todd",TDAC 1 - Introduction to Acting (E),WI13,20,11,100.0%,100.0%,3.05,A (4.00),A- (3.83)
+546,"Salovey, Todd",TDAC 1 - Introduction to Acting (F),WI13,19,10,90.0%,100.0%,2.28,A- (3.71),
+547,"Salovey, Todd",TDAC 1 - Introduction to Acting (G),WI13,21,8,100.0%,100.0%,2.5,A- (3.86),A- (3.83)
+548,"Salovey, Todd",TDAC 1 - Introduction to Acting (H),WI13,19,6,83.3%,83.3%,3.7,A (4.00),
+549,"Salovey, Todd",TDAC 1 - Introduction to Acting (I),WI13,22,7,100.0%,100.0%,3.07,A (4.00),A- (3.83)
+550,"Stokes, Cynthia Sue",TDAC 101 - Acting I (A),WI13,20,7,85.7%,71.4%,3.36,B+ (3.67),B+ (3.59)
+551,"Walsh, Kim C.",TDAC 101 - Acting I (B),WI13,18,5,100.0%,100.0%,4.0,A (4.00),
+552,"Wallace, Gregory D.",TDAC 102 - Acting II (A),WI13,15,7,100.0%,100.0%,7.36,A- (3.83),
+553,"Rubinstein, Kim",TDAC 103B - Acting Intensive II (A),WI13,14,7,100.0%,100.0%,11.64,A (4.00),
+554,"Meyer, Ursula",TDAC 104 - Classical Text (A),WI13,15,6,100.0%,100.0%,6.83,A (4.00),
+555,"Oates, Charles Bruce",TDAC 115 - Movement for Actors (A),WI13,20,7,85.7%,100.0%,1.07,A- (3.86),A- (3.70)
+556,"Carmody, James",TDAC 122 - Ensemble: Undergrad Production (A),WI13,5,3,100.0%,100.0%,20.5,A (4.00),
+557,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),FA12,20,13,90.0%,80.0%,1.61,A (4.00),A- (3.81)
+558,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),FA12,20,5,100.0%,100.0%,4.5,A (4.00),A- (3.81)
+559,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),FA12,20,7,100.0%,100.0%,6.5,A (4.00),A- (3.81)
+560,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),FA12,20,11,100.0%,90.0%,2.1,A- (3.90),A- (3.81)
+561,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),FA12,20,8,100.0%,100.0%,3.7,A (4.00),A- (3.81)
+562,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),FA12,20,3,100.0%,100.0%,2.5,B (3.00),A- (3.81)
+563,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),FA12,18,3,100.0%,100.0%,2.5,A (4.00),
+564,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),FA12,20,7,100.0%,100.0%,1.83,A (4.00),A- (3.81)
+565,"Walsh, Kim C.",TDAC 101 - Acting I (A),FA12,14,7,100.0%,100.0%,6.5,A- (3.83),
+566,"Salovey, Todd",TDAC 101 - Acting I (B),FA12,16,7,100.0%,100.0%,3.93,A- (3.86),
+567,"Castro, Robert Jess",TDAC 102 - Acting II (A),FA12,11,8,87.5%,87.5%,4.25,A- (3.88),
+568,"Rubinstein, Kim",TDAC 103A - Acting Intensive I (A),FA12,17,3,100.0%,100.0%,10.5,A (4.00),
+569,"Donnelly, Kyle E.",TDAC 108 - Advanced Topics (A),FA12,16,6,100.0%,100.0%,6.0,A (4.00),
+570,"Castro, Robert Jess",TDAC 108 - Advanced Topics (B),FA12,10,6,100.0%,100.0%,3.83,A (4.00),
+571,"Schwartz, Michael",TDAC 1 - Introduction to Acting (B),S212,18,4,100.0%,100.0%,7.5,A (4.00),
+572,"Walsh, Kim C.",TDAC 101 - Acting I (A),S212,11,3,100.0%,100.0%,3.83,A (4.00),
+573,"Salovey, Todd",TDAC 107 - Improvisation for the Theatre (A),S212,18,3,100.0%,100.0%,2.5,A (4.00),
+574,"Hayatshahi, Janet",TDAC 1 - Introduction to Acting (A),S112,18,10,100.0%,100.0%,4.9,A (4.00),
+575,"Barnes, Eva E",TDAC 1 - Introduction to Acting (B),S112,18,8,100.0%,87.5%,4.0,A- (3.88),
+576,"Meyer, Ursula",TDAC 101 - Acting I (A),S112,15,3,100.0%,100.0%,1.83,A (4.00),
+577,"Fulton, Julia",TDAC 108 - Advanced Topics (A),S112,11,5,100.0%,100.0%,3.3,A (4.00),
+578,"Hale, Debra",TDAC 111 - Freeing The Voice (A),S112,9,4,100.0%,100.0%,1.5,A (4.00),
+579,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),SP12,20,11,100.0%,90.9%,3.05,A- (3.90),B+ (3.55)
+580,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),SP12,20,9,100.0%,100.0%,1.83,A- (3.80),B+ (3.55)
+581,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),SP12,19,5,100.0%,100.0%,5.7,A- (3.80),
+582,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),SP12,19,3,100.0%,100.0%,3.83,B+ (3.33),
+583,"Walsh, Kim C.",TDAC 101 - Acting I (A),SP12,18,8,100.0%,100.0%,4.25,A (4.00),
+584,"Salovey, Todd",TDAC 101 - Acting I (B),SP12,19,8,100.0%,100.0%,5.75,A- (3.88),
+585,"Salovey, Todd",TDAC 102 - Acting II (A),SP12,19,4,100.0%,100.0%,10.0,A (4.00),
+586,"Wallace, Gregory D.",TDAC 108 - Advanced Topics (A),SP12,16,4,100.0%,100.0%,4.5,A- (3.75),
+587,"Vickerman, Linda Joanne",TDAC 109 - Singing for Actors (A),SP12,18,7,100.0%,100.0%,5.64,A (4.00),
+588,"Meyer, Ursula",TDAC 111 - Freeing The Voice (A),SP12,20,8,100.0%,100.0%,3.0,A (4.00),A- (3.88)
+589,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),WI12,17,11,100.0%,81.8%,3.41,B+ (3.44),
+590,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),WI12,16,6,100.0%,100.0%,1.5,A (4.00),
+591,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),WI12,19,11,100.0%,100.0%,7.95,A- (3.90),
+592,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),WI12,20,9,100.0%,100.0%,3.61,A- (3.89),A- (3.71)
+593,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),WI12,19,4,66.7%,66.7%,5.17,A- (3.75),
+594,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),WI12,19,7,100.0%,100.0%,3.36,A (4.00),
+595,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),WI12,18,7,100.0%,100.0%,2.79,A- (3.86),
+596,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),WI12,17,4,100.0%,100.0%,3.5,A (4.00),
+597,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),WI12,21,3,100.0%,100.0%,5.83,B+ (3.33),A- (3.71)
+598,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),WI12,19,8,100.0%,100.0%,2.75,B+ (3.50),
+599,"Salovey, Todd",TDAC 101 - Acting I (A),WI12,21,12,100.0%,100.0%,3.5,A- (3.91),A- (3.93)
+600,"Salovey, Todd",TDAC 101 - Acting I (B),WI12,20,10,100.0%,88.9%,3.3,A (4.00),A- (3.93)
+601,"Winker, James R",TDAC 105 - Rehearsing Shakespeare (A),WI12,10,4,100.0%,100.0%,4.0,A (4.00),
+602,"Murphy, Maiya J",TDAC 115 - Movement for Actors (A),WI12,19,12,50.0%,75.0%,5.0,A- (3.92),
+603,"Salovey, Todd",TDAC 1 - Introduction to Acting (A),FA11,18,9,100.0%,100.0%,3.17,A (4.00),
+604,"Salovey, Todd",TDAC 1 - Introduction to Acting (B),FA11,19,7,100.0%,100.0%,3.07,A- (3.83),
+605,"Salovey, Todd",TDAC 1 - Introduction to Acting (C),FA11,18,5,100.0%,100.0%,2.9,A (4.00),
+606,"Salovey, Todd",TDAC 1 - Introduction to Acting (D),FA11,20,9,88.9%,100.0%,2.94,B+ (3.63),A- (3.78)
+607,"Salovey, Todd",TDAC 1 - Introduction to Acting (E),FA11,15,8,100.0%,100.0%,5.07,A (4.00),
+608,"Salovey, Todd",TDAC 1 - Introduction to Acting (F),FA11,20,11,90.9%,90.9%,3.3,A- (3.82),A- (3.78)
+609,"Salovey, Todd",TDAC 1 - Introduction to Acting (G),FA11,20,8,100.0%,100.0%,3.5,A- (3.88),A- (3.78)
+610,"Salovey, Todd",TDAC 1 - Introduction to Acting (H),FA11,20,6,100.0%,100.0%,3.83,A (4.00),A- (3.78)
+611,"Salovey, Todd",TDAC 1 - Introduction to Acting (I),FA11,19,6,100.0%,83.3%,2.17,A- (3.75),
+612,"Hunicutt, Eric M",TDAC 101 - Acting I (A),FA11,20,11,100.0%,81.8%,3.77,A- (3.73),A- (3.90)
+613,"Castro, Robert Jess",TDAC 102 - Acting II (A),FA11,9,3,100.0%,100.0%,6.5,A (4.00),
+614,"Rubinstein, Kim",TDAC 103B - Acting Intensive II (A),FA11,18,4,100.0%,100.0%,6.5,A (4.00),
+615,"Winker, James R",TDAC 104 - Classical Text (A),FA11,15,6,100.0%,100.0%,4.83,A- (3.80),
+616,"Castro, Robert Jess",TDAC 108 - Advanced Topics (A),FA11,14,6,83.3%,83.3%,4.83,A- (3.75),
+617,"Barnes, Eva E",TDAC 108 - Advanced Topics (B),FA11,15,8,100.0%,100.0%,5.5,A (4.00),
+618,"Carmody, James",TDAC 122 - Ensemble: Undergrad Production (A),FA11,11,6,100.0%,80.0%,12.5,A (4.00),
+619,"BARNES, EVA WIELGAT",TDAC 1 - Introduction to Acting (A),S211,21,9,100.0%,100.0%,7.39,B+ (3.67),A- (3.94)
+620,"Walsh, Kim C.",TDAC 101 - Acting I (A),S211,16,4,100.0%,100.0%,4.0,A (4.00),
+621,"Salovey, Todd",TDAC 107 - Improvisation for the Theatre (A),S211,17,7,100.0%,100.0%,1.64,A (4.00),
+622,"Schwartz, Michael",TDAC 1 - Introduction to Acting (A),S111,19,5,100.0%,80.0%,4.1,A (4.00),
+623,"Schwartz, Michael",TDAC 1 - Introduction to Acting (B),S111,18,7,100.0%,100.0%,5.36,A (4.00),
+624,"Fulton, Julia",TDAC 108 - Advanced Topics (A),S111,14,9,100.0%,100.0%,4.06,A (4.00),
+625,"Meyer, Ursula",TDAC 111 - Freeing The Voice (A),S111,12,6,100.0%,100.0%,4.17,A (4.00),
+626,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),SP11,20,10,100.0%,100.0%,2.7,A (4.00),A- (3.85)
+627,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),SP11,17,7,100.0%,100.0%,4.5,A (4.00),
+628,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),SP11,16,6,100.0%,80.0%,2.83,A- (3.75),
+629,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),SP11,19,8,100.0%,100.0%,2.75,A (4.00),
+630,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),SP11,20,10,100.0%,100.0%,2.9,A (4.00),A- (3.85)
+631,"Salovey, Todd",TDAC 101 - Acting I (A),SP11,29,10,100.0%,100.0%,3.9,A (4.00),A- (3.90)
+632,"Salovey, Todd",TDAC 102 - Acting II (A),SP11,20,10,100.0%,90.0%,5.7,A- (3.80),A- (3.93)
+633,"Rubinstein, Kim",TDAC 103A - Acting Intensive I (A),SP11,18,7,100.0%,100.0%,9.36,A (4.00),
+634,"George, Nadine",TDAC 108 - Advanced Topics (A),SP11,14,6,100.0%,100.0%,5.17,A (4.00),
+635,"Vickerman, Linda Joanne",TDAC 109 - Singing for Actors (A),SP11,17,10,100.0%,100.0%,3.9,A (4.00),
+636,"Meyer, Ursula",TDAC 111 - Freeing The Voice (A),SP11,19,10,100.0%,90.0%,5.1,A (4.00),
+637,"Green, Allyson",TDAC 122 - Ensemble: Undergrad Production (A),SP11,31,12,100.0%,63.6%,11.7,A (4.00),A (4.00)
+638,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),WI11,19,8,75.0%,62.5%,3.75,A (4.00),
+639,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),WI11,20,10,100.0%,100.0%,3.5,A- (3.90),A- (3.84)
+640,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),WI11,21,5,100.0%,100.0%,2.9,A (4.00),A- (3.84)
+641,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),WI11,19,9,100.0%,100.0%,4.25,A (4.00),
+642,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),WI11,19,10,100.0%,100.0%,2.7,A (4.00),
+643,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),WI11,19,7,85.7%,85.7%,4.21,A- (3.86),
+644,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),WI11,20,7,100.0%,100.0%,2.17,A (4.00),A- (3.84)
+645,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),WI11,19,6,100.0%,83.3%,4.17,A (4.00),
+646,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),WI11,19,8,100.0%,100.0%,1.36,A (4.00),
+647,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (J),WI11,20,8,100.0%,100.0%,1.75,A (4.00),A- (3.84)
+648,"Walsh, Kim C.",TDAC 101 - Acting I (A),WI11,18,7,100.0%,100.0%,6.83,A- (3.71),
+649,"Castro, Robert Jess",TDAC 102 - Acting II (A),WI11,9,3,100.0%,100.0%,4.5,A (4.00),
+650,"Barnes, Eva E",TDAC 108 - Advanced Topics (A),WI11,18,5,100.0%,100.0%,6.1,A (4.00),
+651,"Oates, Charles Bruce",TDAC 115 - Movement for Actors (A),WI11,21,6,83.3%,100.0%,2.17,A (4.00),A- (3.93)
+652,"Castro, Robert Jess",TDAC 120 - Ensemble (A),WI11,15,5,100.0%,100.0%,3.3,A (4.00),
+653,"Salovey, Todd",TDAC 1 - Introduction to Acting (A),FA10,18,10,100.0%,100.0%,1.7,A- (3.80),
+654,"Salovey, Todd",TDAC 1 - Introduction to Acting (B),FA10,18,9,100.0%,87.5%,4.0,A (4.00),
+655,"Salovey, Todd",TDAC 1 - Introduction to Acting (C),FA10,19,9,100.0%,100.0%,2.06,A- (3.89),
+656,"Salovey, Todd",TDAC 1 - Introduction to Acting (D),FA10,18,11,100.0%,100.0%,2.32,A (4.00),
+657,"Salovey, Todd",TDAC 1 - Introduction to Acting (E),FA10,19,9,100.0%,88.9%,2.5,A- (3.78),
+658,"Salovey, Todd",TDAC 1 - Introduction to Acting (F),FA10,17,4,100.0%,100.0%,6.0,A (4.00),
+659,"Salovey, Todd",TDAC 1 - Introduction to Acting (G),FA10,17,8,100.0%,100.0%,1.64,A (4.00),
+660,"Salovey, Todd",TDAC 1 - Introduction to Acting (H),FA10,16,7,100.0%,100.0%,3.07,A (4.00),
+661,"Salovey, Todd",TDAC 1 - Introduction to Acting (I),FA10,18,8,100.0%,100.0%,3.0,A (4.00),
+662,"Salovey, Todd",TDAC 101 - Acting I (A),FA10,20,7,100.0%,100.0%,5.64,A- (3.86),A- (3.88)
+663,"Castro, Robert Jess",TDAC 102 - Acting II (A),FA10,12,6,100.0%,83.3%,4.83,A (4.00),
+664,"Winker, James R",TDAC 104 - Classical Text (A),FA10,11,6,100.0%,100.0%,6.5,A- (3.83),
+665,"Meyer, Ursula",TDAC 106 - Chekhov Acting (A),FA10,18,7,100.0%,100.0%,5.64,A (4.00),
+666,"Hayatshahi, Janet",TDAC 1 - Introduction to Acting (A),SU10,17,11,100.0%,100.0%,3.95,A- (3.86),
+667,"Taylor, Brandon D",TDAC 1 - Introduction to Acting (A),SU10,14,7,100.0%,100.0%,7.36,A (4.00),
+668,"BARNES, EVA WIELGAT",TDAC 1 - Introduction to Acting (B),SU10,18,9,100.0%,100.0%,6.28,A (4.00),
+669,"Taylor, Brandon D",TDAC 1 - Introduction to Acting (B),SU10,15,4,100.0%,100.0%,4.5,B+ (3.50),
+670,"Walsh, Kim C.",TDAC 101 - Acting I (A),SU10,16,4,100.0%,100.0%,5.5,A (4.00),
+671,"Salovey, Todd",TDAC 107 - Improvisation for the Theatre (A),SU10,20,4,100.0%,100.0%,1.5,A (4.00),
+672,"Fulton, Julia",TDAC 108 - Advanced Topics (A),SU10,15,3,100.0%,100.0%,3.83,B+ (3.33),
+673,"Hale, Debra",TDAC 111 - Freeing The Voice (A),SU10,9,5,100.0%,100.0%,3.3,A- (3.80),
+674,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (A),SP10,16,7,100.0%,100.0%,1.07,A- (3.83),
+675,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (B),SP10,16,6,100.0%,83.3%,1.83,B+ (3.50),
+676,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (C),SP10,18,8,100.0%,85.7%,2.0,A (4.00),
+677,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (D),SP10,17,8,100.0%,100.0%,3.0,A- (3.86),
+678,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (E),SP10,15,4,100.0%,100.0%,2.5,B+ (3.67),
+679,"Petermann, Lori E",TDAC 101 - Acting I (B),SP10,21,10,100.0%,100.0%,4.7,A- (3.80),B+ (3.68)
+680,"Walsh, Kim C.",TDAC 102 - Acting II (A),SP10,16,8,100.0%,100.0%,4.25,A (4.00),
+681,"Salovey, Todd",TDAC 102 - Acting II (B),SP10,18,6,100.0%,100.0%,6.5,A- (3.83),
+682,"Vickerman, Linda Joanne",TDAC 109 - Singing for Actors (A),SP10,18,14,100.0%,100.0%,3.07,A (4.00),
+683,"Salovey, Todd",TDAC 1 - Introduction to Acting (A),WI10,15,4,100.0%,100.0%,4.0,A- (3.75),
+684,"Salovey, Todd",TDAC 1 - Introduction to Acting (B),WI10,16,9,100.0%,66.7%,4.72,B+ (3.57),
+685,"Salovey, Todd",TDAC 1 - Introduction to Acting (C),WI10,16,8,100.0%,100.0%,2.0,A- (3.88),
+686,"Salovey, Todd",TDAC 1 - Introduction to Acting (D),WI10,16,9,88.9%,88.9%,1.61,A- (3.86),
+687,"Salovey, Todd",TDAC 1 - Introduction to Acting (E),WI10,18,8,100.0%,100.0%,2.5,A- (3.86),
+688,"Salovey, Todd",TDAC 1 - Introduction to Acting (F),WI10,16,10,100.0%,100.0%,3.61,B+ (3.63),
+689,"Salovey, Todd",TDAC 1 - Introduction to Acting (G),WI10,15,5,100.0%,100.0%,4.1,A- (3.75),
+690,"Salovey, Todd",TDAC 1 - Introduction to Acting (H),WI10,14,6,100.0%,100.0%,4.83,A (4.00),
+691,"Salovey, Todd",TDAC 1 - Introduction to Acting (I),WI10,15,7,100.0%,100.0%,2.5,A (4.00),
+692,"Salovey, Todd",TDAC 1 - Introduction to Acting (J),WI10,15,4,100.0%,100.0%,7.0,A (4.00),
+693,"Salovey, Todd",TDAC 101 - Acting I (A),WI10,17,6,100.0%,100.0%,2.17,A- (3.80),
+694,"Walsh, Kim C.",TDAC 101 - Acting I (B),WI10,19,7,100.0%,100.0%,4.79,A- (3.86),
+695,"Petermann, Lori E",TDAC 102 - Acting II (A),WI10,20,9,100.0%,100.0%,4.06,A- (3.89),A- (3.84)
+696,"Meyer, Ursula",TDAC 111 - Freeing The Voice (A),WI10,22,4,100.0%,100.0%,3.0,A (4.00),B+ (3.56)
+697,"Oates, Charles Bruce",TDAC 115 - Movement for Actors (A),WI10,18,6,100.0%,100.0%,1.7,A- (3.83),
+698,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (A),FA09,16,14,100.0%,100.0%,3.5,A- (3.93),
+699,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (B),FA09,17,13,100.0%,100.0%,2.5,A- (3.92),
+700,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (C),FA09,17,16,100.0%,100.0%,3.0,A- (3.94),
+701,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (D),FA09,19,19,100.0%,94.4%,2.28,A- (3.76),
+702,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (E),FA09,16,15,100.0%,100.0%,2.07,A- (3.93),
+703,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (F),FA09,15,13,100.0%,100.0%,1.58,A (4.00),
+704,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (G),FA09,16,15,100.0%,100.0%,2.23,A- (3.93),
+705,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (H),FA09,16,15,100.0%,100.0%,2.77,A- (3.80),
+706,"Walsh, Kim C.",TDAC 1 - Introduction to Acting (I),FA09,16,16,100.0%,81.3%,1.5,A (4.00),
+707,"Salovey, Todd",TDAC 101 - Acting I (A),FA09,17,14,100.0%,100.0%,3.07,A- (3.92),
+708,"Petermann, Lori E",TDAC 101 - Acting I (B),FA09,17,16,100.0%,100.0%,5.03,A- (3.82),
+709,"Newcomb, James",TDAC 102 - Acting II (B),FA09,14,13,100.0%,92.3%,2.35,A- (3.85),
+710,"Salovey, Todd",TDAC 1 - Introduction to Acting (A),SU09,15,8,100.0%,100.0%,2.0,A (4.00),
+711,"Schwartz, Michael",TDAC 1 - Introduction to Acting (A),SU09,13,5,100.0%,100.0%,2.9,A (4.00),
+712,"Schwartz, Michael",TDAC 1 - Introduction to Acting (B),SU09,11,5,100.0%,100.0%,4.5,A (4.00),
+713,"Rubinstein, Kim",TDAC 101 - Acting I (A),SU09,11,3,100.0%,100.0%,4.5,A (4.00),
+714,"Walsh, Kim C.",TDAC 102 - Acting II (A),SU09,15,4,100.0%,75.0%,5.5,A- (3.75),
+715,"Fulton, Julia",TDAC 108 - Advanced Topics (A),SU09,12,5,100.0%,100.0%,2.5,A- (3.80),
+716,"Meyer, Ursula",TDAC 111 - Freeing The Voice (A),SU09,15,7,100.0%,100.0%,6.21,A- (3.86),
+717,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (B),SP09,16,12,100.0%,100.0%,2.33,A (4.00),
+718,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (E),SP09,15,14,100.0%,84.6%,3.27,A- (3.73),
+719,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (F),SP09,18,16,100.0%,100.0%,2.13,A- (3.80),
+720,"Salovey, Todd",TDAC 101 - Acting I (A),SP09,20,19,100.0%,100.0%,2.97,B+ (3.67),A- (3.72)
+721,"Fulton, Julia",TDAC 102 - Acting II (A),SP09,16,14,100.0%,92.9%,4.07,A (4.00),
+722,"Rubinstein, Kim",TDAC 103B - Acting Intensive II (A),SP09,16,14,100.0%,100.0%,5.36,A (4.00),
+723,"Vickerman, Linda Joanne",TDAC 109 - Singing for Actors (A),SP09,20,19,100.0%,100.0%,4.08,A- (3.79),A (4.00)
+724,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (A),WI09,15,12,100.0%,100.0%,1.33,A- (3.91),
+725,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (B),WI09,16,13,100.0%,100.0%,1.58,A- (3.89),
+726,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (C),WI09,17,15,100.0%,100.0%,2.5,A- (3.93),
+727,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (E),WI09,16,13,91.7%,92.3%,2.33,B (3.27),
+728,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (H),WI09,16,16,100.0%,100.0%,1.83,A- (3.93),
+729,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (I),WI09,17,17,100.0%,100.0%,2.38,A (4.00),
+730,"Salovey, Todd",TDAC 101 - Acting I (A),WI09,19,16,100.0%,100.0%,3.75,A- (3.86),
+731,"Salovey, Todd",TDAC 101 - Acting I (B),WI09,20,21,95.2%,100.0%,3.45,A- (3.70),A- (3.79)
+732,"Petermann, Lori E",TDAC 101 - Acting I (C),WI09,18,15,100.0%,100.0%,4.1,A- (3.73),
+733,"Petermann, Lori E",TDAC 102 - Acting II (A),WI09,15,12,100.0%,100.0%,4.5,A- (3.83),
+734,"Rubinstein, Kim",TDAC 103A - Acting Intensive I (A),WI09,17,12,100.0%,100.0%,4.17,A (4.00),
+735,"Oates, Charles Bruce",TDAC 115 - Movement for Actors (A),WI09,18,17,100.0%,100.0%,2.38,A- (3.81),
+736,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (A),FA08,16,13,100.0%,100.0%,2.04,A- (3.82),
+737,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (B),FA08,16,15,100.0%,92.9%,3.83,A- (3.93),
+738,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (C),FA08,16,15,100.0%,100.0%,2.37,A- (3.93),
+739,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (D),FA08,15,12,100.0%,100.0%,2.9,A- (3.90),
+740,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (E),FA08,16,16,100.0%,100.0%,2.25,A (4.00),
+741,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (F),FA08,16,16,92.9%,91.7%,2.5,B+ (3.69),
+742,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (G),FA08,16,15,100.0%,100.0%,1.43,A (4.00),
+743,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (H),FA08,18,16,100.0%,100.0%,4.5,A (4.00),
+744,"Salovey, Todd",TDAC 101 - Acting I (A),FA08,20,20,100.0%,100.0%,3.9,A- (3.89),A- (3.78)
+745,"Walsh, Kim C.",TDAC 101 - Acting I (B),FA08,15,13,100.0%,100.0%,3.12,A- (3.85),
+746,"Walsh, Kim C.",TDAC 101 - Acting I (C),FA08,17,16,100.0%,100.0%,4.25,A- (3.83),
+747,"Meyer, Ursula",TDAC 111 - Freeing The Voice (A),FA08,20,18,100.0%,100.0%,3.39,A- (3.78),B+ (3.64)
+748,"Salovey, Todd",TDAC 1 - Introduction to Acting (A),SU08,16,15,100.0%,100.0%,2.23,A- (3.80),
+749,"Zygmonski, Aimee L",TDAC 1 - Introduction to Acting (A),SU08,11,10,100.0%,100.0%,2.5,A (4.00),
+750,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (E),SP08,16,11,100.0%,100.0%,2.14,A (4.00),
+751,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (F),SP08,14,13,100.0%,92.3%,2.96,A (4.00),
+752,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (G),SP08,15,13,100.0%,100.0%,3.27,B+ (3.67),
+753,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (H),SP08,16,10,100.0%,100.0%,2.9,A (4.00),
+754,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (I),SP08,16,14,92.9%,92.9%,3.79,A- (3.85),
+755,"Salovey, Todd",TDAC 101 - Acting I (A),SP08,21,20,95.0%,100.0%,4.3,A- (3.90),A- (3.81)
+756,"Rubinstein, Kim",TDAC 102 - Acting II (A),SP08,19,15,100.0%,100.0%,3.5,A- (3.86),
+757,"Rubinstein, Kim",TDAC 102 - Acting II (B),SP08,18,17,100.0%,100.0%,4.15,A- (3.94),
+758,"Barnes, Eva E",TDAC 108 - Advanced Topics (A),SP08,18,17,100.0%,100.0%,3.32,A (4.00),
+759,"Vickerman, Linda Joanne",TDAC 109 - Singing for Actors (A),SP08,17,16,100.0%,100.0%,3.43,A- (3.85),
+760,"Oates, Charles Bruce",TDAC 115 - Movement for Actors (A),SP08,22,12,91.7%,100.0%,1.83,A- (3.90),B+ (3.64)
+761,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (B),WI08,16,14,100.0%,100.0%,2.64,A- (3.92),
+762,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (C),WI08,14,12,100.0%,100.0%,2.0,A- (3.78),
+763,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (D),WI08,15,14,100.0%,100.0%,2.36,A- (3.78),
+764,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (E),WI08,15,13,83.3%,92.3%,4.65,B+ (3.42),
+765,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (F),WI08,16,14,100.0%,100.0%,2.35,B+ (3.69),
+766,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (G),WI08,18,17,100.0%,100.0%,2.03,A- (3.81),
+767,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (H),WI08,16,14,100.0%,92.9%,4.93,B+ (3.64),
+768,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (I),WI08,16,16,100.0%,100.0%,3.57,A- (3.86),
+769,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (J),WI08,15,15,100.0%,100.0%,1.7,A- (3.86),
+770,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (K),WI08,16,15,100.0%,100.0%,2.5,B+ (3.67),
+771,"Salovey, Todd",TDAC 101 - Acting I (A),WI08,17,16,93.3%,93.3%,3.88,A- (3.73),
+772,"Salovey, Todd",TDAC 101 - Acting I (B),WI08,17,16,100.0%,100.0%,3.25,A- (3.80),
+773,"Walsh, Kim C.",TDAC 101 - Acting I (C),WI08,18,13,100.0%,84.6%,3.42,A- (3.85),
+774,"Meyer, Ursula",TDAC 106 - Chekhov Acting (A),WI08,16,15,100.0%,100.0%,4.9,B+ (3.57),
+775,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (B),FA07,16,14,100.0%,92.3%,2.79,B+ (3.58),
+776,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (C),FA07,16,14,100.0%,100.0%,3.64,B+ (3.55),
+777,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (D),FA07,15,14,100.0%,92.9%,1.93,A- (3.92),
+778,"Rubinstein, Kim",TDAC 1 - Introduction to Acting (E),FA07,16,15,93.3%,100.0%,1.83,B+ (3.57),
+779,"Salovey, Todd",TDAC 101 - Acting I (A),FA07,19,13,100.0%,100.0%,2.67,B+ (3.54),
+780,"Fulton, Julia",TDAC 101 - Acting I (C),FA07,14,13,100.0%,100.0%,2.67,A- (3.91),
+781,"Newcomb, James",TDAC 102 - Acting II (A),FA07,15,13,100.0%,100.0%,3.58,B+ (3.67),
+782,"Rubinstein, Kim",TDAC 102 - Acting II (B),FA07,20,18,100.0%,100.0%,3.68,B+ (3.67),B+ (3.62)
+783,"Salovey, Todd",TDAC 1 - Introduction to Acting (A),SU07,14,15,100.0%,100.0%,3.97,A- (3.79),
+784,"Schwartz, Michael",TDAC 1 - Introduction to Acting (A),SU07,17,17,100.0%,100.0%,3.91,A- (3.81),
+785,"Hale, Debra",TDAC 111 - Freeing The Voice (A),SU07,10,9,100.0%,100.0%,2.5,B+ (3.50),

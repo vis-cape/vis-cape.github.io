@@ -1,0 +1,1340 @@
+,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+0,"Borsa, Adrian Antal",SIO 10 - The Earth (A),SP23,570,178,96.0%,97.7%,2.86,B+ (3.55),B (3.29)
+1,"Morzfeld, Matthias",SIO 112 - Data Science in Geophysics (A),SP23,14,13,100.0%,100.0%,3.73,A- (3.91),
+2,"May, David Alexander",SIO 113 - Comp & Data Analysis in Geosci (A),SP23,32,26,96.2%,96.0%,7.58,B+ (3.38),B+ (3.40)
+3,"Taylor, Jennifer Rebecca",SIO 125 - Biomechanics of Marine Life (A),SP23,33,14,92.9%,92.3%,4.21,A- (3.83),B+ (3.63)
+4,"Burton, Ronald S.",SIO 127 - Marine Molecular Ecology (A),SP23,41,21,85.0%,85.0%,4.6,B+ (3.32),B (3.14)
+5,"Sandwell, David T",SIO 135 - Satellite Remote Sensing (A),SP23,17,11,100.0%,100.0%,6.32,A (4.00),
+6,"Bowman, Jeff Shovlowsky",SIO 136 - Marine Biology Laboratory (A),SP23,72,60,98.3%,66.1%,6.5,A- (3.70),B+ (3.66)
+7,"Kacev, David",SIO 136 - Marine Biology Laboratory (A),SP23,72,60,98.3%,96.6%,6.5,A- (3.70),B+ (3.66)
+8,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (A),SP23,72,60,98.3%,98.3%,6.5,A- (3.70),B+ (3.66)
+9,"Kacev, David",SIO 139 - Current Research in Marine Bio (A),SP23,64,25,95.8%,95.8%,2.1,B+ (3.60),
+10,"Andersson, Andreas Jerry",SIO 143 - Ocean Acidification (A),SP23,29,10,90.0%,90.0%,4.94,B+ (3.50),B (3.11)
+11,"Hetherington, Elizabeth Dorsey",SIO 145 - Intro Field Method Bio Ocean (A),SP23,33,29,100.0%,96.4%,4.98,B+ (3.57),B+ (3.50)
+12,"Nickels, Catherine Frances",SIO 145 - Intro Field Method Bio Ocean (A),SP23,33,14,100.0%,100.0%,5.93,B+ (3.62),B+ (3.50)
+13,"Van Allen, Emily Joyce",SIO 152 - Petrology and Petrography (A),SP23,22,11,63.6%,90.9%,5.95,B+ (3.45),A- (3.73)
+14,"Rivera-Collazo, Isabel C",SIO 153 - Geomorphology (A),SP23,26,12,83.3%,58.3%,2.83,B+ (3.50),B+ (3.61)
+15,"Gee, Jeffrey S",SIO 16 - Geology of the National Parks (A),SP23,108,39,81.1%,91.4%,5.42,B- (2.92),C+ (2.53)
+16,"Lutsko, Nicholas J.",SIO 173 - Dynamics of Atmos & Climate (A),SP23,22,11,100.0%,90.0%,5.5,A- (3.82),B+ (3.49)
+17,"Xie, Shang-Ping",SIO 173 - Dynamics of Atmos & Climate (A),SP23,22,11,100.0%,90.0%,5.5,A- (3.82),B+ (3.49)
+18,"Straneo, Fiammetta",SIO 176 - Observ Physical Oceanography (A),SP23,12,11,100.0%,100.0%,4.68,A- (3.73),
+19,"Shipp, Lauren Elizabeth",SIO 181 - Marine Biochemistry (A),SP23,137,56,94.5%,96.2%,5.05,B+ (3.65),B (3.20)
+20,"Gaasterland, Theresa",SIO 190 - Special Topic/Earth/Ocean/Atmo (A),SP23,6,4,100.0%,100.0%,3.5,A (4.00),
+21,"Driscoll, Neal W.",SIO 35 - Water (A),SP23,204,75,100.0%,100.0%,2.58,A- (3.94),A- (3.98)
+22,"Lucas, Andrew J.",SIO 60 - Exp/Oceanic & Atmospheric Sci (A),SP23,32,27,96.3%,100.0%,5.02,A- (3.78),B+ (3.58)
+23,"Ricke, Katharine L",SIO 60 - Exp/Oceanic & Atmospheric Sci (A),SP23,32,27,96.3%,100.0%,5.02,A- (3.78),B+ (3.58)
+24,"Gee, Jeffrey S",SIO 75 - Geological History of Earth (A),SP23,35,19,44.4%,83.3%,5.5,B+ (3.50),B+ (3.46)
+25,"Van Allen, Emily Joyce",SIO 75 - Geological History of Earth (A),SP23,35,19,44.4%,61.1%,5.5,B+ (3.50),B+ (3.46)
+26,"Morzfeld, Matthias",SIO 87 - First-year Seminar (D),SP23,19,15,92.9%,100.0%,1.36,A (4.00),
+27,"Sandwell, David T",SIO 87 - First-year Seminar (D),SP23,19,15,92.9%,100.0%,1.36,A (4.00),
+28,"Zobell, Vanessa Mary",SIO 90 - Undergraduate Seminar (A),SP23,61,32,100.0%,100.0%,0.9,A- (3.92),
+29,"Stegman, David",SIO 1 - The Planets (A),WI23,125,59,86.2%,91.4%,3.8,B+ (3.47),B (3.28)
+30,"Day, James M.D.",SIO 102 - Introduction to Geochemistry (A),WI23,38,30,90.0%,96.6%,6.5,B+ (3.43),B+ (3.55)
+31,"Schartup, Amina Bocary",SIO 107 - Water Pollution (A),WI23,23,11,100.0%,100.0%,3.41,B+ (3.64),A- (3.88)
+32,"Feddersen, Falk",SIO 111 - Introduction to Ocean Waves (A),WI23,15,9,87.5%,100.0%,8.5,B (3.13),
+33,"Fricker, Helen A.",SIO 115 - Ice and the Climate System (A),WI23,32,25,92.0%,96.0%,4.58,B+ (3.54),B+ (3.47)
+34,"Benmarhnia, Tarik",SIO 116 - Climate Change & Global Health (A),WI23,25,6,100.0%,100.0%,4.17,B+ (3.67),B+ (3.35)
+35,"Send, Uwe",SIO 119 - Physics and Chem of the Oceans (A),WI23,110,40,71.8%,76.3%,5.94,B (3.13),B (3.09)
+36,"Cook, Geoffrey W",SIO 120 - Mineralogy (A),WI23,43,29,100.0%,100.0%,4.09,A- (3.79),B+ (3.63)
+37,"Palenik, Brian",SIO 126 - Marine Microbiology (A),WI23,54,11,72.7%,72.7%,6.14,B- (2.70),C+ (2.66)
+38,"Baumann-Pickering , Simone",SIO 133 - Marine Mammal Biology (A),WI23,137,48,95.8%,97.9%,4.33,B+ (3.65),B+ (3.48)
+39,"Kacev, David",SIO 133 - Marine Mammal Biology (A),WI23,137,48,95.8%,97.9%,4.33,B+ (3.65),B+ (3.48)
+40,"Barton, Andrew David",SIO 134 - Intro/Biological Oceanography (A),WI23,145,49,91.5%,87.2%,5.18,B (3.24),B- (2.87)
+41,"Kacev, David",SIO 139 - Current Research in Marine Bio (A),WI23,69,22,100.0%,100.0%,1.86,A (4.00),
+42,"Rouse, Gregory W.",SIO 147 - Applications of Phylogenetics (A),WI23,26,22,100.0%,100.0%,5.83,B+ (3.44),B+ (3.31)
+43,"Fan, Wenyuan",SIO 161 - Seismology (A),WI23,13,8,87.5%,100.0%,6.0,B (3.13),
+44,"Wright, Vanshan D",SIO 162 - Structural Geology (A),WI23,16,10,50.0%,70.0%,4.9,B (3.00),
+45,"Rodriguez, Eric Andrew",SIO 164 - Underwater Archaeology (A),WI23,35,22,90.9%,100.0%,4.59,A- (3.86),B+ (3.64)
+46,"Norris, Joel Roland",SIO 172 - Physics of the Atmosphere (A),WI23,32,13,100.0%,92.3%,5.27,B (3.23),B (3.13)
+47,"Becker, Janet Maria",SIO 178 - Geophysical Fluid Dynamics (A),WI23,12,5,100.0%,100.0%,8.5,B (3.20),
+48,"Kacev, David",SIO 187 - Stat Methods in Marine Biology (A),WI23,115,46,84.1%,93.2%,6.91,B (3.21),B (3.09)
+49,"Sandin, Stuart Adrian",SIO 190 - Special Topic/Earth/Ocean/Atmo (A),WI23,23,7,100.0%,100.0%,2.5,A- (3.86),B+ (3.67)
+50,"Merrifield, Mark A",SIO 190 - Special Topic/Earth/Ocean/Atmo (B),WI23,7,5,100.0%,100.0%,6.9,B+ (3.50),
+51,"Flatau, Piotr",SIO 20 - The Atmosphere (A),WI23,133,51,77.6%,75.5%,3.81,B+ (3.37),B+ (3.36)
+52,"Aburto Oropeza, Marco Octavio",SIO 3 - Life in the Oceans (A),WI23,70,23,100.0%,100.0%,3.02,B+ (3.55),B+ (3.50)
+53,"Cook, Geoffrey W",SIO 45 - Volcanoes (A),WI23,139,58,100.0%,100.0%,2.78,A- (3.75),B+ (3.58)
+54,"Cook, Geoffrey W",SIO 65 - Geosciences Seminar (A),WI23,38,17,100.0%,100.0%,0.62,A (4.00),
+55,"Cook, Geoffrey W",SIO 87 - First-year Seminar (A),WI23,19,13,100.0%,100.0%,0.5,A (4.00),
+56,"Aburto Oropeza, Marco Octavio",SIO 87 - First-year Seminar (B),WI23,14,5,100.0%,100.0%,0.5,B+ (3.67),
+57,"Lucas, Andrew J.",SIO 90 - Undergraduate Seminar (A),WI23,61,40,100.0%,100.0%,0.65,A (4.00),
+58,"Gee, Jeffrey S",SIO 100 - Geological Field Methods (A),FA22,34,15,85.7%,92.9%,8.07,B+ (3.43),B+ (3.49)
+59,"Norris, Richard D.",SIO 100 - Geological Field Methods (A),FA22,34,15,85.7%,100.0%,8.07,B+ (3.43),B+ (3.49)
+60,"Aluwihare, Lihini",SIO 101 - California Coast Oceanography (A),FA22,65,18,56.3%,68.8%,5.44,B (3.28),B (3.04)
+61,"Decima, Moira R.",SIO 101 - California Coast Oceanography (A),FA22,65,18,56.3%,50.0%,5.44,B (3.28),B (3.04)
+62,"Parnell-Turner, Ross Ernes",SIO 103 - Introduction to Geophysics (A),FA22,23,18,100.0%,100.0%,7.06,B (3.28),B- (2.98)
+63,"Driscoll, Neal W.",SIO 105 - Sedimentology & Stratigraphy (A),FA22,24,13,100.0%,100.0%,3.58,A- (3.77),A (4.00)
+64,"Charles, Christopher D.",SIO 108 - Paleoclimatology (A),FA22,20,10,50.0%,60.0%,5.1,B+ (3.60),B (3.10)
+65,"Forman, Fonna",SIO 109R - Bending/Curve: Climate Change (A),FA22,38,12,91.7%,100.0%,4.17,A- (3.92),A- (3.73)
+66,"Batchelor, Heidi Ann",SIO 110 - Intro GIS & GPS for Scientists (A),FA22,29,14,100.0%,100.0%,3.93,A- (3.93),A- (3.84)
+67,"Keeling, Ralph F.",SIO 117 - Physical Basis/Global Warming (A),FA22,51,17,82.4%,94.1%,4.97,B+ (3.41),B+ (3.31)
+68,"Peach, Cheryl",SIO 12 - History of Earth & Evolution (A),FA22,143,59,96.6%,96.6%,2.33,B+ (3.69),B+ (3.67)
+69,"Allen, Andrew Ellis",SIO 123 - Microbial Env Systems Biology (A),FA22,45,24,91.3%,87.0%,4.33,B+ (3.39),B+ (3.64)
+70,"Hechinger, Ryan F.",SIO 132 - Introduction to Marine Biology (A),FA22,186,76,91.7%,70.8%,5.29,B+ (3.44),A- (3.98)
+71,"Kacev, David",SIO 132 - Introduction to Marine Biology (A),FA22,186,76,91.7%,94.4%,5.29,B+ (3.44),A- (3.98)
+72,"Bowman, Jeff Shovlowsky",SIO 136 - Marine Biology Laboratory (A),FA22,34,11,100.0%,70.0%,8.68,A- (3.73),A- (3.97)
+73,"Kacev, David",SIO 136 - Marine Biology Laboratory (A),FA22,34,11,100.0%,100.0%,8.68,A- (3.73),A- (3.97)
+74,"Bowman, Jeff Shovlowsky",SIO 136 - Marine Biology Laboratory (B),FA22,34,17,100.0%,68.8%,7.63,A- (3.75),A- (3.92)
+75,"Kacev, David",SIO 136 - Marine Biology Laboratory (B),FA22,34,17,100.0%,100.0%,7.63,A- (3.75),A- (3.92)
+76,"Laske, Gabi",SIO 15 - Natural Disasters (A),FA22,349,117,96.6%,93.9%,4.01,A- (3.81),A- (3.75)
+77,"Cook, Geoffrey W",SIO 170 - Volcanology (A),FA22,21,9,100.0%,100.0%,5.0,B+ (3.50),B+ (3.62)
+78,"Rudnick, Daniel Lars",SIO 171 - Intro to Physical Oceanography (A),FA22,30,9,100.0%,100.0%,3.0,A- (3.75),B+ (3.47)
+79,"Merrifield, Mark A",SIO 175 - Analysis Ocean/Atmosph Data (A),FA22,31,4,100.0%,100.0%,9.5,A- (3.75),B+ (3.64)
+80,"Martz, Todd R.",SIO 179 - Ocean Instruments and Sensors (B),FA22,15,5,100.0%,100.0%,3.3,A (4.00),
+81,"Hamdoun, Amr","SIO 189 - Pollution, Environmnt & Health (A)",FA22,70,22,100.0%,90.5%,5.26,B+ (3.52),B- (2.87)
+82,"Castillo, Paterno R.",SIO 30 - The Oceans (A),FA22,125,49,63.8%,73.9%,3.72,B- (2.87),B (3.04)
+83,"Fine, Elizabeth Coombs",SIO 30 - The Oceans (A),FA22,125,49,63.8%,89.1%,3.72,B- (2.87),B (3.04)
+84,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A),FA22,138,115,95.7%,95.7%,3.68,B+ (3.51),B+ (3.47)
+85,"Cook, Geoffrey W",SIO 50 - Introduction Physical Geology (A),FA22,40,21,100.0%,100.0%,3.83,A- (3.90),B+ (3.68)
+86,"Cook, Geoffrey W",SIO 87 - First-year Seminar (A),FA22,15,9,100.0%,100.0%,0.72,A (4.00),
+87,"Gilbert, Jack Anthony",SIO 87 - First-year Seminar (C),FA22,12,4,100.0%,100.0%,1.0,B+ (3.67),
+88,"Gerwick, William Henry",SIO 87 - First-year Seminar (D),FA22,15,6,100.0%,100.0%,1.7,A (4.00),
+89,"Chamberlain, Emelia Janthina",SIO 90 - Undergraduate Seminar (A),FA22,57,22,100.0%,100.0%,1.5,A- (3.73),
+90,"Cook, Geoffrey W",SIO 10 - The Earth (A),S222,65,24,100.0%,95.7%,3.89,A- (3.79),B+ (3.66)
+91,"Forman, Fonna",SIO 109R - Bending/Curve: Climate Change (A),S222,20,6,100.0%,100.0%,5.83,A- (3.83),A- (3.71)
+92,"Kacev, David",SIO 187 - Stat Methods in Marine Biology (A),S222,35,7,83.3%,83.3%,10.17,B+ (3.50),B (3.07)
+93,"Ferrer, Erica Michelle",SIO 3 - Life in the Oceans (A),S222,19,5,100.0%,100.0%,5.0,A- (3.75),
+94,"Cook, Geoffrey W",SIO 45 - Volcanoes (A),S222,90,30,100.0%,100.0%,3.81,A- (3.89),A- (3.89)
+95,"Cook, Geoffrey W",SIO 121GS - Geology of the Alps (A),S122,27,23,100.0%,100.0%,2.93,A (4.00),A- (3.97)
+96,"Kacev, David",SIO 132 - Introduction to Marine Biology (A),S122,44,15,100.0%,100.0%,4.9,B+ (3.67),B (3.23)
+97,"Kacev, David",SIO 139 - Current Research in Marine Bio (A),S122,38,4,100.0%,100.0%,2.0,,
+98,"Bilo, Tiago Carrilho",SIO 30 - The Oceans (A),S122,31,7,83.3%,83.3%,4.5,B+ (3.40),B+ (3.51)
+99,"Cook, Geoffrey W",SIO 46GS - Global Volcanism (A),S122,27,24,100.0%,100.0%,2.76,A (4.00),A- (3.99)
+100,"Borsa, Adrian Antal",SIO 10 - The Earth (A),SP22,324,130,96.9%,99.2%,3.4,B+ (3.50),B+ (3.36)
+101,"May, David Alexander",SIO 113 - Comp & Data Analysis in Geosci (A),SP22,28,24,87.5%,87.5%,9.75,B (3.26),B+ (3.38)
+102,"Fricker, Helen A.",SIO 115 - Ice and the Climate System (A),SP22,31,25,92.0%,92.0%,5.22,B+ (3.30),B (3.14)
+103,"Bowman, Jeff Shovlowsky",SIO 121 - Biology of the Cryosphere (A),SP22,23,4,75.0%,75.0%,3.0,B (3.25),B- (2.97)
+104,"Jones, Joshua Mason",SIO 121 - Biology of the Cryosphere (A),SP22,23,4,75.0%,75.0%,3.0,B (3.25),B- (2.97)
+105,"Taylor, Jennifer Rebecca",SIO 125 - Biomechanics of Marine Life (A),SP22,28,8,87.5%,100.0%,3.0,A- (3.71),B+ (3.46)
+106,"Burton, Ronald S.",SIO 127 - Marine Molecular Ecology (A),SP22,37,10,90.0%,100.0%,4.7,B- (2.80),B- (2.95)
+107,"Bartlett, Douglas H",SIO 128 - Microbial Life in Extreme Env. (A),SP22,106,32,81.3%,90.3%,5.0,B (3.07),C+ (2.67)
+108,"Hechinger, Ryan F.",SIO 131 - Parasitology (A),SP22,33,15,35.7%,27.3%,10.77,C+ (2.67),C+ (2.31)
+109,"Fricker, Helen A.",SIO 135 - Satellite Remote Sensing (A),SP22,25,14,92.3%,92.3%,6.35,A- (3.75),B+ (3.65)
+110,"Sandwell, David T",SIO 135 - Satellite Remote Sensing (A),SP22,25,14,92.3%,84.6%,6.35,A- (3.75),B+ (3.65)
+111,"Bowman, Jeff Shovlowsky",SIO 136 - Marine Biology Laboratory (A),SP22,36,30,96.7%,76.7%,7.23,B+ (3.40),B (3.24)
+112,"Kacev, David",SIO 136 - Marine Biology Laboratory (A),SP22,36,30,96.7%,100.0%,7.23,B+ (3.40),B (3.24)
+113,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (A),SP22,36,30,96.7%,100.0%,7.23,B+ (3.40),B (3.24)
+114,"Charles, Christopher D.",SIO 138 - The Coral Reef Environment (A),SP22,68,26,88.0%,100.0%,4.58,B+ (3.38),B- (2.96)
+115,"Leichter, James J.",SIO 138 - The Coral Reef Environment (A),SP22,68,26,88.0%,84.0%,4.58,B+ (3.38),B- (2.96)
+116,"Smith, Jennifer",SIO 138 - The Coral Reef Environment (A),SP22,68,26,88.0%,96.0%,4.58,B+ (3.38),B- (2.96)
+117,"Kacev, David",SIO 139 - Current Research in Marine Bio (A),SP22,56,21,100.0%,90.0%,1.4,A- (3.88),
+118,"Andersson, Andreas Jerry",SIO 143 - Ocean Acidification (A),SP22,25,7,100.0%,100.0%,4.79,B+ (3.43),B+ (3.57)
+119,"Castillo, Paterno R.",SIO 152 - Petrology and Petrography (A),SP22,5,3,100.0%,100.0%,5.17,B+ (3.33),
+120,"Gee, Jeffrey S",SIO 16 - Geology of the National Parks (A),SP22,100,30,79.3%,89.7%,5.47,B (3.26),C+ (2.66)
+121,"Stegman, David",SIO 160 - Intro to Global Tectonics (A),SP22,12,6,66.7%,66.7%,4.17,B+ (3.33),
+122,"Lutsko, Nicholas J.",SIO 173 - Dynamics of Atmos & Climate (A),SP22,23,13,61.5%,76.9%,5.58,B (3.17),B (3.11)
+123,"Xie, Shang-Ping",SIO 173 - Dynamics of Atmos & Climate (A),SP22,23,13,61.5%,66.7%,5.58,B (3.17),B (3.11)
+124,"Russell, Lynn M.",SIO 174 - Chemistry of Atmosph and Ocean (A),SP22,20,12,72.7%,54.5%,8.5,B+ (3.33),B (3.15)
+125,"Severinghaus, Jeffrey P.",SIO 174 - Chemistry of Atmosph and Ocean (A),SP22,20,12,72.7%,100.0%,8.5,B+ (3.33),B (3.15)
+126,"Straneo, Fiammetta",SIO 176 - Observ Physical Oceanography (A),SP22,14,9,100.0%,100.0%,5.17,A (4.00),
+127,"Martz, Todd R.",SIO 179 - Ocean Instruments and Sensors (A),SP22,16,3,100.0%,100.0%,6.5,A (4.00),
+128,"Harter, Till Sebastian",SIO 181 - Marine Biochemistry (A),SP22,120,42,100.0%,100.0%,4.88,B+ (3.37),B- (2.88)
+129,"Tresguerres, Martin",SIO 181 - Marine Biochemistry (A),SP22,120,42,100.0%,100.0%,4.88,B+ (3.37),B- (2.88)
+130,"Constable, Steven C",SIO 182 - Envr & Exploration Geophysics (A),SP22,8,4,100.0%,100.0%,6.5,B (3.00),
+131,"Hetherington, Elizabeth Dorsey",SIO 3 - Life in the Oceans (A),SP22,67,25,100.0%,95.8%,3.42,B+ (3.58),B (3.16)
+132,"Cook, Geoffrey W",SIO 50 - Introduction Physical Geology (A),SP22,42,26,100.0%,100.0%,4.35,B+ (3.58),B+ (3.65)
+133,"Norris, Richard D.",SIO 75 - Geological History of Earth (A),SP22,28,17,88.2%,100.0%,4.38,A- (3.76),B (3.14)
+134,"Van Allen, Emily Joyce",SIO 75 - Geological History of Earth (A),SP22,28,17,88.2%,82.4%,4.38,A- (3.76),B (3.14)
+135,"Moore, Bradley S.",SIO 87 - First-year Seminar (A),SP22,19,6,100.0%,100.0%,0.9,,
+136,"Gee, Jeffrey S",SIO 87 - First-year Seminar (B),SP22,16,8,100.0%,100.0%,0.75,A (4.00),
+137,"Cook, Geoffrey W",SIO 87 - First-year Seminar (C),SP22,13,9,88.9%,100.0%,0.5,A (4.00),
+138,"Cook, Geoffrey W",SIO 87 - First-year Seminar (D),SP22,12,8,100.0%,100.0%,2.25,A (4.00),
+139,"Pezner, Ariel Katharine",SIO 90 - Undergraduate Seminar (A),SP22,55,19,100.0%,100.0%,0.71,A (4.00),
+140,"Stegman, David",SIO 1 - The Planets (A),WI22,137,91,84.4%,84.4%,4.17,B+ (3.44),B+ (3.43)
+141,"Day, James M.D.",SIO 102 - Introduction to Geochemistry (A),WI22,30,9,100.0%,88.9%,6.72,B (3.11),B (3.29)
+142,"Schartup, Amina Bocary",SIO 107 - Water Pollution (A),WI22,21,17,82.4%,94.1%,4.5,B+ (3.65),A- (3.84)
+143,"Feddersen, Falk",SIO 111 - Introduction to Ocean Waves (A),WI22,14,9,88.9%,88.9%,8.94,B (3.22),
+144,"Benmarhnia, Tarik",SIO 116 - Climate Change & Global Health (A),WI22,25,13,84.6%,84.6%,2.5,B+ (3.67),A- (3.79)
+145,"Andersson, Andreas Jerry",SIO 119 - Physics and Chem of the Oceans (A),WI22,83,25,75.0%,100.0%,6.75,B (3.04),B (3.04)
+146,"Send, Uwe",SIO 119 - Physics and Chem of the Oceans (A),WI22,83,25,75.0%,50.0%,6.75,B (3.04),B (3.04)
+147,"Cook, Geoffrey W",SIO 120 - Introduction to Mineralogy (A),WI22,23,12,100.0%,100.0%,4.33,A- (3.83),A- (3.93)
+148,"Jensen, Paul R.",SIO 124 - Marine Natural Products (A),WI22,43,8,71.4%,71.4%,5.36,B (3.00),B- (2.94)
+149,"Palenik, Brian",SIO 126 - Marine Microbiology (A),WI22,31,9,75.0%,87.5%,5.5,C+ (2.43),B- (2.84)
+150,"Jones, Joshua Mason",SIO 133 - Marine Mammal Biology (A),WI22,135,60,95.0%,96.6%,4.03,A- (3.73),A- (3.76)
+151,"Kacev, David",SIO 133 - Marine Mammal Biology (A),WI22,135,60,95.0%,100.0%,4.03,A- (3.73),A- (3.76)
+152,"Barton, Andrew David",SIO 134 - Intro/Biological Oceanography (A),WI22,159,72,100.0%,100.0%,4.67,A- (3.76),B (3.16)
+153,"Choy, Carolyn Anela",SIO 137 - Ecosystems & Fisheries (A),WI22,26,19,100.0%,100.0%,4.39,B+ (3.58),B+ (3.48)
+154,"Kacev, David",SIO 139 - Current Research in Marine Bio (A),WI22,62,25,96.0%,100.0%,2.18,A- (3.78),
+155,"Lyons, Deirdre Colleen",SIO 146 - Cell and Dev. Bio. Lab (A),WI22,15,6,100.0%,100.0%,9.17,B- (2.83),
+156,"Laske, Gabi",SIO 15 - Natural Disasters (A),WI22,341,154,98.6%,97.3%,3.45,A- (3.88),A- (3.74)
+157,"Fan, Wenyuan",SIO 161 - Seismology (A),WI22,10,6,83.3%,83.3%,8.83,B (3.20),
+158,"Brown, Kevin Michael",SIO 162 - Structural Geology (A),WI22,18,6,83.3%,83.3%,4.5,B (3.00),
+159,"Rivera-Collazo, Isabel C",SIO 164 - Underwater Archaeology (A),WI22,29,15,100.0%,100.0%,2.77,A- (3.71),B+ (3.59)
+160,"Evan, Amato Tomas",SIO 172 - Physics of the Atmosphere (A),WI22,29,12,100.0%,100.0%,5.0,B+ (3.55),B (3.26)
+161,"Becker, Janet Maria",SIO 178 - Geophysical Fluid Dynamics (A),WI22,10,3,100.0%,100.0%,7.17,B+ (3.67),
+162,"Paulenich, Cari Lynn",SIO 180 - Communicating Science/Inf Aud (A),WI22,22,6,100.0%,100.0%,3.17,A- (3.83),A- (3.85)
+163,"Smith, Jennifer",SIO 183 - Phycology: Marine Plant Biolgy (A),WI22,32,12,81.8%,90.9%,7.67,B+ (3.50),B+ (3.42)
+164,"Rouse, Gregory W.",SIO 184 - Marine Invertebrates (A),WI22,32,26,92.3%,92.3%,7.65,B (3.04),B- (2.94)
+165,"Kacev, David",SIO 187 - Stat Methods in Marine Biology (A),WI22,93,40,90.0%,92.5%,6.25,B+ (3.38),B (3.23)
+166,"Becker, Janet Maria",SIO 190 - Special Topic/Earth/Ocean/Atmo (A),WI22,5,4,100.0%,100.0%,6.0,B+ (3.67),
+167,"Norris, Joel Roland",SIO 20 - The Atmosphere (A),WI22,134,49,80.9%,91.3%,4.5,B- (2.91),B- (2.97)
+168,"Teranes, Jane",SIO 25 - Climate Change and Society (A),WI22,128,58,89.5%,91.2%,4.15,B+ (3.41),B+ (3.30)
+169,"Cook, Geoffrey W",SIO 45 - Volcanoes (A),WI22,136,65,100.0%,100.0%,3.15,A- (3.84),A- (3.72)
+170,"Teranes, Jane",SIO 65 - Geosciences Seminar (A),WI22,41,21,95.2%,100.0%,1.36,A (4.00),
+171,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (A),WI22,20,13,100.0%,100.0%,0.65,A (4.00),
+172,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (B),WI22,18,14,100.0%,100.0%,1.5,A (4.00),
+173,"Sanchez, Robert Manuel",SIO 90 - Undergraduate Seminar (A),WI22,69,39,100.0%,97.4%,0.91,A- (3.88),
+174,"Gee, Jeffrey S",SIO 100 - Introduction to Field Methods (A),FA21,25,13,100.0%,100.0%,5.77,A- (3.82),B+ (3.37)
+175,"Norris, Richard D.",SIO 100 - Introduction to Field Methods (A),FA21,25,13,100.0%,100.0%,5.77,A- (3.82),B+ (3.37)
+176,"Aluwihare, Lihini",SIO 101 - California Coast Oceanography (A),FA21,59,16,87.5%,100.0%,5.0,B (3.25),B (3.11)
+177,"Landry, Michael Raymond",SIO 101 - California Coast Oceanography (A),FA21,59,16,87.5%,62.5%,5.0,B (3.25),B (3.11)
+178,"Parnell-Turner, Ross Ernes",SIO 103 - Introduction to Geophysics (A),FA21,21,11,100.0%,100.0%,6.14,B (3.09),B- (2.98)
+179,"Driscoll, Neal W.",SIO 105 - Sedimentology & Stratigraphy (A),FA21,20,12,100.0%,100.0%,3.0,A- (3.83),A- (3.98)
+180,"Teranes, Jane",SIO 108 - Intro to Paleoclimatology (A),FA21,21,10,100.0%,100.0%,4.9,A- (3.80),B+ (3.34)
+181,"Forman, Fonna",SIO 109R - Bending/Curve: Climate Change (A),FA21,31,11,100.0%,100.0%,3.77,A (4.00),A- (3.96)
+182,"Batchelor, Heidi Ann",SIO 110 - Intro GIS & GPS for Scientists (A),FA21,29,13,100.0%,100.0%,2.19,A (4.00),A- (3.78)
+183,"Keeling, Ralph F.",SIO 117 - Physical Basis/Global Warming (A),FA21,46,21,85.0%,84.2%,4.8,B (3.20),B (3.22)
+184,"Peach, Cheryl",SIO 12 - History of Earth & Evolution (A),FA21,164,54,96.2%,100.0%,3.82,A- (3.74),B+ (3.53)
+185,"Hechinger, Ryan F.",SIO 132 - Introduction to Marine Biology (A),FA21,201,96,97.8%,83.0%,4.68,B (3.26),B- (2.81)
+186,"Kacev, David",SIO 132 - Introduction to Marine Biology (A),FA21,201,96,97.8%,98.9%,4.68,B (3.26),B- (2.81)
+187,"Bowman, Jeff Shovlowsky",SIO 136 - Marine Biology Laboratory (A),FA21,36,18,94.4%,72.2%,6.83,B+ (3.44),B+ (3.36)
+188,"Kacev, David",SIO 136 - Marine Biology Laboratory (A),FA21,36,18,94.4%,100.0%,6.83,B+ (3.44),B+ (3.36)
+189,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (A),FA21,36,18,94.4%,94.4%,6.83,B+ (3.44),B+ (3.36)
+190,"Bowman, Jeff Shovlowsky",SIO 136 - Marine Biology Laboratory (B),FA21,35,7,100.0%,71.4%,9.36,B+ (3.57),B+ (3.40)
+191,"Kacev, David",SIO 136 - Marine Biology Laboratory (B),FA21,35,7,100.0%,100.0%,9.36,B+ (3.57),B+ (3.40)
+192,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (B),FA21,35,7,100.0%,100.0%,9.36,B+ (3.57),B+ (3.40)
+193,"Cook, Geoffrey W",SIO 170 - Introduction to Volcanology (A),FA21,18,13,100.0%,100.0%,4.5,A- (3.92),
+194,"Rudnick, Daniel Lars",SIO 171 - Intro to Physical Oceanography (A),FA21,30,16,100.0%,100.0%,6.5,B+ (3.60),B (3.17)
+195,"Merrifield, Mark A",SIO 175 - Analysis Ocean/Atmosph Data (A),FA21,18,6,83.3%,83.3%,8.83,B (3.17),
+196,"Becker, Janet Maria",SIO 177 - Fluid Dynamics (A),FA21,12,5,100.0%,100.0%,9.3,B+ (3.60),
+197,"Hamdoun, Amr","SIO 189 - Pollution, Environmnt & Health (A)",FA21,61,28,85.2%,81.5%,6.35,B (3.07),B+ (3.38)
+198,"Gaasterland, Theresa",SIO 190 - Special Topic/Earth/Ocean/Atmo (A),FA21,7,3,100.0%,100.0%,5.17,A (4.00),
+199,"Castillo, Paterno R.",SIO 30 - The Oceans (A),FA21,168,60,72.9%,84.2%,4.29,B (3.17),B (3.26)
+200,"Mackinnon, Jennifer A.",SIO 30 - The Oceans (A),FA21,168,60,72.9%,89.7%,4.29,B (3.17),B (3.26)
+201,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A),FA21,157,131,93.1%,96.9%,3.53,A- (3.72),A- (3.76)
+202,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),FA21,42,19,100.0%,100.0%,5.45,A- (3.79),B (3.16)
+203,"Lucas, Andrew J.",SIO 60 - Exp/Oceanic & Atmospheric Sci (A),FA21,26,19,100.0%,94.4%,5.55,B+ (3.44),B (3.10)
+204,"Ricke, Katharine L",SIO 60 - Exp/Oceanic & Atmospheric Sci (A),FA21,26,19,100.0%,94.7%,5.55,B+ (3.44),B (3.10)
+205,"Norris, Richard D.",SIO 87 - Freshman Seminar (A),FA21,16,14,100.0%,100.0%,0.5,,
+206,"Gerwick, William Henry",SIO 87 - Freshman Seminar (B),FA21,20,11,100.0%,100.0%,2.14,A- (3.75),
+207,"Gilbert, Jack Anthony",SIO 87 - Freshman Seminar (C),FA21,19,11,100.0%,100.0%,0.5,A (4.00),
+208,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (D),FA21,17,9,100.0%,100.0%,1.25,A (4.00),
+209,"Lucas, Andrew J.",SIO 90 - Undergraduate Seminar (A),FA21,65,30,92.6%,96.3%,0.57,B+ (3.50),
+210,"Cook, Geoffrey W",SIO 10 - The Earth (A),S221,73,15,100.0%,100.0%,6.1,B+ (3.69),B+ (3.67)
+211,"Forman, Fonna",SIO 109R - Bending/Curve: Climate Change (A),S221,13,3,100.0%,100.0%,7.17,B+ (3.67),
+212,"Zoumplis, Angela B",SIO 126 - Marine Microbiology (A),S221,33,29,96.6%,100.0%,5.6,B+ (3.62),A- (3.72)
+213,"Pagniello, Camille",SIO 134 - Intro/Biological Oceanography (A),S221,16,16,75.0%,75.0%,8.0,B (3.00),
+214,"Metz, Daniel Cole",SIO 187 - Stat Methods in Marine Biology (A),S221,13,5,100.0%,100.0%,5.3,B- (2.80),
+215,"Cook, Geoffrey W",SIO 45 - Volcanoes (A),S221,98,27,100.0%,100.0%,3.54,A (4.00),A- (3.88)
+216,"Forman, Fonna",SIO 109R - Bending/Curve: Climate Change (A),S121,15,6,100.0%,100.0%,7.17,A- (3.83),
+217,"Novoa, Anai",SIO 132 - Introduction to Marine Biology (A),S121,41,20,100.0%,100.0%,5.2,A- (3.85),B+ (3.63)
+218,"Kacev, David",SIO 139 - Current Research in Marine Bio (A),S121,32,10,100.0%,100.0%,3.1,A (4.00),
+219,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),S121,20,5,100.0%,100.0%,6.5,A (4.00),B+ (3.47)
+220,"Day, James M.D.",SIO 1 - The Planets (A),SP21,129,46,91.1%,90.9%,4.41,B+ (3.40),B+ (3.35)
+221,"Nicklas, Robert William",SIO 1 - The Planets (A),SP21,129,46,91.1%,86.4%,4.41,B+ (3.40),B+ (3.35)
+222,"Borsa, Adrian Antal",SIO 10 - The Earth (A),SP21,238,92,98.9%,100.0%,3.64,B+ (3.59),B+ (3.68)
+223,"Norris, Richard D.",SIO 104 - Paleobiology & History of Life (A),SP21,26,12,100.0%,100.0%,5.83,B+ (3.40),B (3.21)
+224,"Feddersen, Falk",SIO 111 - Introduction to Ocean Waves (A),SP21,14,6,83.3%,66.7%,10.5,C+ (2.50),
+225,"May, David Alexander",SIO 113 - Intro to Computationl Erth Sci (A),SP21,24,15,93.3%,80.0%,11.7,A- (3.73),B+ (3.64)
+226,"Fricker, Helen A.",SIO 115 - Ice and the Climate System (A),SP21,31,29,96.6%,96.6%,5.47,B+ (3.65),B+ (3.63)
+227,"Allen, Andrew Ellis",SIO 123 - Microbial Env Systems Biology (A),SP21,51,22,85.7%,95.2%,3.83,B+ (3.50),A- (3.75)
+228,"Taylor, Jennifer Rebecca",SIO 125 - Biomechanics of Marine Life (A),SP21,20,4,100.0%,100.0%,3.5,A- (3.75),B (3.28)
+229,"Burton, Ronald S.",SIO 127 - Marine Molecular Ecology (A),SP21,37,10,90.0%,90.0%,4.5,B+ (3.30),B+ (3.61)
+230,"Bartlett, Douglas H",SIO 128 - Microbial Life in Extreme Env. (A),SP21,119,47,97.9%,97.9%,5.48,B+ (3.48),B- (2.96)
+231,"Fricker, Helen A.",SIO 135 - Satellite Remote Sensing (A),SP21,24,12,91.7%,91.7%,6.17,A- (3.75),A- (3.80)
+232,"Sandwell, David T",SIO 135 - Satellite Remote Sensing (A),SP21,24,12,91.7%,100.0%,6.17,A- (3.75),A- (3.80)
+233,"Baumann-Pickering , Simone",SIO 136 - Marine Biology Laboratory (A),SP21,28,8,100.0%,100.0%,10.5,B+ (3.43),B+ (3.50)
+234,"Bowman, Jeff Shovlowsky",SIO 136 - Marine Biology Laboratory (A),SP21,28,8,100.0%,75.0%,10.5,B+ (3.43),B+ (3.50)
+235,"Kacev, David",SIO 136 - Marine Biology Laboratory (A),SP21,28,8,100.0%,100.0%,10.5,B+ (3.43),B+ (3.50)
+236,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (A),SP21,28,8,100.0%,87.5%,10.5,B+ (3.43),B+ (3.50)
+237,"Charles, Christopher D.",SIO 138 - The Coral Reef Environment (A),SP21,64,23,69.6%,100.0%,4.15,B+ (3.67),B (3.12)
+238,"Leichter, James J.",SIO 138 - The Coral Reef Environment (A),SP21,64,23,69.6%,69.6%,4.15,B+ (3.67),B (3.12)
+239,"Smith, Jennifer",SIO 138 - The Coral Reef Environment (A),SP21,64,23,69.6%,91.3%,4.15,B+ (3.67),B (3.12)
+240,"Charles, Christopher D.",SIO 138 - The Coral Reef Environment (B),SP21,35,10,100.0%,100.0%,4.1,B+ (3.60),B- (2.92)
+241,"Leichter, James J.",SIO 138 - The Coral Reef Environment (B),SP21,35,10,100.0%,100.0%,4.1,B+ (3.60),B- (2.92)
+242,"Smith, Jennifer",SIO 138 - The Coral Reef Environment (B),SP21,35,10,100.0%,100.0%,4.1,B+ (3.60),B- (2.92)
+243,"Kacev, David",SIO 139 - Current Research in Marine Bio (A),SP21,41,17,93.8%,100.0%,2.5,B+ (3.33),
+244,"Dickson, Andrew Gilmore",SIO 141 - Chem Prin of Marine Systems (A),SP21,5,3,100.0%,66.7%,5.83,B+ (3.33),
+245,"Andersson, Andreas Jerry",SIO 143 - Ocean Acidification (A),SP21,24,8,100.0%,100.0%,6.25,B (3.29),B+ (3.54)
+246,"Choy, Carolyn Anela",SIO 145 - Intro Field Method Bio Ocean (A),SP21,16,14,100.0%,100.0%,7.36,A- (3.75),
+247,"Decima, Moira R.",SIO 145 - Intro Field Method Bio Ocean (A),SP21,16,14,100.0%,100.0%,7.36,A- (3.75),
+248,"Van Allen, Emily Joyce",SIO 152 - Petrology and Petrography (A),SP21,10,4,100.0%,100.0%,6.5,B+ (3.50),
+249,"Fialko, Yuri A.",SIO 160 - Intro to Global Tectonics (A),SP21,20,9,77.8%,77.8%,4.72,B (3.25),B+ (3.51)
+250,"Brown, Kevin Michael",SIO 162 - Structural Geology (A),SP21,7,4,100.0%,75.0%,10.0,A (4.00),
+251,"Gee, Jeffrey S",SIO 16R - Geology of the National Parks (A),SP21,57,17,82.4%,88.2%,5.09,B+ (3.30),B (3.20)
+252,"Eisenman, Ian",SIO 173 - Dynamics of Atmos & Climate (A),SP21,25,9,100.0%,100.0%,6.28,B+ (3.67),B (3.30)
+253,"Xie, Shang-Ping",SIO 173 - Dynamics of Atmos & Climate (A),SP21,25,9,100.0%,88.9%,6.28,B+ (3.67),B (3.30)
+254,"Russell, Lynn M.",SIO 174 - Chemistry of Atmosph and Ocean (A),SP21,15,10,60.0%,60.0%,6.7,B (3.00),
+255,"Severinghaus, Jeffrey P.",SIO 174 - Chemistry of Atmosph and Ocean (A),SP21,15,10,60.0%,33.3%,6.7,B (3.00),
+256,"Straneo, Fiammetta",SIO 176 - Observ Physical Oceanography (A),SP21,7,3,100.0%,100.0%,9.17,A (4.00),
+257,"Tresguerres, Martin",SIO 181 - Marine Biochemistry (A),SP21,139,58,98.2%,98.2%,4.61,B+ (3.54),B+ (3.54)
+258,"Kacev, David",SIO 187 - Stat Methods in Marine Biology (A),SP21,66,26,100.0%,100.0%,7.06,B+ (3.56),B+ (3.45)
+259,"Hastings, Philip A.",SIO 188 - Biology of Fishes (A),SP21,35,11,100.0%,100.0%,6.3,A (4.00),B (3.28)
+260,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),SP21,41,14,100.0%,100.0%,5.64,A- (3.79),B- (2.90)
+261,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (A),SP21,16,9,100.0%,100.0%,0.94,,
+262,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (B),SP21,13,10,100.0%,100.0%,0.72,A (4.00),
+263,"Lutsko, Nicholas J.",SIO 87 - Freshman Seminar (C),SP21,10,5,100.0%,100.0%,0.5,A (4.00),
+264,"Posdaljian, Natalie",SIO 90 - Undergraduate Seminar (A),SP21,56,23,100.0%,100.0%,0.85,A (4.00),
+265,"Norris, Richard D.",SIO 100 - Introduction to Field Methods (A),WI21,25,9,88.9%,100.0%,4.94,B (3.22),B (3.26)
+266,"Van Allen, Emily Joyce",SIO 100 - Introduction to Field Methods (A),WI21,25,9,88.9%,100.0%,4.94,B (3.22),B (3.26)
+267,"Day, James M.D.",SIO 102 - Introduction to Geochemistry (A),WI21,33,18,88.9%,100.0%,5.94,B+ (3.56),B+ (3.31)
+268,"Kastner, Miriam",SIO 102 - Introduction to Geochemistry (A),WI21,33,18,88.9%,88.2%,5.94,B+ (3.56),B+ (3.31)
+269,"Forman, Fonna",SIO 109R - Bending/Curve: Climate Change (A),WI21,31,7,100.0%,100.0%,3.93,A- (3.86),A (4.00)
+270,"Ramanathan, Veerabhadran",SIO 109R - Bending/Curve: Climate Change (A),WI21,31,7,100.0%,100.0%,3.93,A- (3.86),A (4.00)
+271,"Andersson, Andreas Jerry",SIO 119 - Physics and Chem of the Oceans (A),WI21,119,59,73.7%,96.5%,6.68,B+ (3.34),B (3.26)
+272,"Send, Uwe",SIO 119 - Physics and Chem of the Oceans (A),WI21,119,59,73.7%,52.6%,6.68,B+ (3.34),B (3.26)
+273,"Cook, Geoffrey W",SIO 120 - Introduction to Mineralogy (A),WI21,25,12,100.0%,100.0%,3.67,A (4.00),A- (3.89)
+274,"Lyons, Deirdre Colleen",SIO 122 - Ecological Developmental Bio (A),WI21,13,5,80.0%,100.0%,5.3,B+ (3.60),
+275,"Palenik, Brian",SIO 126 - Marine Microbiology (A),WI21,57,31,100.0%,96.8%,5.79,B (3.27),B (3.24)
+276,"Baumann-Pickering , Simone",SIO 133 - Marine Mammal Biology (A),WI21,132,62,93.3%,93.2%,4.93,B+ (3.68),B+ (3.65)
+277,"Kacev, David",SIO 133 - Marine Mammal Biology (A),WI21,132,62,93.3%,93.3%,4.93,B+ (3.68),B+ (3.65)
+278,"Barton, Andrew David",SIO 134 - Intro/Biological Oceanography (A),WI21,177,65,98.4%,96.7%,4.79,B+ (3.46),B (3.22)
+279,"Kacev, David",SIO 139 - Current Research in Marine Bio (A),WI21,57,21,90.5%,100.0%,2.12,,
+280,"Rouse, Gregory W.",SIO 147 - Applications of Phylogenetics (A),WI21,31,26,92.0%,100.0%,7.3,B+ (3.39),B+ (3.36)
+281,"Evan, Amato Tomas",SIO 172 - Physics of the Atmosphere (B),WI21,14,6,100.0%,100.0%,5.83,B (3.00),
+282,"Evan, Amato Tomas",SIO 172 - Physics of the Atmosphere (C),WI21,21,8,100.0%,100.0%,7.0,B+ (3.67),B+ (3.67)
+283,"Becker, Janet Maria",SIO 178 - Geophysical Fluid Dynamics (A),WI21,16,6,100.0%,100.0%,6.83,B+ (3.67),
+284,"Paulenich, Cari Lynn",SIO 180 - Communicating Science/Inf Aud (A),WI21,18,10,90.0%,100.0%,3.3,B+ (3.67),
+285,"Brahamsha, Bianca M.",SIO 185 - Marine Microbiology Laboratory (A),WI21,15,7,85.7%,100.0%,5.93,B- (2.80),
+286,"Palenik, Brian",SIO 185 - Marine Microbiology Laboratory (A),WI21,15,7,85.7%,100.0%,5.93,B- (2.80),
+287,"Kacev, David",SIO 187 - Stat Methods in Marine Biology (A),WI21,74,30,86.2%,96.6%,7.26,A- (3.74),B+ (3.47)
+288,"Wall, Casey J",SIO 20 - The Atmosphere (A),WI21,94,37,97.1%,97.1%,5.53,B+ (3.32),B (3.29)
+289,"Wall, Casey J",SIO 20 - The Atmosphere (B),WI21,49,17,88.2%,94.1%,4.38,B (3.15),B (3.22)
+290,"Teranes, Jane",SIO 25 - Climate Change and Society (A),WI21,127,43,95.1%,95.1%,4.65,B+ (3.56),B (3.10)
+291,"Aburto Oropeza, Marco Octavio",SIO 3 - Life in the Oceans (A),WI21,82,28,96.2%,100.0%,2.43,B+ (3.56),B+ (3.70)
+292,"Driscoll, Neal W.",SIO 35 - Water (A),WI21,207,79,91.0%,92.2%,2.97,A- (3.77),A- (3.87)
+293,"Cook, Geoffrey W",SIO 45 - Volcanoes (A),WI21,124,70,100.0%,100.0%,2.79,A- (3.96),A- (3.77)
+294,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (B),WI21,18,14,100.0%,100.0%,0.64,A (4.00),
+295,"Moore, Bradley S.",SIO 90 - Undergraduate Seminar (A),WI21,88,41,100.0%,100.0%,0.6,A- (3.86),
+296,"Aluwihare, Lihini",SIO 101 - California Coast Oceanography (A),FA20,28,12,83.3%,100.0%,7.67,B (3.09),B (3.13)
+297,"Landry, Michael Raymond",SIO 101 - California Coast Oceanography (A),FA20,28,12,83.3%,91.7%,7.67,B (3.09),B (3.13)
+298,"Parnell-Turner, Ross Ernes",SIO 103 - Introduction to Geophysics (A),FA20,16,8,87.5%,87.5%,8.5,B (3.25),
+299,"Driscoll, Neal W.",SIO 105 - Sedimentology & Stratigraphy (A),FA20,20,13,100.0%,100.0%,4.81,A- (3.75),A (4.00)
+300,"Brown, Kevin Michael",SIO 106 - Introduction to Hydrogeology (A),FA20,9,3,66.7%,66.7%,5.17,C+ (2.67),
+301,"Teranes, Jane",SIO 108 - Intro to Paleoclimatology (A),FA20,21,10,100.0%,100.0%,4.5,B+ (3.40),B+ (3.33)
+302,"Batchelor, Heidi Ann",SIO 110 - Intro GIS & GPS for Scientists (A),FA20,29,15,100.0%,100.0%,3.79,A (4.00),A- (3.97)
+303,"Keeling, Ralph F.",SIO 117 - Physical Basis/Global Warming (A),FA20,36,18,100.0%,100.0%,5.28,B+ (3.50),B+ (3.45)
+304,"Peach, Cheryl",SIO 12 - History of Earth & Evolution (A),FA20,154,62,100.0%,100.0%,3.91,A- (3.72),B+ (3.66)
+305,"Hechinger, Ryan F.",SIO 132 - Introduction to Marine Biology (A),FA20,194,96,99.0%,82.1%,5.19,B+ (3.52),B+ (3.33)
+306,"Kacev, David",SIO 132 - Introduction to Marine Biology (A),FA20,194,96,99.0%,100.0%,5.19,B+ (3.52),B+ (3.33)
+307,"Baumann-Pickering , Simone",SIO 136 - Marine Biology Laboratory (A),FA20,31,15,66.7%,92.3%,10.23,B+ (3.64),B+ (3.44)
+308,"Bowman, Jeff Shovlowsky",SIO 136 - Marine Biology Laboratory (A),FA20,31,15,66.7%,23.1%,10.23,B+ (3.64),B+ (3.44)
+309,"Kacev, David",SIO 136 - Marine Biology Laboratory (A),FA20,31,15,66.7%,100.0%,10.23,B+ (3.64),B+ (3.44)
+310,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (A),FA20,31,15,66.7%,100.0%,10.23,B+ (3.64),B+ (3.44)
+311,"Baumann-Pickering , Simone",SIO 136 - Marine Biology Laboratory (B),FA20,27,18,81.3%,75.0%,13.88,B (3.25),B+ (3.31)
+312,"Bowman, Jeff Shovlowsky",SIO 136 - Marine Biology Laboratory (B),FA20,27,18,81.3%,31.3%,13.88,B (3.25),B+ (3.31)
+313,"Kacev, David",SIO 136 - Marine Biology Laboratory (B),FA20,27,18,81.3%,100.0%,13.88,B (3.25),B+ (3.31)
+314,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (B),FA20,27,18,81.3%,87.5%,13.88,B (3.25),B+ (3.31)
+315,"Laske, Gabi",SIO 15 - Natural Disasters (A),FA20,53,16,86.7%,93.3%,4.1,A- (3.87),A- (3.78)
+316,"Laske, Gabi",SIO 15 - Natural Disasters (B),FA20,52,17,94.1%,94.1%,4.38,A- (3.76),A- (3.72)
+317,"Laske, Gabi",SIO 15 - Natural Disasters (C),FA20,146,64,96.9%,98.4%,4.28,A- (3.94),A- (3.87)
+318,"Cook, Geoffrey W",SIO 170 - Introduction to Volcanology (A),FA20,11,9,100.0%,100.0%,5.17,A- (3.89),
+319,"Rudnick, Daniel Lars",SIO 171 - Intro to Physical Oceanography (A),FA20,22,9,100.0%,100.0%,6.28,B+ (3.67),B (3.21)
+320,"Merrifield, Mark A",SIO 175 - Analysis Ocean/Atmosph Data (A),FA20,23,13,100.0%,100.0%,5.88,A- (3.75),B+ (3.51)
+321,"Becker, Janet Maria",SIO 177 - Fluid Dynamics (A),FA20,11,6,80.0%,80.0%,7.83,B (3.00),
+322,"Hamdoun, Amr","SIO 189 - Pollution, Environmnt & Health (A)",FA20,61,33,90.9%,100.0%,4.62,B (3.27),B+ (3.37)
+323,"Castillo, Paterno R.",SIO 30 - The Oceans (A),FA20,138,52,78.0%,80.0%,4.23,B (3.02),B (3.10)
+324,"Mackinnon, Jennifer A.",SIO 30 - The Oceans (A),FA20,138,52,78.0%,90.0%,4.23,B (3.02),B (3.10)
+325,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A),FA20,48,37,100.0%,100.0%,3.8,B+ (3.67),B+ (3.58)
+326,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (B),FA20,50,46,100.0%,100.0%,4.24,A- (3.77),B+ (3.65)
+327,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (C),FA20,50,46,91.3%,91.3%,3.67,A- (3.76),A- (3.76)
+328,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),FA20,37,21,100.0%,100.0%,4.9,A- (3.75),B+ (3.67)
+329,"Lucas, Andrew J.",SIO 60 - Exp/Oceanic & Atmospheric Sci (A),FA20,16,16,100.0%,100.0%,6.38,B+ (3.60),
+330,"Ricke, Katharine L",SIO 60 - Exp/Oceanic & Atmospheric Sci (A),FA20,16,16,100.0%,100.0%,6.38,B+ (3.60),
+331,"Gerwick, William Henry",SIO 87 - Freshman Seminar (A),FA20,18,13,100.0%,100.0%,1.27,A (4.00),
+332,"Gilbert, Jack Anthony",SIO 87 - Freshman Seminar (B),FA20,13,4,100.0%,100.0%,1.5,A (4.00),
+333,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (C),FA20,12,10,100.0%,100.0%,0.7,A (4.00),
+334,"Bowman, Jeff Shovlowsky",SIO 90 - Undergraduate Seminar (A),FA20,79,38,100.0%,100.0%,1.36,A (4.00),
+335,"Forman, Fonna",SIO 109R - Bending/Curve: Climate Change (A),S220,17,7,100.0%,100.0%,5.93,A (4.00),
+336,"Pagniello, Camille",SIO 134 - Intro/Biological Oceanography (A),S220,25,24,87.5%,91.7%,8.08,B+ (3.36),B (3.19)
+337,"French, Beverly Jeanne",SIO 187 - Stat Methods in Marine Biology (A),S220,15,4,100.0%,100.0%,10.0,A- (3.75),
+338,"Cook, Geoffrey W",SIO 45 - Volcanoes (A),S220,88,32,96.9%,100.0%,3.81,A- (3.81),A- (3.74)
+339,"Cook, Geoffrey W",SIO 10 - The Earth (A),S120,63,24,100.0%,100.0%,4.67,A- (3.83),A- (3.72)
+340,"Forman, Fonna",SIO 109R - Bending/Curve: Climate Change (A),S120,14,5,100.0%,100.0%,5.0,A (4.00),
+341,"Zoumplis, Angela B",SIO 126 - Marine Microbiology (A),S120,32,28,100.0%,100.0%,5.71,B+ (3.68),B+ (3.63)
+342,"McCormick, Lillian Ries",SIO 132 - Introduction to Marine Biology (A),S120,37,11,100.0%,100.0%,5.23,A- (3.73),B- (2.97)
+343,"Kacev, David",SIO 139 - Current Research in Marine Bio (A),S120,22,7,100.0%,100.0%,3.36,,
+344,"Laske, Gabi",SIO 15 - Natural Disasters (A),S120,24,8,100.0%,100.0%,8.5,A- (3.83),A (4.00)
+345,"White, Margot Elizabeth",SIO 40 - Life and Climate on Earth (A),S120,29,26,100.0%,100.0%,5.73,A- (3.92),A- (3.75)
+346,"Borsa, Adrian Antal",SIO 10 - The Earth (A),SP20,218,111,96.3%,99.1%,3.85,B+ (3.60),A- (3.72)
+347,"Forman, Fonna",SIO 109R - Bending/Curve: Climate Change (A),SP20,21,7,100.0%,100.0%,4.21,A- (3.86),A- (3.87)
+348,"Ramanathan, Veerabhadran",SIO 109R - Bending/Curve: Climate Change (A),SP20,21,7,100.0%,100.0%,4.21,A- (3.86),A- (3.87)
+349,"Becker, Janet Maria",SIO 111 - Introduction to Ocean Waves (A),SP20,21,10,100.0%,100.0%,6.5,B+ (3.43),B+ (3.50)
+350,"Salmon, Richard L.",SIO 111 - Introduction to Ocean Waves (A),SP20,21,10,100.0%,100.0%,6.5,B+ (3.43),B+ (3.50)
+351,"Tauxe, Lisa",SIO 113 - Intro to Computationl Erth Sci (A),SP20,30,12,100.0%,91.7%,7.67,A- (3.92),A- (3.85)
+352,"Allen, Andrew Ellis",SIO 123 - Microbial Env Systems Biology (A),SP20,49,17,94.1%,76.5%,3.25,A- (3.71),A- (3.98)
+353,"Taylor, Jennifer Rebecca",SIO 125 - Biomechanics of Marine Life (A),SP20,23,7,85.7%,85.7%,7.07,A- (3.75),B+ (3.55)
+354,"Burton, Ronald S.",SIO 127 - Marine Molecular Ecology (A),SP20,33,19,94.7%,100.0%,5.06,B+ (3.69),B+ (3.37)
+355,"Bartlett, Douglas H",SIO 128 - Microbial Life in Extreme Env. (A),SP20,121,58,89.7%,94.8%,4.85,B+ (3.31),B+ (3.43)
+356,"Hechinger, Ryan F.",SIO 131 - Parasitology (A),SP20,33,9,100.0%,100.0%,8.72,B+ (3.67),B+ (3.36)
+357,"Baumann-Pickering , Simone",SIO 133 - Marine Mammal Biology (A),SP20,120,55,98.2%,90.9%,6.1,B+ (3.66),A- (3.77)
+358,"Kacev, David",SIO 133 - Marine Mammal Biology (A),SP20,120,55,98.2%,92.6%,6.1,B+ (3.66),A- (3.77)
+359,"Fricker, Helen A.",SIO 135 - Satellite Remote Sensing (A),SP20,21,7,100.0%,100.0%,7.07,A- (3.86),A- (3.97)
+360,"Sandwell, David T",SIO 135 - Satellite Remote Sensing (A),SP20,21,7,100.0%,100.0%,7.07,A- (3.86),A- (3.97)
+361,"Baumann-Pickering , Simone",SIO 136 - Marine Biology Laboratory (A),SP20,29,12,100.0%,91.7%,8.5,B+ (3.42),B+ (3.38)
+362,"Bowman, Jeff Shovlowsky",SIO 136 - Marine Biology Laboratory (A),SP20,29,12,100.0%,91.7%,8.5,B+ (3.42),B+ (3.38)
+363,"Kacev, David",SIO 136 - Marine Biology Laboratory (A),SP20,29,12,100.0%,100.0%,8.5,B+ (3.42),B+ (3.38)
+364,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (A),SP20,29,12,100.0%,100.0%,8.5,B+ (3.42),B+ (3.38)
+365,"Charles, Christopher D.",SIO 138 - The Coral Reef Environment (A),SP20,70,30,96.4%,96.4%,5.64,A- (3.78),A- (3.86)
+366,"Leichter, James J.",SIO 138 - The Coral Reef Environment (A),SP20,70,30,96.4%,96.4%,5.64,A- (3.78),A- (3.86)
+367,"Smith, Jennifer",SIO 138 - The Coral Reef Environment (A),SP20,70,30,96.4%,100.0%,5.64,A- (3.78),A- (3.86)
+368,"Kacev, David",SIO 139 - Current Research in Marine Bio (A),SP20,45,21,100.0%,100.0%,2.21,A (4.00),
+369,"Dickson, Andrew Gilmore",SIO 141 - Chem Prin of Marine Systems (A),SP20,11,3,33.3%,33.3%,7.83,C+ (2.50),
+370,"Willenbring, Jane Kathryn",SIO 153 - Geomorphology (A),SP20,13,3,100.0%,100.0%,5.83,B+ (3.33),
+371,"Stegman, David",SIO 160 - Intro to Global Tectonics (A),SP20,20,8,87.5%,62.5%,6.5,B (3.29),B+ (3.37)
+372,"D'Alpoim Guedes, Jade A",SIO 166 - Environmental Archaeology (A),SP20,13,4,100.0%,100.0%,3.5,A (4.00),
+373,"Gee, Jeffrey S",SIO 16R - Geology of the National Parks (A),SP20,94,34,81.8%,90.9%,5.32,B+ (3.46),B+ (3.35)
+374,"Dickson, Andrew Gilmore",SIO 174 - Chemistry of Atmosph and Ocean (A),SP20,23,10,60.0%,50.0%,6.7,B (3.00),B+ (3.32)
+375,"Russell, Lynn M.",SIO 174 - Chemistry of Atmosph and Ocean (A),SP20,23,10,60.0%,60.0%,6.7,B (3.00),B+ (3.32)
+376,"Straneo, Fiammetta",SIO 176 - Observ Physical Oceanography (A),SP20,10,4,100.0%,100.0%,5.0,A- (3.75),
+377,"Tresguerres, Martin",SIO 181 - Marine Biochemistry (A),SP20,114,55,100.0%,100.0%,5.09,A- (3.77),A- (3.76)
+378,"Orenstein, Eric Coughlin",SIO 187 - Stat Methods in Marine Biology (A),SP20,64,51,96.1%,100.0%,5.95,B+ (3.62),B+ (3.38)
+379,"Gaasterland, Theresa",SIO 190 - Special Topic/Earth/Ocean/Atmo (A),SP20,8,5,100.0%,100.0%,3.3,A- (3.80),
+380,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),SP20,40,21,100.0%,100.0%,5.45,A- (3.84),B+ (3.64)
+381,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (A),SP20,17,8,100.0%,100.0%,1.0,B+ (3.67),
+382,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (B),SP20,20,14,100.0%,100.0%,0.5,A (4.00),
+383,"Forsch, Kiefer Otto",SIO 90 - Undergraduate Seminar (A),SP20,43,12,91.7%,100.0%,1.67,A (4.00),
+384,"Pommier, Anne A.",SIO 1 - The Planets (A),WI20,132,45,61.0%,75.0%,4.17,B- (2.78),B (3.23)
+385,"Day, James M.D.",SIO 102 - Introduction to Geochemistry (A),WI20,30,14,78.6%,78.6%,5.79,B (3.07),B (3.23)
+386,"Kastner, Miriam",SIO 102 - Introduction to Geochemistry (A),WI20,30,14,78.6%,78.6%,5.79,B (3.07),B (3.23)
+387,"Constable, Steven C",SIO 103 - Introduction to Geophysics (A),WI20,58,30,84.6%,82.4%,8.5,B (3.07),B (3.09)
+388,"Parnell-Turner, Ross Ernes",SIO 103 - Introduction to Geophysics (A),WI20,29,15,84.6%,100.0%,8.5,B (3.07),B (3.09)
+389,"Norris, Richard D.",SIO 104 - Paleobiology & History of Life (A),WI20,19,9,100.0%,100.0%,4.94,B (3.22),
+390,"Forman, Fonna",SIO 109 - Bending/Curve: Climate Change (A),WI20,25,9,88.9%,88.9%,4.06,B+ (3.56),A (4.00)
+391,"Ramanathan, Veerabhadran",SIO 109 - Bending/Curve: Climate Change (A),WI20,25,9,88.9%,100.0%,4.06,B+ (3.56),A (4.00)
+392,"Fricker, Helen A.",SIO 115 - Ice and the Climate System (A),WI20,14,14,100.0%,92.9%,5.07,B+ (3.31),
+393,"Benmarhnia, Tarik",SIO 116 - Climate Change & Global Health (A),WI20,27,15,100.0%,100.0%,1.97,A- (3.93),A- (3.77)
+394,"Andersson, Andreas Jerry",SIO 119 - Physics and Chem of the Oceans (A),WI20,112,106,57.5%,87.6%,4.84,B (3.06),B (3.27)
+395,"Gille, Sarah T",SIO 119 - Physics and Chem of the Oceans (A),WI20,112,106,57.5%,33.0%,4.84,B (3.06),B (3.27)
+396,"Cook, Geoffrey W",SIO 120 - Introduction to Mineralogy (A),WI20,20,15,100.0%,100.0%,4.77,A- (3.73),A- (3.87)
+397,"Jensen, Paul R.",SIO 124 - Marine Natural Products (A),WI20,43,19,60.0%,80.0%,5.75,B- (2.87),B (3.17)
+398,"Palenik, Brian",SIO 126 - Marine Microbiology (A),WI20,53,25,66.7%,75.0%,5.33,B- (2.92),C+ (2.54)
+399,"Barton, Andrew David",SIO 134 - Intro/Biological Oceanography (A),WI20,145,69,97.0%,97.0%,5.07,B+ (3.33),B (3.08)
+400,"Palenik, Brian",SIO 139 - Current Research in Marine Bio (A),WI20,63,31,41.9%,60.0%,1.73,A (4.00),
+401,"Andersson, Andreas Jerry",SIO 143 - Ocean Acidification (A),WI20,13,10,100.0%,100.0%,3.7,B+ (3.44),
+402,"Lyons, Deirdre Colleen",SIO 146 - Cell and Dev. Bio. Lab (A),WI20,14,8,87.5%,100.0%,4.0,B+ (3.57),
+403,"Evan, Amato Tomas",SIO 172 - Physics of the Atmosphere (A),WI20,19,9,66.7%,88.9%,5.61,B+ (3.56),
+404,"Becker, Janet Maria",SIO 178 - Geophysical Fluid Dynamics (A),WI20,8,5,100.0%,100.0%,10.5,B+ (3.60),
+405,"Paulenich, Cari Lynn",SIO 180 - Communicating Science/Inf Aud (A),WI20,11,8,100.0%,100.0%,3.5,A (4.00),
+406,"Smith, Jennifer",SIO 183 - Phycology: Marine Plant Biolgy (A),WI20,24,11,100.0%,100.0%,5.05,B+ (3.45),B (3.19)
+407,"Brahamsha, Bianca M.",SIO 185 - Marine Microbiology Laboratory (A),WI20,16,9,100.0%,88.9%,6.06,B (3.00),
+408,"Kacev, David",SIO 187 - Stat Methods in Marine Biology (A),WI20,69,51,98.0%,100.0%,6.21,B+ (3.34),B+ (3.51)
+409,"Hastings, Philip A.",SIO 188 - Biology of Fishes (A),WI20,29,15,93.3%,86.7%,6.23,B (3.00),B (3.17)
+410,"Gabriel, Corey John",SIO 190 - Special Topic/Earth/Ocean/Atmo (A),WI20,9,4,75.0%,100.0%,2.0,A (4.00),
+411,"Norris, Joel Roland",SIO 20 - The Atmosphere (A),WI20,123,43,66.7%,78.6%,4.07,B (3.03),B (3.01)
+412,"Teranes, Jane",SIO 25 - Climate Change and Society (A),WI20,119,47,97.8%,97.7%,3.43,B+ (3.59),B (3.08)
+413,"Aburto Oropeza, Marco Octavio",SIO 3 - Life in the Oceans (A),WI20,74,24,87.0%,91.3%,2.83,B+ (3.36),A- (3.72)
+414,"Driscoll, Neal W.",SIO 35 - Water (A),WI20,203,87,89.4%,90.4%,2.57,B+ (3.41),B+ (3.38)
+415,"Cook, Geoffrey W",SIO 45 - Volcanoes (A),WI20,126,59,96.5%,98.2%,2.57,A- (3.80),A- (3.82)
+416,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (A),WI20,14,11,100.0%,100.0%,0.5,A (4.00),
+417,"Sandin, Stuart Adrian",SIO 87 - Freshman Seminar (B),WI20,20,14,100.0%,100.0%,0.67,A (4.00),
+418,"Kolody, Bethany Cristine",SIO 90 - Undergraduate Seminar (A),WI20,62,32,90.6%,100.0%,0.63,A (4.00),
+419,"Gee, Jeffrey S",SIO 100 - Introduction to Field Methods (A),FA19,29,13,92.3%,100.0%,8.35,A- (3.92),B+ (3.56)
+420,"Norris, Richard D.",SIO 100 - Introduction to Field Methods (A),FA19,29,13,92.3%,100.0%,8.35,A- (3.92),B+ (3.56)
+421,"Aluwihare, Lihini",SIO 101 - California Coast Oceanography (A),FA19,30,15,33.3%,80.0%,8.37,C+ (2.60),B (3.04)
+422,"Landry, Michael Raymond",SIO 101 - California Coast Oceanography (A),FA19,30,15,33.3%,33.3%,8.37,C+ (2.60),B (3.04)
+423,"Brown, Kevin Michael",SIO 106 - Introduction to Hydrogeology (A),FA19,23,14,78.6%,64.3%,5.64,B (3.29),B (3.30)
+424,"Willenbring, Jane Kathryn",SIO 106 - Introduction to Hydrogeology (A),FA19,23,14,78.6%,100.0%,5.64,B (3.29),B (3.30)
+425,"Teranes, Jane",SIO 108 - Intro to Paleoclimatology (A),FA19,18,14,92.9%,100.0%,4.93,B+ (3.33),
+426,"Batchelor, Heidi Ann",SIO 110 - Intro GIS & GPS for Scientists (A),FA19,22,10,100.0%,100.0%,3.5,A- (3.90),A- (3.95)
+427,"Keeling, Ralph F.",SIO 117 - Physical Basis/Global Warming (A),FA19,34,17,70.6%,68.8%,4.26,B+ (3.47),B (3.20)
+428,"Durkin, Kathryn Elaine",SIO 12 - History of Earth & Evolution (A),FA19,116,48,73.3%,67.4%,4.15,B (3.21),B (3.25)
+429,"Peach, Cheryl",SIO 12 - History of Earth & Evolution (A),FA19,116,50,74.5%,97.8%,4.08,B (3.23),B (3.25)
+430,"Hechinger, Ryan F.",SIO 132 - Introduction to Marine Biology (A),FA19,181,97,96.6%,94.3%,4.87,B (3.23),C+ (2.70)
+431,"Kacev, David",SIO 132 - Introduction to Marine Biology (A),FA19,181,97,96.6%,100.0%,4.87,B (3.23),C+ (2.70)
+432,"Baumann-Pickering , Simone",SIO 136 - Marine Biology Laboratory (A),FA19,36,34,94.1%,97.1%,6.21,B+ (3.35),B+ (3.48)
+433,"Bowman, Jeff Shovlowsky",SIO 136 - Marine Biology Laboratory (A),FA19,36,34,94.1%,76.5%,6.21,B+ (3.35),B+ (3.48)
+434,"Kacev, David",SIO 136 - Marine Biology Laboratory (A),FA19,36,34,94.1%,100.0%,6.21,B+ (3.35),B+ (3.48)
+435,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (A),FA19,36,34,94.1%,97.0%,6.21,B+ (3.35),B+ (3.48)
+436,"Baumann-Pickering , Simone",SIO 136 - Marine Biology Laboratory (B),FA19,36,34,97.1%,90.9%,5.29,B (3.21),B+ (3.31)
+437,"Bowman, Jeff Shovlowsky",SIO 136 - Marine Biology Laboratory (B),FA19,36,34,97.1%,72.7%,5.29,B (3.21),B+ (3.31)
+438,"Kacev, David",SIO 136 - Marine Biology Laboratory (B),FA19,36,34,97.1%,100.0%,5.29,B (3.21),B+ (3.31)
+439,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (B),FA19,36,34,97.1%,90.9%,5.29,B (3.21),B+ (3.31)
+440,"Choy, Carolyn Anela",SIO 137 - Ecosystems & Fisheries (A),FA19,38,35,94.3%,97.1%,4.04,B+ (3.46),B+ (3.62)
+441,"Laske, Gabi",SIO 15 - Natural Disasters (A),FA19,365,137,98.4%,97.6%,3.58,A- (3.78),B+ (3.64)
+442,"Cook, Geoffrey W",SIO 170 - Introduction to Volcanology (A),FA19,15,11,100.0%,100.0%,4.86,B+ (3.64),
+443,"Rudnick, Daniel Lars",SIO 171 - Intro to Physical Oceanography (A),FA19,21,9,100.0%,100.0%,4.28,A- (3.89),B (3.29)
+444,"Becker, Janet Maria",SIO 177 - Fluid Dynamics (A),FA19,12,9,88.9%,100.0%,5.75,B (3.11),
+445,"Martz, Todd R.",SIO 179 - Ocean Instruments and Sensors (B),FA19,12,7,100.0%,100.0%,3.07,A (4.00),
+446,"Hamdoun, Amr","SIO 189 - Pollution, Environmnt & Health (A)",FA19,51,30,96.6%,100.0%,4.03,B (3.11),B (3.00)
+447,"Castillo, Paterno R.",SIO 30 - The Oceans (A),FA19,132,54,68.6%,85.4%,3.67,B (3.22),B (3.24)
+448,"Holland, Nicholas D.",SIO 30 - The Oceans (A),FA19,132,54,68.6%,91.7%,3.67,B (3.22),B (3.24)
+449,"Send, Uwe",SIO 30 - The Oceans (A),FA19,132,55,69.2%,82.0%,3.6,B (3.21),B (3.24)
+450,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A),FA19,156,142,98.6%,94.3%,3.0,B+ (3.59),B+ (3.66)
+451,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),FA19,38,25,100.0%,100.0%,4.1,B+ (3.54),B (3.25)
+452,"Lucas, Andrew J.",SIO 60 - Exp/Oceanic & Atmospheric Sci (A),FA19,25,21,95.2%,100.0%,6.98,B+ (3.40),B+ (3.48)
+453,"Ricke, Katharine L",SIO 60 - Exp/Oceanic & Atmospheric Sci (A),FA19,25,21,95.2%,100.0%,6.98,B+ (3.40),B+ (3.48)
+454,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (B),FA19,17,9,88.9%,100.0%,0.5,A (4.00),
+455,"Kwan, Garfield Tsz Fung",SIO 90 - Undergraduate Seminar (A),FA19,52,26,100.0%,100.0%,0.73,A- (3.75),
+456,"Giddings, Kimberly Ashlyn Ave",SIO 133 - Marine Mammal Biology (A),S219,32,31,96.8%,96.8%,5.85,B (3.27),B (3.25)
+457,"White, Margot Elizabeth",SIO 40 - Life and Climate on Earth (A),S219,26,25,100.0%,100.0%,4.74,A- (3.84),A- (3.93)
+458,"Cook, Geoffrey W",SIO 10GS - The Earth (In Iceland) (A),S119,18,18,100.0%,100.0%,2.83,A- (3.89),
+459,"Nagarkar, Maitreyi Dnyanadeep",SIO 132 - Introduction to Marine Biology (A),S119,29,13,100.0%,100.0%,6.19,B+ (3.38),B- (2.99)
+460,"Cook, Matthew James",SIO 15 - Natural Disasters (A),S119,30,13,100.0%,100.0%,4.5,B+ (3.50),B (3.12)
+461,"Cook, Geoffrey W",SIO 170GS - Introduction to Volcanology (A),S119,18,18,100.0%,100.0%,3.94,A- (3.89),
+462,"Borsa, Adrian Antal",SIO 10 - The Earth (A),SP19,195,101,95.0%,99.0%,3.72,B (3.23),B+ (3.34)
+463,"Norris, Richard D.",SIO 104 - Paleobiology & History of Life (A),SP19,35,23,100.0%,100.0%,5.32,B (3.10),B (3.23)
+464,"Driscoll, Neal W.",SIO 105 - Sedimentology & Stratigraphy (A),SP19,20,5,100.0%,100.0%,4.5,A (4.00),A- (3.78)
+465,"Taylor, Jennifer Rebecca",SIO 125 - Biomechanics of Marine Life (A),SP19,20,9,100.0%,100.0%,7.17,B+ (3.56),B+ (3.67)
+466,"Burton, Ronald S.",SIO 127 - Marine Molecular Ecology (A),SP19,31,12,100.0%,100.0%,2.68,B- (2.73),B- (2.82)
+467,"Bartlett, Douglas H",SIO 128 - Microbial Life in Extreme Env. (A),SP19,119,61,94.8%,93.1%,4.95,B (3.18),B (3.10)
+468,"Baumann-Pickering , Simone",SIO 133 - Marine Mammal Biology (A),SP19,115,52,74.5%,72.3%,6.54,B (3.17),B (3.15)
+469,"Sandwell, David T",SIO 135 - Satellite Remote Sensing (A),SP19,32,13,91.7%,100.0%,8.0,B+ (3.50),B+ (3.45)
+470,"Smith, Jennifer",SIO 138 - The Coral Reef Environment (A),SP19,65,25,87.5%,100.0%,4.08,B (3.29),B (3.22)
+471,"Palenik, Brian",SIO 139 - Current Research in Marine Bio (A),SP19,55,24,52.2%,82.6%,2.85,,
+472,"Andersson, Andreas Jerry",SIO 143 - Ocean Acidification (A),SP19,17,12,100.0%,100.0%,4.14,B+ (3.55),
+473,"Gee, Jeffrey S",SIO 16 - Geology of the National Parks (A),SP19,85,29,80.8%,92.3%,3.12,B (3.22),B- (2.99)
+474,"Fialko, Yuri A.",SIO 160 - Intro to Global Tectonics (A),SP19,28,7,83.3%,83.3%,4.5,B (3.00),B+ (3.47)
+475,"Severinghaus, Jeffrey P.",SIO 174 - Chemistry of Atmosph and Ocean (B),SP19,19,9,71.4%,71.4%,4.5,B (3.25),
+476,"Straneo, Fiammetta",SIO 176 - Observ Physical Oceanography (A),SP19,9,5,100.0%,100.0%,5.3,B+ (3.60),
+477,"Tresguerres, Martin",SIO 181 - Marine Biochemistry (A),SP19,113,56,96.4%,100.0%,5.0,B (3.25),B+ (3.34)
+478,"Constable, Steven C",SIO 182 - Envr & Exploration Geophysics (A),SP19,9,3,66.7%,66.7%,11.83,B+ (3.67),
+479,"Rouse, Gregory W.",SIO 184 - Marine Invertebrates (A),SP19,36,33,97.0%,100.0%,4.62,B (3.27),B (3.30)
+480,"Orenstein, Eric Coughlin",SIO 187 - Stat Methods in Marine Biology (A),SP19,71,58,87.9%,93.1%,5.88,B (3.14),B (3.06)
+481,"Gaasterland, Theresa",SIO 190 - Special Topic/Earth/Ocean/Atmo (A),SP19,10,3,100.0%,100.0%,3.17,A (4.00),
+482,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),SP19,36,21,100.0%,95.2%,4.69,B+ (3.57),B (3.28)
+483,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (A),SP19,20,9,100.0%,100.0%,0.5,A (4.00),
+484,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (B),SP19,15,9,100.0%,100.0%,0.5,A (4.00),
+485,"Moore, Bradley S.",SIO 87 - Freshman Seminar (C),SP19,8,4,100.0%,100.0%,0.5,A (4.00),
+486,"Fine, Elizabeth Coombs",SIO 90 - Undergraduate Seminar (A),SP19,61,30,100.0%,100.0%,0.64,A (4.00),
+487,"Pommier, Anne A.",SIO 1 - The Planets (A),WI19,109,48,73.8%,76.2%,3.69,B- (2.87),B+ (3.35)
+488,"Kastner, Miriam",SIO 102 - Introduction to Geochemistry (A),WI19,31,12,83.3%,83.3%,7.83,B- (2.92),B (3.10)
+489,"Constable, Steven C",SIO 103 - Introduction to Geophysics (A),WI19,22,10,60.0%,90.0%,7.1,B- (2.70),B- (2.89)
+490,"Masters, Thomas G",SIO 103 - Introduction to Geophysics (A),WI19,22,10,60.0%,70.0%,7.1,B- (2.70),B- (2.89)
+491,"Forman, Fonna",SIO 109 - Climate Change Solutions (A),WI19,24,14,84.6%,100.0%,4.21,B+ (3.42),B+ (3.62)
+492,"Ramanathan, Veerabhadran",SIO 109 - Climate Change Solutions (A),WI19,23,14,84.6%,83.3%,4.21,B+ (3.42),B+ (3.62)
+493,"Minster, Jean Bernard H.",SIO 110 - Intro GIS & GPS for Scientists (A),WI19,30,12,90.9%,90.9%,3.3,B+ (3.60),A- (3.76)
+494,"Tauxe, Lisa",SIO 113 - Intro to Computationl Erth Sci (A),WI19,18,12,100.0%,100.0%,10.33,A- (3.73),
+495,"Fricker, Helen A.",SIO 115 - Ice and the Climate System (A),WI19,28,26,84.6%,88.5%,4.73,B+ (3.44),B+ (3.61)
+496,"Benmarhnia, Tarik",SIO 116 - Climate Change & Global Health (A),WI19,20,10,100.0%,100.0%,2.5,A- (3.75),A- (3.85)
+497,"Andersson, Andreas Jerry",SIO 119 - Physics and Chem of the Oceans (A),WI19,74,66,66.7%,89.1%,5.35,B (3.17),B (3.04)
+498,"Gille, Sarah T",SIO 119 - Physics and Chem of the Oceans (A),WI19,71,66,66.7%,73.4%,5.35,B (3.17),B (3.04)
+499,"Cook, Geoffrey W",SIO 120 - Introduction to Mineralogy (A),WI19,21,18,94.4%,100.0%,4.94,B+ (3.59),B+ (3.47)
+500,"Lyons, Deirdre Colleen",SIO 122 - Ecological Developmental Bio (A),WI19,12,9,100.0%,100.0%,4.28,B+ (3.56),
+501,"Palenik, Brian",SIO 126 - Marine Microbiology (A),WI19,52,28,85.7%,92.9%,4.5,B (3.04),B (3.00)
+502,"Barton, Andrew David",SIO 134 - Intro/Biological Oceanography (A),WI19,183,150,86.7%,96.0%,4.91,B- (2.95),B- (2.76)
+503,"Landry, Michael Raymond",SIO 134 - Intro/Biological Oceanography (A),WI19,192,149,87.2%,74.8%,4.9,B- (2.95),B- (2.76)
+504,"Palenik, Brian",SIO 139 - Current Research in Marine Bio (A),WI19,71,39,71.1%,92.1%,1.76,A (4.00),
+505,"Brown, Kevin Michael",SIO 162 - Structural Geology (A),WI19,13,8,83.3%,83.3%,7.64,B (3.29),
+506,"Rivera-Collazo, Isabel C",SIO 164 - Maritime Archaeology (A),WI19,18,8,85.7%,85.7%,3.07,B+ (3.33),
+507,"Evan, Amato Tomas",SIO 172 - Physics of the Atmosphere (A),WI19,12,8,100.0%,100.0%,8.0,B (3.25),
+508,"Martz, Todd R.",SIO 179 - Ocean Instruments and Sensors (A),WI19,13,4,100.0%,100.0%,3.0,A (4.00),
+509,"Paulenich, Cari Lynn",SIO 180 - Communicating Science/Inf Aud (A),WI19,22,9,100.0%,100.0%,4.75,A (4.00),A (4.00)
+510,"Brahamsha, Bianca M.",SIO 185 - Marine Microbiology Laboratory (A),WI19,15,9,100.0%,100.0%,6.5,B (3.22),
+511,"Hastings, Philip A.",SIO 188 - Biology of Fishes (A),WI19,33,18,94.4%,94.4%,6.72,B (3.17),B (3.03)
+512,"Fenical, William H.",SIO 192 - Senior Seminar/SIOceanogrphy (A),WI19,17,11,100.0%,90.0%,1.3,B (3.00),
+513,"Norris, Joel Roland",SIO 20 - The Atmosphere (A),WI19,119,43,75.0%,76.9%,4.2,B (3.11),B- (2.91)
+514,"Teranes, Jane",SIO 25 - Climate Change and Society (A),WI19,117,49,97.7%,100.0%,3.88,B (3.18),B- (2.80)
+515,"Aburto Oropeza, Marco Octavio",SIO 3 - Life in the Oceans (A),WI19,70,24,100.0%,95.5%,2.86,B+ (3.67),A- (3.74)
+516,"Driscoll, Neal W.",SIO 35 - Water (A),WI19,209,105,94.9%,95.9%,2.74,B+ (3.68),B+ (3.58)
+517,"Cook, Geoffrey W",SIO 45 - Volcanoes (A),WI19,115,59,100.0%,100.0%,2.46,A- (3.75),B+ (3.54)
+518,"Talley, Lynne D",SIO 87 - Freshman Seminar (A),WI19,8,6,83.3%,66.7%,0.5,,
+519,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (B),WI19,17,15,100.0%,100.0%,0.77,A (4.00),
+520,"Diner, Rachel Ellen",SIO 90 - Undergraduate Seminar (A),WI19,64,45,100.0%,100.0%,0.55,A (4.00),
+521,"Gee, Jeffrey S",SIO 100 - Introduction to Field Methods (A),FA18,26,11,100.0%,100.0%,7.95,B+ (3.45),B (3.22)
+522,"Norris, Richard D.",SIO 100 - Introduction to Field Methods (A),FA18,26,11,100.0%,100.0%,7.95,B+ (3.45),B (3.22)
+523,"Aluwihare, Lihini",SIO 101 - California Coast Oceanography (A),FA18,26,15,50.0%,85.7%,7.79,B (3.29),B (3.23)
+524,"Landry, Michael Raymond",SIO 101 - California Coast Oceanography (A),FA18,27,15,50.0%,78.6%,7.79,B (3.29),B (3.23)
+525,"Brown, Kevin Michael",SIO 106 - Introduction to Hydrogeology (A),FA18,23,9,77.8%,55.6%,5.39,B+ (3.33),B (3.10)
+526,"Willenbring, Jane Kathryn",SIO 106 - Introduction to Hydrogeology (A),FA18,24,9,77.8%,77.8%,5.39,B+ (3.33),B (3.10)
+527,"Teranes, Jane",SIO 108 - Intro to Paleoclimatology (A),FA18,16,6,100.0%,100.0%,7.5,B+ (3.40),
+528,"Clemesha, Rachel Schwartz",SIO 117 - Physical Basis of Global Warmg (A),FA18,34,16,93.8%,62.5%,4.38,B+ (3.56),B+ (3.37)
+529,"Keeling, Ralph F.",SIO 117 - Physical Basis of Global Warmg (A),FA18,34,16,93.8%,100.0%,4.38,B+ (3.56),B+ (3.37)
+530,"Peach, Cheryl",SIO 12 - History of Earth & Evolution (A),FA18,145,59,98.1%,98.1%,2.5,A- (3.85),B+ (3.41)
+531,"Bowman, Jeff Shovlowsky",SIO 121 - Biology of the Cryosphere (A),FA18,16,9,77.8%,100.0%,2.94,B+ (3.33),
+532,"Allen, Andrew Ellis",SIO 123 - Microbial Env Systems Biology (A),FA18,48,47,93.6%,95.7%,3.69,B+ (3.69),B+ (3.56)
+533,"Burton, Ronald S.",SIO 132 - Introduction to Marine Biology (A),FA18,173,132,93.7%,95.2%,5.42,B (3.06),B- (2.70)
+534,"Hechinger, Ryan F.",SIO 132 - Introduction to Marine Biology (A),FA18,184,132,93.7%,95.2%,5.42,B (3.06),B- (2.70)
+535,"Baumann-Pickering , Simone",SIO 136 - Marine Biology Laboratory (A),FA18,34,28,100.0%,96.2%,8.5,B (3.30),B (3.04)
+536,"Bowman, Jeff Shovlowsky",SIO 136 - Marine Biology Laboratory (A),FA18,34,28,100.0%,88.5%,8.5,B (3.30),B (3.04)
+537,"Semmens, Brice Xavier",SIO 136 - Marine Biology Laboratory (A),FA18,34,28,100.0%,88.5%,8.5,B (3.30),B (3.04)
+538,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (A),FA18,34,28,100.0%,100.0%,8.5,B (3.30),B- (2.98)
+539,"Baumann-Pickering , Simone",SIO 136 - Marine Biology Laboratory (B),FA18,35,33,97.0%,97.0%,6.38,B+ (3.44),B (3.04)
+540,"Bowman, Jeff Shovlowsky",SIO 136 - Marine Biology Laboratory (B),FA18,35,33,97.0%,93.9%,6.38,B+ (3.44),B (3.04)
+541,"Semmens, Brice Xavier",SIO 136 - Marine Biology Laboratory (B),FA18,35,33,97.0%,100.0%,6.38,B+ (3.44),B (3.04)
+542,"Laske, Gabi",SIO 15 - Natural Disasters (A),FA18,328,135,95.2%,96.0%,3.26,B+ (3.68),B+ (3.55)
+543,"Cook, Geoffrey W",SIO 170 - Introduction to Volcanology (A),FA18,15,9,100.0%,100.0%,4.06,B+ (3.56),
+544,"Rudnick, Daniel Lars",SIO 171 - Intro to Physical Oceanography (A),FA18,17,8,100.0%,100.0%,4.25,B+ (3.38),
+545,"Merrifield, Mark A",SIO 175 - Analysis Ocean/Atmosph Data (A),FA18,11,7,100.0%,100.0%,6.21,B+ (3.57),
+546,"Becker, Janet Maria",SIO 177 - Fluid Dynamics (A),FA18,6,3,100.0%,100.0%,7.17,B (3.00),
+547,"Charles, Christopher D.",SIO 30 - The Oceans (A),FA18,141,69,75.0%,89.7%,4.2,B (3.27),B (3.05)
+548,"Holland, Nicholas D.",SIO 30 - The Oceans (A),FA18,141,69,75.0%,80.7%,4.2,B (3.27),B (3.05)
+549,"Send, Uwe",SIO 30 - The Oceans (A),FA18,137,69,75.0%,78.3%,4.2,B (3.27),B (3.05)
+550,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A),FA18,153,132,90.9%,96.9%,3.48,B+ (3.52),B+ (3.56)
+551,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),FA18,36,21,100.0%,100.0%,5.2,A- (3.79),B+ (3.46)
+552,"Lucas, Andrew J.",SIO 60 - Exp/Oceanic & Atmospheric Sci (A),FA18,25,16,100.0%,100.0%,3.57,B (3.27),B+ (3.42)
+553,"Ricke, Katharine L",SIO 60 - Exp/Oceanic & Atmospheric Sci (A),FA18,27,16,100.0%,86.7%,3.57,B (3.27),B+ (3.42)
+554,"Norris, Joel Roland",SIO 87 - Freshman Seminar (A),FA18,12,10,100.0%,100.0%,1.3,A (4.00),
+555,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (B),FA18,20,17,100.0%,100.0%,0.5,A (4.00),
+556,"Gerwick, William Henry",SIO 87 - Freshman Seminar (C),FA18,17,8,100.0%,100.0%,0.5,A (4.00),
+557,"Courtney, Travis Alexander",SIO 90 - Undergraduate Seminar (A),FA18,40,25,100.0%,100.0%,1.02,A- (3.75),
+558,"Doran, Adrian Kristeller",SIO 1 - The Planets (A),S218,20,8,100.0%,100.0%,4.0,A (4.00),B (3.16)
+559,"Durkin, Kathryn Elaine",SIO 12 - History of Earth & Evolution (A),S218,32,20,94.7%,100.0%,6.1,B (3.07),B (3.03)
+560,"Joyce, Trevor William",SIO 133 - Marine Mammal Biology (A),S218,37,21,100.0%,100.0%,5.07,B+ (3.43),B+ (3.46)
+561,"Krause, Douglas John",SIO 133 - Marine Mammal Biology (A),S218,29,21,100.0%,100.0%,5.07,B+ (3.43),B+ (3.46)
+562,"Cook, Geoffrey W",SIO 121GS - Geology of the Alps (A),S118,17,11,90.0%,100.0%,1.7,A (4.00),
+563,"Cook, Geoffrey W",SIO 46GS - Global Volcanism (A),S118,17,11,88.9%,100.0%,1.61,A (4.00),
+564,"Borsa, Adrian Antal",SIO 10 - The Earth (A),SP18,138,79,94.7%,98.7%,3.59,B+ (3.34),B (3.26)
+565,"Norris, Richard D.",SIO 104 - Paleobiology & History of Life (A),SP18,34,18,94.1%,100.0%,4.28,B (3.22),B (3.04)
+566,"Driscoll, Neal W.",SIO 105 - Sedimentology & Stratigraphy (A),SP18,22,8,100.0%,100.0%,4.0,A- (3.75),A- (3.90)
+567,"Bowman, Jeff Shovlowsky",SIO 121 - Biology of the Cryosphere (A),SP18,20,10,80.0%,88.9%,3.1,B+ (3.56),B (3.13)
+568,"Lyons, Deirdre Colleen",SIO 122 - Ecological Developmental Bio (A),SP18,15,10,100.0%,100.0%,3.9,A- (3.88),
+569,"Jensen, Paul R.",SIO 124 - Marine Natural Products (A),SP18,18,9,100.0%,100.0%,3.61,B- (2.89),
+570,"Taylor, Jennifer Rebecca",SIO 125 - Biomechanics of Marine Life (A),SP18,15,8,100.0%,100.0%,6.5,B+ (3.57),
+571,"Burton, Ronald S.",SIO 127 - Marine Molecular Ecology (A),SP18,32,28,89.3%,100.0%,3.93,B+ (3.42),B (3.23)
+572,"Bartlett, Douglas H",SIO 128 - Microbial Life in Extreme Env. (A),SP18,74,42,92.1%,97.4%,4.5,B+ (3.34),B (3.02)
+573,"Hechinger, Ryan F.",SIO 131 - Parasitology (A),SP18,22,15,80.0%,71.4%,8.23,C+ (2.38),C+ (2.40)
+574,"Ballance, Lisa Taylor",SIO 133 - Marine Mammal Biology (A),SP18,114,45,78.0%,85.4%,5.05,B+ (3.61),B (3.04)
+575,"Hildebrand, John A",SIO 133 - Marine Mammal Biology (A),SP18,114,45,78.0%,90.2%,5.05,B+ (3.61),B (3.04)
+576,"Charles, Christopher D.",SIO 138 - The Coral Reef Environment (A),SP18,62,24,95.2%,80.0%,3.74,B+ (3.38),B (3.22)
+577,"Leichter, James J.",SIO 138 - The Coral Reef Environment (A),SP18,62,24,95.2%,83.3%,3.74,B+ (3.38),B (3.22)
+578,"Smith, Jennifer",SIO 138 - The Coral Reef Environment (A),SP18,62,24,95.2%,100.0%,3.74,B+ (3.38),B (3.22)
+579,"Dickson, Andrew Gilmore",SIO 141 - Chem Prin of Marine Systems (A),SP18,12,6,66.7%,66.7%,4.17,B+ (3.33),
+580,"Day, James M.D.",SIO 152 - Petrology and Petrography (A),SP18,9,3,100.0%,100.0%,6.5,B+ (3.67),
+581,"Gee, Jeffrey S",SIO 16 - Geology of the National Parks (A),SP18,61,34,81.8%,97.0%,3.59,B (3.24),B (3.19)
+582,"Fialko, Yuri A.",SIO 160 - Introduction to Tectonics (A),SP18,23,12,91.7%,83.3%,4.33,B+ (3.36),B+ (3.30)
+583,"Severinghaus, Jeffrey P.",SIO 174 - Chemistry of Atmosph and Ocean (A),SP18,7,5,100.0%,100.0%,5.0,B+ (3.67),
+584,"Tresguerres, Martin",SIO 181 - Marine Biochemistry (A),SP18,76,32,100.0%,100.0%,4.9,B (3.20),B (3.21)
+585,"Constable, Steven C",SIO 182 - Envr & Exploration Geophysics (A),SP18,17,6,80.0%,80.0%,9.7,B- (2.80),
+586,"Willenbring, Jane Kathryn",SIO 190 - Special Topic/Earth/Ocean/Atmo (A),SP18,14,6,60.0%,80.0%,6.17,B+ (3.33),
+587,"Gaasterland, Theresa",SIO 190 - Special Topic/Earth/Ocean/Atmo (B),SP18,15,7,100.0%,100.0%,3.7,A (4.00),
+588,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),SP18,37,21,95.2%,100.0%,5.5,A- (3.74),B+ (3.39)
+589,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (B),SP18,16,10,100.0%,100.0%,0.5,,
+590,"Seltzer, Alan Myland",SIO 90 - Undergraduate Seminar (A),SP18,51,21,100.0%,100.0%,0.8,A (4.00),
+591,"Pommier, Anne A.",SIO 1 - The Planets (A),WI18,108,55,75.0%,90.2%,4.12,B (3.30),B+ (3.35)
+592,"Day, James M.D.",SIO 102 - Introduction to Geochemistry (A),WI18,43,21,89.5%,94.4%,5.13,B- (2.74),C+ (2.54)
+593,"Constable, Steven C",SIO 103 - Introduction to Geophysics (A),WI18,22,4,100.0%,100.0%,9.5,B+ (3.50),B- (2.97)
+594,"Masters, Thomas G",SIO 103 - Introduction to Geophysics (A),WI18,22,4,100.0%,100.0%,9.5,B+ (3.50),B- (2.97)
+595,"Forman, Fonna",SIO 109 - Climate Change Solutions (A),WI18,26,9,88.9%,88.9%,3.83,A- (3.75),B+ (3.64)
+596,"Ramanathan, Veerabhadran",SIO 109 - Climate Change Solutions (A),WI18,26,9,88.9%,88.9%,3.83,A- (3.75),B+ (3.64)
+597,"Minster, Jean Bernard H.",SIO 110 - Intro GIS & GPS for Scientists (A),WI18,30,12,100.0%,91.7%,4.5,B+ (3.67),B+ (3.54)
+598,"Salmon, Richard L.",SIO 111 - Introduction to Ocean Waves (A),WI18,5,4,100.0%,100.0%,8.0,B (3.25),
+599,"Tauxe, Lisa",SIO 113 - Intro to Computationl Erth Sci (A),WI18,19,9,100.0%,100.0%,7.5,A- (3.78),
+600,"Benmarhnia, Tarik",SIO 116 - Climate Change & Global Health (A),WI18,12,12,100.0%,100.0%,3.83,A- (3.90),
+601,"Andersson, Andreas Jerry",SIO 119 - Physics and Chem of the Oceans (A),WI18,55,52,80.8%,98.1%,5.92,B (3.14),B (3.24)
+602,"Gille, Sarah T",SIO 119 - Physics and Chem of the Oceans (A),WI18,54,52,80.8%,98.1%,5.92,B (3.14),B (3.24)
+603,"Cook, Geoffrey W",SIO 120 - Introduction to Mineralogy (A),WI18,25,11,100.0%,100.0%,3.59,A- (3.73),A- (3.78)
+604,"Palenik, Brian",SIO 126 - Marine Microbiology (A),WI18,40,29,71.4%,77.8%,5.12,B- (2.74),B (3.03)
+605,"Barton, Andrew David",SIO 134 - Intro/Biological Oceanography (A),WI18,151,118,87.2%,96.6%,4.13,B (3.23),C+ (2.65)
+606,"Landry, Michael Raymond",SIO 134 - Intro/Biological Oceanography (A),WI18,148,119,87.3%,93.2%,4.21,B (3.23),C+ (2.65)
+607,"Palenik, Brian",SIO 139 - Current Research in Marine Bio (A),WI18,53,32,73.3%,83.3%,1.6,B+ (3.50),
+608,"Rouse, Gregory W.",SIO 147 - Applications of Phylogenetics (A),WI18,15,14,100.0%,100.0%,5.64,B+ (3.38),
+609,"Brown, Kevin Michael",SIO 162 - Structural Geology (A),WI18,14,6,100.0%,100.0%,4.83,B+ (3.50),
+610,"Evan, Amato Tomas",SIO 172 - Physics of the Atmosphere (A),WI18,9,6,33.3%,0.0%,4.17,B (3.00),
+611,"Becker, Janet Maria",SIO 178 - Geophysical Fluid Dynamics (A),WI18,5,4,100.0%,100.0%,9.0,A- (3.75),
+612,"Paulenich, Cari Lynn",SIO 180 - Communicating Science/Inf Aud (A),WI18,18,6,100.0%,100.0%,2.83,A (4.00),
+613,"Smith, Jennifer",SIO 183 - Phycology: Marine Plant Biolgy (A),WI18,25,16,93.8%,100.0%,6.75,B+ (3.36),B- (2.98)
+614,"Brahamsha, Bianca M.",SIO 185 - Marine Microbiology Laboratory (A),WI18,13,8,87.5%,100.0%,6.0,B (3.25),
+615,"Sandin, Stuart Adrian",SIO 187 - Stat Methods in Marine Biology (A),WI18,47,31,90.3%,77.4%,6.56,B (3.17),B (3.25)
+616,"Hastings, Philip A.",SIO 188 - Biology of Fishes (A),WI18,28,19,100.0%,100.0%,5.55,B+ (3.32),B (3.20)
+617,"Norris, Joel Roland",SIO 20 - The Atmosphere (A),WI18,138,59,70.2%,91.1%,4.36,B- (2.88),B- (2.88)
+618,"Xie, Shang-Ping",SIO 20 - The Atmosphere (A),WI18,140,59,70.2%,49.1%,4.36,B- (2.88),B- (2.88)
+619,"Teranes, Jane",SIO 25 - Climate Change and Society (A),WI18,115,45,88.4%,97.7%,3.43,B+ (3.34),B- (2.97)
+620,"Aburto Oropeza, Marco Octavio",SIO 3 - Life in the Oceans (A),WI18,66,35,96.9%,90.6%,2.68,B+ (3.66),A- (3.95)
+621,"Driscoll, Neal W.",SIO 35 - Water (A),WI18,190,99,93.6%,94.7%,2.27,B+ (3.66),B+ (3.68)
+622,"Cook, Geoffrey W",SIO 45 - Volcanoes (A),WI18,97,69,98.5%,100.0%,1.84,A- (3.85),B+ (3.62)
+623,"Willenbring, Jane Kathryn",SIO 87 - Freshman Seminar (A),WI18,10,8,100.0%,100.0%,0.75,B (3.00),
+624,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (B),WI18,14,8,100.0%,100.0%,0.5,,
+625,"Guazzo, Regina Anne",SIO 90 - Undergraduate Seminar (A),WI18,43,30,96.6%,100.0%,0.5,B+ (3.67),
+626,"Day, James M.D.",SIO 100 - Introduction to Field Methods (A),FA17,22,9,100.0%,77.8%,8.28,B+ (3.67),B+ (3.56)
+627,"Aluwihare, Lihini",SIO 101 - California Coast Oceanography (A),FA17,29,12,66.7%,90.0%,7.17,B- (2.70),B (3.15)
+628,"Landry, Michael Raymond",SIO 101 - California Coast Oceanography (A),FA17,29,12,66.7%,80.0%,7.17,B- (2.70),B (3.15)
+629,"Brown, Kevin Michael",SIO 106 - Introduction to Hydrogeology (A),FA17,19,7,71.4%,57.1%,5.93,B (3.29),
+630,"Willenbring, Jane Kathryn",SIO 106 - Introduction to Hydrogeology (A),FA17,19,7,71.4%,71.4%,5.93,B (3.29),
+631,"Teranes, Jane",SIO 108 - Intro to Paleoclimatology (A),FA17,11,9,100.0%,100.0%,5.83,B+ (3.44),
+632,"Keeling, Ralph F.",SIO 117 - Physical Basis of Global Warmg (A),FA17,35,9,88.9%,88.9%,5.39,B+ (3.33),B+ (3.48)
+633,"Peach, Cheryl",SIO 12 - History of Earth & Evolution (A),FA17,136,59,100.0%,98.2%,2.26,A- (3.76),B+ (3.46)
+634,"Allen, Andrew Ellis",SIO 123 - Microbial Env Systems Biology (A),FA17,43,42,90.5%,95.2%,3.4,A- (3.74),B+ (3.69)
+635,"Burton, Ronald S.",SIO 132 - Introduction to Marine Biology (A),FA17,174,85,91.4%,93.7%,4.8,B (3.01),B- (2.84)
+636,"Hechinger, Ryan F.",SIO 132 - Introduction to Marine Biology (A),FA17,174,85,91.4%,88.2%,4.8,B (3.01),B- (2.84)
+637,"Cook, Orna",SIO 136 - Marine Biology Laboratory (A),FA17,24,22,100.0%,100.0%,7.36,A- (3.86),B+ (3.56)
+638,"Semmens, Brice Xavier",SIO 136 - Marine Biology Laboratory (A),FA17,24,22,100.0%,100.0%,7.32,B+ (3.64),B+ (3.56)
+639,"Sirovic, Ana",SIO 136 - Marine Biology Laboratory (A),FA17,24,22,100.0%,93.8%,7.32,B+ (3.64),B+ (3.56)
+640,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (A),FA17,24,22,100.0%,100.0%,7.32,B+ (3.64),B+ (3.56)
+641,"Cook, Orna",SIO 136 - Marine Biology Laboratory (B),FA17,18,16,100.0%,100.0%,6.17,B+ (3.33),
+642,"Semmens, Brice Xavier",SIO 136 - Marine Biology Laboratory (B),FA17,18,16,100.0%,100.0%,6.37,B (3.20),
+643,"Sirovic, Ana",SIO 136 - Marine Biology Laboratory (B),FA17,18,16,100.0%,92.3%,6.37,B (3.20),
+644,"Laske, Gabi",SIO 15 - Natural Disasters (A),FA17,331,110,94.2%,93.2%,3.97,A- (3.77),B+ (3.58)
+645,"Rivera-Collazo, Isabel C",SIO 164 - Maritime Archaeology (A),FA17,6,3,100.0%,100.0%,3.83,A (4.00),
+646,"Cook, Geoffrey W",SIO 170 - Introduction to Volcanology (A),FA17,29,14,100.0%,100.0%,3.79,B+ (3.69),B+ (3.56)
+647,"Rudnick, Daniel Lars",SIO 171 - Intro to Physical Oceanography (A),FA17,14,3,100.0%,100.0%,3.5,A (4.00),
+648,"Hamdoun, Amr","SIO 189 - Pollution, Environmnt & Health (A)",FA17,127,64,91.7%,88.3%,4.3,B (3.20),B (3.07)
+649,"Castillo, Paterno R.",SIO 30 - The Oceans (A),FA17,133,56,67.3%,74.5%,3.54,B (3.23),B (3.07)
+650,"Holland, Nicholas D.",SIO 30 - The Oceans (A),FA17,133,56,67.3%,88.0%,3.54,B (3.23),B (3.07)
+651,"Send, Uwe",SIO 30 - The Oceans (A),FA17,133,56,67.3%,74.0%,3.54,B (3.23),B (3.07)
+652,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A),FA17,138,126,97.6%,97.6%,3.74,B+ (3.64),B+ (3.63)
+653,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),FA17,36,22,100.0%,100.0%,4.5,A- (3.84),B+ (3.52)
+654,"Lucas, Andrew J.",SIO 60 - Exp/Oceanic & Atmospheric Sci (A),FA17,8,8,83.3%,83.3%,4.17,B+ (3.40),
+655,"Vanos, Jennifer K.",SIO 60 - Exp/Oceanic & Atmospheric Sci (A),FA17,8,8,83.3%,83.3%,4.17,B+ (3.40),
+656,"Norris, Joel Roland",SIO 87 - Freshman Seminar (A),FA17,12,6,50.0%,100.0%,0.83,,
+657,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (B),FA17,17,11,100.0%,100.0%,0.5,A (4.00),
+658,"Gerwick, William Henry",SIO 87 - Freshman Seminar (C),FA17,14,10,87.5%,87.5%,0.5,,
+659,"Harada, Alice Elizabeth",SIO 90 - Undergraduate Seminar (A),FA17,59,26,100.0%,100.0%,0.83,B+ (3.57),
+660,"Joyce, Trevor William",SIO 133 - Marine Mammal Biology (A),S217,36,13,100.0%,76.9%,4.65,B+ (3.33),
+661,"Krause, Douglas John",SIO 133 - Marine Mammal Biology (A),S217,36,13,100.0%,100.0%,4.65,B+ (3.33),
+662,"Nicklisch, Sascha","SIO 189 - Pollution, Environmnt & Health (A)",S117,36,8,87.5%,87.5%,7.5,B (3.13),B+ (3.45)
+663,"Inman, Bryce G",SIO 30 - The Oceans (A),S117,30,18,88.2%,100.0%,4.5,B (3.27),B+ (3.36)
+664,"Cook, Geoffrey W",SIO 45GS - Volcanoes (A),S117,23,19,100.0%,100.0%,3.97,A- (3.89),A- (3.89)
+665,"Borsa, Adrian Antal",SIO 10 - The Earth (A),SP17,145,59,93.1%,98.3%,4.22,B+ (3.53),B (3.26)
+666,"Tauxe, Lisa",SIO 100 - Introduction to Field Methods (A),SP17,17,10,100.0%,100.0%,7.9,B+ (3.50),
+667,"Norris, Richard D.",SIO 104 - Paleobiology & History of Life (A),SP17,35,17,88.2%,100.0%,4.77,B+ (3.35),B (3.15)
+668,"Driscoll, Neal W.",SIO 105 - Sedimentology & Stratigraphy (A),SP17,29,14,100.0%,100.0%,3.5,A- (3.93),B+ (3.68)
+669,"Forman, Fonna",SIO 109 - Bending Curve: Climate Change (A),SP17,17,10,100.0%,100.0%,1.9,A- (3.90),
+670,"Ramanathan, Veerabhadran",SIO 109 - Bending Curve: Climate Change (A),SP17,17,10,100.0%,100.0%,1.9,A- (3.90),
+671,"Tauxe, Lisa",SIO 113 - Intro to Computationl Erth Sci (A),SP17,31,13,90.0%,90.0%,5.1,B+ (3.60),B+ (3.60)
+672,"Werner, Bradley T.",SIO 114 - Science/Analysis of Env Justic (A),SP17,17,10,44.4%,33.3%,3.25,B (3.25),
+673,"Taylor, Jennifer Rebecca",SIO 125 - Biomechanics of Marine Life (A),SP17,13,5,60.0%,100.0%,6.9,B+ (3.60),
+674,"Burton, Ronald S.",SIO 127 - Marine Molecular Ecology (A),SP17,27,16,100.0%,93.3%,6.07,B (3.21),B (3.05)
+675,"Bartlett, Douglas H",SIO 128 - Microbial Life in Extreme Env. (A),SP17,66,36,94.1%,97.1%,4.56,B- (2.88),B- (2.91)
+676,"Ballance, Lisa Taylor",SIO 133 - Marine Mammal Biology (A),SP17,110,49,93.5%,87.0%,4.2,B+ (3.52),B+ (3.46)
+677,"Hildebrand, John A",SIO 133 - Marine Mammal Biology (A),SP17,107,51,93.8%,89.6%,4.17,B+ (3.54),B+ (3.46)
+678,"Fricker, Helen A.",SIO 135 - Satellite Remote Sensing (A),SP17,15,3,100.0%,100.0%,7.17,B+ (3.67),
+679,"Sandwell, David T",SIO 135 - Satellite Remote Sensing (A),SP17,15,3,100.0%,100.0%,7.17,B+ (3.67),
+680,"Cook, Orna",SIO 136 - Marine Biology Laboratory (A),SP17,26,25,100.0%,100.0%,5.22,B+ (3.56),B+ (3.36)
+681,"Semmens, Brice Xavier",SIO 136 - Marine Biology Laboratory (A),SP17,26,25,100.0%,100.0%,5.22,B+ (3.56),B+ (3.36)
+682,"Sirovic, Ana",SIO 136 - Marine Biology Laboratory (A),SP17,26,25,100.0%,92.0%,5.14,B+ (3.56),B+ (3.36)
+683,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (A),SP17,26,25,100.0%,100.0%,5.14,B+ (3.56),B+ (3.36)
+684,"Cook, Orna",SIO 136 - Marine Biology Laboratory (B),SP17,28,27,92.6%,96.3%,5.98,B+ (3.38),B+ (3.36)
+685,"Semmens, Brice Xavier",SIO 136 - Marine Biology Laboratory (B),SP17,28,27,92.6%,96.3%,5.98,B+ (3.38),B+ (3.36)
+686,"Sirovic, Ana",SIO 136 - Marine Biology Laboratory (B),SP17,28,27,92.6%,100.0%,5.98,B+ (3.38),B+ (3.36)
+687,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (B),SP17,28,27,92.6%,92.6%,5.98,B+ (3.38),B+ (3.36)
+688,"Charles, Christopher D.",SIO 138 - The Coral Reef Environment (A),SP17,52,27,88.0%,75.0%,4.58,B+ (3.33),B+ (3.40)
+689,"Leichter, James J.",SIO 138 - The Coral Reef Environment (A),SP17,52,27,88.0%,79.2%,4.58,B+ (3.33),B+ (3.40)
+690,"Smith, Jennifer",SIO 138 - The Coral Reef Environment (A),SP17,51,27,88.0%,100.0%,4.58,B+ (3.33),B+ (3.40)
+691,"Deheyn, Dimitri Dominique",SIO 139 - Current Research in Marine Bio (A),SP17,61,36,100.0%,100.0%,0.5,A (4.00),
+692,"Dickson, Andrew Gilmore",SIO 141 - Chem Prin of Marine Systems (A),SP17,11,6,66.7%,100.0%,5.5,B- (2.80),
+693,"Day, James M.D.",SIO 152 - Petrology and Petrography (A),SP17,8,8,71.4%,100.0%,15.64,A- (3.86),
+694,"Gee, Jeffrey S",SIO 16 - Geology of the National Parks (A),SP17,66,20,90.0%,90.0%,3.45,B+ (3.31),C+ (2.63)
+695,"Fialko, Yuri A.",SIO 160 - Introduction to Tectonics (A),SP17,14,6,100.0%,83.3%,3.17,B+ (3.60),
+696,"Norris, Joel Roland",SIO 173 - Dynamics of Atmos & Climate (A),SP17,14,6,100.0%,100.0%,3.3,B (3.17),
+697,"Xie, Shang-Ping",SIO 173 - Dynamics of Atmos & Climate (A),SP17,15,6,100.0%,80.0%,3.3,B (3.17),
+698,"Barron, Megan Elizabeth",SIO 181 - Marine Biochemistry (A),SP17,65,45,100.0%,100.0%,4.76,B+ (3.32),
+699,"Tresguerres, Martin",SIO 181 - Marine Biochemistry (A),SP17,65,50,100.0%,100.0%,4.64,B (3.29),B (3.23)
+700,"Semmens, Brice Xavier",SIO 187 - Stat Methods in Marine Biology (A),SP17,49,23,91.3%,100.0%,4.31,B (3.09),B- (2.95)
+701,"Gaasterland, Theresa",SIO 190 - Special Topic/Earth/Ocean/Atmo (A),SP17,38,12,91.7%,100.0%,5.95,A- (3.73),A- (3.91)
+702,"Martz, Todd R.",SIO 190 - Special Topic/Earth/Ocean/Atmo (B),SP17,13,6,100.0%,100.0%,5.17,A- (3.83),
+703,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),SP17,35,22,95.2%,100.0%,4.0,A- (3.80),B+ (3.62)
+704,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (A),SP17,14,5,100.0%,100.0%,0.5,A (4.00),
+705,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (B),SP17,19,13,100.0%,100.0%,0.83,A (4.00),
+706,"Teranes, Jane",SIO 90 - Undergraduate Seminar (A),SP17,43,17,100.0%,100.0%,0.63,A (4.00),
+707,"Pommier, Anne A.",SIO 1 - The Planets (A),WI17,128,93,71.7%,72.8%,5.15,B (3.24),B (3.27)
+708,"Stegman, David",SIO 1 - The Planets (A),WI17,124,94,71.0%,83.9%,5.2,B (3.24),B (3.27)
+709,"Kastner, Miriam",SIO 102 - Introduction to Geochemistry (A),WI17,40,21,85.0%,70.0%,5.5,B+ (3.35),B (3.14)
+710,"Constable, Steven C",SIO 103 - Introduction to Geophysics (A),WI17,30,14,53.8%,46.2%,8.04,B- (2.85),B- (2.84)
+711,"Masters, Thomas G",SIO 103 - Introduction to Geophysics (A),WI17,31,14,53.8%,76.9%,8.04,B- (2.85),B- (2.84)
+712,"Minster, Jean Bernard H.",SIO 110 - Intro GIS & GPS for Scientists (A),WI17,31,10,100.0%,100.0%,5.25,B+ (3.63),B+ (3.56)
+713,"Fricker, Helen A.",SIO 115 - Ice and the Climate System (A),WI17,14,14,100.0%,100.0%,3.07,B+ (3.40),
+714,"Andersson, Andreas Jerry",SIO 119 - Physics and Chem of the Oceans (A),WI17,40,38,94.7%,100.0%,4.73,B (3.29),B (3.28)
+715,"Gille, Sarah T",SIO 119 - Physics and Chem of the Oceans (A),WI17,40,38,94.7%,97.4%,4.73,B (3.29),B (3.28)
+716,"Cook, Geoffrey W",SIO 120 - Introduction to Mineralogy (A),WI17,22,12,100.0%,100.0%,5.23,A- (3.91),A- (3.74)
+717,"Palenik, Brian",SIO 126 - Marine Microbiology (A),WI17,46,23,95.5%,77.3%,5.55,B (3.00),B- (2.99)
+718,"Fenical, William H.",SIO 129 - Marine Chemical Ecology (A),WI17,5,5,100.0%,100.0%,3.0,A (4.00),
+719,"McDonald, Christian M",SIO 130 - Scientific Diving (A),WI17,8,3,100.0%,100.0%,1.83,B+ (3.50),
+720,"Landry, Michael Raymond",SIO 134 - Intro/Biological Oceanography (A),WI17,136,117,82.1%,82.9%,4.98,B (3.13),C+ (2.64)
+721,"Andersson, Andreas Jerry",SIO 143 - Ocean Acidification (A),WI17,16,14,100.0%,100.0%,3.88,B+ (3.46),
+722,"Castillo, Paterno R.",SIO 144 - Intro to Isotope Geochemistry (A),WI17,6,4,100.0%,75.0%,4.0,B (3.00),
+723,"Severinghaus, Jeffrey P.",SIO 144 - Intro to Isotope Geochemistry (A),WI17,6,4,100.0%,100.0%,4.0,B (3.00),
+724,"Brown, Kevin Michael",SIO 162 - Structural Geology (A),WI17,13,6,100.0%,100.0%,5.5,A- (3.83),
+725,"Evan, Amato Tomas",SIO 172 - Physics of the Atmosphere (A),WI17,10,6,100.0%,100.0%,7.17,B+ (3.67),
+726,"Paulenich, Cari Lynn",SIO 180 - Communicating Science/Inf Aud (A),WI17,21,9,100.0%,100.0%,2.25,A- (3.88),A- (3.87)
+727,"Taniguchi, Darcy Anne Akiko",SIO 180 - Communicating Science/Inf Aud (A),WI17,21,9,100.0%,85.7%,1.93,A- (3.86),A- (3.87)
+728,"Rouse, Gregory W.",SIO 184 - Marine Invertebrates (A),WI17,36,36,100.0%,100.0%,4.56,B+ (3.33),B+ (3.44)
+729,"Brahamsha, Bianca M.",SIO 185 - Marine Microbiology Laboratory (A),WI17,13,8,100.0%,100.0%,8.0,B (3.13),
+730,"Hastings, Philip A.",SIO 188 - Biology of Fishes (A),WI17,31,27,96.2%,100.0%,5.3,B (3.29),B (3.20)
+731,"Norris, Joel Roland",SIO 20 - The Atmosphere (A),WI17,130,53,64.0%,92.0%,4.9,B+ (3.32),B- (2.97)
+732,"Xie, Shang-Ping",SIO 20 - The Atmosphere (A),WI17,133,52,64.7%,47.1%,4.81,B+ (3.36),B- (2.97)
+733,"Teranes, Jane",SIO 25 - Climate Change and Society (A),WI17,114,50,91.7%,93.8%,4.0,B+ (3.59),B (3.20)
+734,"Aburto Oropeza, Marco Octavio",SIO 3 - Life in the Oceans (A),WI17,62,24,86.4%,86.4%,3.13,A- (3.78),A- (3.76)
+735,"Driscoll, Neal W.",SIO 35 - Water (A),WI17,196,77,93.1%,98.6%,2.73,B+ (3.60),B+ (3.31)
+736,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (A),WI17,15,8,100.0%,100.0%,0.75,A (4.00),
+737,"Day, James M.D.",SIO 100 - Introduction to Field Methods (A),FA16,26,19,94.7%,94.7%,5.87,B+ (3.53),B+ (3.62)
+738,"Aluwihare, Lihini",SIO 101 - California Coast Oceanography (A),FA16,29,12,54.5%,90.9%,6.5,B+ (3.36),B (3.27)
+739,"Brown, Kevin Michael",SIO 106 - Introduction to Hydrogeology (A),FA16,19,7,85.7%,71.4%,8.21,B- (2.71),
+740,"Hilton, David Raymond",SIO 106 - Introduction to Hydrogeology (A),FA16,19,8,87.5%,87.5%,8.0,B- (2.88),
+741,"Teranes, Jane",SIO 108 - Intro to Paleoclimatology (A),FA16,20,10,100.0%,100.0%,4.1,B+ (3.60),B (3.13)
+742,"Keeling, Ralph F.",SIO 117 - Physical Basis of Global Warmg (A),FA16,24,18,100.0%,100.0%,4.28,A- (3.72),B (3.29)
+743,"Peach, Cheryl",SIO 12 - History of Earth & Evolution (A),FA16,136,67,93.9%,95.5%,3.48,B+ (3.68),B+ (3.49)
+744,"Allen, Andrew Ellis",SIO 123 - Microbial Env Systems Biology (A),FA16,24,18,100.0%,100.0%,4.25,A- (3.75),A- (3.85)
+745,"Burton, Ronald S.",SIO 132 - Introduction to Marine Biology (A),FA16,154,89,85.7%,90.5%,4.96,B (3.11),B- (2.83)
+746,"Hechinger, Ryan F.",SIO 132 - Introduction to Marine Biology (A),FA16,161,91,85.9%,89.4%,4.9,B (3.13),B- (2.83)
+747,"Laske, Gabi",SIO 15 - Natural Disasters (A),FA16,329,128,95.2%,96.0%,3.68,A- (3.79),B+ (3.65)
+748,"Cook, Geoffrey W",SIO 170 - Introduction to Volcanology (B),FA16,25,20,100.0%,100.0%,1.87,A- (3.72),B+ (3.67)
+749,"Hamdoun, Amr","SIO 189 - Pollution, Environmnt & Health (A)",FA16,126,62,94.9%,98.3%,4.25,B+ (3.31),B (3.18)
+750,"Hughes, Chambers Connor",SIO 192 - Senior Seminar/SIOceanogrphy (A),FA16,5,3,100.0%,100.0%,2.5,,
+751,"Castillo, Paterno R.",SIO 30 - The Oceans (A),FA16,135,66,83.1%,81.4%,3.67,B+ (3.33),B+ (3.30)
+752,"Holland, Nicholas D.",SIO 30 - The Oceans (A),FA16,138,64,83.1%,84.7%,3.67,B+ (3.33),B+ (3.30)
+753,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A),FA16,142,130,98.5%,96.9%,3.7,B+ (3.65),B+ (3.55)
+754,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),FA16,33,18,100.0%,100.0%,5.39,A- (3.81),B+ (3.47)
+755,"Norris, Joel Roland",SIO 87 - Freshman Seminar (A),FA16,16,9,77.8%,100.0%,0.94,,
+756,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (B),FA16,20,12,100.0%,100.0%,1.5,A (4.00),
+757,"Deheyn, Dimitri Dominique",SIO 90 - Undergraduate Seminar (A),FA16,69,37,97.1%,97.1%,1.62,A (4.00),
+758,"Lerch, Sarah Joanne Lux",SIO 132 - Introduction to Marine Biology (A),S216,37,29,96.6%,93.1%,5.33,B+ (3.43),B- (2.96)
+759,"Eddebbar, Yassir Art",SIO 25 - Climate Change and Society (A),S216,39,31,96.6%,100.0%,6.5,B+ (3.46),B (3.20)
+760,"Leslie, Matthew S",SIO 133 - Marine Mammal Biology (A),S116,30,13,100.0%,100.0%,4.5,B+ (3.33),B+ (3.39)
+761,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),S116,16,7,100.0%,100.0%,3.93,B+ (3.57),
+762,"Sclater, John G.",SIO 10 - The Earth (A),SP16,115,35,79.4%,88.2%,4.44,B+ (3.32),B+ (3.35)
+763,"Driscoll, Neal W.",SIO 105 - Sedimentology & Stratigraphy (A),SP16,24,10,100.0%,100.0%,2.72,A (4.00),A- (3.92)
+764,"Key, Kerry William",SIO 113 - Intro to Computationl Erth Sci (A),SP16,30,14,100.0%,100.0%,6.07,B+ (3.69),A- (3.72)
+765,"Werner, Bradley T.",SIO 114 - Science/Analysis of Env Justic (A),SP16,15,4,100.0%,100.0%,5.83,C+ (2.67),
+766,"Taylor, Jennifer Rebecca",SIO 125 - Biomechanics of Marine Life (A),SP16,17,8,100.0%,100.0%,5.93,A- (3.71),
+767,"Burton, Ronald S.",SIO 127 - Marine Molecular Ecology (A),SP16,29,20,85.0%,85.0%,3.9,B (3.11),B (3.20)
+768,"Bartlett, Douglas H",SIO 128 - Microbial Life in Extreme Env. (A),SP16,63,26,91.7%,95.8%,4.33,B+ (3.55),B- (2.95)
+769,"Ballance, Lisa Taylor",SIO 133 - Marine Mammal Biology (A),SP16,106,62,94.7%,94.7%,4.04,B (3.29),B+ (3.31)
+770,"Hildebrand, John A",SIO 133 - Marine Mammal Biology (A),SP16,102,58,94.3%,94.3%,4.05,B (3.27),B+ (3.31)
+771,"Fricker, Helen A.",SIO 135 - Satellite Remote Sensing (A),SP16,16,4,100.0%,75.0%,5.17,A- (3.75),
+772,"Sandwell, David T",SIO 135 - Satellite Remote Sensing (A),SP16,15,5,100.0%,100.0%,5.5,A- (3.80),
+773,"Brahamsha, Bianca M.",SIO 136 - Marine Biology Laboratory (A),SP16,19,19,100.0%,94.7%,5.45,B+ (3.58),
+774,"Semmens, Brice Xavier",SIO 136 - Marine Biology Laboratory (A),SP16,19,19,100.0%,94.7%,5.45,B+ (3.58),
+775,"Sirovic, Ana",SIO 136 - Marine Biology Laboratory (A),SP16,19,19,100.0%,94.7%,5.45,B+ (3.58),
+776,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (A),SP16,19,19,100.0%,94.7%,5.45,B+ (3.58),
+777,"Brahamsha, Bianca M.",SIO 136 - Marine Biology Laboratory (B),SP16,28,25,100.0%,100.0%,5.54,B+ (3.56),B+ (3.37)
+778,"Semmens, Brice Xavier",SIO 136 - Marine Biology Laboratory (B),SP16,28,26,100.0%,96.0%,5.81,B+ (3.58),B+ (3.37)
+779,"Sirovic, Ana",SIO 136 - Marine Biology Laboratory (B),SP16,28,26,100.0%,96.0%,5.81,B+ (3.58),B+ (3.37)
+780,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (B),SP16,28,26,100.0%,100.0%,5.81,B+ (3.58),B+ (3.37)
+781,"Charles, Christopher D.",SIO 138 - The Coral Reef Environment (A),SP16,54,29,92.6%,92.6%,4.06,B+ (3.33),B (3.13)
+782,"Leichter, James J.",SIO 138 - The Coral Reef Environment (A),SP16,54,29,92.6%,100.0%,4.06,B+ (3.33),B (3.13)
+783,"Smith, Jennifer",SIO 138 - The Coral Reef Environment (A),SP16,52,29,92.6%,100.0%,4.06,B+ (3.33),B (3.13)
+784,"Deheyn, Dimitri Dominique",SIO 139 - Current Research in Marine Bio (A),SP16,46,30,100.0%,100.0%,0.79,A (4.00),
+785,"Dickson, Andrew Gilmore",SIO 141 - Chem Prin of Marine Systems (A),SP16,24,10,66.7%,66.7%,5.17,B (3.00),B- (2.92)
+786,"Day, James M.D.",SIO 152 - Petrology and Petrography (A),SP16,18,9,75.0%,100.0%,15.0,B (3.29),
+787,"Hilton, David Raymond",SIO 155 - Whole Earth Geochemistry (A),SP16,12,4,50.0%,100.0%,5.5,A- (3.75),
+788,"Fialko, Yuri A.",SIO 160 - Introduction to Tectonics (A),SP16,22,15,73.3%,66.7%,5.3,B (3.15),B+ (3.54)
+789,"Tresguerres, Martin",SIO 181 - Marine Biochemistry (A),SP16,47,30,93.3%,100.0%,4.36,B+ (3.43),B (3.12)
+790,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),SP16,35,21,100.0%,100.0%,3.07,A- (3.90),A- (3.71)
+791,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (A),SP16,10,6,100.0%,100.0%,0.5,A (4.00),
+792,"Teranes, Jane",SIO 90 - Undergraduate Seminar (A),SP16,33,15,100.0%,85.7%,0.5,A (4.00),
+793,"Stegman, David",SIO 1 - The Planets (A),WI16,123,97,92.8%,87.6%,3.13,B+ (3.41),B+ (3.51)
+794,"Sclater, John G.",SIO 10 - The Earth (A),WI16,108,39,78.9%,84.2%,3.47,B+ (3.68),B+ (3.35)
+795,"Kastner, Miriam",SIO 102 - Introduction to Geochemistry (A),WI16,37,19,89.5%,84.2%,6.71,B+ (3.42),B- (2.93)
+796,"Teranes, Jane",SIO 108 - Intro to Paleoclimatology (A),WI16,9,9,100.0%,100.0%,5.25,B (3.22),
+797,"Minster, Jean Bernard H.",SIO 110 - Intro GIS & GPS for Scientists (A),WI16,31,15,93.3%,80.0%,2.63,A- (3.86),A- (3.89)
+798,"Salmon, Richard L.",SIO 111 - Introduction to Ocean Waves (A),WI16,12,3,100.0%,100.0%,5.83,B (3.00),
+799,"Fricker, Helen A.",SIO 115 - Ice and the Climate System (A),WI16,15,14,92.9%,85.7%,4.36,A- (3.75),
+800,"Andersson, Andreas Jerry",SIO 119 - Physics and Chem of the Oceans (A),WI16,14,13,100.0%,100.0%,5.73,B+ (3.62),
+801,"Gille, Sarah T",SIO 119 - Physics and Chem of the Oceans (A),WI16,14,13,100.0%,100.0%,5.73,B+ (3.62),
+802,"Cook, Geoffrey W",SIO 120 - Introduction to Mineralogy (A),WI16,19,17,100.0%,100.0%,4.38,A- (3.71),
+803,"Cook, Geoffrey W",SIO 120 - Introduction to Mineralogy (B),WI16,12,9,100.0%,100.0%,4.0,A- (3.88),
+804,"Palenik, Brian",SIO 126 - Marine Microbiology (A),WI16,29,17,81.3%,81.3%,4.0,B (3.27),B- (2.97)
+805,"Brahamsha, Bianca M.",SIO 126L - Marine Microbiology Laboratory (A),WI16,4,3,100.0%,100.0%,5.83,B+ (3.33),
+806,"Landry, Michael Raymond",SIO 134 - Intro/Biological Oceanography (A),WI16,110,92,94.5%,81.3%,4.63,B+ (3.33),B- (2.79)
+807,"Rouse, Gregory W.",SIO 147 - Applications of Phylogenetics (A),WI16,21,20,90.0%,100.0%,3.9,B+ (3.31),B (3.13)
+808,"Brown, Kevin Michael",SIO 162 - Structural Geology (A),WI16,15,7,83.3%,100.0%,4.17,B+ (3.33),
+809,"Evan, Amato Tomas",SIO 172 - Physics of the Atmosphere (A),WI16,12,9,88.9%,77.8%,4.28,B (3.11),
+810,"Peach, Cheryl",SIO 180 - Communicating Science/Inf Aud (A),WI16,22,9,77.8%,77.8%,3.61,A (4.00),A- (3.90)
+811,"Smith, Jennifer",SIO 183 - Phycology: Marine Plant Biolgy (A),WI16,25,12,91.7%,100.0%,6.17,B+ (3.50),B+ (3.35)
+812,"Gershunov, Alexander",SIO 20 - The Atmosphere (A),WI16,102,42,68.3%,78.0%,2.85,B (3.15),B+ (3.44)
+813,"Aburto Oropeza, Marco Octavio",SIO 3 - Life in the Oceans (A),WI16,42,14,92.3%,69.2%,4.5,B+ (3.44),B+ (3.53)
+814,"Driscoll, Neal W.",SIO 35 - Water (A),WI16,163,71,92.8%,97.1%,2.68,B+ (3.62),B+ (3.46)
+815,"Cook, Geoffrey W",SIO 45 - Volcanoes (A),WI16,151,72,97.1%,100.0%,2.56,A- (3.93),B+ (3.63)
+816,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (A),WI16,16,11,100.0%,100.0%,0.5,A (4.00),
+817,"Aburto Oropeza, Marco Octavio",SIO 87 - Freshman Seminar (B),WI16,18,10,100.0%,100.0%,0.5,,
+818,"Day, James M.D.",SIO 100 - Introduction to Field Methods (A),FA15,25,9,77.8%,88.9%,9.39,A- (3.88),B+ (3.35)
+819,"Tauxe, Lisa",SIO 100 - Introduction to Field Methods (A),FA15,25,9,77.8%,100.0%,9.61,A- (3.88),B+ (3.35)
+820,"Aluwihare, Lihini",SIO 101 - California Coast Oceanography (A),FA15,26,13,100.0%,92.3%,6.5,B (3.23),B- (2.91)
+821,"Landry, Michael Raymond",SIO 101 - California Coast Oceanography (A),FA15,28,13,100.0%,100.0%,6.5,B (3.23),B- (2.91)
+822,"Constable, Steven C",SIO 103 - Introduction to Geophysics (A),FA15,28,7,57.1%,57.1%,6.5,C (2.17),B- (2.75)
+823,"Masters, Thomas G",SIO 103 - Introduction to Geophysics (A),FA15,26,9,62.5%,62.5%,6.75,C (2.14),B- (2.75)
+824,"Norris, Richard D.",SIO 104 - Paleobiology & History of Life (A),FA15,27,15,93.3%,100.0%,7.43,B+ (3.64),B (3.18)
+825,"Brown, Kevin Michael",SIO 106 - Introduction to Hydrogeology (A),FA15,21,5,80.0%,60.0%,5.7,B (3.00),B (3.14)
+826,"Hilton, David Raymond",SIO 106 - Introduction to Hydrogeology (A),FA15,20,5,80.0%,100.0%,5.7,B (3.00),B (3.14)
+827,"Keeling, Ralph F.",SIO 117 - Physical Basis of Global Warmg (A),FA15,19,4,100.0%,100.0%,3.0,B+ (3.50),
+828,"Peach, Cheryl",SIO 12 - History of Earth & Evolution (A),FA15,127,60,100.0%,98.3%,2.95,A- (3.73),B+ (3.67)
+829,"Allen, Andrew Ellis",SIO 123 - Microbial Env Systems Biology (A),FA15,15,14,100.0%,100.0%,3.73,A- (3.92),
+830,"Burton, Ronald S.",SIO 132 - Introduction to Marine Biology (A),FA15,144,65,95.0%,94.9%,4.74,B+ (3.33),B- (2.84)
+831,"Hastings, Philip A.",SIO 132 - Introduction to Marine Biology (A),FA15,141,65,95.0%,88.1%,4.74,B+ (3.33),B- (2.84)
+832,"Laske, Gabi",SIO 15 - Natural Disasters (A),FA15,387,128,94.2%,95.0%,3.88,A- (3.82),B+ (3.55)
+833,"Cook, Geoffrey W",SIO 170 - Introduction to Volcanology (B),FA15,13,10,100.0%,100.0%,2.72,B+ (3.63),
+834,"Cook, Geoffrey W",SIO 170L - Volcanology Field Experience (A),FA15,23,19,100.0%,100.0%,6.5,A- (3.88),A (4.00)
+835,"Day, James M.D.",SIO 170L - Volcanology Field Experience (A),FA15,23,19,100.0%,100.0%,6.5,A- (3.88),A (4.00)
+836,"Hamdoun, Amr","SIO 189 - Pollution, Environmnt & Health (A)",FA15,107,42,95.0%,100.0%,5.01,B (3.24),B- (2.90)
+837,"Teranes, Jane",SIO 25 - Climate Change and Society (A),FA15,59,32,96.8%,100.0%,4.9,B+ (3.54),B (3.29)
+838,"Castillo, Paterno R.",SIO 30 - The Oceans (A),FA15,114,47,72.7%,59.1%,3.62,B (3.19),B- (2.95)
+839,"Holland, Nicholas D.",SIO 30 - The Oceans (A),FA15,119,47,70.5%,93.2%,3.67,B (3.19),B- (2.95)
+840,"Mackinnon, Jennifer A.",SIO 30 - The Oceans (A),FA15,119,47,72.7%,90.9%,3.62,B (3.19),B- (2.95)
+841,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A),FA15,138,122,95.0%,96.7%,3.72,B+ (3.67),B+ (3.69)
+842,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),FA15,37,22,100.0%,100.0%,4.1,A- (3.74),B+ (3.48)
+843,"Talley, Lynne D",SIO 87 - Freshman Seminar (A),FA15,10,9,100.0%,100.0%,0.72,,
+844,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (B),FA15,18,13,92.3%,100.0%,0.67,A (4.00),
+845,"Norris, Joel Roland",SIO 87 - Freshman Seminar (C),FA15,8,5,80.0%,100.0%,0.5,,
+846,"Deheyn, Dimitri Dominique",SIO 90 - Undergraduate Seminar (A),FA15,51,29,100.0%,100.0%,1.4,A (4.00),
+847,"Cook, Geoffrey W",SIO 45 - Volcanoes (A),S115,59,30,100.0%,100.0%,3.1,A- (3.89),A- (3.80)
+848,"Sclater, John G.",SIO 10 - The Earth (A),SP15,131,47,86.4%,84.1%,2.7,B+ (3.56),B+ (3.35)
+849,"Driscoll, Neal W.",SIO 105 - Sedimentology & Stratigraphy (A),SP15,25,13,100.0%,100.0%,3.83,A (4.00),A- (3.80)
+850,"Taylor, Jennifer Rebecca",SIO 125 - Biomechanics of Marine Life (A),SP15,15,10,80.0%,100.0%,3.5,B+ (3.50),
+851,"Burton, Ronald S.",SIO 127 - Marine Molecular Ecology (A),SP15,14,6,100.0%,100.0%,5.5,B+ (3.33),
+852,"Bartlett, Douglas H",SIO 128 - Microbial Life in Extreme Env. (A),SP15,19,12,100.0%,100.0%,4.17,A- (3.73),
+853,"Ballance, Lisa Taylor",SIO 133 - Marine Mammal Biology (A),SP15,78,35,97.1%,91.2%,4.32,B+ (3.40),B+ (3.51)
+854,"Hildebrand, John A",SIO 133 - Marine Mammal Biology (A),SP15,78,36,97.2%,94.3%,4.26,B+ (3.39),B+ (3.51)
+855,"Fricker, Helen A.",SIO 135 - Satellite Remote Sensing (A),SP15,16,10,90.0%,90.0%,6.1,B+ (3.50),
+856,"Sandwell, David T",SIO 135 - Satellite Remote Sensing (A),SP15,16,10,90.0%,100.0%,6.1,B+ (3.50),
+857,"Davis, Aubrey K",SIO 136 - Marine Biology Laboratory (A),SP15,25,23,87.0%,78.3%,5.63,B+ (3.48),B (3.26)
+858,"Semmens, Brice Xavier",SIO 136 - Marine Biology Laboratory (A),SP15,25,22,86.4%,95.5%,5.77,B+ (3.50),B (3.26)
+859,"Sirovic, Ana",SIO 136 - Marine Biology Laboratory (A),SP15,25,22,86.4%,90.9%,5.77,B+ (3.50),B (3.26)
+860,"Davis, Aubrey K",SIO 136 - Marine Biology Laboratory (B),SP15,20,19,100.0%,89.5%,6.29,B+ (3.58),B (3.26)
+861,"Semmens, Brice Xavier",SIO 136 - Marine Biology Laboratory (B),SP15,20,18,100.0%,94.4%,6.39,B+ (3.61),B (3.26)
+862,"Sirovic, Ana",SIO 136 - Marine Biology Laboratory (B),SP15,20,18,100.0%,94.4%,6.39,B+ (3.61),B (3.26)
+863,"Charles, Christopher D.",SIO 138 - The Coral Reef Environment (A),SP15,62,30,89.7%,82.8%,3.91,B+ (3.38),B- (2.85)
+864,"Leichter, James J.",SIO 138 - The Coral Reef Environment (A),SP15,62,30,89.7%,100.0%,3.91,B+ (3.38),B- (2.85)
+865,"Smith, Jennifer",SIO 138 - The Coral Reef Environment (A),SP15,62,30,89.7%,100.0%,3.91,B+ (3.38),B- (2.85)
+866,"Deheyn, Dimitri Dominique",SIO 139 - Current Research in Marine Bio (A),SP15,39,24,95.8%,95.8%,0.5,B (3.00),
+867,"Day, James M.D.",SIO 152 - Petrology and Petrography (A),SP15,14,7,85.7%,100.0%,11.36,B (3.29),
+868,"Hilton, David Raymond",SIO 155 - Whole Earth Geochemistry (A),SP15,7,3,100.0%,100.0%,7.17,B+ (3.33),
+869,"Fialko, Yuri A.",SIO 160 - Introduction to Tectonics (A),SP15,19,5,60.0%,80.0%,4.1,B (3.00),
+870,"Gee, Jeffrey S",SIO 16R - Geology of the National Parks (A),SP15,36,11,60.0%,60.0%,5.0,B (3.17),C+ (2.69)
+871,"Norris, Joel Roland",SIO 173 - Dynamics of Atmos & Climate (A),SP15,3,3,100.0%,100.0%,4.5,B+ (3.33),
+872,"Xie, Shang-Ping",SIO 173 - Dynamics of Atmos & Climate (A),SP15,3,3,100.0%,100.0%,4.5,B+ (3.33),
+873,"Hildebrand, Mark M",SIO 181 - Marine Biochemistry (A),SP15,54,31,93.3%,66.7%,4.57,B (3.14),B (3.05)
+874,"Tresguerres, Martin",SIO 181 - Marine Biochemistry (A),SP15,54,31,93.3%,93.3%,4.57,B (3.14),B (3.05)
+875,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),SP15,37,21,95.0%,100.0%,4.29,A- (3.83),B+ (3.52)
+876,"Feddersen, Falk",SIO 87 - Freshman Seminar (B),SP15,18,8,100.0%,100.0%,0.5,A (4.00),
+877,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (C),SP15,11,10,100.0%,100.0%,0.5,,
+878,"Teranes, Jane",SIO 90 - Undergraduate Seminar (A),SP15,39,19,100.0%,100.0%,0.5,A (4.00),
+879,"Stegman, David",SIO 1 - The Planets (A),WI15,125,90,86.4%,84.1%,4.31,B+ (3.35),B (3.24)
+880,"Sclater, John G.",SIO 10 - The Earth (A),WI15,79,38,86.1%,86.1%,4.04,A- (3.76),B (3.18)
+881,"Kastner, Miriam",SIO 102 - Introduction to Geochemistry (A),WI15,31,13,91.7%,75.0%,5.5,B+ (3.36),B (3.17)
+882,"Minster, Jean Bernard H.",SIO 110 - Intro GIS & GPS for Scientists (A),WI15,30,10,100.0%,80.0%,3.3,A- (3.70),A- (3.70)
+883,"Fricker, Helen A.",SIO 115 - Ice and the Climate System (A),WI15,13,6,100.0%,100.0%,4.17,B (3.17),
+884,"Andersson, Andreas Jerry",SIO 119 - Physics and Chem of the Oceans (A),WI15,18,18,83.3%,100.0%,4.94,B (3.11),
+885,"Gille, Sarah T",SIO 119 - Physics and Chem of the Oceans (A),WI15,18,18,83.3%,77.8%,4.94,B (3.11),
+886,"Cook, Geoffrey W",SIO 120 - Introduction to Mineralogy (A),WI15,21,13,100.0%,100.0%,5.27,B+ (3.67),B+ (3.38)
+887,"Palenik, Brian",SIO 126 - Marine Microbiology (A),WI15,25,22,71.4%,71.4%,5.64,B+ (3.33),B (3.18)
+888,"Brahamsha, Bianca M.",SIO 126L - Marine Microbiology Laboratory (A),WI15,7,5,100.0%,100.0%,6.5,B+ (3.40),
+889,"McDonald, Christian M",SIO 130 - Scientific Diving (A),WI15,11,7,100.0%,100.0%,2.17,A (4.00),
+890,"Walsh, Richard C",SIO 130 - Scientific Diving (A),WI15,11,7,100.0%,100.0%,2.17,A (4.00),
+891,"Landry, Michael Raymond",SIO 134 - Intro/Biological Oceanography (A),WI15,117,100,89.9%,87.9%,4.69,B (3.29),B (3.05)
+892,"Andersson, Andreas Jerry",SIO 143 - Ocean Acidification (A),WI15,16,13,92.3%,100.0%,5.88,B (3.25),
+893,"Brown, Kevin Michael",SIO 162 - Structural Geology (A),WI15,11,3,100.0%,100.0%,5.17,B+ (3.50),
+894,"Evan, Amato Tomas",SIO 172 - Physics of the Atmosphere (A),WI15,3,3,100.0%,100.0%,2.5,B+ (3.50),
+895,"Haymet, Anthony",SIO 180 - Communicating Science/Inf Aud (A),WI15,6,5,100.0%,60.0%,1.3,A (4.00),
+896,"Constable, Steven C",SIO 182 - Envr & Exploration Geophysics (A),WI15,10,3,100.0%,66.7%,7.17,A (4.00),
+897,"Rouse, Gregory W.",SIO 184 - Marine Invertebrates (A),WI15,31,29,93.1%,100.0%,4.43,B+ (3.38),B (3.12)
+898,"Teranes, Jane",SIO 190 - Special Topic/Earth/Ocean/Atmo (A),WI15,7,6,100.0%,100.0%,7.5,A- (3.83),
+899,"Gershunov, Alexander",SIO 20 - The Atmosphere (A),WI15,95,41,71.8%,66.7%,4.04,B (3.20),B (3.28)
+900,"Aburto Oropeza, Marco Octavio",SIO 3 - Life in the Oceans (A),WI15,27,9,55.6%,66.7%,4.94,B (3.29),B (3.24)
+901,"Driscoll, Neal W.",SIO 35 - Water (A),WI15,176,75,95.8%,98.6%,3.46,B+ (3.55),B+ (3.49)
+902,"Cook, Geoffrey W",SIO 45 - Volcanoes (A),WI15,136,75,100.0%,100.0%,3.05,A- (3.85),B+ (3.66)
+903,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (A),WI15,17,12,100.0%,91.7%,0.67,A (4.00),
+904,"Day, James M.D.",SIO 100 - Introduction to Field Methods (A),FA14,23,7,71.4%,85.7%,6.79,B+ (3.50),B (3.17)
+905,"Tauxe, Lisa",SIO 100 - Introduction to Field Methods (A),FA14,20,7,71.4%,71.4%,6.79,B+ (3.50),B (3.17)
+906,"Aluwihare, Lihini",SIO 101 - California Coast Oceanography (A),FA14,32,9,66.7%,66.7%,5.61,B+ (3.56),B (3.25)
+907,"Landry, Michael Raymond",SIO 101 - California Coast Oceanography (A),FA14,33,9,66.7%,88.9%,5.61,B+ (3.56),B (3.25)
+908,"Constable, Steven C",SIO 103 - Introduction to Geophysics (A),FA14,19,6,100.0%,100.0%,8.5,B+ (3.50),
+909,"Masters, Thomas G",SIO 103 - Introduction to Geophysics (A),FA14,21,6,100.0%,75.0%,8.5,B+ (3.50),B- (2.87)
+910,"Norris, Richard D.",SIO 104 - Paleobiology & History of Life (A),FA14,25,6,83.3%,100.0%,7.17,B (3.17),B (3.27)
+911,"Brown, Kevin Michael",SIO 106 - Introduction to Hydrogeology (A),FA14,13,5,100.0%,75.0%,8.5,B+ (3.50),
+912,"Hilton, David Raymond",SIO 106 - Introduction to Hydrogeology (A),FA14,11,3,100.0%,100.0%,5.83,A (4.00),
+913,"Keeling, Ralph F.",SIO 117 - Physical Basis of Global Warmg (A),FA14,6,5,100.0%,100.0%,4.5,B+ (3.60),
+914,"Peach, Cheryl",SIO 12 - History of Earth & Evolution (A),FA14,116,44,88.4%,95.3%,3.5,B+ (3.56),B+ (3.47)
+915,"Allen, Andrew Ellis",SIO 123 - Microbial Env Systems Biology (A),FA14,7,5,100.0%,100.0%,5.5,A (4.00),
+916,"Burton, Ronald S.",SIO 132 - Introduction to Marine Biology (A),FA14,133,46,93.5%,97.8%,5.02,B (3.29),B- (2.80)
+917,"Hastings, Philip A.",SIO 132 - Introduction to Marine Biology (A),FA14,127,48,93.5%,91.3%,5.02,B (3.29),B- (2.80)
+918,"Laske, Gabi",SIO 15 - Natural Disasters (A),FA14,397,150,93.8%,95.1%,3.49,A- (3.84),B+ (3.54)
+919,"Cook, Geoffrey W",SIO 170 - Introduction to Volcanology (A),FA14,16,13,100.0%,100.0%,4.96,B+ (3.69),
+920,"Semmens, Brice Xavier",SIO 187 - Stat Methods in Marine Biology (A),FA14,46,16,81.3%,100.0%,5.75,B (3.21),B- (2.70)
+921,"Hamdoun, Amr","SIO 189 - Pollution, Environmnt & Health (A)",FA14,81,39,97.2%,97.2%,4.79,B (3.15),B (3.04)
+922,"Teranes, Jane",SIO 25 - Climate Change and Society (A),FA14,78,33,67.7%,83.9%,4.1,B (3.14),B (3.26)
+923,"Castillo, Paterno R.",SIO 30 - The Oceans (A),FA14,124,51,64.4%,75.0%,4.09,B (3.11),B (3.04)
+924,"Holland, Nicholas D.",SIO 30 - The Oceans (A),FA14,140,50,63.6%,60.5%,4.08,B (3.08),B (3.04)
+925,"Mackinnon, Jennifer A.",SIO 30 - The Oceans (A),FA14,140,51,66.7%,86.4%,4.14,B (3.11),B (3.04)
+926,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A),FA14,109,98,90.3%,92.5%,4.1,B+ (3.47),B+ (3.45)
+927,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),FA14,34,18,100.0%,100.0%,4.85,A- (3.80),B+ (3.41)
+928,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (A),FA14,18,14,100.0%,100.0%,0.5,A (4.00),
+929,"Gibson, Carl H.",SIO 87 - Freshman Seminar (B),FA14,16,10,66.7%,88.9%,1.83,,
+930,"Deheyn, Dimitri Dominique",SIO 90 - Undergraduate Seminar (A),FA14,62,29,100.0%,100.0%,0.5,A (4.00),
+931,"Cook, Geoffrey W",SIO 45 - Volcanoes (A),S114,66,35,100.0%,100.0%,2.83,A- (3.93),B+ (3.65)
+932,"Sclater, John G.",SIO 10 - The Earth (A),SP14,112,35,88.6%,88.6%,3.53,A- (3.76),B+ (3.31)
+933,"Driscoll, Neal W.",SIO 105 - Sedimentology & Stratigraphy (A),SP14,20,13,100.0%,100.0%,4.32,A- (3.82),A- (3.80)
+934,"Ogden, Darcy Elizabeth",SIO 113 - Intro to Computationl Erth Sci (A),SP14,27,12,100.0%,100.0%,5.5,B+ (3.67),A- (3.91)
+935,"Fricker, Helen A.",SIO 115 - Ice and the Climate System (A),SP14,6,5,80.0%,80.0%,5.7,B (3.00),
+936,"Taylor, Jennifer Rebecca",SIO 125 - Biomechanics of Marine Life (A),SP14,5,3,100.0%,100.0%,3.83,B+ (3.50),
+937,"Palenik, Brian",SIO 126 - Marine Microbiology (A),SP14,23,11,80.0%,80.0%,4.5,B+ (3.30),B (3.11)
+938,"Burton, Ronald S.",SIO 127 - Marine Molecular Ecology (A),SP14,18,10,100.0%,100.0%,2.94,B+ (3.43),
+939,"Ballance, Lisa Taylor",SIO 133 - Marine Mammal Biology (A),SP14,57,20,100.0%,100.0%,4.08,B+ (3.35),B+ (3.31)
+940,"Hildebrand, John A",SIO 133 - Marine Mammal Biology (A),SP14,57,18,100.0%,100.0%,4.28,B+ (3.41),B+ (3.31)
+941,"Fricker, Helen A.",SIO 135 - Satellite Remote Sensing (A),SP14,9,3,100.0%,66.7%,3.17,B+ (3.50),
+942,"Sandwell, David T",SIO 135 - Satellite Remote Sensing (A),SP14,9,4,75.0%,100.0%,4.5,B+ (3.33),
+943,"Brahamsha, Bianca M.",SIO 136 - Marine Biology Laboratory (A),SP14,24,21,100.0%,90.5%,6.1,B+ (3.48),B+ (3.48)
+944,"Levin, Lisa Ann",SIO 136 - Marine Biology Laboratory (A),SP14,24,20,95.0%,95.0%,6.7,B+ (3.42),B+ (3.48)
+945,"Palenik, Brian",SIO 136 - Marine Biology Laboratory (A),SP14,24,20,95.0%,90.0%,6.7,B+ (3.45),B+ (3.48)
+946,"Semmens, Brice Xavier",SIO 136 - Marine Biology Laboratory (A),SP14,24,20,95.0%,95.0%,6.61,B+ (3.42),B+ (3.48)
+947,"Sirovic, Ana",SIO 136 - Marine Biology Laboratory (A),SP14,24,20,95.0%,95.0%,6.5,B+ (3.42),B+ (3.48)
+948,"Smith, Jennifer",SIO 136 - Marine Biology Laboratory (A),SP14,24,20,100.0%,95.0%,6.39,B+ (3.42),B+ (3.48)
+949,"Tresguerres, Martin",SIO 136 - Marine Biology Laboratory (A),SP14,24,20,100.0%,95.0%,6.4,B+ (3.47),B+ (3.48)
+950,"Wegner, Nicholas Craig",SIO 136 - Marine Biology Laboratory (A),SP14,24,12,100.0%,100.0%,8.17,B+ (3.64),
+951,"Charles, Christopher D.",SIO 138 - The Coral Reef Environment (A),SP14,36,9,100.0%,66.7%,3.61,B+ (3.56),B (3.07)
+952,"Leichter, James J.",SIO 138 - The Coral Reef Environment (A),SP14,38,8,100.0%,100.0%,3.5,B+ (3.38),B (3.07)
+953,"Smith, Jennifer",SIO 138 - The Coral Reef Environment (A),SP14,38,9,100.0%,100.0%,3.39,B+ (3.44),B (3.07)
+954,"Deheyn, Dimitri Dominique",SIO 139 - Current Research in Marine Bio (A),SP14,30,12,100.0%,100.0%,2.86,B+ (3.50),
+955,"Dickson, Andrew Gilmore",SIO 141 - Chem Prin of Marine Systems (A),SP14,14,4,100.0%,100.0%,3.5,B+ (3.50),
+956,"Day, James M.D.",SIO 152 - Petrology and Petrography (A),SP14,14,9,88.9%,66.7%,10.5,B+ (3.33),
+957,"Hilton, David Raymond",SIO 155 - Whole Earth Geochemistry (A),SP14,7,3,100.0%,100.0%,6.5,B (3.00),
+958,"Gee, Jeffrey S",SIO 16 - Geology of the National Parks (A),SP14,41,10,77.8%,88.9%,3.17,B+ (3.38),B (3.25)
+959,"Fialko, Yuri A.",SIO 160 - Introduction to Tectonics (A),SP14,21,9,66.7%,55.6%,4.28,B (3.13),B (3.29)
+960,"Cook, Geoffrey W",SIO 170 - Introduction to Volcanology (A),SP14,23,17,100.0%,100.0%,2.63,A- (3.81),B+ (3.55)
+961,"Tresguerres, Martin",SIO 181 - Marine Biochemistry (A),SP14,54,30,89.7%,89.7%,5.81,B+ (3.34),B- (2.83)
+962,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),SP14,38,25,100.0%,100.0%,3.54,A- (3.75),B+ (3.65)
+963,"Teranes, Jane",SIO 90 - Undergraduate Seminar (A),SP14,41,20,94.7%,89.5%,0.74,A (4.00),
+964,"Stegman, David",SIO 1 - The Planets (A),WI14,112,64,85.5%,79.0%,3.85,B+ (3.66),B+ (3.33)
+965,"Sclater, John G.",SIO 10 - The Earth (A),WI14,79,30,86.2%,79.3%,3.07,A- (3.73),B+ (3.49)
+966,"Kastner, Miriam",SIO 102 - Introduction to Geochemistry (A),WI14,25,11,90.0%,80.0%,5.9,B (3.00),B- (2.82)
+967,"Minster, Jean Bernard H.",SIO 110 - Intro GIS & GPS for Scientists (A),WI14,29,15,93.3%,100.0%,2.9,A- (3.71),A- (3.76)
+968,"Salmon, Richard L.",SIO 111 - Introduction to Ocean Waves (A),WI14,11,3,100.0%,100.0%,10.5,B (3.00),
+969,"Andersson, Andreas Jerry",SIO 119 - Physics and Chem of the Oceans (A),WI14,15,15,93.3%,100.0%,4.9,B+ (3.53),
+970,"Gille, Sarah T",SIO 119 - Physics and Chem of the Oceans (A),WI14,15,14,92.9%,85.7%,5.07,B+ (3.57),
+971,"Cook, Geoffrey W",SIO 120 - Introduction to Mineralogy (A),WI14,20,15,100.0%,100.0%,4.23,A- (3.71),B+ (3.50)
+972,"Landry, Michael Raymond",SIO 134 - Intro/Biological Oceanography (A),WI14,114,89,87.6%,76.4%,4.45,B (3.15),B (3.25)
+973,"Rouse, Gregory W.",SIO 147 - Applications of Phylogenetics (A),WI14,12,5,100.0%,100.0%,4.1,B (3.20),
+974,"Brown, Kevin Michael",SIO 162 - Structural Geology (A),WI14,14,9,88.9%,66.7%,5.39,B+ (3.56),
+975,"Haymet, Anthony",SIO 180 - Communicating Science/Inf Aud (A),WI14,8,4,100.0%,100.0%,1.5,A- (3.75),
+976,"Smith, Jennifer",SIO 183 - Phycology: Marine Plant Biolgy (A),WI14,17,11,81.8%,81.8%,9.05,B (3.27),
+977,"Evan, Amato Tomas",SIO 190 - Special Topics/Earth Sciences (A),WI14,10,9,66.7%,33.3%,5.39,B (3.11),
+978,"Iacobellis, Sam F",SIO 20 - The Atmosphere (A),WI14,128,56,90.7%,94.4%,3.76,B+ (3.60),B (3.30)
+979,"Driscoll, Neal W.",SIO 35 - Water (A),WI14,171,62,90.3%,91.9%,2.69,A- (3.74),B+ (3.36)
+980,"Cook, Geoffrey W",SIO 45 - Volcanoes (A),WI14,120,64,96.7%,98.4%,2.11,A- (3.91),B+ (3.62)
+981,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (A),WI14,15,10,100.0%,100.0%,3.17,A (4.00),
+982,"Day, James M.D.",SIO 100 - Introduction to Field Methods (A),FA13,26,10,80.0%,90.0%,8.7,B- (2.89),B+ (3.46)
+983,"Tauxe, Lisa",SIO 100 - Introduction to Field Methods (A),FA13,23,9,77.8%,77.8%,8.94,B (3.00),B+ (3.46)
+984,"Aluwihare, Lihini",SIO 101 - California Coast Oceanography (A),FA13,18,6,50.0%,83.3%,6.5,B+ (3.67),
+985,"Landry, Michael Raymond",SIO 101 - California Coast Oceanography (A),FA13,20,6,50.0%,83.3%,6.5,B+ (3.67),B (3.08)
+986,"Masters, Thomas G",SIO 103 - Introduction to Geophysics (A),FA13,14,6,80.0%,80.0%,10.9,B (3.20),
+987,"Norris, Richard D.",SIO 104 - Paleobiology & History of Life (A),FA13,25,12,91.7%,91.7%,4.83,B (3.25),B (3.10)
+988,"Brown, Kevin Michael",SIO 106 - Introduction to Hydrogeology (B),FA13,11,7,85.7%,85.7%,6.5,B (3.29),
+989,"Hilton, David Raymond",SIO 106 - Introduction to Hydrogeology (B),FA13,10,7,85.7%,100.0%,6.5,B (3.14),
+990,"Keeling, Ralph F.",SIO 117 - Physical Basis of Global Warmg (A),FA13,8,3,100.0%,100.0%,3.17,A (4.00),
+991,"Peach, Cheryl",SIO 12 - History of Earth & Evolution (A),FA13,84,37,97.3%,97.3%,3.42,A- (3.94),B+ (3.36)
+992,"Bartlett, Douglas H",SIO 128 - Microbial Life in Extreme Env. (A),FA13,16,10,100.0%,100.0%,5.1,B+ (3.50),
+993,"Burton, Ronald S.",SIO 132 - Introduction to Marine Biology (A),FA13,115,37,97.2%,86.1%,4.33,B+ (3.36),C+ (2.70)
+994,"Hastings, Philip A.",SIO 132 - Introduction to Marine Biology (A),FA13,111,36,97.1%,91.2%,4.32,B+ (3.38),C+ (2.70)
+995,"Laske, Gabi",SIO 15 - Natural Disasters (A),FA13,365,122,94.1%,95.8%,3.82,A- (3.81),A- (3.70)
+996,"Key, Kerry William",SIO 182 - Envr & Exploration Geophysics (A),FA13,8,5,100.0%,100.0%,8.5,B+ (3.40),
+997,"Semmens, Brice Xavier",SIO 187 - Stat Methods in Marine Biology (A),FA13,30,16,100.0%,100.0%,5.0,B+ (3.50),B- (2.78)
+998,"Hamdoun, Amr","SIO 189 - Pollution, Environmnt & Health (A)",FA13,50,21,90.0%,90.0%,4.9,B+ (3.35),B (3.16)
+999,"Teranes, Jane",SIO 25 - Climate Change and Society (A),FA13,60,35,77.1%,88.6%,3.95,B+ (3.57),B- (2.87)
+1000,"Castillo, Paterno R.",SIO 30 - The Oceans (A),FA13,121,47,78.7%,85.1%,3.41,B (3.19),B (3.07)
+1001,"Holland, Nicholas D.",SIO 30 - The Oceans (A),FA13,129,48,76.6%,95.7%,3.45,B (3.14),B (3.07)
+1002,"Mackinnon, Jennifer A.",SIO 30 - The Oceans (A),FA13,129,44,77.3%,59.1%,3.45,B (3.20),B (3.07)
+1003,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A),FA13,131,109,96.3%,99.1%,3.8,A- (3.72),B+ (3.65)
+1004,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),FA13,33,18,100.0%,100.0%,3.79,B+ (3.65),B+ (3.45)
+1005,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (A),FA13,18,12,100.0%,100.0%,0.5,A (4.00),
+1006,"Deheyn, Dimitri Dominique",SIO 90 - Undergraduate Seminar (A),FA13,62,35,100.0%,100.0%,0.96,A (4.00),
+1007,"Sclater, John G.",SIO 10 - The Earth (A),SP13,127,36,87.9%,72.7%,2.69,B+ (3.43),B- (2.82)
+1008,"Driscoll, Neal W.",SIO 105 - Sedimentology & Stratigraphy (A),SP13,24,10,100.0%,100.0%,2.94,A- (3.78),A- (3.70)
+1009,"Ogden, Darcy Elizabeth",SIO 113 - Intro to Computationl Erth Sci (A),SP13,19,11,100.0%,90.9%,4.68,A (4.00),
+1010,"Fricker, Helen A.",SIO 115 - Ice and the Climate System (A),SP13,7,5,80.0%,80.0%,6.9,B+ (3.60),
+1011,"Palenik, Brian",SIO 126 - Marine Microbiology (A),SP13,23,9,100.0%,87.5%,6.5,B (3.13),B (3.17)
+1012,"Ballance, Lisa Taylor",SIO 133 - Marine Mammal Biology (A),SP13,85,33,90.9%,87.9%,5.73,B (3.29),B (3.02)
+1013,"Hildebrand, John A",SIO 133 - Marine Mammal Biology (A),SP13,85,33,90.9%,97.0%,5.88,B (3.26),B (3.02)
+1014,"Fricker, Helen A.",SIO 135 - Satellite Remote Sensing (A),SP13,17,7,71.4%,57.1%,6.21,A- (3.71),
+1015,"Sandwell, David T",SIO 135 - Satellite Remote Sensing (A),SP13,17,7,71.4%,85.7%,6.79,A- (3.71),
+1016,"Charles, Christopher D.",SIO 138 - The Coral Reef Environment (A),SP13,43,12,100.0%,83.3%,5.0,B+ (3.50),B (3.16)
+1017,"Leichter, James J.",SIO 138 - The Coral Reef Environment (A),SP13,43,12,100.0%,100.0%,4.32,B+ (3.55),B (3.16)
+1018,"Smith, Jennifer",SIO 138 - The Coral Reef Environment (A),SP13,43,12,100.0%,100.0%,4.32,B+ (3.55),B (3.16)
+1019,"Deheyn, Dimitri Dominique",SIO 139 - Current Research in Marine Bio (A),SP13,19,4,100.0%,100.0%,0.5,,
+1020,"Cook, Geoffrey W",SIO 152 - Petrology and Petrography (A),SP13,18,9,77.8%,77.8%,7.61,A- (3.78),
+1021,"Gee, Jeffrey S",SIO 16 - Geology of the National Parks (A),SP13,49,14,84.6%,92.3%,3.58,B (3.09),B- (2.84)
+1022,"Cande, Steve",SIO 160 - Introduction to Tectonics (A),SP13,29,13,100.0%,100.0%,5.33,B+ (3.33),B+ (3.39)
+1023,"Driscoll, Neal W.",SIO 160 - Introduction to Tectonics (A),SP13,29,12,100.0%,100.0%,4.14,B+ (3.36),B+ (3.39)
+1024,"Felbeck, Horst",SIO 181 - Marine Biochemistry (A),SP13,24,4,100.0%,75.0%,3.5,B (3.00),B- (2.83)
+1025,"Hildebrand, Mark M",SIO 181 - Marine Biochemistry (A),SP13,24,4,100.0%,100.0%,3.5,B (3.00),B- (2.83)
+1026,"Tresguerres, Martin",SIO 181 - Marine Biochemistry (A),SP13,24,4,100.0%,100.0%,3.5,B (3.00),B- (2.83)
+1027,"Semmens, Brice Xavier",SIO 187 - Stat Methods in Marine Biology (A),SP13,20,5,100.0%,100.0%,3.7,B+ (3.40),B- (2.87)
+1028,"Hamdoun, Amr","SIO 189 - Pollution, Environmnt & Health (A)",SP13,49,25,95.8%,95.8%,4.92,B+ (3.32),B- (2.83)
+1029,"Bartlett, Douglas H",SIO 190 - Special Topics/Earth Sciences (B),SP13,16,6,100.0%,100.0%,3.17,B+ (3.60),
+1030,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),SP13,38,14,100.0%,100.0%,3.07,A- (3.71),B+ (3.50)
+1031,"Gibson, Carl H.",SIO 87 - Freshman Seminar (A),SP13,15,6,100.0%,100.0%,0.5,A (4.00),
+1032,"Teranes, Jane",SIO 90 - Undergraduate Seminar (A),SP13,37,13,100.0%,100.0%,0.5,A (4.00),
+1033,"Shearer, Peter M",SIO 1 - The Planets (A),WI13,86,24,83.3%,87.5%,4.14,B+ (3.63),B+ (3.43)
+1034,"Stegman, David",SIO 1 - The Planets (A),WI13,86,22,81.8%,81.8%,4.21,B+ (3.59),B+ (3.43)
+1035,"Sclater, John G.",SIO 10 - The Earth (A),WI13,105,31,86.7%,66.7%,3.5,B+ (3.63),B+ (3.57)
+1036,"Aluwihare, Lihini",SIO 102 - Introduction to Geochemistry (A),WI13,31,15,53.3%,33.3%,4.9,B (3.00),B (3.10)
+1037,"Martz, Todd R.",SIO 102 - Introduction to Geochemistry (A),WI13,31,15,50.0%,57.1%,4.36,B (3.00),B (3.10)
+1038,"Minster, Jean Bernard H.",SIO 110 - Intro GIS & GPS for Scientists (A),WI13,19,11,100.0%,81.8%,3.95,A (4.00),
+1039,"Andersson, Andreas Jerry",SIO 119 - Physics and Chem of the Oceans (A),WI13,12,10,100.0%,100.0%,4.1,B+ (3.56),
+1040,"Gille, Sarah T",SIO 119 - Physics and Chem of the Oceans (A),WI13,12,10,100.0%,100.0%,4.3,B+ (3.63),
+1041,"Cook, Geoffrey W",SIO 120 - Introduction to Mineralogy (A),WI13,18,8,100.0%,100.0%,3.75,A- (3.88),
+1042,"Cook, Geoffrey W",SIO 120 - Introduction to Mineralogy (B),WI13,11,6,100.0%,100.0%,3.83,B+ (3.40),
+1043,"Landry, Michael Raymond",SIO 134 - Intro/Biological Oceanography (A),WI13,66,51,86.3%,84.3%,4.93,B+ (3.51),C+ (2.69)
+1044,"Andersson, Andreas Jerry",SIO 143 - Ocean Acidification (A),WI13,9,7,85.7%,100.0%,4.5,B (3.17),
+1045,"Brown, Kevin Michael",SIO 162 - Structural Geology (A),WI13,15,9,88.9%,100.0%,5.39,B+ (3.56),
+1046,"Rouse, Gregory W.",SIO 184 - Marine Invertebrates (A),WI13,17,13,100.0%,100.0%,6.04,B+ (3.42),
+1047,"Iacobellis, Sam F",SIO 20 - The Atmosphere (A),WI13,151,53,90.6%,94.3%,3.38,B+ (3.64),B+ (3.31)
+1048,"Driscoll, Neal W.",SIO 35 - Water (A),WI13,191,66,83.3%,89.4%,2.47,B+ (3.63),B (3.04)
+1049,"Cook, Geoffrey W",SIO 45 - Volcanoes (A),WI13,119,58,96.6%,98.3%,3.14,A- (3.79),B+ (3.54)
+1050,"Stegman, David",SIO 87 - Freshman Seminar (A),WI13,9,4,100.0%,100.0%,0.5,,
+1051,"Gibson, Carl H.",SIO 87 - Freshman Seminar (B),WI13,10,6,66.7%,66.7%,0.83,A (4.00),
+1052,"Gerwick, William Henry",SIO 87 - Freshman Seminar (C),WI13,19,14,92.9%,100.0%,1.27,B+ (3.50),
+1053,"Day, James M.D.",SIO 100 - Introduction to Field Methods (A),FA12,25,17,93.8%,81.3%,8.38,B+ (3.56),B+ (3.42)
+1054,"Aluwihare, Lihini",SIO 101 - California Coast Oceanography (A),FA12,21,5,75.0%,50.0%,5.5,B (3.00),B (3.13)
+1055,"Landry, Michael Raymond",SIO 101 - California Coast Oceanography (A),FA12,21,5,80.0%,100.0%,6.5,B+ (3.40),B (3.13)
+1056,"Constable, Steven C",SIO 103 - Introduction to Geophysics (B),FA12,29,15,64.3%,50.0%,7.36,C+ (2.69),B- (2.82)
+1057,"Masters, Thomas G",SIO 103 - Introduction to Geophysics (B),FA12,29,14,71.4%,78.6%,7.36,B- (2.92),B- (2.82)
+1058,"Norris, Richard D.",SIO 104 - Paleobiology & History of Life (A),FA12,34,18,94.1%,100.0%,6.26,B+ (3.31),B- (2.83)
+1059,"Brown, Kevin Michael",SIO 106 - Introduction to Hydrogeology (A),FA12,13,8,87.5%,75.0%,5.0,B+ (3.50),
+1060,"Hilton, David Raymond",SIO 106 - Introduction to Hydrogeology (A),FA12,13,9,87.5%,75.0%,4.75,B+ (3.50),
+1061,"Keeling, Ralph F.",SIO 117 - Physical Basis of Global Warmg (A),FA12,16,6,100.0%,100.0%,3.17,B+ (3.33),
+1062,"Peach, Cheryl",SIO 12 - History of Earth & Evolution (A),FA12,78,28,92.6%,96.3%,2.5,B+ (3.48),B+ (3.52)
+1063,"Hastings, Philip A.",SIO 132 - Introduction to Marine Biology (A),FA12,142,64,93.7%,90.5%,4.1,B+ (3.36),B- (2.73)
+1064,"Sandin, Stuart Adrian",SIO 132 - Introduction to Marine Biology (A),FA12,142,64,93.5%,93.5%,4.2,B+ (3.37),B- (2.73)
+1065,"Laske, Gabi",SIO 15 - Natural Disasters (A),FA12,382,141,96.2%,96.2%,3.0,A- (3.86),B+ (3.65)
+1066,"Werner, Bradley T.",SIO 190 - Special Topics/Earth Sciences (A),FA12,10,5,100.0%,100.0%,5.3,B+ (3.60),
+1067,"Charles, Christopher D.",SIO 25 - Climate Change and Society (A),FA12,39,12,90.0%,80.0%,6.06,B (3.14),B (3.14)
+1068,"Castillo, Paterno R.",SIO 30 - The Oceans (A),FA12,94,30,64.3%,67.9%,2.93,B (3.14),B- (2.98)
+1069,"Hendershott, Myrl C.",SIO 30 - The Oceans (A),FA12,94,29,69.2%,42.3%,3.14,B (3.05),B- (2.98)
+1070,"Holland, Nicholas D.",SIO 30 - The Oceans (A),FA12,94,31,66.7%,86.7%,3.3,B (3.08),B- (2.98)
+1071,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A),FA12,138,104,94.2%,99.0%,3.2,B+ (3.66),B+ (3.61)
+1072,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),FA12,38,17,100.0%,100.0%,2.96,A- (3.85),B+ (3.70)
+1073,"Stegman, David",SIO 87 - Freshman Seminar (A),FA12,9,6,100.0%,100.0%,0.83,,
+1074,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (B),FA12,20,14,100.0%,100.0%,0.5,A (4.00),
+1075,"Teranes, Jane",SIO 90 - Undergraduate Seminar (A),FA12,50,28,100.0%,96.2%,0.5,A (4.00),
+1076,"Shaul, Nellie J",SIO 30 - The Oceans (A),S112,39,33,97.0%,100.0%,5.89,A- (3.77),B+ (3.38)
+1077,"Sclater, John G.",SIO 10 - The Earth (A),SP12,126,41,85.0%,82.5%,3.77,B+ (3.43),B+ (3.32)
+1078,"Driscoll, Neal W.",SIO 105 - Sedimentology & Stratigraphy (A),SP12,20,15,100.0%,100.0%,3.7,A- (3.87),A- (3.77)
+1079,"Fricker, Helen A.",SIO 115 - Ice and the Climate System (A),SP12,15,13,100.0%,92.3%,5.12,B+ (3.42),
+1080,"Palenik, Brian",SIO 126 - Marine Microbiology (A),SP12,14,11,81.8%,90.9%,3.7,B+ (3.45),
+1081,"Ballance, Lisa Taylor",SIO 133 - Marine Mammal Biology (A),SP12,113,42,97.6%,95.1%,5.07,B+ (3.46),B (3.17)
+1082,"Hildebrand, John A",SIO 133 - Marine Mammal Biology (A),SP12,113,44,97.7%,100.0%,5.18,B+ (3.46),B (3.17)
+1083,"Fricker, Helen A.",SIO 135 - Satellite Remote Sensing (A),SP12,13,8,100.0%,100.0%,4.5,B+ (3.43),
+1084,"Sandwell, David T",SIO 135 - Satellite Remote Sensing (A),SP12,13,8,100.0%,100.0%,5.25,B+ (3.43),
+1085,"Charles, Christopher D.",SIO 138 - The Coral Reef Environment (A),SP12,48,19,100.0%,78.9%,5.34,A- (3.74),B (3.19)
+1086,"Leichter, James J.",SIO 138 - The Coral Reef Environment (A),SP12,48,19,100.0%,100.0%,4.39,A- (3.74),B (3.19)
+1087,"Smith, Jennifer",SIO 138 - The Coral Reef Environment (A),SP12,48,19,100.0%,100.0%,4.71,A- (3.74),B (3.19)
+1088,"Dickson, Andrew Gilmore",SIO 141 - Chem Prin of Marine Systems (A),SP12,35,12,66.7%,72.7%,5.0,B+ (3.33),B- (2.88)
+1089,"Dickson, Andrew Gilmore",SIO 141 - Chem Prin of Marine Systems (A),SP12,15,5,100.0%,80.0%,2.5,B (3.00),
+1090,"Cook, Geoffrey W",SIO 152 - Petrology and Petrography (A),SP12,19,17,100.0%,100.0%,5.44,B+ (3.53),
+1091,"Gee, Jeffrey S",SIO 16 - Geology of the National Parks (A),SP12,58,21,81.0%,100.0%,3.55,B+ (3.67),B- (2.94)
+1092,"Cande, Steve",SIO 160 - Introduction to Tectonics (A),SP12,25,17,100.0%,100.0%,4.97,B+ (3.53),B+ (3.39)
+1093,"Driscoll, Neal W.",SIO 160 - Introduction to Tectonics (A),SP12,25,17,100.0%,100.0%,4.97,B+ (3.53),B+ (3.39)
+1094,"Constable, Steven C",SIO 182 - Envr & Exploration Geophysics (A),SP12,14,4,100.0%,100.0%,8.5,B- (2.75),
+1095,"Hamdoun, Amr","SIO 189 - Pollution, Environmnt & Health (A)",SP12,25,10,100.0%,100.0%,5.1,B (3.20),B (3.17)
+1096,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),SP12,36,20,100.0%,100.0%,5.4,A- (3.82),B+ (3.48)
+1097,"Shearer, Peter M",SIO 1 - The Planets (A),WI12,99,45,72.7%,82.2%,4.94,B (3.28),B (3.23)
+1098,"Sclater, John G.",SIO 10 - The Earth (A),WI12,98,36,86.1%,80.6%,3.78,B+ (3.52),B+ (3.37)
+1099,"Kastner, Miriam",SIO 102 - Introduction to Geochemistry (A),WI12,38,20,95.0%,80.0%,5.9,B+ (3.40),B- (2.90)
+1100,"Minster, Jean Bernard H.",SIO 110 - Intro GIS & GPS for Scientists (A),WI12,22,12,91.7%,83.3%,2.5,A- (3.92),A- (3.86)
+1101,"Salmon, Richard L.",SIO 111 - Introduction to Ocean Waves (A),WI12,10,5,80.0%,100.0%,8.1,B (3.00),
+1102,"Salmon, Richard L.",SIO 111 - Introduction to Ocean Waves (A),WI12,8,6,100.0%,100.0%,6.83,B+ (3.50),
+1103,"Ogden, Darcy Elizabeth",SIO 113 - Intro to Computationl Erth Sci (A),WI12,17,9,100.0%,100.0%,7.17,A- (3.75),
+1104,"Cook, Geoffrey W",SIO 120 - Introduction to Mineralogy (A),WI12,22,8,100.0%,100.0%,3.75,A- (3.88),B+ (3.36)
+1105,"Cook, Geoffrey W",SIO 120 - Introduction to Mineralogy (B),WI12,19,11,100.0%,100.0%,5.23,B+ (3.64),
+1106,"Landry, Michael Raymond",SIO 134 - Intro/Biological Oceanography (A),WI12,51,40,90.0%,95.0%,5.45,B (3.10),B+ (3.36)
+1107,"Rouse, Gregory W.",SIO 147 - Applications of Phylogenetics (A),WI12,11,5,100.0%,100.0%,5.7,B+ (3.60),
+1108,"Brown, Kevin Michael",SIO 162 - Structural Geology (A),WI12,9,4,100.0%,100.0%,5.5,A- (3.75),
+1109,"Smith, Jennifer",SIO 183 - Phycology: Marine Plant Biolgy (A),WI12,16,12,91.7%,100.0%,8.0,B+ (3.42),
+1110,"Iacobellis, Sam F",SIO 20 - The Atmosphere (A),WI12,149,69,95.7%,98.6%,3.69,B+ (3.68),B+ (3.39)
+1111,"Driscoll, Neal W.",SIO 35 - Water (A),WI12,193,73,90.1%,98.6%,3.35,B+ (3.56),B (3.19)
+1112,"Cook, Geoffrey W",SIO 45 - Volcanoes (A),WI12,80,44,100.0%,100.0%,2.83,A- (3.92),B+ (3.54)
+1113,"Gibson, Carl H.",SIO 87 - Freshman Seminar (A),WI12,11,7,85.7%,100.0%,0.5,,
+1114,"Day, James M.D.",SIO 100 - Introduction to Field Methods (A),FA11,25,10,80.0%,70.0%,7.7,B+ (3.56),B+ (3.38)
+1115,"Aluwihare, Lihini",SIO 101 - California Coast Oceanography (A),FA11,17,5,100.0%,80.0%,4.9,B+ (3.40),
+1116,"Landry, Michael Raymond",SIO 101 - California Coast Oceanography (A),FA11,17,5,100.0%,100.0%,4.9,B+ (3.40),
+1117,"Masters, Thomas G",SIO 103 - Introduction to Geophysics (A),FA11,14,5,75.0%,100.0%,5.5,B (3.00),
+1118,"Stegman, David",SIO 103 - Introduction to Geophysics (A),FA11,14,5,75.0%,100.0%,5.5,B (3.00),
+1119,"Norris, Richard D.",SIO 104 - Paleobiology & History of Life (A),FA11,25,16,100.0%,100.0%,5.13,B+ (3.56),B (3.19)
+1120,"Cook, Geoffrey W",SIO 12 - History of Earth & Evolution (A),FA11,58,34,100.0%,100.0%,2.98,A- (3.71),B+ (3.48)
+1121,"Burton, Ronald S.",SIO 132 - Introduction to Marine Biology (A),FA11,84,36,97.1%,88.2%,3.67,B+ (3.33),B- (2.94)
+1122,"Hastings, Philip A.",SIO 132 - Introduction to Marine Biology (A),FA11,84,34,97.0%,97.0%,3.5,B+ (3.33),B- (2.94)
+1123,"Laske, Gabi",SIO 15 - Natural Disasters (A),FA11,391,163,98.8%,98.8%,3.23,A- (3.85),A- (3.71)
+1124,"Simms, Eric",SIO 180 - Communicating Science/Inf Aud (A),FA11,5,3,66.7%,100.0%,3.17,B+ (3.67),
+1125,"Bartlett, Douglas H",SIO 181 - Marine Biochemistry (A),FA11,9,5,100.0%,100.0%,3.7,A- (3.80),
+1126,"Felbeck, Horst",SIO 181 - Marine Biochemistry (A),FA11,9,5,100.0%,100.0%,4.1,A- (3.80),
+1127,"Werner, Bradley T.",SIO 190 - Special Topics/Earth Sciences (A),FA11,9,5,80.0%,100.0%,6.1,A- (3.80),
+1128,"Charles, Christopher D.",SIO 25 - Climate Change and Society (A),FA11,43,20,57.9%,52.6%,2.5,B (3.27),B (3.08)
+1129,"Castillo, Paterno R.",SIO 30 - The Oceans (A),FA11,111,46,82.6%,73.9%,4.37,B+ (3.36),B (3.15)
+1130,"Hendershott, Myrl C.",SIO 30 - The Oceans (A),FA11,111,48,81.3%,53.2%,4.63,B+ (3.36),B (3.15)
+1131,"Holland, Nicholas D.",SIO 30 - The Oceans (A),FA11,111,46,84.8%,80.4%,4.54,B+ (3.36),B (3.15)
+1132,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A),FA11,128,89,95.5%,97.7%,3.11,B+ (3.60),B+ (3.53)
+1133,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),FA11,35,14,100.0%,100.0%,5.93,A (4.00),B+ (3.43)
+1134,"Cook, Geoffrey W",SIO 87 - Freshman Seminar (A),FA11,18,13,100.0%,100.0%,2.19,A (4.00),
+1135,"Gibson, Carl H.",SIO 87 - Freshman Seminar (B),FA11,7,5,100.0%,100.0%,0.5,A (4.00),
+1136,"Hildebrand, John A",SIO 87 - Freshman Seminar (C),FA11,17,11,100.0%,90.0%,0.9,A (4.00),
+1137,"Teranes, Jane",SIO 90 - Undergraduate Seminar (A),FA11,26,16,100.0%,100.0%,0.63,A (4.00),
+1138,"Orsi, Anais",SIO 20 - The Atmosphere (A),S211,35,27,88.5%,96.3%,5.83,B+ (3.42),B+ (3.44)
+1139,"Driscoll, Neal W.",SIO 105 - Sedimentology & Stratigraphy (A),SP11,22,10,100.0%,88.9%,4.5,B+ (3.60),A- (3.91)
+1140,"Fricker, Helen A.",SIO 115 - Ice and the Climate System (A),SP11,17,9,100.0%,100.0%,4.5,B+ (3.33),
+1141,"Fricker, Helen A.",SIO 135 - Satellite Remote Sensing (A),SP11,11,5,100.0%,100.0%,4.9,B+ (3.40),
+1142,"Sandwell, David T",SIO 135 - Satellite Remote Sensing (A),SP11,11,6,100.0%,100.0%,4.5,B+ (3.40),
+1143,"Charles, Christopher D.",SIO 138 - The Coral Reef Environment (A),SP11,70,30,100.0%,83.3%,4.23,A- (3.87),B (3.23)
+1144,"Leichter, James J.",SIO 138 - The Coral Reef Environment (A),SP11,70,29,100.0%,96.6%,3.67,A- (3.87),B (3.23)
+1145,"Smith, Jennifer",SIO 138 - The Coral Reef Environment (A),SP11,70,27,100.0%,100.0%,3.76,A- (3.87),B (3.23)
+1146,"Dickson, Andrew Gilmore",SIO 141 - Chem Prin of Marine Systems (A),SP11,48,16,87.5%,75.0%,3.43,,B (3.21)
+1147,"Cook, Geoffrey W",SIO 152 - Petrology and Petrography (A),SP11,14,8,87.5%,100.0%,5.25,B+ (3.63),
+1148,"Gee, Jeffrey S",SIO 16 - Geology of the National Parks (A),SP11,66,27,92.6%,100.0%,4.35,B+ (3.39),B (3.04)
+1149,"Cande, Steve",SIO 160 - Introduction to Tectonics (A),SP11,27,8,100.0%,100.0%,4.5,A- (3.86),B+ (3.45)
+1150,"Driscoll, Neal W.",SIO 160 - Introduction to Tectonics (A),SP11,27,8,100.0%,100.0%,4.25,A- (3.86),B+ (3.45)
+1151,"Tauxe, Lisa",SIO 190 - Special Topics/Earth Sciences (A),SP11,9,7,71.4%,100.0%,6.79,B+ (3.33),
+1152,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),SP11,34,22,95.5%,95.5%,3.5,A- (3.86),B (3.01)
+1153,"Sandwell, David T",SIO 87 - Freshman Seminar (A),SP11,8,6,100.0%,100.0%,0.5,,
+1154,"Haymet, Anthony",SIO 90 - Undergraduate Seminar (A),SP11,16,6,100.0%,100.0%,0.9,,
+1155,"Shearer, Peter M",SIO 1 - The Planets (A),WI11,158,70,81.2%,76.5%,4.18,B+ (3.50),B (3.21)
+1156,"Sclater, John G.",SIO 10 - The Earth (A),WI11,133,58,69.0%,56.9%,3.67,B (3.22),B (3.13)
+1157,"Kastner, Miriam",SIO 102 - Introduction to Geochemistry (A),WI11,22,15,93.3%,100.0%,6.23,B+ (3.33),B (3.11)
+1158,"Jackson, Jeremy B.C.",SIO 104 - Paleobiology & History of Life (A),WI11,14,10,100.0%,100.0%,7.9,B (3.20),
+1159,"Minster, Jean Bernard H.",SIO 110 - Intro GIS & GPS for Scientists (A),WI11,21,10,90.0%,90.0%,2.7,A (4.00),A (4.00)
+1160,"Salmon, Richard L.",SIO 111 - Introduction to Ocean Waves (A),WI11,15,7,100.0%,100.0%,7.93,,
+1161,"Cook, Geoffrey W",SIO 120 - Introduction to Mineralogy (A),WI11,16,13,100.0%,100.0%,4.96,B+ (3.58),
+1162,"Landry, Michael Raymond",SIO 134 - Intro/Biological Oceanography (A),WI11,88,69,85.1%,86.6%,5.41,B+ (3.31),B- (2.96)
+1163,"Brown, Kevin Michael",SIO 162 - Structural Geology (A),WI11,10,8,100.0%,100.0%,4.75,B+ (3.50),
+1164,"Constable, Steven C",SIO 182 - Envr & Exploration Geophys A (A),WI11,13,8,100.0%,87.5%,8.5,B+ (3.38),
+1165,"Constable, Steven C",SIO 182A - Envr & Exploration Geophys A (A),WI11,13,8,100.0%,87.5%,8.5,B+ (3.38),
+1166,"Rouse, Gregory W.",SIO 184 - Marine Invertebrates (A),WI11,12,8,87.5%,100.0%,4.75,B+ (3.38),
+1167,"Werner, Bradley T.",SIO 186 - Interaction/Human & Naturl Env (A),WI11,11,5,100.0%,100.0%,3.7,A (4.00),
+1168,"Iacobellis, Sam F",SIO 20 - The Atmosphere (A),WI11,183,77,79.2%,85.7%,3.55,B+ (3.42),B (3.21)
+1169,"Driscoll, Neal W.",SIO 35 - Water (A),WI11,147,67,95.5%,95.5%,2.2,A- (3.73),B+ (3.64)
+1170,"Tauxe, Lisa",SIO 87 - Freshman Seminar (A),WI11,17,11,100.0%,100.0%,0.5,A (4.00),
+1171,"Tauxe, Lisa",SIO 87 - Freshman Seminar (B),WI11,19,10,100.0%,100.0%,1.5,A (4.00),
+1172,"Tauxe, Lisa",SIO 87 - Freshman Seminar (C),WI11,10,7,100.0%,100.0%,1.07,A (4.00),
+1173,"Cook, Geoffrey W",SIO 100 - Introduction to Field Methods (A),FA10,13,6,100.0%,100.0%,8.17,B+ (3.67),
+1174,"Tauxe, Lisa",SIO 100 - Introduction to Field Methods (A),FA10,13,6,100.0%,100.0%,8.17,B+ (3.67),
+1175,"Aluwihare, Lihini",SIO 101 - California Coast Oceanography (A),FA10,18,9,88.9%,100.0%,2.06,A- (3.89),
+1176,"Landry, Michael Raymond",SIO 101 - California Coast Oceanography (A),FA10,18,9,88.9%,100.0%,2.25,A- (3.89),
+1177,"Masters, Thomas G",SIO 103 - Introduction to Geophysics (A),FA10,14,7,85.7%,100.0%,5.93,B (3.29),
+1178,"Stegman, David",SIO 103 - Introduction to Geophysics (A),FA10,14,7,71.4%,42.9%,6.21,B (3.29),
+1179,"Keeling, Ralph F.",SIO 117 - Physical Basis of Global Warmg (A),FA10,14,5,60.0%,60.0%,8.1,B (3.00),
+1180,"Burton, Ronald S.",SIO 132 - Introduction to Marine Biology (A),FA10,305,119,85.3%,94.0%,4.45,B+ (3.34),B- (2.81)
+1181,"Hastings, Philip A.",SIO 132 - Introduction to Marine Biology (A),FA10,305,110,83.5%,73.8%,4.37,B+ (3.34),B- (2.81)
+1182,"Latz, Michael I",SIO 132 - Introduction to Marine Biology (A),FA10,305,97,84.0%,92.3%,4.24,B+ (3.34),B- (2.81)
+1183,"Laske, Gabi",SIO 15 - Natural Disasters (A),FA10,359,154,96.1%,95.4%,2.79,A- (3.83),A- (3.78)
+1184,"Cook, Geoffrey W",SIO 170 - Introduction to Volcanology (A),FA10,10,4,100.0%,100.0%,3.17,A (4.00),
+1185,"Staudigel, Hubert",SIO 170 - Introduction to Volcanology (A),FA10,10,4,100.0%,100.0%,2.5,A (4.00),
+1186,"Simms, Eric",SIO 180 - Communicating Science/Inf Aud (A),FA10,8,7,100.0%,100.0%,3.64,A (4.00),
+1187,"Bartlett, Douglas H",SIO 181 - Envir Phy/Biochem/Mar Organism (A),FA10,127,32,87.5%,93.8%,6.38,B+ (3.39),B- (2.80)
+1188,"Felbeck, Horst",SIO 181 - Envir Phy/Biochem/Mar Organism (A),FA10,127,35,80.0%,77.1%,6.56,B+ (3.39),B- (2.80)
+1189,"Werner, Bradley T.",SIO 190 - Special Topics/Earth Sciences (A),FA10,13,9,77.8%,88.9%,4.28,B+ (3.56),
+1190,"Teranes, Jane",SIO 25 - Climate Change and Society (A),FA10,73,34,88.2%,85.3%,5.09,A- (3.72),B (3.19)
+1191,"Castillo, Paterno R.",SIO 30 - The Oceans (A),FA10,131,60,68.3%,53.3%,3.93,B+ (3.31),B- (2.85)
+1192,"Hendershott, Myrl C.",SIO 30 - The Oceans (A),FA10,131,60,68.3%,53.3%,3.93,B+ (3.31),B- (2.85)
+1193,"Holland, Nicholas D.",SIO 30 - The Oceans (A),FA10,131,60,68.3%,53.3%,3.93,B+ (3.31),B- (2.85)
+1194,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A),FA10,98,58,94.8%,94.8%,3.33,B+ (3.53),B+ (3.34)
+1195,"Cook, Geoffrey W",SIO 50 - Intro/Earth&Environmental Sci (A),FA10,51,35,94.3%,100.0%,4.84,B+ (3.63),B (3.29)
+1196,"Gee, Jeffrey S",SIO 50 - Intro/Earth&Environmental Sci (A),FA10,51,35,94.3%,100.0%,4.84,B+ (3.63),B (3.29)
+1197,"Shearer, Peter M",SIO 1 - The Planets (A),SP10,166,64,92.2%,93.8%,3.53,B+ (3.39),B (3.16)
+1198,"Driscoll, Neal W.",SIO 105 - Sedimentology & Stratigraphy (A),SP10,16,8,100.0%,100.0%,3.07,A- (3.86),
+1199,"Werner, Bradley T.",SIO 112 - Urban Landscapes (A),SP10,34,13,53.8%,66.7%,4.35,B+ (3.50),B+ (3.51)
+1200,"Peach, Cheryl",SIO 12 - History of Earth & Evolution (A),SP10,112,44,93.2%,95.3%,2.59,B+ (3.61),B+ (3.51)
+1201,"Brahamsha, Bianca M.",SIO 126 - Marine Microbiology (A),SP10,46,19,89.5%,94.7%,4.08,B+ (3.44),C+ (2.63)
+1202,"Brahamsha, Bianca M.",SIO 126L - Marine Microbiology Lab (A),SP10,25,13,100.0%,100.0%,6.35,B+ (3.62),B+ (3.37)
+1203,"Palenik, Brian",SIO 126L - Marine Microbiology Lab (A),SP10,25,13,100.0%,92.3%,6.5,B+ (3.62),B+ (3.37)
+1204,"Sandwell, David T",SIO 135 - Satellite Remote Sensing (A),SP10,12,4,100.0%,100.0%,6.0,A (4.00),
+1205,"Charles, Christopher D.",SIO 138 - The Coral Reef Environment (A),SP10,52,24,100.0%,87.5%,3.42,B+ (3.52),B (3.19)
+1206,"Leichter, James J.",SIO 138 - The Coral Reef Environment (A),SP10,52,24,100.0%,100.0%,3.5,B+ (3.52),B (3.19)
+1207,"Smith, Jennifer",SIO 138 - The Coral Reef Environment (A),SP10,52,25,100.0%,100.0%,3.62,B+ (3.52),B (3.19)
+1208,"Dickson, Andrew Gilmore",SIO 141 - Chem Prin of Marine Systems (A),SP10,51,24,75.0%,79.2%,4.08,,B (3.01)
+1209,"Norris, Richard D.",SIO 148 - Evolution of Earth's Biosphere (A),SP10,15,11,90.9%,100.0%,5.59,B+ (3.40),
+1210,"Castillo, Paterno R.",SIO 152 - Petrology and Petrography (A),SP10,6,3,66.7%,66.7%,4.5,B (3.00),
+1211,"Gee, Jeffrey S",SIO 16 - Geology of the National Parks (A),SP10,47,20,85.0%,100.0%,3.4,B+ (3.31),B- (2.91)
+1212,"Cande, Steve",SIO 160 - Introduction to Tectonics (A),SP10,21,9,100.0%,100.0%,3.17,B+ (3.50),B+ (3.33)
+1213,"Driscoll, Neal W.",SIO 160 - Introduction to Tectonics (A),SP10,21,9,100.0%,100.0%,3.17,B+ (3.50),
+1214,"Constable, Steven C",SIO 182B - Envr & Exploration Geophys B (A),SP10,6,3,100.0%,100.0%,5.17,A (4.00),
+1215,"Llewellyn Smith, Stefan G.",SIO 87 - Freshman Seminar (A),SP10,14,4,100.0%,100.0%,0.5,,
+1216,"Sandwell, David T",SIO 87 - Freshman Seminar (A),SP10,14,5,80.0%,100.0%,1.7,,
+1217,"Teranes, Jane",SIO 90 - Undergraduate Seminar (A),SP10,26,11,90.9%,100.0%,0.7,A (4.00),
+1218,"Astiz, Luciana",SIO 10 - The Earth (A),WI10,172,76,61.8%,46.1%,4.13,B+ (3.33),B (3.13)
+1219,"Bada, Jeffrey L.",SIO 102 - Introduction to Geochemistry (A),WI10,20,9,100.0%,77.8%,2.94,B+ (3.67),B (3.16)
+1220,"Hilton, David Raymond",SIO 102 - Introduction to Geochemistry (A),WI10,20,8,100.0%,85.7%,2.79,B+ (3.67),B (3.16)
+1221,"Weiss, Ray F.",SIO 102 - Introduction to Geochemistry (A),WI10,20,8,100.0%,71.4%,2.79,B+ (3.67),B (3.16)
+1222,"Jackson, Jeremy B.C.",SIO 104 - Paleobiology & History of Life (A),WI10,18,11,100.0%,100.0%,5.23,B (3.18),
+1223,"Kastner, Miriam",SIO 120 - Introduction to Mineralogy (A),WI10,12,4,100.0%,100.0%,5.0,B+ (3.50),
+1224,"Landry, Michael Raymond",SIO 134 - Intro/Biological Oceanography (A),WI10,123,51,78.0%,84.0%,4.7,B (3.26),B- (2.83)
+1225,"Brown, Kevin Michael",SIO 162 - Structural Geology (A),WI10,10,4,100.0%,100.0%,2.5,B (3.25),
+1226,"Iacobellis, Sam F",SIO 20 - The Atmosphere (A),WI10,160,67,92.4%,97.0%,3.42,B+ (3.54),B (3.21)
+1227,"Teranes, Jane",SIO 25 - Climate Change and Society (A),WI10,66,21,90.5%,95.2%,2.6,A- (3.75),B (3.19)
+1228,"Driscoll, Neal W.",SIO 35 - Water (A),WI10,147,58,96.6%,100.0%,2.19,A- (3.89),B+ (3.59)
+1229,"Tauxe, Lisa",SIO 100 - Introduction to Field Methods (A),FA09,16,14,85.7%,92.9%,4.07,B+ (3.42),
+1230,"Masters, Thomas G",SIO 103 - Introduction to Geophysics (A),FA09,13,11,100.0%,100.0%,7.05,B+ (3.45),
+1231,"Stegman, David",SIO 103 - Introduction to Geophysics (A),FA09,13,11,100.0%,100.0%,7.05,B+ (3.45),
+1232,"Burton, Ronald S.",SIO 132 - Introduction to Marine Biology (A),FA09,267,164,91.4%,95.1%,4.04,B+ (3.33),B- (2.79)
+1233,"Hastings, Philip A.",SIO 132 - Introduction to Marine Biology (A),FA09,267,164,91.4%,95.1%,4.04,B+ (3.33),B- (2.79)
+1234,"Latz, Michael I",SIO 132 - Introduction to Marine Biology (A),FA09,267,164,91.4%,95.1%,4.04,B+ (3.33),B- (2.79)
+1235,"Rouse, Gregory W.",SIO 147 - Introduction to Phylogenetics (A),FA09,24,20,85.0%,90.0%,3.5,B (3.11),B- (2.96)
+1236,"Laske, Gabi",SIO 15 - Natural Disasters (A),FA09,275,104,97.1%,97.1%,2.09,A- (3.85),A- (3.73)
+1237,"Felbeck, Horst",SIO 181 - Envir Phy/Biochem/Mar Organism (A),FA09,89,62,75.0%,75.0%,3.82,B+ (3.30),B- (2.82)
+1238,"Bada, Jeffrey L.",SIO 30 - The Oceans (A),FA09,121,179,84.5%,86.6%,2.72,B+ (3.46),B (3.05)
+1239,"Hendershott, Myrl C.",SIO 30 - The Oceans (A),FA09,121,179,84.5%,86.6%,2.72,B+ (3.46),B (3.05)
+1240,"Hilton, David Raymond",SIO 30 - The Oceans (A),FA09,121,179,84.5%,86.6%,2.72,B+ (3.46),B (3.05)
+1241,"Holland, Nicholas D.",SIO 30 - The Oceans (A),FA09,121,179,84.5%,86.6%,2.72,B+ (3.46),B (3.05)
+1242,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A),FA09,74,54,100.0%,98.0%,2.99,A- (3.76),B+ (3.53)
+1243,"Gee, Jeffrey S",SIO 50 - Intro/Earth&Environmental Sci (A),FA09,45,31,100.0%,100.0%,5.21,B (3.21),B- (2.89)
+1244,"Norris, Richard D.",SIO 50 - Intro/Earth&Environmental Sci (A),FA09,45,31,100.0%,100.0%,5.21,B (3.21),B- (2.89)
+1245,"Shearer, Peter M",SIO 1 - The Planets (A),SP09,168,51,66.7%,60.0%,2.98,B+ (3.34),B (3.22)
+1246,"Werner, Bradley T.",SIO 112 - Urban Landscapes (A),SP09,34,21,85.0%,81.0%,3.74,B+ (3.68),B+ (3.46)
+1247,"Brahamsha, Bianca M.",SIO 126 - Marine Microbiology (A),SP09,45,34,84.8%,97.0%,4.2,B+ (3.34),B- (2.96)
+1248,"Brahamsha, Bianca M.",SIO 126L - Marine Microbiology Lab (A),SP09,21,18,100.0%,100.0%,7.83,B+ (3.50),B+ (3.39)
+1249,"Palenik, Brian",SIO 126L - Marine Microbiology Lab (A),SP09,21,18,100.0%,100.0%,7.83,B+ (3.50),B+ (3.39)
+1250,"Fricker, Helen A.",SIO 135 - Satellite Remote Sensing (A),SP09,6,6,100.0%,100.0%,5.83,A- (3.75),
+1251,"Sandwell, David T",SIO 135 - Satellite Remote Sensing (A),SP09,6,6,100.0%,100.0%,5.83,A- (3.75),
+1252,"Charles, Christopher D.",SIO 138 - The Coral Reef Environment (A),SP09,41,34,100.0%,97.1%,3.68,B+ (3.70),B+ (3.49)
+1253,"Leichter, James J.",SIO 138 - The Coral Reef Environment (A),SP09,41,34,100.0%,97.1%,3.68,B+ (3.70),B+ (3.49)
+1254,"Smith, Jennifer",SIO 138 - The Coral Reef Environment (A),SP09,41,34,100.0%,97.1%,3.68,B+ (3.70),B+ (3.49)
+1255,"Dickson, Andrew Gilmore",SIO 141 - Chem Prin of Marine Systems (A),SP09,38,25,72.0%,84.0%,3.75,,B- (2.88)
+1256,"Gee, Jeffrey S",SIO 16 - Geology of the National Parks (A),SP09,68,33,81.3%,96.9%,4.08,B+ (3.48),B- (2.80)
+1257,"Cande, Steve",SIO 160 - Introduction to Tectonics (A),SP09,15,14,100.0%,100.0%,4.21,B+ (3.43),
+1258,"Driscoll, Neal W.",SIO 160 - Introduction to Tectonics (A),SP09,15,14,100.0%,100.0%,4.07,B+ (3.43),
+1259,"Fialko, Yuri A.",SIO 160 - Introduction to Tectonics (A),SP09,15,14,92.3%,53.8%,4.21,B+ (3.43),
+1260,"Harding, Alistair J",SIO 182B - Envr & Exploration Geophys B (A),SP09,8,7,100.0%,100.0%,6.5,B (3.14),
+1261,"Llewellyn Smith, Stefan G.",SIO 87 - Freshman Seminar (A),SP09,12,7,100.0%,100.0%,0.79,A (4.00),
+1262,"Sandwell, David T",SIO 87 - Freshman Seminar (A),SP09,12,7,100.0%,100.0%,0.79,A (4.00),
+1263,"Teranes, Jane",SIO 90 - Undergraduate Seminar (A),SP09,47,38,100.0%,100.0%,0.5,B+ (3.50),
+1264,"Hedlin, Michael Andrew Huvud",SIO 10 - The Earth (A),WI09,138,46,88.9%,93.5%,2.89,B+ (3.43),B (3.25)
+1265,"Kastner, Miriam",SIO 102 - Introduction to Geochemistry (A),WI09,16,13,100.0%,100.0%,3.88,B+ (3.46),
+1266,"Jackson, Jeremy B.C.",SIO 104 - Paleobiology & History of Life (A),WI09,9,8,100.0%,100.0%,6.75,B (3.14),
+1267,"Bock, Yehuda",SIO 110 - Intro GIS & GPS for Scientists (A),WI09,16,12,83.3%,66.7%,4.33,B+ (3.60),
+1268,"Landry, Michael Raymond",SIO 134 - Intro/Biological Oceanography (A),WI09,89,42,85.4%,90.2%,5.18,B (3.10),C+ (2.66)
+1269,"Kent, Graham Martin",SIO 162 - Structural Geology (A),WI09,11,10,100.0%,100.0%,4.5,A- (3.75),
+1270,"Simms, Eric",SIO 190 - Special Topics/Earth Sciences (A),WI09,10,10,100.0%,100.0%,4.7,A- (3.83),
+1271,"Wahlen, Martin",SIO 192 - Senior Seminar/SIOceanogrphy (A),WI09,4,3,100.0%,100.0%,0.5,,
+1272,"Iacobellis, Sam F",SIO 20 - The Atmosphere (A),WI09,143,46,95.3%,100.0%,2.5,B+ (3.58),B (3.18)
+1273,"Teranes, Jane",SIO 25 - Climate Change and Society (A),WI09,67,31,96.7%,96.6%,2.63,A- (3.89),A- (3.76)
+1274,"Driscoll, Neal W.",SIO 35 - Water (A),WI09,141,75,90.4%,97.3%,1.69,B+ (3.51),B+ (3.61)
+1275,"Wahlen, Martin",SIO 87 - Freshman Seminar (A),WI09,4,3,66.7%,100.0%,1.17,,
+1276,"Tauxe, Lisa",SIO 87 - Freshman Seminar (B),WI09,18,19,100.0%,100.0%,0.94,A (4.00),
+1277,"Tauxe, Lisa",SIO 87 - Freshman Seminar (C),WI09,13,12,100.0%,100.0%,0.83,A (4.00),
+1278,"Staudigel, Hubert",SIO 100 - Introduction to Field Methods (A),FA08,20,12,83.3%,91.7%,5.41,A- (3.73),B+ (3.50)
+1279,"Tauxe, Lisa",SIO 100 - Introduction to Field Methods (A),FA08,20,12,83.3%,91.7%,5.41,A- (3.73),B+ (3.50)
+1280,"Driscoll, Neal W.",SIO 105 - Sedimentology & Stratigraphy (A),FA08,10,10,100.0%,100.0%,4.0,B+ (3.60),
+1281,"Burton, Ronald S.",SIO 132 - Introduction to Marine Biology (A),FA08,202,108,86.0%,86.9%,3.99,B (3.28),B- (2.77)
+1282,"Hastings, Philip A.",SIO 132 - Introduction to Marine Biology (A),FA08,202,108,86.0%,86.9%,3.99,B (3.28),B- (2.77)
+1283,"Latz, Michael I",SIO 132 - Introduction to Marine Biology (A),FA08,202,108,86.0%,86.9%,3.99,B (3.28),B- (2.77)
+1284,"Rouse, Gregory W.",SIO 147 - Introduction to Phylogenetics (A),FA08,17,15,93.3%,100.0%,3.83,B (3.00),
+1285,"Laske, Gabi",SIO 15 - Natural Disasters (A),FA08,225,77,98.7%,100.0%,1.95,A- (3.93),A- (3.76)
+1286,"Felbeck, Horst",SIO 181 - Envir Phy/Biochem/Mar Organism (A),FA08,52,38,72.2%,72.2%,5.26,B (3.24),B- (2.80)
+1287,"Wahlen, Martin",SIO 192 - Senior Seminar/SIOceanogrphy (A),FA08,10,10,88.9%,77.8%,0.5,,
+1288,"Bada, Jeffrey L.",SIO 30 - The Oceans (A),FA08,132,62,88.1%,96.6%,2.67,B+ (3.35),B- (2.84)
+1289,"Hendershott, Myrl C.",SIO 30 - The Oceans (A),FA08,132,81,92.3%,74.4%,2.9,B+ (3.35),B- (2.84)
+1290,"Hilton, David Raymond",SIO 30 - The Oceans (A),FA08,132,67,85.9%,96.9%,2.8,B+ (3.35),B- (2.84)
+1291,"Rouse, Gregory W.",SIO 30 - The Oceans (A),FA08,132,69,90.9%,97.0%,2.5,B+ (3.35),B- (2.84)
+1292,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A),FA08,51,31,96.4%,96.6%,2.77,A- (3.76),B+ (3.61)
+1293,"Gee, Jeffrey S",SIO 50 - Intro/Earth&Environmental Sci (A),FA08,26,19,88.9%,100.0%,6.18,B (3.00),C+ (2.45)
+1294,"Norris, Richard D.",SIO 50 - Intro/Earth&Environmental Sci (A),FA08,26,19,88.9%,100.0%,6.18,B (3.00),C+ (2.45)
+1295,"Carilli, Jessica Elizabeth",SIO 30 - The Oceans (A),SU08,36,27,81.5%,81.5%,5.69,B+ (3.35),
+1296,"Becker, Joseph Jeffrey",SIO 1 - The Planets (A),SP08,146,43,72.5%,72.5%,3.4,B (3.13),C+ (2.69)
+1297,"Norris, Richard D.",SIO 104 - Paleobiology & History of Life (A),SP08,15,10,100.0%,100.0%,5.0,B+ (3.50),
+1298,"Werner, Bradley T.",SIO 112 - Urban Landscapes (A),SP08,22,12,90.9%,90.9%,3.0,B+ (3.67),A- (3.77)
+1299,"Peach, Cheryl",SIO 12 - History of Earth & Evolution (A),SP08,78,31,96.6%,100.0%,3.23,B+ (3.52),B (3.30)
+1300,"Bartlett, Douglas H",SIO 126L - Marine Microbiology Lab (A),SP08,23,10,90.0%,90.0%,7.9,B (3.11),B+ (3.39)
+1301,"Brahamsha, Bianca M.",SIO 126L - Marine Microbiology Lab (A),SP08,23,10,90.0%,90.0%,7.9,B (3.11),B+ (3.39)
+1302,"Sandwell, David T",SIO 135 - Satellite Remote Sensing (A),SP08,6,6,100.0%,100.0%,3.83,B+ (3.60),
+1303,"Castillo, Paterno R.",SIO 152 - Petrology and Petrography (A),SP08,8,6,83.3%,66.7%,3.5,B (3.17),
+1304,"Kastner, Miriam",SIO 152 - Petrology and Petrography (A),SP08,8,6,83.3%,66.7%,3.5,B (3.17),
+1305,"Gee, Jeffrey S",SIO 16 - Geology of the National Parks (A),SP08,41,24,79.2%,87.5%,3.89,B (3.28),B- (2.97)
+1306,"Constable, Steven C",SIO 182B - Envr & Exploration Geophys B (A),SP08,14,5,100.0%,100.0%,6.1,B- (2.80),
+1307,"Simms, Eric",SIO 190 - Special Topics/Earth Sciences (A),SP08,14,15,100.0%,100.0%,2.5,A (4.00),
+1308,"Llewellyn Smith, Stefan G.",SIO 87 - Freshman Seminar (A),SP08,12,12,100.0%,100.0%,0.86,,
+1309,"Sandwell, David T",SIO 87 - Freshman Seminar (A),SP08,12,12,100.0%,100.0%,0.86,,
+1310,"Teranes, Jane",SIO 90 - Undergraduate Seminar (A),SP08,26,19,100.0%,94.4%,0.5,A (4.00),
+1311,"Astiz, Luciana",SIO 10 - The Earth (A),WI08,132,62,93.1%,89.7%,3.5,B+ (3.52),B (3.12)
+1312,"Hedlin, Michael Andrew Huvud",SIO 10 - The Earth (A),WI08,132,62,93.1%,89.7%,3.5,B+ (3.52),B (3.12)
+1313,"Kastner, Miriam",SIO 102 - Introduction to Geochemistry (A),WI08,18,12,75.0%,83.3%,4.83,B (3.08),
+1314,"Salmon, Richard L.",SIO 111 - Intro to Ocean Waves & Tides (A),WI08,12,11,90.9%,100.0%,5.41,,
+1315,"Brahamsha, Bianca M.",SIO 126 - Marine Microbiology (A),WI08,32,26,84.6%,100.0%,3.88,B+ (3.35),B (3.10)
+1316,"Landry, Michael Raymond",SIO 134 - Intro/Biological Oceanography (A),WI08,84,48,89.4%,87.2%,4.2,B (3.27),C+ (2.64)
+1317,"Castillo, Paterno R.",SIO 155 - Petrology & Geochem/Earth (A),WI08,2,5,100.0%,100.0%,4.5,B (3.20),
+1318,"Hilton, David Raymond",SIO 155 - Petrology & Geochem/Earth (A),WI08,2,5,100.0%,100.0%,4.5,B (3.20),
+1319,"Brown, Kevin Michael",SIO 162 - Structural Geology (A),WI08,5,6,83.3%,100.0%,1.83,A (4.00),
+1320,"Harding, Alistair J",SIO 182 - Applied Geophysics A (A),WI08,16,8,100.0%,100.0%,5.75,B (3.14),
+1321,"Harding, Alistair J",SIO 182A - Applied Geophysics A (A),WI08,16,8,100.0%,100.0%,5.75,B (3.14),
+1322,"Iacobellis, Sam F",SIO 20 - The Atmosphere (A),WI08,123,68,89.7%,95.6%,2.65,B+ (3.38),B (3.06)
+1323,"Teranes, Jane",SIO 25 - Climate Change and Society (A),WI08,37,20,100.0%,100.0%,2.5,A- (3.70),B+ (3.39)
+1324,"Driscoll, Neal W.",SIO 35 - Water (A),WI08,111,56,89.1%,98.2%,2.36,A- (3.72),B (3.22)
+1325,"Tauxe, Lisa",SIO 87 - Freshman Seminar (A),WI08,27,23,100.0%,100.0%,0.95,,
+1326,"Masters, Thomas G",SIO 103 - Introduction to Geophysics (A),FA07,14,9,77.8%,77.8%,5.61,B (3.25),
+1327,"Driscoll, Neal W.",SIO 105 - Sedimentology & Stratigraphy (A),FA07,10,9,100.0%,100.0%,4.5,A- (3.75),
+1328,"Bock, Yehuda",SIO 110 - Intro GIS & GPS for Scientists (A),FA07,16,13,53.8%,100.0%,7.33,B (3.08),
+1329,"MacLeod, Ian Charles",SIO 110 - Intro GIS & GPS for Scientists (A),FA07,16,13,53.8%,100.0%,7.33,B (3.08),
+1330,"Burton, Ronald S.",SIO 132 - Introduction to Marine Biology (A),FA07,184,103,96.0%,96.0%,3.89,B+ (3.31),B- (2.73)
+1331,"Hastings, Philip A.",SIO 132 - Introduction to Marine Biology (A),FA07,184,103,96.0%,96.0%,3.89,B+ (3.31),B- (2.73)
+1332,"Latz, Michael I",SIO 132 - Introduction to Marine Biology (A),FA07,184,103,96.0%,96.0%,3.89,B+ (3.31),B- (2.73)
+1333,"Dickson, Andrew Gilmore",SIO 141 - Chem Prin of Marine Systems (A),FA07,19,11,81.8%,100.0%,3.41,,
+1334,"Laske, Gabi",SIO 15 - Natural Disasters (A),FA07,186,60,98.3%,100.0%,2.5,A- (3.95),A- (3.80)
+1335,"Felbeck, Horst",SIO 181 - Marine Biochemistry (A),FA07,62,37,97.3%,91.9%,3.85,A- (3.73),B- (2.89)
+1336,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A),FA07,36,23,81.8%,87.0%,2.32,B+ (3.50),B (3.21)
+1337,"Gee, Jeffrey S",SIO 50 - Intro/Earth&Environmental Sci (A),FA07,25,12,66.7%,100.0%,4.0,B (3.00),B (3.21)
+1338,"Norris, Richard D.",SIO 50 - Intro/Earth&Environmental Sci (A),FA07,25,12,66.7%,100.0%,4.0,B (3.00),B (3.21)

@@ -1,0 +1,433 @@
+,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+0,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),SP23,19,17,94.1%,100.0%,3.56,B+ (3.35),
+1,"McCleary, Keith Long",WCWP 100 - Academic Writing (B),SP23,19,18,88.9%,94.1%,5.5,B (3.17),
+2,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (C),SP23,20,11,100.0%,100.0%,4.86,A- (3.91),A- (3.76)
+3,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (D),SP23,20,7,100.0%,100.0%,3.07,A- (3.71),B (3.17)
+4,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (E),SP23,18,10,100.0%,100.0%,3.3,A- (3.80),
+5,"Young, Mark T",WCWP 100 - Academic Writing (F),SP23,18,17,100.0%,100.0%,4.62,B+ (3.65),
+6,"Young, Mark T",WCWP 100 - Academic Writing (G),SP23,18,15,100.0%,100.0%,3.36,A- (3.93),
+7,"Young, Mark T",WCWP 100 - Academic Writing (H),SP23,18,16,87.5%,100.0%,5.13,A- (3.75),
+8,"Ornelas, Tricia",WCWP 10A - The Writing Course A (0),SP23,60,46,97.7%,97.7%,4.64,B+ (3.67),B+ (3.62)
+9,"Susi, Natalie",WCWP 10A - The Writing Course A (0),SP23,19,17,100.0%,100.0%,4.5,A- (3.71),
+10,"Boulter, Sherry Lee",WCWP 10B - The Writing Course B (0),SP23,40,32,100.0%,100.0%,3.19,A- (3.88),A- (3.79)
+11,"Johnson, Eric Lynn",WCWP 10B - The Writing Course B (0),SP23,40,20,100.0%,100.0%,3.34,A- (3.95),A- (3.95)
+12,"Lince, Anthony",WCWP 10B - The Writing Course B (0),SP23,60,54,98.1%,100.0%,3.8,A- (3.93),A- (3.92)
+13,"Moon, He Jin",WCWP 10B - The Writing Course B (0),SP23,59,19,84.2%,84.2%,3.97,A- (3.79),B (3.29)
+14,"Savage, Sarah S",WCWP 10B - The Writing Course B (0),SP23,39,29,100.0%,100.0%,4.09,A- (3.93),A- (3.75)
+15,"Tocki, Jasmine Rae",WCWP 10B - The Writing Course B (0),SP23,60,41,100.0%,100.0%,3.72,A- (3.93),A- (3.95)
+16,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),WI23,19,19,100.0%,100.0%,6.5,B+ (3.53),
+17,"McCleary, Keith Long",WCWP 100 - Academic Writing (B),WI23,20,19,100.0%,100.0%,5.24,B+ (3.63),B+ (3.57)
+18,"McCleary, Keith Long",WCWP 100 - Academic Writing (C),WI23,18,18,94.4%,100.0%,6.06,A- (3.71),
+19,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (D),WI23,20,9,100.0%,100.0%,8.06,A- (3.89),A- (3.82)
+20,"Young, Mark T",WCWP 100 - Academic Writing (E),WI23,19,16,93.8%,100.0%,3.88,A (4.00),
+21,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (F),WI23,20,9,88.9%,100.0%,5.61,A- (3.78),B+ (3.47)
+22,"Young, Mark T",WCWP 100 - Academic Writing (G),WI23,20,16,93.8%,100.0%,3.63,A- (3.80),A- (3.99)
+23,"Young, Mark T",WCWP 100 - Academic Writing (H),WI23,19,15,92.9%,100.0%,5.3,B+ (3.60),
+24,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (0),WI23,110,37,100.0%,97.0%,3.91,A- (3.85),B+ (3.63)
+25,"Lince, Anthony",WCWP 10A - The Writing Course A (0),WI23,59,52,98.1%,100.0%,3.46,B+ (3.65),B+ (3.44)
+26,"Moon, He Jin",WCWP 10A - The Writing Course A (0),WI23,60,53,90.2%,90.0%,4.05,B+ (3.68),B+ (3.38)
+27,"Ornelas, Tricia",WCWP 10A - The Writing Course A (0),WI23,60,52,100.0%,96.2%,3.73,A- (3.73),A- (3.74)
+28,"Susi, Natalie",WCWP 10A - The Writing Course A (0),WI23,20,8,87.5%,87.5%,4.5,A- (3.88),B+ (3.61)
+29,"Boulter, Sherry Lee",WCWP 10B - The Writing Course B (0),WI23,60,53,96.1%,96.1%,3.69,A- (3.98),A- (3.79)
+30,"Johnson, Eric Lynn",WCWP 10B - The Writing Course B (0),WI23,60,49,100.0%,100.0%,2.93,A (4.00),A- (3.90)
+31,"Savage, Sarah S",WCWP 10B - The Writing Course B (0),WI23,60,55,100.0%,100.0%,3.99,A- (3.94),A- (3.93)
+32,"Tocki, Jasmine Rae",WCWP 10B - The Writing Course B (0),WI23,60,30,100.0%,100.0%,4.17,A (4.00),A- (3.86)
+33,"Welji, Haleema Nazir",WCWP 10B - The Writing Course B (0),WI23,79,38,83.9%,80.6%,3.79,A- (3.82),A- (3.77)
+34,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),FA22,20,18,100.0%,100.0%,5.83,B+ (3.50),B+ (3.48)
+35,"McCleary, Keith Long",WCWP 100 - Academic Writing (B),FA22,20,20,100.0%,100.0%,5.6,B+ (3.50),B+ (3.55)
+36,"McCleary, Keith Long",WCWP 100 - Academic Writing (C),FA22,20,19,100.0%,100.0%,6.18,A- (3.79),B+ (3.61)
+37,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (D),FA22,19,10,100.0%,100.0%,5.7,A- (3.70),
+38,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (E),FA22,20,12,100.0%,100.0%,6.68,A- (3.82),B+ (3.56)
+39,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (F),FA22,20,8,100.0%,100.0%,7.25,B+ (3.63),B+ (3.48)
+40,"Young, Mark T",WCWP 100 - Academic Writing (G),FA22,20,16,100.0%,100.0%,5.88,A- (3.81),A- (3.77)
+41,"Young, Mark T",WCWP 100 - Academic Writing (H),FA22,19,13,100.0%,100.0%,4.04,A- (3.77),
+42,"Boulter, Sherry Lee",WCWP 10A - The Writing Course A (0),FA22,60,54,98.1%,100.0%,3.83,A- (3.78),A- (3.77)
+43,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (0),FA22,137,53,96.2%,98.1%,4.5,A- (3.83),B+ (3.68)
+44,"Johnson, Eric Lynn",WCWP 10A - The Writing Course A (0),FA22,60,56,100.0%,100.0%,3.7,A- (3.95),A- (3.89)
+45,"Lince, Anthony",WCWP 10A - The Writing Course A (0),FA22,40,36,100.0%,97.2%,3.5,A- (3.89),B+ (3.64)
+46,"Moon, He Jin",WCWP 10A - The Writing Course A (0),FA22,39,35,91.4%,91.4%,3.93,B+ (3.51),B+ (3.41)
+47,"Ornelas, Tricia",WCWP 10A - The Writing Course A (0),FA22,40,36,97.2%,97.2%,4.11,A- (3.92),B+ (3.65)
+48,"Savage, Sarah S",WCWP 10A - The Writing Course A (0),FA22,60,45,95.5%,100.0%,3.7,A- (3.89),A- (3.92)
+49,"Susi, Natalie",WCWP 10A - The Writing Course A (0),FA22,40,36,97.1%,97.1%,3.53,B+ (3.69),A- (3.78)
+50,"Tocki, Jasmine Rae",WCWP 10B - The Writing Course B (0),FA22,38,22,95.5%,100.0%,4.32,A- (3.82),A- (3.78)
+51,"Welji, Haleema Nazir",WCWP 10B - The Writing Course B (0),FA22,20,16,80.0%,93.3%,4.9,B+ (3.67),B+ (3.55)
+52,"Zimmerman-Liu, Teresa Jean",WCWP 10A - The Writing Course A (A),S322,11,3,100.0%,100.0%,1.83,A (4.00),
+53,"Savage, Sarah S",WCWP 100 - Academic Writing (A),S222,11,3,100.0%,100.0%,5.83,A (4.00),
+54,"Rosenberg, Ryan Glenn",WCWP 10B - The Writing Course B (A),S222,11,8,100.0%,100.0%,6.5,A (4.00),
+55,"Iatarola, Briana Marie",WCWP 10B - The Writing Course B (B),S222,14,9,100.0%,100.0%,5.17,A- (3.89),
+56,"Savage, Sarah S",WCWP 10B - The Writing Course B (C),S222,13,4,100.0%,100.0%,5.5,A (4.00),
+57,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (A),S122,13,7,100.0%,100.0%,7.64,A- (3.71),
+58,"Gagnon, Jeffrey C",WCWP 10B - The Writing Course B (A),S122,6,4,100.0%,100.0%,4.0,A (4.00),
+59,"Rosenberg, Ryan Glenn",WCWP 10B - The Writing Course B (B),S122,15,7,100.0%,100.0%,4.21,B+ (3.57),
+60,"Garvin, Arianna Christina",WCWP 10B - The Writing Course B (C),S122,12,9,100.0%,100.0%,5.61,A (4.00),
+61,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),SP22,15,13,92.3%,92.3%,4.96,B+ (3.31),
+62,"McCleary, Keith Long",WCWP 100 - Academic Writing (B),SP22,19,16,93.8%,100.0%,6.5,B+ (3.44),
+63,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (D),SP22,19,4,100.0%,100.0%,8.5,B+ (3.50),
+64,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (E),SP22,12,8,100.0%,100.0%,4.5,A- (3.88),
+65,"Young, Mark T",WCWP 100 - Academic Writing (F),SP22,18,5,80.0%,100.0%,6.9,B+ (3.60),
+66,"Young, Mark T",WCWP 100 - Academic Writing (G),SP22,19,7,83.3%,83.3%,5.5,B (3.17),
+67,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (A),SP22,15,7,100.0%,100.0%,4.17,A- (3.83),
+68,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (B),SP22,15,7,100.0%,100.0%,5.64,A- (3.86),
+69,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (C),SP22,14,5,100.0%,100.0%,4.1,A (4.00),
+70,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (D),SP22,15,6,60.0%,80.0%,4.5,B+ (3.50),
+71,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (E),SP22,15,3,100.0%,100.0%,2.5,B+ (3.67),
+72,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (F),SP22,15,3,100.0%,100.0%,11.5,A (4.00),
+73,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (G),SP22,15,3,100.0%,100.0%,7.17,B+ (3.67),
+74,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (H),SP22,13,4,66.7%,66.7%,5.17,A (4.00),
+75,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (I),SP22,15,6,80.0%,100.0%,4.0,C+ (2.50),
+76,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (J),SP22,14,3,100.0%,100.0%,3.83,A (4.00),
+77,"Gagnon, Jeffrey C",WCWP 10B - The Writing Course B (0),SP22,448,161,95.8%,93.5%,4.16,A- (3.92),A- (3.80)
+78,"Welji, Haleema Nazir",WCWP 10B - The Writing Course B (0),SP22,7,7,100.0%,100.0%,3.64,A- (3.86),
+79,"McCleary, Keith Long",WCWP 100 - Academic Writing (0),WI22,59,55,98.2%,100.0%,6.72,B+ (3.42),B+ (3.36)
+80,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (0),WI22,60,36,100.0%,100.0%,5.61,A- (3.77),B+ (3.68)
+81,"Young, Mark T",WCWP 100 - Academic Writing (0),WI22,55,20,84.2%,89.5%,5.66,B (3.26),B (3.29)
+82,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (0),WI22,250,111,89.8%,94.2%,4.28,A- (3.80),B+ (3.69)
+83,"Gagnon, Jeffrey C",WCWP 10B - The Writing Course B (0),WI22,388,176,93.5%,96.9%,4.1,A- (3.90),A- (3.81)
+84,"McCleary, Keith Long",WCWP 100 - Academic Writing (0),FA21,59,57,93.0%,100.0%,5.59,B+ (3.51),B+ (3.49)
+85,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (0),FA21,58,31,100.0%,100.0%,7.15,B+ (3.63),B+ (3.61)
+86,"Young, Mark T",WCWP 100 - Academic Writing (0),FA21,59,19,94.1%,100.0%,7.21,B+ (3.47),B+ (3.33)
+87,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (0),FA21,596,308,94.2%,97.8%,4.22,A- (3.84),A- (3.74)
+88,"Gagnon, Jeffrey C",WCWP 10B - The Writing Course B (0),FA21,59,23,90.0%,90.0%,4.8,A- (3.80),B+ (3.63)
+89,"Tocki, Jasmine Rae",WCWP 100 - Academic Writing (A),S221,16,6,100.0%,100.0%,9.17,A- (3.80),
+90,"Gagnon, Jeffrey C",WCWP 100 - Academic Writing (B),S221,13,10,100.0%,100.0%,10.28,A- (3.83),
+91,"Short, Vincent James",WCWP 10B - The Writing Course B (A),S221,13,10,90.0%,100.0%,9.9,B (3.25),
+92,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (B),S121,13,7,100.0%,85.7%,6.79,A (4.00),
+93,"Short, Vincent James",WCWP 10B - The Writing Course B (A),S121,14,6,83.3%,100.0%,9.17,B+ (3.33),
+94,"Iatarola, Briana Marie",WCWP 10B - The Writing Course B (B),S121,14,13,100.0%,100.0%,7.27,B+ (3.67),
+95,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),SP21,18,17,82.4%,100.0%,6.5,B (3.29),
+96,"McCleary, Keith Long",WCWP 100 - Academic Writing (B),SP21,18,16,68.8%,87.5%,7.0,B- (2.93),
+97,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (C),SP21,20,10,88.9%,100.0%,6.06,B+ (3.57),B+ (3.66)
+98,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (D),SP21,21,7,100.0%,100.0%,5.07,A- (3.80),B+ (3.63)
+99,"Young, Mark T",WCWP 100 - Academic Writing (E),SP21,19,5,60.0%,80.0%,3.3,A- (3.80),
+100,"Young, Mark T",WCWP 100 - Academic Writing (F),SP21,16,3,100.0%,100.0%,12.5,A (4.00),
+101,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (0),SP21,86,23,94.7%,88.9%,6.5,B+ (3.38),B+ (3.33)
+102,"Gagnon, Jeffrey C",WCWP 10B - The Writing Course B (0),SP21,502,199,90.0%,96.6%,4.93,B+ (3.54),B+ (3.53)
+103,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),WI21,18,17,100.0%,100.0%,7.56,B+ (3.50),
+104,"McCleary, Keith Long",WCWP 100 - Academic Writing (B),WI21,19,19,94.4%,100.0%,7.34,B+ (3.39),
+105,"McCleary, Keith Long",WCWP 100 - Academic Writing (C),WI21,20,19,94.7%,94.7%,7.34,B+ (3.32),B+ (3.43)
+106,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (D),WI21,18,13,100.0%,100.0%,5.27,A- (3.82),
+107,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (E),WI21,19,12,100.0%,100.0%,6.5,B+ (3.60),
+108,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (F),WI21,17,11,90.9%,100.0%,6.32,B+ (3.60),
+109,"Young, Mark T",WCWP 100 - Academic Writing (G),WI21,20,5,100.0%,100.0%,8.1,A- (3.75),B+ (3.49)
+110,"Young, Mark T",WCWP 100 - Academic Writing (H),WI21,20,10,66.7%,88.9%,3.7,A- (3.88),B+ (3.68)
+111,"Young, Mark T",WCWP 100 - Academic Writing (I),WI21,19,6,100.0%,100.0%,6.1,B+ (3.50),
+112,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (0),WI21,240,107,90.6%,90.4%,5.9,B+ (3.44),B (3.27)
+113,"Gagnon, Jeffrey C",WCWP 10B - The Writing Course B (0),WI21,472,250,85.2%,94.7%,4.99,B+ (3.48),B+ (3.55)
+114,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),FA20,20,19,84.2%,100.0%,7.83,B (3.17),B+ (3.41)
+115,"McCleary, Keith Long",WCWP 100 - Academic Writing (B),FA20,19,18,94.4%,100.0%,5.61,B (3.22),
+116,"McCleary, Keith Long",WCWP 100 - Academic Writing (C),FA20,20,20,85.0%,95.0%,7.4,B+ (3.40),B+ (3.46)
+117,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (D),FA20,19,9,100.0%,100.0%,6.06,A- (3.78),
+118,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (E),FA20,19,11,90.9%,100.0%,6.14,A- (3.73),
+119,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (F),FA20,18,5,100.0%,100.0%,6.1,B+ (3.40),
+120,"Young, Mark T",WCWP 100 - Academic Writing (G),FA20,20,9,77.8%,88.9%,8.06,A- (3.78),B+ (3.45)
+121,"Young, Mark T",WCWP 100 - Academic Writing (H),FA20,20,9,66.7%,88.9%,6.06,B+ (3.56),B+ (3.33)
+122,"Young, Mark T",WCWP 100 - Academic Writing (I),FA20,19,13,92.3%,92.3%,7.12,B+ (3.62),
+123,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (0),FA20,686,420,83.5%,95.2%,5.28,B+ (3.37),B+ (3.40)
+124,"Gagnon, Jeffrey C",WCWP 10B - The Writing Course B (0),FA20,60,17,94.1%,100.0%,6.62,B (3.29),B+ (3.45)
+125,"Zimmerman-Liu, Teresa Jean",WCWP 10A - The Writing Course A (A),S320,12,3,100.0%,100.0%,5.17,A (4.00),
+126,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),S220,11,9,100.0%,100.0%,10.28,B (3.22),
+127,"Gagnon, Jeffrey C",WCWP 100 - Academic Writing (B),S220,14,3,100.0%,100.0%,6.5,B+ (3.67),
+128,"Young, Mark T",WCWP 100 - Academic Writing (C),S220,15,3,66.7%,66.7%,9.17,B+ (3.33),
+129,"Kolodezh, Samuel",WCWP 10B - The Writing Course B (A),S220,13,5,80.0%,100.0%,8.1,A (4.00),
+130,"Iatarola, Briana Marie",WCWP 10B - The Writing Course B (B),S220,14,3,100.0%,100.0%,9.17,B+ (3.67),
+131,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (A),S120,16,10,90.0%,90.0%,9.1,B+ (3.60),
+132,"Young, Mark T",WCWP 100 - Academic Writing (B),S120,14,3,100.0%,100.0%,9.83,B+ (3.33),
+133,"McCleary, Keith Long",WCWP 100 - Academic Writing (C),S120,11,10,80.0%,100.0%,11.1,B+ (3.40),
+134,"Jones, Aundrey Maurice",WCWP 10B - The Writing Course B (B),S120,16,4,50.0%,50.0%,10.0,A- (3.75),
+135,"Tocki, Jasmine Rae",WCWP 10B - The Writing Course B (C),S120,15,3,100.0%,100.0%,3.83,B (3.00),
+136,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),SP20,19,18,88.9%,94.4%,8.06,B (3.21),
+137,"McCleary, Keith Long",WCWP 100 - Academic Writing (B),SP20,19,19,84.2%,94.7%,6.5,B+ (3.50),
+138,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (C),SP20,20,11,100.0%,100.0%,8.86,A- (3.70),A (4.00)
+139,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (D),SP20,20,12,91.7%,100.0%,5.33,B+ (3.43),A (4.00)
+140,"Young, Mark T",WCWP 100 - Academic Writing (E),SP20,17,8,100.0%,100.0%,9.5,B+ (3.67),
+141,"Young, Mark T",WCWP 100 - Academic Writing (F),SP20,18,6,100.0%,100.0%,5.3,B+ (3.67),
+142,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (0),SP20,105,35,82.4%,91.2%,6.74,B (3.18),B+ (3.64)
+143,"Gagnon, Jeffrey C",WCWP 10B - The Writing Course B (0),SP20,616,216,74.3%,91.5%,4.97,B+ (3.50),B+ (3.49)
+144,"Blomstedt, Elizabeth Ann",WCWP 160 - Technical Writing (A),SP20,13,4,100.0%,100.0%,5.5,B+ (3.50),
+145,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),WI20,21,21,81.0%,90.5%,6.12,B+ (3.43),B+ (3.36)
+146,"McCleary, Keith Long",WCWP 100 - Academic Writing (B),WI20,18,17,94.1%,100.0%,7.44,B+ (3.35),
+147,"McCleary, Keith Long",WCWP 100 - Academic Writing (C),WI20,15,13,92.3%,92.3%,8.35,B+ (3.54),
+148,"Young, Mark T",WCWP 100 - Academic Writing (D),WI20,16,4,66.7%,100.0%,7.17,B+ (3.33),
+149,"Young, Mark T",WCWP 100 - Academic Writing (F),WI20,17,8,100.0%,100.0%,7.0,B+ (3.38),
+150,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (G),WI20,19,14,92.3%,100.0%,5.42,B+ (3.46),
+151,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (H),WI20,19,11,70.0%,80.0%,4.7,A- (3.80),
+152,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (I),WI20,20,4,100.0%,100.0%,9.83,B+ (3.33),B+ (3.69)
+153,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (0),WI20,324,183,72.7%,88.5%,4.4,B+ (3.47),B+ (3.32)
+154,"Gagnon, Jeffrey C",WCWP 10B - The Writing Course B (0),WI20,442,279,68.7%,84.4%,4.27,B (3.28),B+ (3.31)
+155,"Blomstedt, Elizabeth Ann",WCWP 160 - Technical Writing (A),WI20,13,7,100.0%,100.0%,4.79,A- (3.71),
+156,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),FA19,18,18,88.9%,100.0%,5.94,B (3.11),
+157,"McCleary, Keith Long",WCWP 100 - Academic Writing (B),FA19,20,20,95.0%,100.0%,8.7,B (3.00),B (3.28)
+158,"McCleary, Keith Long",WCWP 100 - Academic Writing (C),FA19,18,16,93.8%,93.8%,7.5,B (3.25),
+159,"Young, Mark T",WCWP 100 - Academic Writing (D),FA19,19,9,66.7%,88.9%,7.61,B+ (3.33),
+160,"Young, Mark T",WCWP 100 - Academic Writing (E),FA19,18,8,75.0%,87.5%,8.5,B (3.25),
+161,"Young, Mark T",WCWP 100 - Academic Writing (F),FA19,16,9,88.9%,100.0%,5.17,B+ (3.67),
+162,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (G),FA19,19,12,90.9%,100.0%,6.32,A- (3.73),
+163,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (H),FA19,19,14,100.0%,100.0%,5.27,B+ (3.62),
+164,"Twohig, Niall Ivan",WCWP 100 - Academic Writing (I),FA19,18,13,100.0%,100.0%,5.5,A- (3.83),
+165,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (0),FA19,697,398,74.3%,86.9%,4.77,B+ (3.39),B (3.28)
+166,"Gagnon, Jeffrey C",WCWP 10B - The Writing Course B (0),FA19,87,52,81.6%,97.4%,5.7,B (3.15),B (3.10)
+167,"Blomstedt, Elizabeth Ann",WCWP 160 - Technical Writing (A),FA19,14,10,100.0%,100.0%,4.94,A- (3.88),
+168,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),S219,17,15,80.0%,100.0%,14.64,B+ (3.57),
+169,"Gagnon, Jeffrey C",WCWP 100 - Academic Writing (B),S219,16,7,85.7%,100.0%,11.36,B+ (3.50),
+170,"Short, Vincent James",WCWP 10B - The Writing Course B (A),S219,16,14,85.7%,100.0%,9.64,B (3.21),
+171,"Zimmerman-Liu, Teresa Jean",WCWP 10B - The Writing Course B (B),S219,14,13,84.6%,100.0%,8.81,B+ (3.31),
+172,"Kolodezh, Samuel",WCWP 10B - The Writing Course B (C),S219,15,9,77.8%,100.0%,9.61,B+ (3.56),
+173,"Zimmerman-Liu, Teresa Jean",WCWP 100 - Academic Writing (A),S119,17,15,93.3%,100.0%,11.3,B (3.27),
+174,"Kolodezh, Samuel",WCWP 100 - Academic Writing (B),S119,15,10,90.0%,100.0%,7.7,B+ (3.30),
+175,"Young, Mark T",WCWP 100 - Academic Writing (C),S119,8,3,66.7%,66.7%,8.5,C+ (2.67),
+176,"Setoda, Kayleigh Kumiko",WCWP 10B - The Writing Course B (A),S119,17,12,83.3%,100.0%,6.5,B (3.18),
+177,"Tocki, Jasmine Rae",WCWP 10B - The Writing Course B (B),S119,14,12,100.0%,100.0%,6.83,B+ (3.33),
+178,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),SP19,19,18,83.3%,94.4%,8.06,B (3.06),
+179,"Blomstedt, Elizabeth Ann",WCWP 100 - Academic Writing (B),SP19,20,6,100.0%,100.0%,4.5,B+ (3.60),B+ (3.42)
+180,"McCleary, Keith Long",WCWP 100 - Academic Writing (C),SP19,20,19,84.2%,94.4%,8.39,B- (2.95),B (3.17)
+181,"Gagnon, Jeffrey C",WCWP 100 - Academic Writing (D),SP19,19,15,100.0%,100.0%,7.17,B- (2.93),
+182,"Young, Mark T",WCWP 100 - Academic Writing (E),SP19,19,6,83.3%,100.0%,4.5,B (3.00),
+183,"Young, Mark T",WCWP 100 - Academic Writing (F),SP19,20,8,75.0%,87.5%,8.0,B (3.13),B+ (3.34)
+184,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (0),SP19,150,126,76.9%,91.5%,5.21,B (3.11),B (3.21)
+185,"Gagnon, Jeffrey C",WCWP 10B - The Writing Course B (0),SP19,633,337,66.7%,84.9%,4.16,B+ (3.34),B+ (3.36)
+186,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),WI19,18,18,66.7%,88.9%,7.06,B (3.11),
+187,"McCleary, Keith Long",WCWP 100 - Academic Writing (B),WI19,19,18,66.7%,100.0%,7.39,B (3.00),
+188,"McCleary, Keith Long",WCWP 100 - Academic Writing (C),WI19,13,13,92.3%,100.0%,8.04,B- (2.92),
+189,"Blomstedt, Elizabeth Ann",WCWP 100 - Academic Writing (D),WI19,17,9,100.0%,100.0%,5.39,B+ (3.67),
+190,"Young, Mark T",WCWP 100 - Academic Writing (E),WI19,19,11,90.0%,90.0%,10.1,B (3.20),
+191,"Young, Mark T",WCWP 100 - Academic Writing (F),WI19,18,5,80.0%,100.0%,5.7,B (3.20),
+192,"Young, Mark T",WCWP 100 - Academic Writing (G),WI19,19,7,66.7%,83.3%,10.5,B- (2.83),
+193,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (0),WI19,357,264,72.1%,87.3%,4.12,B+ (3.32),B (3.23)
+194,"Gagnon, Jeffrey C",WCWP 10B - The Writing Course B (0),WI19,445,278,64.4%,83.6%,5.05,B+ (3.30),B+ (3.35)
+195,"Blomstedt, Elizabeth Ann",WCWP 100 - Academic Writing (A),FA18,20,16,87.5%,100.0%,5.5,B+ (3.69),B+ (3.31)
+196,"McCleary, Keith Long",WCWP 100 - Academic Writing (B),FA18,18,18,100.0%,100.0%,5.06,B+ (3.44),
+197,"McCleary, Keith Long",WCWP 100 - Academic Writing (C),FA18,19,19,84.2%,94.7%,5.45,B (3.21),
+198,"McCleary, Keith Long",WCWP 100 - Academic Writing (D),FA18,18,18,72.2%,100.0%,8.61,B+ (3.33),
+199,"Young, Mark T",WCWP 100 - Academic Writing (E),FA18,15,7,100.0%,100.0%,7.93,B (3.29),
+200,"Young, Mark T",WCWP 100 - Academic Writing (F),FA18,19,9,77.8%,88.9%,5.61,B+ (3.33),
+201,"Young, Mark T",WCWP 100 - Academic Writing (G),FA18,20,8,71.4%,85.7%,8.79,B (3.29),B (3.19)
+202,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (0),FA18,650,494,75.7%,88.1%,4.57,B+ (3.32),B (3.23)
+203,"Gagnon, Jeffrey C",WCWP 10B - The Writing Course B (0),FA18,55,17,47.1%,76.5%,4.97,B (3.06),B (3.13)
+204,"Pedler, John Christopher",WCWP 100 - Academic Writing (A),S218,15,4,50.0%,100.0%,7.5,B- (2.75),
+205,"Veal, Adam",WCWP 100 - Academic Writing (B),S218,15,13,92.3%,92.3%,7.12,B+ (3.69),
+206,"Gagnon, Jeffrey C",WCWP 10B - The Writing Course B (A),S218,16,6,66.7%,100.0%,10.17,B (3.17),
+207,"Blomstedt, Elizabeth Ann",WCWP 10B - The Writing Course B (B),S218,16,3,100.0%,100.0%,8.5,B+ (3.50),
+208,"Griffin, Stephen Edward",WCWP 100 - Academic Writing (A),S118,14,7,83.3%,100.0%,8.83,B (3.17),
+209,"Pesch, Katrin",WCWP 10B - The Writing Course B (A),S118,16,15,60.0%,100.0%,8.5,B (3.07),
+210,"Ridlen, Timothy Michael",WCWP 10B - The Writing Course B (B),S118,15,14,61.5%,100.0%,8.65,B+ (3.36),
+211,"Blomstedt, Elizabeth Ann",WCWP 100 - Academic Writing (A),SP18,20,20,89.5%,100.0%,7.17,B+ (3.31),B+ (3.31)
+212,"McCleary, Keith Long",WCWP 100 - Academic Writing (B),SP18,20,17,76.5%,100.0%,7.79,B (3.12),B (3.08)
+213,"Young, Mark T",WCWP 100 - Academic Writing (C),SP18,18,6,66.7%,100.0%,3.5,B+ (3.40),
+214,"Young, Mark T",WCWP 100 - Academic Writing (D),SP18,20,5,100.0%,100.0%,5.0,B (3.25),B+ (3.47)
+215,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (0),SP18,78,39,75.8%,87.1%,7.81,B- (2.86),B- (2.95)
+216,"Gagnon, Jeffrey C",WCWP 10B - The Writing Course B (0),SP18,511,372,55.6%,77.8%,5.92,B (3.11),B (3.18)
+217,"Blomstedt, Elizabeth Ann",WCWP 100 - Academic Writing (A),WI18,20,8,100.0%,100.0%,5.36,A- (3.86),B+ (3.59)
+218,"Young, Mark T",WCWP 100 - Academic Writing (B),WI18,20,10,100.0%,100.0%,7.9,B+ (3.30),B+ (3.42)
+219,"Young, Mark T",WCWP 100 - Academic Writing (C),WI18,17,5,100.0%,100.0%,6.1,B+ (3.40),
+220,"McCleary, Keith Long",WCWP 100 - Academic Writing (D),WI18,18,18,100.0%,100.0%,6.94,B (3.28),
+221,"McCleary, Keith Long",WCWP 100 - Academic Writing (E),WI18,18,17,76.5%,100.0%,6.5,B+ (3.41),
+222,"McCleary, Keith Long",WCWP 100 - Academic Writing (F),WI18,20,19,78.9%,100.0%,6.82,B (3.16),B (3.17)
+223,"Young, Mark T",WCWP 100 - Academic Writing (G),WI18,17,9,88.9%,100.0%,5.61,B+ (3.33),
+224,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (0),WI18,227,182,62.3%,78.9%,5.81,B (3.10),B (3.08)
+225,"Gagnon, Jeffrey C",WCWP 10B - The Writing Course B (0),WI18,363,240,57.9%,70.7%,6.55,B (3.10),B (3.07)
+226,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),FA17,19,18,61.1%,94.4%,6.72,B (3.11),
+227,"McCleary, Keith Long",WCWP 100 - Academic Writing (B),FA17,20,18,100.0%,94.4%,8.39,B+ (3.33),B+ (3.44)
+228,"McCleary, Keith Long",WCWP 100 - Academic Writing (C),FA17,18,18,94.4%,100.0%,6.74,B+ (3.33),
+229,"Blomstedt, Elizabeth Ann",WCWP 100 - Academic Writing (D),FA17,20,12,90.9%,100.0%,5.95,B+ (3.55),B+ (3.44)
+230,"Young, Mark T",WCWP 100 - Academic Writing (E),FA17,18,5,80.0%,100.0%,3.3,B+ (3.40),
+231,"Young, Mark T",WCWP 100 - Academic Writing (F),FA17,18,7,71.4%,71.4%,11.93,B+ (3.43),
+232,"Young, Mark T",WCWP 100 - Academic Writing (G),FA17,18,8,87.5%,87.5%,8.5,B (3.13),
+233,"Gagnon, Jeffrey C",WCWP 10A - The Writing Course A (0),FA17,597,509,65.9%,80.0%,5.59,B (3.18),B (3.12)
+234,"Susi, Natalie",WCWP 100 - Academic Writing (A),S217,12,3,66.7%,100.0%,11.83,A (4.00),
+235,"Coulter, Jane Elisabeth",WCWP 10B - The Writing Course B (A),S217,15,3,0.0%,100.0%,14.5,B+ (3.50),
+236,"Veal, Adam",WCWP 100 - Academic Writing (A),S117,15,4,100.0%,100.0%,12.5,B+ (3.67),
+237,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),SP17,16,16,81.3%,93.8%,10.5,B+ (3.44),
+238,"McCleary, Keith Long",WCWP 100 - Academic Writing (B),SP17,17,16,43.8%,100.0%,7.88,B+ (3.38),
+239,"Veal, Adam",WCWP 100 - Academic Writing (C),SP17,20,6,60.0%,100.0%,8.9,A- (3.80),B+ (3.66)
+240,"Young, Mark T",WCWP 100 - Academic Writing (D),SP17,14,7,100.0%,100.0%,7.17,B+ (3.33),
+241,"Roxworthy, Emily",WCWP 10A - The Writing Course A (0),SP17,80,45,70.6%,88.2%,7.0,B (3.00),B (3.03)
+242,"Roxworthy, Emily",WCWP 10B - The Writing Course B (0),SP17,470,218,61.8%,74.2%,6.98,B (3.19),B (3.18)
+243,"Veal, Adam",WCWP 100 - Academic Writing (A),WI17,20,9,87.5%,100.0%,6.25,B (3.25),B+ (3.55)
+244,"Veal, Adam",WCWP 100 - Academic Writing (B),WI17,19,8,71.4%,100.0%,5.07,B+ (3.60),
+245,"Young, Mark T",WCWP 100 - Academic Writing (C),WI17,18,5,80.0%,100.0%,4.5,B+ (3.60),
+246,"Pantoja, Jennifer Metten",WCWP 100 - Academic Writing (D),WI17,19,8,100.0%,100.0%,5.93,A- (3.86),
+247,"Pantoja, Jennifer Metten",WCWP 100 - Academic Writing (E),WI17,19,10,100.0%,100.0%,5.83,A- (3.78),
+248,"McCleary, Keith Long",WCWP 100 - Academic Writing (F),WI17,20,20,90.0%,100.0%,7.03,B (3.10),B+ (3.35)
+249,"McCleary, Keith Long",WCWP 100 - Academic Writing (G),WI17,20,19,89.5%,94.7%,6.71,B (3.21),B+ (3.35)
+250,"McCleary, Keith Long",WCWP 100 - Academic Writing (H),WI17,20,20,85.0%,90.0%,7.4,B+ (3.35),B+ (3.35)
+251,"Roxworthy, Emily",WCWP 10A - The Writing Course A (0),WI17,289,168,66.4%,84.3%,7.48,B (3.19),B (3.07)
+252,"Roxworthy, Emily",WCWP 10B - The Writing Course B (0),WI17,341,154,56.3%,80.5%,7.47,B (3.13),B (3.19)
+253,"McCleary, Keith Long",WCWP 100 - Academic Writing (0),FA16,57,55,65.5%,92.7%,7.77,B (3.24),B (3.27)
+254,"Veal, Adam",WCWP 100 - Academic Writing (0),FA16,39,20,78.9%,94.7%,5.32,A- (3.78),A- (3.73)
+255,"Young, Mark T",WCWP 100 - Academic Writing (0),FA16,17,6,80.0%,100.0%,10.5,B (3.20),
+256,"Roxworthy, Emily",WCWP 10A - The Writing Course A (0),FA16,561,320,66.3%,84.2%,7.76,B (3.04),B (3.16)
+257,"Roxworthy, Emily",WCWP 10B - The Writing Course B (0),FA16,27,15,69.2%,84.6%,9.67,B (3.08),B (3.09)
+258,"Gonzales, Paulina Margarita",WCWP 100 - Academic Writing (A),S116,17,6,50.0%,50.0%,12.5,B (3.00),
+259,"McCleary, Keith Long",WCWP 100 - Academic Writing (A),SP16,14,6,40.0%,80.0%,10.1,A- (3.80),
+260,"McCleary, Keith Long",WCWP 100 - Academic Writing (B),SP16,12,4,75.0%,75.0%,10.0,B (3.25),
+261,"Gocsik, Karen Marie",WCWP 10A - The Writing Course A (0),SP16,80,39,58.8%,64.7%,9.56,B (3.13),C+ (2.69)
+262,"Bauer, Holly Jean",WCWP 10B - The Writing Course B (0),SP16,19,7,71.4%,100.0%,11.93,B+ (3.43),
+263,"Gocsik, Karen Marie",WCWP 10B - The Writing Course B (0),SP16,317,116,61.0%,74.3%,7.02,B (3.16),B (3.06)
+264,"Young, Mark T",WCWP 100 - Academic Writing (A),WI16,14,4,50.0%,100.0%,11.5,B+ (3.50),
+265,"Young, Mark T",WCWP 100 - Academic Writing (B),WI16,17,11,27.3%,63.6%,8.68,B+ (3.36),
+266,"McCleary, Keith Long",WCWP 100 - Academic Writing (C),WI16,13,5,80.0%,100.0%,7.7,B (3.20),
+267,"Young, Mark T",WCWP 100 - Academic Writing (D),WI16,16,9,55.6%,100.0%,7.83,B+ (3.56),
+268,"McCleary, Keith Long",WCWP 100 - Academic Writing (E),WI16,19,11,63.6%,100.0%,10.1,B+ (3.36),
+269,"McCleary, Keith Long",WCWP 100 - Academic Writing (F),WI16,16,9,62.5%,100.0%,9.5,B- (2.75),
+270,"Gocsik, Karen Marie",WCWP 10A - The Writing Course A (0),WI16,194,97,72.4%,89.7%,8.18,B (3.24),B- (2.95)
+271,"Gocsik, Karen Marie",WCWP 10B - The Writing Course B (0),WI16,214,116,68.0%,84.5%,7.16,B (3.20),B (3.07)
+272,"McCleary, Keith Long",WCWP 100 - Academic Writing (0),FA15,49,20,65.0%,100.0%,10.9,B+ (3.35),B (3.15)
+273,"Young, Mark T",WCWP 100 - Academic Writing (0),FA15,56,28,70.4%,92.6%,9.76,B (3.07),B (3.20)
+274,"Gocsik, Karen Marie",WCWP 10A - The Writing Course A (0),FA15,560,302,55.7%,77.9%,8.06,B (3.14),B (3.04)
+275,"Bauer, Holly Jean",WCWP 100 - Academic Writing (A),S215,14,6,50.0%,100.0%,14.5,A- (3.75),
+276,"Gonzales, Paulina Margarita",WCWP 10B - The Writing Course B (A),S215,14,3,100.0%,100.0%,13.5,B (3.00),
+277,"O'Keefe, Amy Merrill",WCWP 10A - The Writing Course A (A),S115,10,3,66.7%,33.3%,14.5,C+ (2.67),
+278,"Coulter, Jane Elisabeth",WCWP 10B - The Writing Course B (A),S115,10,4,100.0%,100.0%,14.0,B+ (3.50),
+279,"McCleary, Keith Long",WCWP 10B - The Writing Course B (B),S115,15,3,66.7%,100.0%,11.17,B+ (3.67),
+280,"Gocsik, Karen Marie",WCWP 10A - The Writing Course A (0),SP15,64,26,78.3%,82.6%,8.59,B+ (3.30),B- (2.94)
+281,"Bauer, Holly Jean",WCWP 10B - The Writing Course B (0),SP15,14,6,66.7%,100.0%,10.83,B+ (3.33),
+282,"Gocsik, Karen Marie",WCWP 10B - The Writing Course B (0),SP15,351,136,78.7%,84.4%,7.35,B (3.28),B (3.20)
+283,"Gocsik, Karen Marie",WCWP 10A - The Writing Course A (0),WI15,133,75,72.6%,93.5%,7.32,B (3.12),B (3.20)
+284,"Gocsik, Karen Marie",WCWP 10B - The Writing Course B (0),WI15,347,171,70.0%,88.8%,7.26,B (3.29),B (3.28)
+285,"Gocsik, Karen Marie",WCWP 10A - The Writing Course A (0),FA14,507,279,70.1%,83.7%,7.05,B (3.24),B (3.19)
+286,"Chandler, Bailee Daniele",WCWP 10B - The Writing Course B (A),S214,16,9,88.9%,88.9%,10.72,B (3.00),
+287,"Coulter, Jane Elisabeth",WCWP 10A - The Writing Course A (A),S114,13,4,75.0%,75.0%,15.5,B (3.25),
+288,"Gonzales, Paulina Margarita",WCWP 10B - The Writing Course B (C),S114,14,5,60.0%,80.0%,18.1,B (3.20),
+289,"Gocsik, Karen Marie",WCWP 10A - The Writing Course A (0),SP14,65,28,67.9%,82.1%,9.27,B (3.15),B- (2.96)
+290,"Bauer, Holly Jean",WCWP 10B - The Writing Course B (0),SP14,21,8,87.5%,100.0%,6.5,B+ (3.38),B+ (3.53)
+291,"Gocsik, Karen Marie",WCWP 10B - The Writing Course B (0),SP14,369,139,66.7%,82.5%,7.14,B (3.17),B (3.23)
+292,"Gocsik, Karen Marie",WCWP 10A - The Writing Course A (0),WI14,190,100,75.6%,90.2%,7.61,B (3.07),B (3.19)
+293,"Gocsik, Karen Marie",WCWP 10B - The Writing Course B (0),WI14,264,143,61.1%,77.0%,7.0,B (3.25),B (3.29)
+294,"Gocsik, Karen Marie",WCWP 10A - The Writing Course A (0),FA13,560,337,70.9%,86.4%,7.57,B (3.16),B (3.27)
+295,"Mayville, Sarah Jo",WCWP 10B - The Writing Course B (A),S213,9,4,75.0%,100.0%,8.5,B (3.25),
+296,"Gonzales, Paulina Margarita",WCWP 10B - The Writing Course B (A),S113,14,4,100.0%,100.0%,11.0,B (3.25),
+297,"Adler, Steven",WCWP 10A - The Writing Course A (0),SP13,78,20,68.4%,89.5%,6.08,B (3.05),B- (2.90)
+298,"Adler, Steven",WCWP 10B - The Writing Course B (0),SP13,305,95,74.7%,86.8%,6.66,B (3.22),B (3.13)
+299,"Adler, Steven",WCWP 10A - The Writing Course A (0),WI13,206,91,71.3%,89.7%,7.1,B (3.17),B (3.09)
+300,"Adler, Steven",WCWP 10B - The Writing Course B (0),WI13,326,143,71.9%,85.2%,6.73,B (3.23),B (3.16)
+301,"Bauer, Holly Jean",WCWP 10B - The Writing Course B (0),WI13,14,5,100.0%,100.0%,6.1,A- (3.75),
+302,"Adler, Steven",WCWP 10A - The Writing Course A (0),FA12,417,194,75.3%,85.5%,6.95,B (3.27),B (3.10)
+303,"Bauer, Holly Jean",WCWP 10A - The Writing Course A (0),FA12,15,9,88.9%,100.0%,7.83,B+ (3.44),
+304,"Adler, Steven",WCWP 10A - The Writing Course A (B),SP12,6,3,66.7%,66.7%,3.17,B+ (3.33),
+305,"Adler, Steven",WCWP 10A - The Writing Course A (C),SP12,13,4,100.0%,100.0%,7.5,B (3.25),
+306,"Adler, Steven",WCWP 10A - The Writing Course A (E),SP12,14,6,80.0%,100.0%,12.5,B (3.00),
+307,"Picciotto, Madeleine",WCWP 10B - The Writing Course B (01),SP12,20,9,66.7%,100.0%,5.39,B+ (3.56),B+ (3.37)
+308,"Picciotto, Madeleine",WCWP 10B - The Writing Course B (02),SP12,20,9,88.9%,100.0%,6.06,B+ (3.67),B+ (3.37)
+309,"Adler, Steven",WCWP 10B - The Writing Course B (03),SP12,15,9,33.3%,66.7%,6.72,B- (2.89),
+310,"Adler, Steven",WCWP 10B - The Writing Course B (04),SP12,15,5,60.0%,100.0%,6.5,B (3.00),
+311,"Adler, Steven",WCWP 10B - The Writing Course B (05),SP12,15,5,100.0%,100.0%,5.3,B+ (3.60),
+312,"Adler, Steven",WCWP 10B - The Writing Course B (06),SP12,12,7,57.1%,85.7%,5.64,B+ (3.33),
+313,"Adler, Steven",WCWP 10B - The Writing Course B (07),SP12,15,5,25.0%,100.0%,8.5,B (3.20),
+314,"Adler, Steven",WCWP 10B - The Writing Course B (08),SP12,14,5,60.0%,100.0%,6.1,B (3.00),
+315,"Adler, Steven",WCWP 10B - The Writing Course B (09),SP12,15,8,87.5%,62.5%,8.79,B (3.00),
+316,"Adler, Steven",WCWP 10B - The Writing Course B (10),SP12,14,4,50.0%,75.0%,8.5,B (3.25),
+317,"Adler, Steven",WCWP 10B - The Writing Course B (11),SP12,14,6,66.7%,66.7%,7.17,B+ (3.33),
+318,"Adler, Steven",WCWP 10B - The Writing Course B (12),SP12,15,3,66.7%,100.0%,7.17,B (3.00),
+319,"Adler, Steven",WCWP 10B - The Writing Course B (13),SP12,14,7,100.0%,100.0%,7.93,B+ (3.43),
+320,"Adler, Steven",WCWP 10B - The Writing Course B (14),SP12,15,10,77.8%,100.0%,7.61,B (3.10),
+321,"Adler, Steven",WCWP 10B - The Writing Course B (15),SP12,13,8,62.5%,87.5%,6.75,B (3.00),
+322,"Adler, Steven",WCWP 10B - The Writing Course B (16),SP12,12,4,100.0%,100.0%,7.0,A- (3.75),
+323,"Adler, Steven",WCWP 10B - The Writing Course B (17),SP12,11,7,71.4%,85.7%,6.21,B+ (3.43),
+324,"Adler, Steven",WCWP 10B - The Writing Course B (18),SP12,15,5,100.0%,100.0%,7.3,B (3.20),
+325,"Adler, Steven",WCWP 10B - The Writing Course B (19),SP12,15,5,100.0%,100.0%,6.5,B (3.00),
+326,"Adler, Steven",WCWP 10B - The Writing Course B (22),SP12,14,6,66.7%,80.0%,8.5,B+ (3.33),
+327,"Adler, Steven",WCWP 10B - The Writing Course B (23),SP12,15,8,75.0%,75.0%,5.75,B (3.25),
+328,"Adler, Steven",WCWP 10B - The Writing Course B (24),SP12,14,5,60.0%,80.0%,6.1,B (3.00),
+329,"Adler, Steven",WCWP 10B - The Writing Course B (25),SP12,15,7,57.1%,100.0%,6.79,B+ (3.43),
+330,"Adler, Steven",WCWP 10B - The Writing Course B (28),SP12,14,6,66.7%,66.7%,3.83,B (3.17),
+331,"Adler, Steven",WCWP 10A - The Writing Course A (01),WI12,193,91,73.3%,82.2%,8.79,B (3.08),B (3.02)
+332,"Bauer, Holly Jean",WCWP 10A - The Writing Course A (09),WI12,14,7,66.7%,83.3%,8.17,B (3.14),
+333,"Picciotto, Madeleine",WCWP 10B - The Writing Course B (01),WI12,40,29,75.9%,100.0%,5.74,B+ (3.41),B (3.29)
+334,"Adler, Steven",WCWP 10B - The Writing Course B (03),WI12,219,113,75.9%,83.6%,6.91,B+ (3.31),B (3.14)
+335,"Adler, Steven",WCWP 10A - The Writing Course A (01),FA11,352,193,75.0%,88.3%,7.89,B (3.14),B (3.12)
+336,"Bauer, Holly Jean",WCWP 10A - The Writing Course A (12),FA11,14,8,62.5%,75.0%,10.75,B+ (3.50),
+337,"Picciotto, Madeleine",WCWP 10B - The Writing Course B (B),FA11,20,13,84.6%,100.0%,5.73,B (3.15),B (3.25)
+338,"Picciotto, Madeleine",WCWP 10B - The Writing Course B (C),FA11,19,10,70.0%,100.0%,6.3,B+ (3.56),
+339,"Pear, Veronica A",WCWP 10B - The Writing Course B (B),S211,12,6,83.3%,100.0%,9.17,B+ (3.33),
+340,"Gonzales, Paulina Margarita",WCWP 10A - The Writing Course A (A),S111,11,7,71.4%,100.0%,10.5,B (3.14),
+341,"Desai, Vidit J",WCWP 10B - The Writing Course B (A),S111,13,9,37.5%,100.0%,12.25,B (3.00),
+342,"Talbot, Jan B",WCWP 10A - The Writing Course A (A),SP11,14,5,80.0%,100.0%,5.7,B+ (3.40),
+343,"Talbot, Jan B",WCWP 10A - The Writing Course A (B),SP11,13,6,66.7%,100.0%,9.5,B+ (3.33),
+344,"Talbot, Jan B",WCWP 10A - The Writing Course A (D),SP11,15,7,100.0%,100.0%,5.36,B- (2.83),
+345,"Talbot, Jan B",WCWP 10A - The Writing Course A (E),SP11,15,11,100.0%,100.0%,6.5,B- (2.91),
+346,"Talbot, Jan B",WCWP 10A - The Writing Course A (F),SP11,13,6,83.3%,100.0%,10.17,B- (2.83),
+347,"Talbot, Jan B",WCWP 10B - The Writing Course B (01),SP11,15,8,50.0%,85.7%,7.0,B (3.00),
+348,"Talbot, Jan B",WCWP 10B - The Writing Course B (02),SP11,14,5,40.0%,80.0%,7.3,B- (2.80),
+349,"Talbot, Jan B",WCWP 10B - The Writing Course B (03),SP11,15,7,71.4%,71.4%,7.93,B (3.00),
+350,"Talbot, Jan B",WCWP 10B - The Writing Course B (04),SP11,15,6,83.3%,83.3%,10.17,B+ (3.33),
+351,"Talbot, Jan B",WCWP 10B - The Writing Course B (05),SP11,13,3,100.0%,66.7%,10.5,B+ (3.33),
+352,"Talbot, Jan B",WCWP 10B - The Writing Course B (06),SP11,14,4,25.0%,50.0%,6.0,B (3.00),
+353,"Talbot, Jan B",WCWP 10B - The Writing Course B (07),SP11,15,7,71.4%,85.7%,8.5,B- (2.71),
+354,"Talbot, Jan B",WCWP 10B - The Writing Course B (08),SP11,15,6,100.0%,100.0%,7.5,B (3.00),
+355,"Talbot, Jan B",WCWP 10B - The Writing Course B (10),SP11,14,7,100.0%,85.7%,7.36,B+ (3.50),
+356,"Talbot, Jan B",WCWP 10B - The Writing Course B (11),SP11,14,8,62.5%,75.0%,6.25,B (3.13),
+357,"Talbot, Jan B",WCWP 10B - The Writing Course B (12),SP11,13,6,40.0%,80.0%,7.83,B (3.17),
+358,"Talbot, Jan B",WCWP 10B - The Writing Course B (13),SP11,15,6,66.7%,33.3%,6.5,B- (2.83),
+359,"Talbot, Jan B",WCWP 10B - The Writing Course B (14),SP11,15,7,66.7%,83.3%,6.17,B (3.14),
+360,"Talbot, Jan B",WCWP 10B - The Writing Course B (18),SP11,15,3,100.0%,100.0%,8.5,B+ (3.33),
+361,"Talbot, Jan B",WCWP 10B - The Writing Course B (19),SP11,15,5,60.0%,100.0%,5.3,B (3.00),
+362,"Talbot, Jan B",WCWP 10B - The Writing Course B (20),SP11,15,10,88.9%,100.0%,8.06,B+ (3.40),
+363,"Talbot, Jan B",WCWP 10B - The Writing Course B (21),SP11,14,8,75.0%,87.5%,7.25,B- (2.86),
+364,"Talbot, Jan B",WCWP 10B - The Writing Course B (22),SP11,15,8,75.0%,100.0%,6.75,B (3.00),
+365,"Talbot, Jan B",WCWP 10B - The Writing Course B (23),SP11,15,6,83.3%,100.0%,7.17,B (3.00),
+366,"Talbot, Jan B",WCWP 10B - The Writing Course B (25),SP11,15,4,100.0%,100.0%,4.5,B (3.00),
+367,"Talbot, Jan B",WCWP 10B - The Writing Course B (27),SP11,15,5,60.0%,40.0%,7.3,B (3.00),
+368,"Talbot, Jan B",WCWP 10A - The Writing Course A (02),WI11,15,9,11.1%,77.8%,8.28,B (3.00),
+369,"Talbot, Jan B",WCWP 10A - The Writing Course A (03),WI11,15,6,33.3%,50.0%,6.17,B (3.17),
+370,"Talbot, Jan B",WCWP 10A - The Writing Course A (04),WI11,15,11,81.8%,90.9%,6.32,B (3.18),
+371,"Talbot, Jan B",WCWP 10A - The Writing Course A (05),WI11,14,5,40.0%,80.0%,8.5,B (3.00),
+372,"Talbot, Jan B",WCWP 10A - The Writing Course A (06),WI11,14,6,50.0%,66.7%,5.83,B (3.00),
+373,"Talbot, Jan B",WCWP 10A - The Writing Course A (07),WI11,15,6,50.0%,100.0%,7.83,B (3.17),
+374,"Talbot, Jan B",WCWP 10A - The Writing Course A (08),WI11,15,8,75.0%,62.5%,7.5,B (3.13),
+375,"Talbot, Jan B",WCWP 10A - The Writing Course A (09),WI11,14,9,44.4%,77.8%,9.17,B (3.00),
+376,"Talbot, Jan B",WCWP 10A - The Writing Course A (11),WI11,14,7,85.7%,85.7%,9.64,B (3.17),
+377,"Talbot, Jan B",WCWP 10A - The Writing Course A (12),WI11,14,8,62.5%,75.0%,6.0,B (3.25),
+378,"Talbot, Jan B",WCWP 10A - The Writing Course A (13),WI11,15,9,88.9%,88.9%,6.28,B (3.11),
+379,"Talbot, Jan B",WCWP 10A - The Writing Course A (14),WI11,15,9,75.0%,100.0%,8.06,B- (2.89),
+380,"Talbot, Jan B",WCWP 10A - The Writing Course A (15),WI11,13,7,66.7%,100.0%,9.17,B+ (3.57),
+381,"Talbot, Jan B",WCWP 10A - The Writing Course A (16),WI11,15,8,87.5%,100.0%,8.5,B- (2.86),
+382,"Talbot, Jan B",WCWP 10A - The Writing Course A (17),WI11,15,8,75.0%,87.5%,6.75,B (3.25),
+383,"Talbot, Jan B",WCWP 10B - The Writing Course B (01),WI11,15,11,90.9%,100.0%,6.32,B (3.27),
+384,"Talbot, Jan B",WCWP 10B - The Writing Course B (02),WI11,15,7,57.1%,71.4%,8.5,B (3.00),
+385,"Picciotto, Madeleine",WCWP 10B - The Writing Course B (03),WI11,21,14,92.9%,100.0%,5.21,B+ (3.36),B (3.28)
+386,"Picciotto, Madeleine",WCWP 10B - The Writing Course B (04),WI11,20,14,92.9%,100.0%,8.64,B+ (3.36),B (3.28)
+387,"Talbot, Jan B",WCWP 10B - The Writing Course B (05),WI11,15,9,88.9%,100.0%,6.5,B- (2.89),
+388,"Talbot, Jan B",WCWP 10B - The Writing Course B (06),WI11,15,8,62.5%,100.0%,7.5,B+ (3.38),
+389,"Talbot, Jan B",WCWP 10B - The Writing Course B (07),WI11,15,8,87.5%,87.5%,6.25,B (3.13),
+390,"Talbot, Jan B",WCWP 10B - The Writing Course B (08),WI11,15,7,57.1%,85.7%,10.79,B (3.17),
+391,"Talbot, Jan B",WCWP 10B - The Writing Course B (09),WI11,13,5,80.0%,100.0%,6.0,B+ (3.40),
+392,"Talbot, Jan B",WCWP 10B - The Writing Course B (10),WI11,15,4,50.0%,100.0%,6.0,B (3.25),
+393,"Talbot, Jan B",WCWP 10B - The Writing Course B (11),WI11,14,5,40.0%,80.0%,9.7,B+ (3.40),
+394,"Talbot, Jan B",WCWP 10B - The Writing Course B (12),WI11,15,10,44.4%,66.7%,9.83,B- (2.88),
+395,"Talbot, Jan B",WCWP 10B - The Writing Course B (13),WI11,15,6,66.7%,83.3%,8.5,B+ (3.33),
+396,"Talbot, Jan B",WCWP 10B - The Writing Course B (14),WI11,15,10,80.0%,100.0%,6.1,B (3.20),
+397,"Talbot, Jan B",WCWP 10B - The Writing Course B (15),WI11,15,13,76.9%,84.6%,8.19,B (3.15),
+398,"Talbot, Jan B",WCWP 10B - The Writing Course B (16),WI11,15,10,70.0%,44.4%,7.3,B (3.20),
+399,"Bauer, Holly Jean",WCWP 10B - The Writing Course B (17),WI11,20,13,76.9%,84.6%,6.04,B (3.23),B+ (3.36)
+400,"Adler, Steven",WCWP 10A - The Writing Course A (1),FA10,15,6,66.7%,83.3%,10.83,B (3.17),
+401,"Adler, Steven",WCWP 10A - The Writing Course A (10),FA10,15,7,57.1%,85.7%,6.5,B- (2.71),
+402,"Bauer, Holly Jean",WCWP 10A - The Writing Course A (11),FA10,15,11,36.4%,90.9%,9.23,B (3.09),
+403,"Adler, Steven",WCWP 10A - The Writing Course A (12),FA10,15,11,63.6%,81.8%,6.32,B- (2.91),
+404,"Adler, Steven",WCWP 10A - The Writing Course A (13),FA10,15,9,88.9%,100.0%,8.5,B (3.00),
+405,"Adler, Steven",WCWP 10A - The Writing Course A (14),FA10,15,10,50.0%,100.0%,7.9,B+ (3.40),
+406,"Adler, Steven",WCWP 10A - The Writing Course A (15),FA10,15,7,57.1%,85.7%,8.79,B (3.00),
+407,"Adler, Steven",WCWP 10A - The Writing Course A (16),FA10,14,8,62.5%,62.5%,9.75,B- (2.88),
+408,"Adler, Steven",WCWP 10A - The Writing Course A (17),FA10,15,9,55.6%,88.9%,6.28,B (3.22),
+409,"Adler, Steven",WCWP 10A - The Writing Course A (18),FA10,15,5,60.0%,80.0%,8.1,B- (2.80),
+410,"Adler, Steven",WCWP 10A - The Writing Course A (19),FA10,14,10,80.0%,100.0%,6.9,B (3.10),
+411,"Adler, Steven",WCWP 10A - The Writing Course A (2),FA10,14,9,77.8%,100.0%,6.28,B (3.22),
+412,"Adler, Steven",WCWP 10A - The Writing Course A (21),FA10,14,10,60.0%,80.0%,8.5,B- (2.90),
+413,"Adler, Steven",WCWP 10A - The Writing Course A (22),FA10,15,10,60.0%,90.0%,9.7,B (3.00),
+414,"Adler, Steven",WCWP 10A - The Writing Course A (24),FA10,15,7,100.0%,100.0%,8.5,B+ (3.43),
+415,"Adler, Steven",WCWP 10A - The Writing Course A (25),FA10,15,10,50.0%,80.0%,10.1,B (3.20),
+416,"Adler, Steven",WCWP 10A - The Writing Course A (28),FA10,14,9,77.8%,100.0%,6.06,C+ (2.67),
+417,"Adler, Steven",WCWP 10A - The Writing Course A (29),FA10,15,10,60.0%,80.0%,8.9,B- (2.70),
+418,"Adler, Steven",WCWP 10A - The Writing Course A (3),FA10,13,8,25.0%,87.5%,9.25,B (3.00),
+419,"Adler, Steven",WCWP 10A - The Writing Course A (31),FA10,15,12,75.0%,91.7%,8.33,B (3.00),
+420,"Adler, Steven",WCWP 10A - The Writing Course A (32),FA10,15,10,70.0%,90.0%,7.7,B (3.20),
+421,"Adler, Steven",WCWP 10A - The Writing Course A (33),FA10,15,7,50.0%,83.3%,8.5,B (3.17),
+422,"Adler, Steven",WCWP 10A - The Writing Course A (4),FA10,15,10,60.0%,20.0%,9.1,B- (2.70),
+423,"Adler, Steven",WCWP 10A - The Writing Course A (5),FA10,15,8,71.4%,100.0%,10.25,B (3.00),
+424,"Adler, Steven",WCWP 10A - The Writing Course A (6),FA10,15,13,76.9%,84.6%,8.04,B (3.15),
+425,"Adler, Steven",WCWP 10A - The Writing Course A (7),FA10,15,7,28.6%,71.4%,8.79,B- (2.71),
+426,"Adler, Steven",WCWP 10A - The Writing Course A (8),FA10,14,10,90.0%,100.0%,8.1,B+ (3.30),
+427,"Adler, Steven",WCWP 10A - The Writing Course A (9),FA10,15,10,60.0%,90.0%,8.7,B+ (3.30),
+428,"Picciotto, Madeleine",WCWP 10B - The Writing Course B (B),FA10,19,12,66.7%,100.0%,7.5,B (3.08),
+429,"Picciotto, Madeleine",WCWP 10B - The Writing Course B (C),FA10,21,12,91.7%,100.0%,7.59,B (3.09),B- (2.83)
+430,"Chapin, Benjamin Nodin",WCWP 10B - The Writing Course B (A),SU10,14,6,66.7%,100.0%,8.17,B+ (3.33),
+431,"Turner, Catherine",WCWP 10B - The Writing Course B (A),SU09,13,4,50.0%,100.0%,11.0,B (3.00),

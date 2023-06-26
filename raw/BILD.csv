@@ -1,0 +1,897 @@
+,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+0,"Patrick, Gentry",BILD 1 - The Cell (A),SP23,134,44,87.8%,78.0%,5.86,B (3.03),B- (2.91)
+1,"Rusert, Jessica Marie",BILD 1 - The Cell (D),SP23,157,102,81.2%,86.0%,5.81,B- (2.93),C+ (2.44)
+2,"Burg, Michael",BILD 2 - Multicellular Life (A),SP23,238,186,96.2%,95.2%,5.39,B (3.23),B- (2.94)
+3,"Park, Ji Young",BILD 2 - Multicellular Life (B),SP23,205,165,96.3%,96.3%,6.1,B+ (3.42),B (3.01)
+4,"Park, Ji Young",BILD 2 - Multicellular Life (C),SP23,245,197,93.9%,93.8%,5.72,B+ (3.43),B- (2.92)
+5,"Pillus, Lorraine",BILD 20 - Human Genetics/Modern Society (A),SP23,121,99,70.8%,84.0%,4.13,B- (2.78),B (3.13)
+6,"Goldrath, Ananda",BILD 28 - Immunology/Vaccines (A),SP23,63,41,75.0%,85.0%,5.09,C+ (2.61),B- (2.92)
+7,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (C),SP23,343,265,87.5%,91.6%,4.77,B+ (3.35),B- (2.89)
+8,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (D),SP23,318,230,88.6%,93.0%,4.77,B+ (3.31),B- (3.00)
+9,"Madigan, Cressida Ariana",BILD 30 - Biol of Plagues:Past & Present (A),SP23,87,73,97.3%,93.2%,3.18,B+ (3.69),B (3.16)
+10,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (A),SP23,93,39,100.0%,100.0%,3.5,B+ (3.61),B+ (3.48)
+11,"Pickett, Brooke Elizabeth",BILD 4 - Introductory Biology Lab (B),SP23,104,82,96.3%,95.1%,2.82,A- (3.85),A- (3.78)
+12,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (C),SP23,99,70,94.1%,97.1%,3.03,B+ (3.70),A- (3.73)
+13,"Mayfield, Stephen P.",BILD 42 - Our Sustainable Future (A),SP23,91,34,97.0%,93.8%,5.95,B (3.21),B- (2.88)
+14,"Mueller, Liam O'Connor",BILD 5 - Data Analysis/Design for Bio (A),SP23,53,34,97.1%,100.0%,4.56,A- (3.71),B+ (3.52)
+15,"Rifkin, Scott","BILD 61 - Biology, Race, and Society (A)",SP23,113,42,75.7%,91.9%,6.24,A- (3.73),B+ (3.41)
+16,"Pogliano, Joseph",BILD 83 - Business Comm for Bio Sci (A),SP23,31,11,100.0%,100.0%,2.32,A- (3.88),A (4.00)
+17,"Saier, Milton H.",BILD 87 - First-year Seminar (A),SP23,18,11,81.8%,81.8%,0.86,A (4.00),
+18,"Saier, Milton H.",BILD 87 - First-year Seminar (B),SP23,11,6,100.0%,100.0%,0.83,A (4.00),
+19,"Smith, Laurie",BILD 87 - First-year Seminar (C),SP23,19,7,100.0%,100.0%,0.79,A (4.00),
+20,"Pickett, Brooke Elizabeth",BILD 1 - The Cell (A),WI23,270,248,90.7%,91.1%,5.73,B (3.22),B- (2.81)
+21,"Owens, Melinda Tsao-Ying",BILD 1 - The Cell (B),WI23,275,223,95.0%,95.9%,5.58,B+ (3.49),B (3.17)
+22,"Owens, Melinda Tsao-Ying",BILD 1 - The Cell (C),WI23,253,215,95.3%,97.7%,5.71,B+ (3.59),B (3.30)
+23,"Madigan, Cressida Ariana",BILD 1 - The Cell (D),WI23,246,187,88.1%,88.1%,5.08,B+ (3.34),B+ (3.69)
+24,"Komiyama, Takaki",BILD 12 - Neurobiology and Behavior (A),WI23,77,34,97.0%,97.0%,3.32,B+ (3.36),B- (2.86)
+25,"Schroeder, Julian I",BILD 2 - Multicellular Life (A),WI23,253,183,96.1%,94.4%,4.64,B+ (3.50),B (3.25)
+26,"Park, Ji Young",BILD 2 - Multicellular Life (B),WI23,208,171,98.2%,98.2%,6.06,B+ (3.59),B (3.27)
+27,"Su, Chih-Ying",BILD 2 - Multicellular Life (C),WI23,20,11,90.9%,90.9%,7.77,B (3.00),B- (2.87)
+28,"Reyes Gonzalez, Catalina",BILD 2 - Multicellular Life (D),WI23,96,80,91.3%,92.4%,5.45,B (3.23),B (3.03)
+29,"Strause, Linda G.",BILD 22 - Human Nutrition (A),WI23,342,172,94.6%,93.9%,3.99,B+ (3.32),B+ (3.44)
+30,"Hammond, LaTisha Marie",BILD 3 - Organismic&Evolutionary Biol (A),WI23,282,121,99.1%,83.9%,3.81,B+ (3.68),B+ (3.60)
+31,"Kurle, Carolyn M.",BILD 3 - Organismic&Evolutionary Biol (A),WI23,282,121,99.1%,100.0%,3.81,B+ (3.68),B+ (3.60)
+32,"Hammond, LaTisha Marie",BILD 3 - Organismic&Evolutionary Biol (B),WI23,312,150,91.2%,88.3%,4.0,B+ (3.55),B (3.26)
+33,"Kohn, Joshua R",BILD 3 - Organismic&Evolutionary Biol (B),WI23,312,150,91.2%,78.6%,4.0,B+ (3.55),B (3.26)
+34,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (C),WI23,367,237,90.1%,88.4%,4.58,B+ (3.30),B (3.28)
+35,"Macagno, Eduardo R.","BILD 38 - Dementia, Science and Society (A)",WI23,63,37,90.9%,91.2%,3.24,A- (3.71),A- (3.73)
+36,"Lo, Stanley M.",BILD 4 - Introductory Biology Lab (A),WI23,130,78,96.0%,100.0%,3.38,A- (3.80),A- (3.74)
+37,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (B),WI23,154,74,94.4%,98.6%,3.03,B+ (3.68),B+ (3.59)
+38,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (C),WI23,130,86,93.0%,92.9%,2.92,A- (3.71),B+ (3.47)
+39,"Pickett, Brooke Elizabeth",BILD 4 - Introductory Biology Lab (D),WI23,177,147,95.9%,90.4%,3.19,A- (3.77),B+ (3.65)
+40,"Cleland, Elsa Eleanor",BILD 46 - Eco: Changing Planet (A),WI23,61,29,96.6%,96.6%,3.12,B+ (3.59),B+ (3.50)
+41,"Mueller, Liam O'Connor",BILD 5 - Data Analysis/Design for Bio (A),WI23,37,27,96.3%,100.0%,4.28,B+ (3.67),B+ (3.34)
+42,"Mel, Stephanie",BILD 60 - DEI in Relation to Human Bio (A),WI23,47,21,100.0%,95.2%,3.07,A- (3.89),A- (3.83)
+43,"Juavinett, Ashley Lauren",BILD 62 - Intro to Python for Biologists (A),WI23,89,43,95.3%,97.7%,5.15,A- (3.78),A- (3.75)
+44,"Pogliano, Joseph",BILD 81 - Job Intern Prep:Interview (A),WI23,30,11,100.0%,100.0%,1.7,A- (3.70),A- (3.87)
+45,"McDonnell, Lisa Marie",BILD 87 - First-year Seminar (A),WI23,19,14,92.9%,100.0%,1.5,A (4.00),
+46,"Meaders, Clara Leigh",BILD 87 - First-year Seminar (A),WI23,19,14,92.9%,100.0%,1.5,A (4.00),
+47,"Pickett, Brooke Elizabeth",BILD 1 - The Cell (A),FA22,238,103,94.0%,94.9%,4.9,B (3.30),C+ (2.53)
+48,"Pekkurnaz Banghart, Gulcin",BILD 1 - The Cell (B),FA22,251,219,92.7%,91.8%,6.08,B (3.15),B+ (3.48)
+49,"Meaders, Clara Leigh",BILD 1 - The Cell (C),FA22,252,168,98.8%,99.4%,5.98,B+ (3.63),B+ (3.59)
+50,"Meaders, Clara Leigh",BILD 1 - The Cell (D),FA22,251,170,97.6%,98.2%,5.75,B+ (3.62),B+ (3.62)
+51,"Cooper, Andrew Michael",BILD 1 - The Cell (E),FA22,212,178,92.7%,89.2%,6.03,B (3.10),B- (2.75)
+52,"Gustafson-Brown, Cindy",BILD 10 - Fundamental Concepts/Modrn Bio (A),FA22,184,139,91.4%,97.8%,4.83,B (3.07),B- (2.81)
+53,"Glasgow, Stacey Marie",BILD 2 - Multicellular Life (A),FA22,39,29,93.1%,89.7%,4.64,B+ (3.54),B (3.29)
+54,"Owens, Melinda Tsao-Ying",BILD 2 - Multicellular Life (B),FA22,178,123,100.0%,94.1%,5.46,A- (3.74),B (3.03)
+55,"Owens, Melinda Tsao-Ying",BILD 2 - Multicellular Life (C),FA22,194,127,96.9%,95.3%,5.17,A- (3.79),B (3.17)
+56,"Rana, Brinda Kanti",BILD 20 - Human Genetics/Modern Society (A),FA22,157,90,87.5%,87.5%,3.66,B+ (3.42),B (3.06)
+57,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (A),FA22,281,194,92.7%,97.9%,4.77,B+ (3.39),B (3.17)
+58,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (B),FA22,285,212,96.2%,98.1%,4.2,B+ (3.37),B (3.12)
+59,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (C),FA22,241,155,87.0%,88.9%,5.06,B (3.20),B (3.10)
+60,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (D),FA22,275,215,85.5%,90.0%,4.9,B- (2.95),B (3.21)
+61,"Burg, Michael",BILD 32 - Intro to Cancer Biology (A),FA22,213,175,95.4%,98.9%,4.47,B (3.13),B- (2.71)
+62,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (A),FA22,382,206,94.9%,98.0%,3.22,B+ (3.56),A- (3.77)
+63,"Lo, Stanley M.",BILD 4 - Introductory Biology Lab (B),FA22,376,285,93.9%,95.7%,3.31,A- (3.72),A- (3.87)
+64,"Reuther, Keefe",BILD 5 - Data Analysis/Design for Bio (A),FA22,49,29,89.7%,96.6%,6.43,B+ (3.44),B+ (3.42)
+65,"Hammond, LaTisha Marie",BILD 60 - DEI in Relation to Human Bio (A),FA22,47,21,95.0%,95.0%,3.5,A- (3.80),B+ (3.68)
+66,"Macagno, Eduardo R.",BILD 60 - DEI in Relation to Human Bio (B),FA22,50,18,61.1%,66.7%,3.28,A- (3.76),A- (3.79)
+67,"Aljadeff, Johnatan",BILD 62 - Intro to Python for Biologists (A),FA22,83,40,59.0%,43.6%,4.91,B+ (3.38),B- (2.71)
+68,"Pogliano, Joseph",BILD 80 - Job Intern Prep:Job App (A),FA22,42,10,100.0%,90.0%,2.3,A- (3.88),A- (3.83)
+69,"Pogliano, Joseph",BILD 84R - Career Exploration in Bio Sci (A),FA22,64,30,96.6%,100.0%,1.74,A- (3.96),A- (3.91)
+70,"Bascom Jr., Carlisle S",BILD 1 - The Cell (A),S222,62,56,96.4%,92.7%,7.05,B+ (3.50),B+ (3.31)
+71,"Rana, Brinda Kanti",BILD 20 - Human Genetics/Modern Society (A),S222,53,31,96.7%,100.0%,4.63,B (3.27),B+ (3.30)
+72,"Gustafson-Brown, Cindy",BILD 30 - Biol of Plagues:Past & Present (A),S222,10,7,100.0%,100.0%,7.36,B+ (3.50),
+73,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (A),S222,45,26,100.0%,92.0%,3.86,B+ (3.69),A- (3.71)
+74,"Cooper, Andrew Michael",BILD 1 - The Cell (A),S122,45,39,76.9%,79.5%,6.82,B (3.09),B- (2.86)
+75,"Lee, Donghyung",BILD 12 - Neurobiology and Behavior (A),S122,11,9,100.0%,100.0%,4.5,A- (3.71),
+76,"Lebeaupin, Cynthia D",BILD 2 - Multicellular Life (A),S122,172,111,100.0%,99.1%,6.34,A- (3.77),A- (3.78)
+77,"Rana, Brinda Kanti",BILD 20 - Human Genetics/Modern Society (A),S122,11,8,100.0%,100.0%,5.5,B+ (3.43),
+78,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (A),S122,217,127,88.9%,88.9%,6.53,B+ (3.54),B+ (3.39)
+79,"Spencer, Tara Clare Jewel",BILD 30 - Biol of Plagues:Past & Present (A),S122,11,4,66.7%,100.0%,5.83,B+ (3.50),
+80,"Cooper, Andrew Michael",BILD 1 - The Cell (A),SP22,188,160,85.6%,84.9%,5.15,B (3.23),B (3.15)
+81,"Meaders, Clara Leigh",BILD 1 - The Cell (B),SP22,186,137,96.2%,99.2%,5.67,B+ (3.62),B+ (3.38)
+82,"Rusert, Jessica Marie",BILD 1 - The Cell (C),SP22,89,66,92.4%,87.7%,4.83,B (3.02),B- (2.74)
+83,"Rusert, Jessica Marie",BILD 1 - The Cell (D),SP22,107,75,94.5%,91.8%,5.77,B+ (3.38),B- (2.94)
+84,"Alfonso, Stephanie Isabel",BILD 1 - The Cell (E),SP22,59,17,70.6%,47.1%,5.79,B (3.19),C+ (2.46)
+85,"Owens, Melinda Tsao-Ying",BILD 2 - Multicellular Life (A),SP22,189,151,98.7%,99.3%,5.94,B+ (3.62),B (3.09)
+86,"Park, Ji Young",BILD 2 - Multicellular Life (B),SP22,156,105,98.1%,97.1%,5.55,B+ (3.55),B (3.04)
+87,"Park, Ji Young",BILD 2 - Multicellular Life (C),SP22,153,113,93.7%,99.1%,5.43,B+ (3.61),B (3.23)
+88,"Park, Ji Young",BILD 2 - Multicellular Life (D),SP22,157,118,96.6%,98.3%,5.39,B+ (3.58),B (3.19)
+89,"Goldrath, Ananda",BILD 28 - Immunology/Vaccines (A),SP22,72,27,83.3%,95.8%,4.5,B+ (3.30),B- (2.73)
+90,"Cooper, Kimberly Lynn",BILD 3 - Organismic&Evolutionary Biol (A),SP22,138,97,98.9%,100.0%,4.4,B (3.22),B- (2.89)
+91,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (B),SP22,185,135,94.8%,97.8%,4.66,B+ (3.49),B (3.21)
+92,"Kurle, Carolyn M.",BILD 3 - Organismic&Evolutionary Biol (C),SP22,188,84,98.8%,100.0%,3.81,B+ (3.60),B+ (3.64)
+93,"Hammond, LaTisha Marie",BILD 3 - Organismic&Evolutionary Biol (D),SP22,167,64,90.3%,96.8%,4.34,B+ (3.46),B (3.17)
+94,"Caffrey, Carolee",BILD 3 - Organismic&Evolutionary Biol (E),SP22,83,43,76.7%,76.7%,5.36,B (3.00),C+ (2.38)
+95,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (A),SP22,177,111,91.8%,96.9%,3.49,B+ (3.59),B+ (3.61)
+96,"Pickett, Brooke Elizabeth",BILD 4 - Introductory Biology Lab (B),SP22,187,120,96.7%,93.3%,2.88,A- (3.86),A- (3.79)
+97,"Mueller, Liam O'Connor",BILD 5 - Data Analysis/Design for Bio (A),SP22,27,15,86.7%,93.3%,4.36,A- (3.77),B+ (3.38)
+98,"Rifkin, Scott",BILD 60 - DEI in Relation to Human Bio (A),SP22,44,19,84.2%,100.0%,5.24,B+ (3.69),B (3.29)
+99,"Juavinett, Ashley Lauren",BILD 62 - Intro to Python for Biologists (A),SP22,46,23,95.5%,100.0%,4.86,A- (3.89),A- (3.73)
+100,"Saier, Milton H.",BILD 87 - First-year Seminar (A),SP22,16,7,85.7%,100.0%,0.79,B+ (3.33),
+101,"Saier, Milton H.",BILD 87 - First-year Seminar (B),SP22,16,9,88.9%,88.9%,0.5,A (4.00),
+102,"Hampton, Randolph Y.",BILD 87 - First-year Seminar (C),SP22,15,10,100.0%,100.0%,0.5,,
+103,"Briggs, Steven",BILD 92 - Prof Dev Topics in Biology (A),SP22,13,5,100.0%,100.0%,1.5,,
+104,"Cooper, Andrew Michael",BILD 1 - The Cell (A),WI22,154,127,92.1%,88.7%,6.04,B (3.09),B- (2.87)
+105,"Owens, Melinda Tsao-Ying",BILD 1 - The Cell (B),WI22,190,149,98.6%,99.3%,5.18,A- (3.77),B+ (3.57)
+106,"Owens, Melinda Tsao-Ying",BILD 1 - The Cell (C),WI22,345,286,97.2%,99.6%,5.37,A- (3.74),B+ (3.53)
+107,"Dutton, Rachel Janelle",BILD 1 - The Cell (D),WI22,227,197,96.4%,96.9%,5.01,B+ (3.54),B+ (3.58)
+108,"Cooper, Andrew Michael",BILD 1 - The Cell (E),WI22,156,126,89.6%,88.8%,4.47,B+ (3.31),B (3.07)
+109,"Park, Ji Young",BILD 2 - Multicellular Life (A),WI22,159,132,96.9%,98.5%,5.19,B+ (3.67),B+ (3.42)
+110,"Schroeder, Julian I",BILD 2 - Multicellular Life (B),WI22,159,110,89.1%,88.9%,4.59,B+ (3.34),B+ (3.43)
+111,"Reyes Gonzalez, Catalina",BILD 2 - Multicellular Life (C),WI22,116,87,96.6%,91.9%,5.44,B (3.12),B- (2.85)
+112,"Miller, Steven W.",BILD 2 - Multicellular Life (D),WI22,32,19,94.7%,89.5%,5.66,B (3.11),B- (2.85)
+113,"Strause, Linda G.",BILD 22 - Human Nutrition (A),WI22,389,163,83.5%,89.7%,4.3,B (3.25),B+ (3.50)
+114,"Hammond, LaTisha Marie",BILD 3 - Organismic&Evolutionary Biol (A),WI22,147,75,87.8%,79.7%,4.39,B (3.17),B (3.16)
+115,"Hammond, LaTisha Marie",BILD 3 - Organismic&Evolutionary Biol (B),WI22,155,74,82.6%,79.7%,3.99,B (3.10),B (3.04)
+116,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (C),WI22,249,191,83.6%,86.2%,5.41,B+ (3.32),B (3.24)
+117,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (D),WI22,248,190,86.6%,87.0%,4.81,B+ (3.44),B+ (3.35)
+118,"Caffrey, Carolee",BILD 3 - Organismic&Evolutionary Biol (E),WI22,137,89,79.5%,70.5%,5.62,B (3.15),C+ (2.57)
+119,"Gustafson-Brown, Cindy",BILD 30 - Biol of Plagues:Past & Present (A),WI22,73,47,93.6%,91.5%,4.76,B- (2.80),B- (2.82)
+120,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (A),WI22,187,89,98.9%,98.9%,3.67,A- (3.79),A- (3.71)
+121,"Lo, Stanley M.",BILD 4 - Introductory Biology Lab (B),WI22,181,123,97.5%,98.3%,2.89,A- (3.79),A- (3.80)
+122,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (C),WI22,185,153,93.3%,98.0%,3.1,A- (3.86),A- (3.87)
+123,"Pickett, Brooke Elizabeth",BILD 4 - Introductory Biology Lab (D),WI22,189,163,95.1%,98.8%,3.57,A- (3.79),A- (3.77)
+124,"Reese, Aspen Taylor",BILD 44 - Changing World (A),WI22,33,24,78.3%,87.0%,3.67,B (3.24),B- (2.98)
+125,"Reuther, Keefe",BILD 5 - Data Analysis/Design for Bio (A),WI22,40,27,92.6%,100.0%,5.54,A- (3.83),A- (3.73)
+126,"Mueller, Liam O'Connor",BILD 5 - Data Analysis/Design for Bio (B),WI22,24,10,100.0%,100.0%,4.7,B+ (3.56),B+ (3.32)
+127,"Mel, Stephanie",BILD 60 - DEI in Relation to Human Bio (A),WI22,49,33,93.8%,93.8%,2.69,A- (3.97),A- (3.80)
+128,"Pogliano, Joseph",BILD 81 - Job Intern Prep:Interview (A),WI22,10,4,100.0%,100.0%,2.0,A (4.00),
+129,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),WI22,19,10,80.0%,90.0%,0.5,A (4.00),
+130,"McDonnell, Lisa Marie",BILD 87 - Freshman Seminar (B),WI22,16,12,100.0%,100.0%,0.67,A (4.00),
+131,"Meaders, Clara Leigh",BILD 87 - Freshman Seminar (B),WI22,16,12,100.0%,100.0%,0.67,A (4.00),
+132,"Alfonso, Stephanie Isabel",BILD 1 - The Cell (A),FA21,141,73,63.8%,51.5%,4.5,B (3.14),C+ (2.54)
+133,"Meaders, Clara Leigh",BILD 1 - The Cell (B),FA21,189,132,96.2%,97.7%,6.15,B+ (3.33),B (3.28)
+134,"Meaders, Clara Leigh",BILD 1 - The Cell (C),FA21,191,133,96.9%,98.5%,5.75,B+ (3.51),B+ (3.37)
+135,"Cooper, Andrew Michael",BILD 1 - The Cell (D),FA21,164,141,89.9%,88.4%,5.0,B (3.16),B (3.11)
+136,"Cooper, Andrew Michael",BILD 1 - The Cell (E),FA21,161,146,89.5%,87.4%,5.25,B (3.14),B (3.06)
+137,"Cooper, Andrew Michael",BILD 1 - The Cell (F),FA21,162,146,88.9%,86.7%,4.86,B (3.11),B- (2.96)
+138,"Gustafson-Brown, Cindy",BILD 10 - Fundamental Concepts/Modrn Bio (A),FA21,214,178,76.8%,88.7%,5.61,B (3.02),B- (2.81)
+139,"Owens, Melinda Tsao-Ying",BILD 2 - Multicellular Life (A),FA21,139,110,99.1%,99.1%,5.14,B+ (3.69),B (3.19)
+140,"Glasgow, Stacey Marie",BILD 2 - Multicellular Life (B),FA21,59,37,94.6%,94.4%,5.26,B+ (3.47),B (3.14)
+141,"Park, Ji Young",BILD 2 - Multicellular Life (C),FA21,151,119,94.1%,95.8%,5.58,B+ (3.47),B (3.07)
+142,"Park, Ji Young",BILD 2 - Multicellular Life (D),FA21,126,94,96.8%,96.8%,5.23,B+ (3.59),B (3.12)
+143,"Rana, Brinda Kanti",BILD 20 - Human Genetics/Modern Society (A),FA21,123,92,97.8%,94.4%,3.41,B+ (3.58),B+ (3.64)
+144,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (A),FA21,185,130,96.1%,96.9%,5.02,B+ (3.33),B (3.20)
+145,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (B),FA21,187,145,97.9%,98.6%,5.15,B+ (3.30),B (3.25)
+146,"Caffrey, Carolee",BILD 3 - Organismic&Evolutionary Biol (C),FA21,155,107,90.6%,85.7%,6.54,B (3.21),C+ (2.37)
+147,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (D),FA21,161,128,88.3%,89.8%,4.64,B+ (3.47),B+ (3.55)
+148,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (E),FA21,159,128,88.1%,89.7%,5.18,B+ (3.50),B+ (3.50)
+149,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (F),FA21,163,135,88.7%,91.0%,4.91,B+ (3.45),B+ (3.51)
+150,"Burg, Michael",BILD 32 - Intro to Cancer Biology (A),FA21,153,133,91.7%,96.2%,4.65,B (3.25),B- (2.87)
+151,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (A),FA21,377,250,94.7%,99.2%,3.18,B+ (3.65),A- (3.71)
+152,"Lo, Stanley M.",BILD 4 - Introductory Biology Lab (B),FA21,378,290,95.5%,98.9%,3.17,A- (3.72),A- (3.75)
+153,"Hammond, LaTisha Marie",BILD 60 - DEI in Relation to Human Bio (A),FA21,48,19,88.9%,100.0%,4.5,A- (3.89),A- (3.77)
+154,"Pogliano, Joseph",BILD 70 - Genomics Research Init Lab I (A),FA21,30,20,100.0%,100.0%,2.61,A (4.00),A (4.00)
+155,"Pogliano, Joseph",BILD 80 - Job Intern Prep:Job App (A),FA21,13,9,71.4%,100.0%,3.07,B+ (3.50),
+156,"Briggs, Steven",BILD 83 - Business Comm for Bio Sci (A),FA21,11,3,100.0%,100.0%,1.83,A (4.00),
+157,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),FA21,18,11,100.0%,100.0%,0.68,A (4.00),
+158,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),FA21,18,11,90.0%,90.0%,0.86,A (4.00),
+159,"Briggs, Steven",BILD 92 - Prof Dev Topics in Biology (A),FA21,9,7,100.0%,100.0%,2.21,A- (3.80),
+160,"Alfonso, Stephanie Isabel",BILD 1 - The Cell (A),S221,107,59,67.2%,48.3%,7.45,B- (2.88),C+ (2.51)
+161,"He, Xinyi",BILD 12 - Neurobiology and Behavior (A),S221,32,22,100.0%,95.5%,6.5,B+ (3.57),B (3.21)
+162,"Moeller, Corinne Anne",BILD 2 - Multicellular Life (A),S221,102,73,94.5%,89.0%,8.69,B+ (3.60),A- (3.77)
+163,"Caffrey, Carolee",BILD 3 - Organismic&Evolutionary Biol (A),S221,100,37,81.1%,75.7%,9.64,B+ (3.65),B (3.18)
+164,"Cooper, Andrew Michael",BILD 1 - The Cell (A),S121,32,25,96.0%,100.0%,6.98,B+ (3.36),B- (2.90)
+165,"Butler, Shannon Rhey",BILD 1 - The Cell (B),S121,133,102,96.1%,97.0%,6.4,B+ (3.48),B+ (3.35)
+166,"Naigles, Beverly Marcella",BILD 10 - Fundamental Concepts/Modrn Bio (A),S121,38,30,86.7%,96.3%,7.17,B+ (3.41),B (3.01)
+167,"Lebeaupin, Cynthia D",BILD 2 - Multicellular Life (A),S121,124,47,97.9%,100.0%,6.03,A- (3.91),A- (3.86)
+168,"Tat, John",BILD 2 - Multicellular Life (B),S121,87,74,100.0%,97.3%,5.91,A- (3.79),B+ (3.52)
+169,"Rana, Brinda Kanti",BILD 20 - Human Genetics/Modern Society (A),S121,43,29,100.0%,100.0%,6.43,B+ (3.44),B+ (3.34)
+170,"Caffrey, Carolee",BILD 3 - Organismic&Evolutionary Biol (A),S121,75,54,72.2%,64.8%,8.87,B- (2.94),C+ (2.45)
+171,"Chu, Monica W",BILD 1 - The Cell (A),SP21,173,133,95.5%,96.2%,6.18,B (3.20),B+ (3.45)
+172,"Meaders, Clara Leigh",BILD 1 - The Cell (B),SP21,115,78,100.0%,100.0%,5.12,B+ (3.46),B+ (3.51)
+173,"Rusert, Jessica Marie",BILD 1 - The Cell (C),SP21,106,68,81.8%,81.8%,6.2,B+ (3.33),B- (2.83)
+174,"Rusert, Jessica Marie",BILD 1 - The Cell (D),SP21,101,68,89.6%,88.1%,5.69,B+ (3.44),B- (2.98)
+175,"Cooper, Andrew Michael",BILD 1 - The Cell (E),SP21,76,64,95.3%,92.2%,5.38,B (3.00),B (3.26)
+176,"Burg, Michael",BILD 2 - Multicellular Life (A),SP21,183,144,96.5%,96.5%,5.47,B+ (3.41),B (3.19)
+177,"Park, Ji Young",BILD 2 - Multicellular Life (B),SP21,191,159,95.6%,96.2%,4.93,B+ (3.65),B+ (3.44)
+178,"Owens, Melinda Tsao-Ying",BILD 2 - Multicellular Life (C),SP21,55,44,97.7%,97.7%,6.64,B+ (3.53),B (3.10)
+179,"Owens, Melinda Tsao-Ying",BILD 2 - Multicellular Life (D),SP21,55,46,97.8%,97.8%,5.2,A- (3.72),B (3.16)
+180,"Pillus, Lorraine",BILD 20 - Human Genetics/Modern Society (A),SP21,112,80,82.3%,89.9%,4.96,B- (2.98),B (3.29)
+181,"Caffrey, Carolee",BILD 3 - Organismic&Evolutionary Biol (A),SP21,72,44,86.4%,79.5%,6.09,B+ (3.37),B- (2.81)
+182,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (B),SP21,191,139,95.0%,94.9%,5.02,B+ (3.53),B+ (3.49)
+183,"Kurle, Carolyn M.",BILD 3 - Organismic&Evolutionary Biol (C),SP21,214,98,96.9%,96.9%,4.44,B+ (3.64),A- (3.73)
+184,"Kohn, Joshua R",BILD 3 - Organismic&Evolutionary Biol (D),SP21,20,8,100.0%,100.0%,4.5,B+ (3.60),C+ (2.44)
+185,"Gambel, Jessica Erin",BILD 3 - Organismic&Evolutionary Biol (E),SP21,140,100,94.9%,96.0%,4.5,B+ (3.64),B+ (3.46)
+186,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (A),SP21,186,105,96.0%,99.0%,3.13,A- (3.91),B+ (3.67)
+187,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (B),SP21,186,131,90.8%,100.0%,3.42,A- (3.83),A- (3.75)
+188,"Mayfield, Stephen P.",BILD 42 - Our Sustainable Future (A),SP21,68,25,87.5%,88.0%,4.76,B (3.29),B+ (3.54)
+189,"Reese, Aspen Taylor",BILD 44 - Changing World (A),SP21,18,14,78.6%,92.9%,3.36,A- (3.83),
+190,"Rifkin, Scott",BILD 60 - DEI in Relation to Human Bio (A),SP21,26,16,66.7%,80.0%,6.88,B+ (3.67),B+ (3.69)
+191,"Bier, Ethan",BILD 7 - The Beginning of Life (A),SP21,140,36,88.9%,97.2%,4.39,B+ (3.69),B (3.14)
+192,"Yanofsky, Martin F.",BILD 7 - The Beginning of Life (A),SP21,140,36,88.9%,100.0%,4.39,B+ (3.69),B (3.14)
+193,"Nieh, James Charles",BILD 83 - Business Comm for Bio Sci (A),SP21,16,10,100.0%,100.0%,2.06,A (4.00),
+194,"Lo, Stanley Malvin Ming-Hi",BILD 87 - Freshman Seminar (A),SP21,13,11,90.9%,100.0%,1.23,B (3.00),
+195,"Briggs, Steven",BILD 92 - Prof Dev Topics in Biology (A),SP21,10,4,100.0%,100.0%,1.83,,
+196,"Cooper, Andrew Michael",BILD 1 - The Cell (A),WI21,175,164,86.6%,82.3%,5.65,B (3.10),B (3.26)
+197,"Cooper, Andrew Michael",BILD 1 - The Cell (B),WI21,175,153,81.6%,75.7%,5.55,B (3.02),B (3.16)
+198,"Cooper, Andrew Michael",BILD 1 - The Cell (C),WI21,166,146,80.7%,79.3%,6.13,B (3.11),B (3.11)
+199,"Owens, Melinda Tsao-Ying",BILD 1 - The Cell (D),WI21,180,155,98.7%,99.4%,5.39,A- (3.75),B+ (3.67)
+200,"Owens, Melinda Tsao-Ying",BILD 1 - The Cell (E),WI21,188,161,96.3%,96.9%,5.79,B+ (3.59),B+ (3.50)
+201,"Komiyama, Takaki",BILD 12 - Neurobiology and Behavior (A),WI21,89,36,94.3%,97.1%,3.61,B+ (3.43),B (3.25)
+202,"Su, Chih-Ying",BILD 2 - Multicellular Life (A),WI21,170,125,92.7%,85.5%,5.39,B (3.18),B (3.14)
+203,"Schroeder, Julian I",BILD 2 - Multicellular Life (B),WI21,202,169,95.8%,94.6%,5.21,B+ (3.43),B+ (3.56)
+204,"Park, Ji Young",BILD 2 - Multicellular Life (G),WI21,52,39,100.0%,94.7%,4.81,B+ (3.68),B+ (3.39)
+205,"Park, Ji Young",BILD 2 - Multicellular Life (H),WI21,51,38,100.0%,100.0%,5.82,A- (3.75),B+ (3.40)
+206,"Park, Ji Young",BILD 2 - Multicellular Life (I),WI21,53,45,97.8%,97.8%,5.48,A- (3.78),B+ (3.52)
+207,"Strause, Linda G.",BILD 22 - Human Nutrition (A),WI21,371,157,87.0%,90.1%,4.49,B+ (3.49),B+ (3.55)
+208,"Gambel, Jessica Erin",BILD 3 - Organismic&Evolutionary Biol (A),WI21,176,111,100.0%,97.2%,4.56,B+ (3.63),B+ (3.63)
+209,"Gambel, Jessica Erin",BILD 3 - Organismic&Evolutionary Biol (B),WI21,162,113,100.0%,100.0%,4.32,B+ (3.64),B+ (3.57)
+210,"Gambel, Jessica Erin",BILD 3 - Organismic&Evolutionary Biol (C),WI21,135,87,93.1%,94.3%,5.35,B+ (3.64),B+ (3.51)
+211,"Caffrey, Carolee",BILD 3 - Organismic&Evolutionary Biol (D),WI21,140,99,88.9%,80.8%,6.09,B+ (3.48),B (3.22)
+212,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (P),WI21,179,146,92.3%,93.0%,5.31,B+ (3.56),B+ (3.63)
+213,"Macagno, Eduardo R.","BILD 38 - Dementia, Science and Society (A)",WI21,46,21,94.7%,100.0%,4.0,B+ (3.45),A- (3.81)
+214,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (A),WI21,188,123,95.1%,96.7%,3.39,A- (3.88),A- (3.81)
+215,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (B),WI21,194,155,86.9%,96.1%,3.47,A- (3.78),A- (3.77)
+216,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (C),WI21,196,131,95.4%,99.2%,3.32,A- (3.78),A- (3.83)
+217,"Cleland, Elsa Eleanor",BILD 46 - Eco: Changing Planet (A),WI21,38,18,100.0%,100.0%,3.5,B+ (3.67),B+ (3.57)
+218,"Mel, Stephanie",BILD 60 - DEI in Relation to Human Bio (A),WI21,46,25,100.0%,100.0%,3.33,A- (3.88),A- (3.86)
+219,"Pogliano, Joseph",BILD 81 - Job Intern Prep:Interview (A),WI21,10,4,100.0%,100.0%,3.17,A (4.00),
+220,"Briggs, Steven",BILD 92 - Prof Dev Topics in Biology (A),WI21,14,7,100.0%,100.0%,2.21,,
+221,"Mel, Stephanie",BILD 1 - The Cell (A),FA20,46,19,100.0%,94.7%,4.39,B (3.22),C+ (2.50)
+222,"Mel, Stephanie",BILD 1 - The Cell (B),FA20,49,33,87.9%,93.9%,5.47,B (3.13),B- (2.99)
+223,"Mel, Stephanie",BILD 1 - The Cell (C),FA20,49,23,95.2%,95.0%,4.95,B+ (3.41),B (3.09)
+224,"Pekkurnaz Banghart, Gulcin",BILD 1 - The Cell (D),FA20,49,39,97.4%,100.0%,5.24,B+ (3.68),B+ (3.50)
+225,"Pekkurnaz Banghart, Gulcin",BILD 1 - The Cell (E),FA20,48,44,97.7%,95.5%,5.36,A- (3.78),B+ (3.44)
+226,"Pekkurnaz Banghart, Gulcin",BILD 1 - The Cell (F),FA20,50,41,95.1%,100.0%,3.52,A- (3.77),B+ (3.53)
+227,"Butler, Shannon Rhey",BILD 1 - The Cell (G),FA20,199,156,93.5%,94.2%,5.1,B+ (3.45),B+ (3.33)
+228,"Chu, Monica W",BILD 1 - The Cell (H),FA20,47,34,91.2%,88.2%,4.85,B (3.27),B- (2.77)
+229,"Chu, Monica W",BILD 1 - The Cell (I),FA20,47,43,90.7%,97.7%,4.97,B (3.24),B- (2.97)
+230,"Chu, Monica W",BILD 1 - The Cell (J),FA20,49,37,89.2%,91.9%,5.36,B (3.15),B- (2.71)
+231,"Chu, Monica W",BILD 1 - The Cell (K),FA20,50,35,100.0%,97.1%,4.1,B+ (3.49),B- (2.99)
+232,"Chu, Monica W",BILD 1 - The Cell (L),FA20,42,33,93.9%,93.9%,5.65,B+ (3.33),B- (2.87)
+233,"Chu, Monica W",BILD 1 - The Cell (M),FA20,50,40,92.5%,100.0%,6.15,B+ (3.45),B (3.10)
+234,"Chu, Monica W",BILD 1 - The Cell (N),FA20,49,41,95.1%,92.5%,5.28,B+ (3.50),B (3.23)
+235,"Chu, Monica W",BILD 1 - The Cell (O),FA20,45,34,97.1%,97.1%,6.03,B+ (3.44),B (3.15)
+236,"Chu, Monica W",BILD 1 - The Cell (P),FA20,49,28,92.6%,84.6%,5.69,B+ (3.48),B- (2.95)
+237,"Pirino, Giorgia",BILD 10 - Fundamental Concepts/Modrn Bio (A),FA20,229,180,96.1%,94.4%,4.33,A- (3.72),B+ (3.54)
+238,"Owens, Melinda Tsao-Ying",BILD 2 - Multicellular Life (A),FA20,41,33,100.0%,100.0%,6.26,B+ (3.67),B+ (3.33)
+239,"Owens, Melinda Tsao-Ying",BILD 2 - Multicellular Life (B),FA20,40,32,93.8%,87.5%,6.44,B+ (3.69),B+ (3.60)
+240,"Owens, Melinda Tsao-Ying",BILD 2 - Multicellular Life (C),FA20,40,32,100.0%,100.0%,6.25,B+ (3.63),B+ (3.53)
+241,"Glasgow, Stacey Marie",BILD 2 - Multicellular Life (D),FA20,40,27,96.3%,96.3%,5.46,B+ (3.52),B (3.22)
+242,"Glasgow, Stacey Marie",BILD 2 - Multicellular Life (E),FA20,39,25,96.0%,96.0%,6.5,B+ (3.40),B- (2.99)
+243,"Glasgow, Stacey Marie",BILD 2 - Multicellular Life (F),FA20,40,31,100.0%,96.8%,5.6,B+ (3.45),B- (2.95)
+244,"Park, Ji Young",BILD 2 - Multicellular Life (G),FA20,38,31,100.0%,100.0%,5.02,B+ (3.60),B (3.29)
+245,"Park, Ji Young",BILD 2 - Multicellular Life (H),FA20,41,33,100.0%,97.0%,5.11,B+ (3.61),B (3.18)
+246,"Park, Ji Young",BILD 2 - Multicellular Life (I),FA20,40,28,96.3%,100.0%,5.19,B+ (3.50),B (3.13)
+247,"Kuret, Thomas Joseph",BILD 2 - Multicellular Life (J),FA20,116,91,97.8%,93.3%,6.17,B+ (3.45),B+ (3.31)
+248,"Rana, Brinda Kanti",BILD 20 - Human Genetics/Modern Society (A),FA20,122,106,78.3%,84.0%,4.25,B (3.04),B (3.23)
+249,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (A),FA20,50,31,100.0%,100.0%,5.27,B+ (3.43),B (3.22)
+250,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (B),FA20,49,35,97.1%,97.1%,4.16,A- (3.71),B+ (3.35)
+251,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (C),FA20,49,36,100.0%,100.0%,5.0,B+ (3.63),B+ (3.43)
+252,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (D),FA20,50,35,94.1%,97.1%,4.5,B+ (3.50),B (3.27)
+253,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (E),FA20,48,36,97.2%,100.0%,5.11,B+ (3.63),A- (3.84)
+254,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (F),FA20,48,36,94.3%,97.1%,4.56,B+ (3.54),B+ (3.47)
+255,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (G),FA20,49,37,91.7%,94.4%,4.99,B+ (3.68),A- (3.79)
+256,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (H),FA20,50,42,95.2%,97.6%,5.21,B+ (3.62),A- (3.78)
+257,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (I),FA20,49,40,90.0%,97.5%,4.75,B+ (3.55),A- (3.72)
+258,"Gambel, Jessica Erin",BILD 3 - Organismic&Evolutionary Biol (J),FA20,33,20,95.0%,89.5%,5.2,B+ (3.30),B+ (3.36)
+259,"Gambel, Jessica Erin",BILD 3 - Organismic&Evolutionary Biol (K),FA20,20,13,92.3%,92.3%,5.88,B (3.08),B- (2.97)
+260,"Gambel, Jessica Erin",BILD 3 - Organismic&Evolutionary Biol (L),FA20,19,9,87.5%,100.0%,4.75,B (3.25),
+261,"Caffrey, Carolee",BILD 3 - Organismic&Evolutionary Biol (M),FA20,21,14,100.0%,92.9%,5.07,B+ (3.64),B- (2.80)
+262,"Caffrey, Carolee",BILD 3 - Organismic&Evolutionary Biol (N),FA20,11,8,87.5%,87.5%,4.25,B+ (3.63),
+263,"Caffrey, Carolee",BILD 3 - Organismic&Evolutionary Biol (O),FA20,34,21,89.5%,89.5%,4.39,B+ (3.50),C+ (2.62)
+264,"Caffrey, Carolee",BILD 3 - Organismic&Evolutionary Biol (P),FA20,142,112,87.3%,86.4%,6.14,B+ (3.43),B (3.09)
+265,"Hedrick, Stephen M",BILD 30 - Biol of Plagues:Past & Present (A),FA20,117,95,95.8%,100.0%,4.04,B+ (3.44),B+ (3.43)
+266,"Burg, Michael",BILD 32 - Intro to Cancer Biology (A),FA20,82,67,98.5%,98.5%,4.38,B+ (3.64),B+ (3.59)
+267,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (A),FA20,375,306,95.7%,99.7%,2.7,A- (3.85),A- (3.99)
+268,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (B),FA20,187,146,99.3%,99.3%,2.87,A- (3.83),A- (3.83)
+269,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (C),FA20,189,145,93.8%,98.6%,3.13,A- (3.72),B+ (3.58)
+270,"Macagno, Eduardo R.",BILD 60 - DEI in Relation to Human Bio (A),FA20,41,21,95.0%,95.0%,3.1,A- (3.85),B+ (3.37)
+271,"Pogliano, Joseph",BILD 70 - Genomics Research Init Lab I (A),FA20,28,20,100.0%,100.0%,2.5,A (4.00),A (4.00)
+272,"Briggs, Steven",BILD 92 - Prof Dev Topics in Biology (A),FA20,29,15,92.9%,92.3%,1.21,B+ (3.50),
+273,"Briggs, Steven",BILD 92 - Prof Dev Topics in Biology (B),FA20,34,13,92.3%,92.3%,2.19,A (4.00),
+274,"Smith, Laurie",BILD 96 - Biology: Honors Seminar (B),FA20,30,18,100.0%,94.4%,1.17,A (4.00),
+275,"Smith, Laurie",BILD 96 - Biology: Honors Seminar (C),FA20,29,19,100.0%,100.0%,0.71,A (4.00),
+276,"Pagliuso, Delaney Catherine",BILD 1 - The Cell (A),S220,105,76,94.7%,92.0%,6.77,B+ (3.38),B (3.04)
+277,"Gustafson-Brown, Cindy",BILD 10 - Fundamental Concepts/Modrn Bio (A),S220,43,33,84.8%,87.9%,6.92,B+ (3.31),B (3.11)
+278,"Kuret, Thomas Joseph",BILD 2 - Multicellular Life (A),S220,95,79,92.4%,94.9%,7.99,B+ (3.62),B (3.26)
+279,"Park, Ji Young",BILD 2 - Multicellular Life (B),S220,87,58,96.6%,96.6%,6.64,B+ (3.67),B+ (3.57)
+280,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (A),S220,135,90,88.8%,91.0%,6.79,B+ (3.67),A- (3.73)
+281,"Alfonso, Stephanie Isabel",BILD 1 - The Cell (A),S120,133,44,86.0%,81.0%,6.45,B (3.18),B- (2.75)
+282,"Chun, Lauren Elizabeth",BILD 12 - Neurobiology and Behavior (A),S120,45,14,92.9%,92.9%,5.36,B+ (3.40),B+ (3.45)
+283,"Vijapurkar, Ulka",BILD 2 - Multicellular Life (A),S120,81,29,78.6%,71.4%,8.57,B (3.07),B- (2.88)
+284,"McCulloch, Katherine Anne",BILD 2 - Multicellular Life (B),S120,81,32,96.8%,93.1%,5.53,A- (3.87),A- (3.81)
+285,"Lebeaupin, Cynthia D",BILD 2 - Multicellular Life (C),S120,60,30,100.0%,100.0%,6.57,B+ (3.68),A- (3.76)
+286,"Rana, Brinda Kanti",BILD 20 - Human Genetics/Modern Society (A),S120,43,33,100.0%,100.0%,6.31,B (3.21),B+ (3.51)
+287,"Hsu, Jeremy Lutan",BILD 3 - Organismic&Evolutionary Biol (A),S120,107,49,87.2%,87.2%,6.07,B (3.21),B- (2.82)
+288,"Patrick, Gentry",BILD 1 - The Cell (A),SP20,210,91,88.8%,88.6%,5.36,B (3.24),B+ (3.54)
+289,"Butler, Shannon Rhey",BILD 1 - The Cell (B),SP20,211,169,93.4%,88.6%,5.01,B+ (3.38),B+ (3.46)
+290,"Cooper, Andrew Michael",BILD 1 - The Cell (C),SP20,278,211,86.6%,89.0%,5.95,B (3.09),B+ (3.31)
+291,"Burg, Michael",BILD 2 - Multicellular Life (A),SP20,182,159,96.1%,94.2%,5.53,B+ (3.52),A- (3.74)
+292,"Owens, Melinda Tsao-Ying",BILD 2 - Multicellular Life (B),SP20,259,192,97.4%,94.2%,6.48,B+ (3.65),B+ (3.43)
+293,"Strause, Linda G.",BILD 22 - Human Nutrition (A),SP20,346,152,90.7%,91.9%,3.88,B+ (3.63),A- (3.74)
+294,"Cooper, Kimberly Lynn",BILD 3 - Organismic&Evolutionary Biol (A),SP20,198,130,91.5%,95.4%,5.21,B (3.19),B (3.24)
+295,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (B),SP20,310,210,96.1%,97.1%,4.89,B+ (3.51),B+ (3.63)
+296,"Kurle, Carolyn M.",BILD 3 - Organismic&Evolutionary Biol (C),SP20,315,154,96.7%,99.3%,4.12,B+ (3.64),A- (3.75)
+297,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (A),SP20,187,137,97.1%,100.0%,3.52,A- (3.87),A- (3.82)
+298,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (B),SP20,183,132,93.9%,98.5%,3.7,A- (3.74),A- (3.73)
+299,"Mayfield, Stephen P.",BILD 42 - Our Sustainable Future (A),SP20,44,11,81.8%,81.8%,4.14,A- (3.86),B+ (3.63)
+300,"Rifkin, Scott",BILD 60 - DEI in Relation to Human Bio (A),SP20,34,16,50.0%,62.5%,10.63,A- (3.75),A- (3.79)
+301,"Bier, Ethan",BILD 7 - The Beginning of Life (A),SP20,174,55,92.6%,94.3%,3.39,B+ (3.62),A- (3.73)
+302,"Yanofsky, Martin F.",BILD 7 - The Beginning of Life (A),SP20,174,55,92.6%,98.1%,3.39,B+ (3.62),A- (3.73)
+303,"Briggs, Steven",BILD 92 - Prof Dev Topics in Biology (A),SP20,14,8,87.5%,87.5%,3.0,C+ (2.50),
+304,"Dutton, Rachel Janelle",BILD 1 - The Cell (A),WI20,395,345,98.5%,98.5%,4.43,B+ (3.51),B+ (3.47)
+305,"Owens, Melinda Tsao-Ying",BILD 1 - The Cell (B),WI20,331,261,82.6%,74.0%,5.56,B (3.30),B (3.29)
+306,"Owens, Melinda Tsao-Ying",BILD 1 - The Cell (C),WI20,347,282,88.2%,76.0%,5.37,B+ (3.41),B+ (3.39)
+307,"Gustafson-Brown, Cindy",BILD 10 - Fundamental Concepts/Modrn Bio (A),WI20,245,156,77.3%,80.7%,4.71,B (3.20),B (3.19)
+308,"Su, Chih-Ying",BILD 2 - Multicellular Life (A),WI20,106,68,92.6%,86.8%,6.38,B (3.21),B (3.03)
+309,"Schroeder, Julian I",BILD 2 - Multicellular Life (B),WI20,214,174,89.5%,87.2%,5.14,B+ (3.38),B+ (3.63)
+310,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (A),WI20,311,248,93.5%,90.7%,3.89,B+ (3.33),B+ (3.30)
+311,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (B),WI20,395,309,93.8%,98.3%,4.61,B+ (3.35),B+ (3.53)
+312,"Macagno, Eduardo R.","BILD 38 - Dementia, Science and Society (A)",WI20,57,31,93.3%,90.0%,3.03,B+ (3.54),B+ (3.59)
+313,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (A),WI20,187,100,94.6%,98.9%,2.84,A- (3.70),A- (3.72)
+314,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (B),WI20,191,147,95.1%,97.9%,3.18,A- (3.72),A- (3.79)
+315,"Mel, Stephanie",BILD 60 - DEI in Relation to Human Bio (A),WI20,47,19,82.4%,94.1%,3.09,A- (3.80),A- (3.72)
+316,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),WI20,13,7,100.0%,100.0%,1.07,A (4.00),
+317,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),WI20,14,6,83.3%,83.3%,0.83,A (4.00),
+318,"Mel, Stephanie",BILD 1 - The Cell (A),FA19,154,108,91.6%,93.5%,4.67,B (3.21),C+ (2.44)
+319,"Pekkurnaz Banghart, Gulcin",BILD 1 - The Cell (B),FA19,303,259,92.6%,93.3%,4.76,B+ (3.43),B+ (3.31)
+320,"Cooper, Andrew Michael",BILD 1 - The Cell (C),FA19,376,312,92.6%,94.2%,4.78,B+ (3.31),B- (2.91)
+321,"Glasgow, Stacey Marie",BILD 2 - Multicellular Life (A),FA19,371,320,93.0%,72.0%,6.22,B+ (3.51),B- (2.97)
+322,"Owens, Melinda Tsao-Ying",BILD 2 - Multicellular Life (A),FA19,371,320,93.0%,89.1%,6.22,B+ (3.51),B- (2.97)
+323,"Rana, Brinda Kanti",BILD 20 - Human Genetics/Modern Society (A),FA19,132,115,83.3%,83.2%,3.17,B+ (3.39),B+ (3.49)
+324,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (A),FA19,190,135,89.5%,97.7%,5.73,B (3.13),C+ (2.64)
+325,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (B),FA19,384,283,93.2%,94.6%,4.79,B (3.23),C+ (2.62)
+326,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (C),FA19,376,331,95.4%,97.0%,4.6,B (3.27),B- (2.98)
+327,"Hedrick, Stephen M",BILD 30 - Biol of Plagues:Past & Present (A),FA19,119,69,95.7%,95.5%,3.4,B (3.21),B- (2.98)
+328,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (A),FA19,378,323,95.3%,97.5%,2.76,B+ (3.61),B+ (3.69)
+329,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (B),FA19,191,112,94.4%,99.1%,2.74,B+ (3.54),B+ (3.61)
+330,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (C),FA19,190,143,92.1%,97.1%,3.3,B+ (3.55),A- (3.74)
+331,"Macagno, Eduardo R.",BILD 60 - DEI in Relation to Human Bio (A),FA19,44,23,87.0%,86.4%,3.2,B+ (3.61),A- (3.77)
+332,"Pogliano, Joseph",BILD 70 - Genomics Research Init Lab I (A),FA19,28,20,100.0%,100.0%,2.18,A- (3.89),A- (3.96)
+333,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),FA19,15,8,100.0%,100.0%,0.79,A (4.00),
+334,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),FA19,19,12,80.0%,80.0%,0.7,A (4.00),
+335,"Butler, Madeline",BILD 96 - Biology: Honors Seminar (A),FA19,45,27,88.5%,96.2%,0.81,A (4.00),
+336,"Gustafson-Brown, Cindy",BILD 1 - The Cell (A),S219,96,37,80.0%,80.0%,9.3,B (3.19),B- (2.75)
+337,"Reuther, Keefe",BILD 1 - The Cell (B),S219,59,56,98.2%,100.0%,6.64,B (3.23),B+ (3.39)
+338,"Park, Ji Young",BILD 2 - Multicellular Life (A),S219,104,94,96.7%,87.0%,7.54,B (3.19),B (3.27)
+339,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (A),S219,78,66,90.9%,98.5%,5.35,B+ (3.33),B (3.12)
+340,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (A),S219,48,44,97.6%,100.0%,3.85,A- (3.77),A- (3.75)
+341,"Adomako, Marie Antonia",BILD 1 - The Cell (A),S119,102,89,93.3%,94.3%,6.84,B+ (3.35),B (3.16)
+342,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),S119,20,6,50.0%,50.0%,4.17,B+ (3.50),B- (2.81)
+343,"Rizk, Maryan Girgis Soliman",BILD 2 - Multicellular Life (A),S119,114,52,100.0%,95.9%,5.86,B+ (3.63),B+ (3.55)
+344,"Rana, Brinda Kanti",BILD 20 - Human Genetics/Modern Society (A),S119,9,9,100.0%,100.0%,2.5,A- (3.71),
+345,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (A),S119,81,61,86.9%,88.3%,5.58,B+ (3.36),B (3.20)
+346,"Patrick, Gentry",BILD 1 - The Cell (A),SP19,389,334,88.7%,83.8%,4.93,B (3.10),B (3.01)
+347,"Pekkurnaz Banghart, Gulcin",BILD 1 - The Cell (B),SP19,320,160,79.2%,63.3%,5.13,B (3.23),B+ (3.40)
+348,"Owens, Melinda Tsao-Ying",BILD 1 - The Cell (C),SP19,48,43,93.0%,95.3%,5.62,B+ (3.48),B (3.13)
+349,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),SP19,124,79,54.7%,65.3%,3.11,B- (2.88),B- (2.84)
+350,"Wasserman, Steven A.",BILD 2 - Multicellular Life (A),SP19,196,88,87.1%,83.3%,6.12,B (3.04),B- (2.76)
+351,"Owens, Melinda Tsao-Ying",BILD 2 - Multicellular Life (B),SP19,256,211,93.8%,87.6%,5.18,A- (3.71),B (3.29)
+352,"Cooper, Kimberly Lynn",BILD 3 - Organismic&Evolutionary Biol (A),SP19,247,189,88.8%,95.2%,5.23,B (3.14),B- (2.79)
+353,"Kurle, Carolyn M.",BILD 3 - Organismic&Evolutionary Biol (B),SP19,384,180,95.9%,98.2%,4.27,B+ (3.36),B- (2.87)
+354,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (A),SP19,176,136,90.3%,98.5%,3.0,A- (3.77),A- (3.78)
+355,"Mohan, Swarna",BILD 4 - Introductory Biology Lab (B),SP19,111,70,90.9%,87.7%,2.41,A- (3.76),B+ (3.54)
+356,"Rifkin, Scott",BILD 60 - DEI in Relation to Human Bio (A),SP19,45,19,83.3%,100.0%,4.5,A- (3.75),B+ (3.50)
+357,"Bier, Ethan",BILD 7 - The Beginning of Life (A),SP19,169,54,76.0%,88.0%,3.26,B (3.20),B (3.02)
+358,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),SP19,19,7,100.0%,100.0%,0.5,A (4.00),
+359,"Burg, Michael",BILD 1 - The Cell (A),WI19,394,356,96.6%,97.7%,4.15,B+ (3.43),B (3.14)
+360,"Cooper, Andrew Michael",BILD 1 - The Cell (B),WI19,366,317,93.6%,95.2%,4.87,B+ (3.30),B (3.14)
+361,"Byrne, Kathryne",BILD 1 - The Cell (C),WI19,186,102,72.8%,51.6%,5.79,B- (2.95),B+ (3.33)
+362,"Komiyama, Takaki",BILD 12 - Neurobiology and Behavior (A),WI19,134,57,90.9%,98.1%,3.7,B+ (3.37),B- (2.74)
+363,"Su, Chih-Ying",BILD 2 - Multicellular Life (A),WI19,166,78,86.7%,84.0%,6.37,B (3.13),B- (2.71)
+364,"Owens, Melinda Tsao-Ying",BILD 2 - Multicellular Life (B),WI19,47,44,97.7%,90.9%,6.05,B+ (3.45),B+ (3.35)
+365,"Strause, Linda G.",BILD 22 - Human Nutrition (A),WI19,386,234,96.4%,95.0%,3.13,B+ (3.68),B+ (3.54)
+366,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (A),WI19,379,330,92.9%,98.2%,4.65,B (3.07),B- (2.94)
+367,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (B),WI19,366,253,91.1%,94.7%,5.35,B (3.20),B- (2.70)
+368,"Macagno, Eduardo R.","BILD 38 - Dementia, Science and Society (A)",WI19,43,23,100.0%,95.5%,3.32,B+ (3.58),B+ (3.49)
+369,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (A),WI19,185,141,94.8%,100.0%,3.07,B+ (3.69),B+ (3.63)
+370,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (B),WI19,176,135,90.3%,99.3%,3.05,A- (3.74),A- (3.78)
+371,"Mohan, Swarna",BILD 4 - Introductory Biology Lab (C),WI19,173,130,89.9%,82.9%,3.32,B+ (3.61),B+ (3.55)
+372,"Mel, Stephanie",BILD 60 - DEI in Relation to Human Bio (A),WI19,45,21,100.0%,100.0%,2.98,A- (3.81),A- (3.77)
+373,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),WI19,15,11,100.0%,100.0%,0.68,A (4.00),
+374,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),WI19,16,10,100.0%,88.9%,0.5,A (4.00),
+375,"Mel, Stephanie",BILD 1 - The Cell (A),FA18,275,127,88.5%,89.3%,5.25,B (3.18),C+ (2.35)
+376,"Cooper, Andrew Michael",BILD 1 - The Cell (B),FA18,278,247,91.8%,95.1%,5.13,B (3.22),B- (2.89)
+377,"Byrne, Kathryne",BILD 1 - The Cell (C),FA18,145,75,61.8%,41.8%,5.65,B+ (3.30),B+ (3.31)
+378,"Burg, Michael",BILD 10 - Fundamental Concepts/Modrn Bio (A),FA18,343,296,95.2%,98.3%,3.67,B+ (3.50),B+ (3.40)
+379,"Burg, Michael",BILD 2 - Multicellular Life (A),FA18,399,364,98.9%,97.5%,4.7,B+ (3.53),B+ (3.36)
+380,"Rana, Brinda Kanti",BILD 20 - Human Genetics/Modern Society (A),FA18,113,64,73.0%,73.0%,3.53,B (3.04),B- (2.91)
+381,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (A),FA18,381,289,86.5%,87.5%,5.73,B (3.23),B- (2.80)
+382,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (B),FA18,371,299,88.8%,93.8%,5.38,B (3.19),B- (2.80)
+383,"Broccard Bell, Heather Chr",BILD 3 - Organismic&Evolutionary Biol (C),FA18,116,65,90.3%,92.9%,3.88,B+ (3.49),C+ (2.47)
+384,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (A),FA18,372,325,90.7%,95.0%,3.5,B+ (3.50),B+ (3.69)
+385,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (B),FA18,186,148,96.5%,97.9%,2.83,B+ (3.59),B+ (3.69)
+386,"Macagno, Eduardo R.",BILD 60 - DEI in Relation to Human Bio (A),FA18,41,17,76.5%,64.7%,2.97,A- (3.75),A- (3.79)
+387,"Mohan, Swarna",BILD 70 - Genomics Research Init Lab I (A),FA18,27,20,100.0%,100.0%,1.97,A- (3.84),A (4.00)
+388,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),FA18,19,11,88.9%,100.0%,0.5,A (4.00),
+389,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),FA18,19,11,63.6%,81.8%,0.68,A (4.00),
+390,"Butler, Madeline",BILD 96 - Biology: Honors Seminar (A),FA18,22,21,95.2%,100.0%,0.6,A (4.00),
+391,"Mohan, Swarna",BILD 1 - The Cell (A),S218,37,27,88.5%,88.5%,8.2,B (3.04),C+ (2.44)
+392,"Gustafson-Brown, Cindy",BILD 10 - Fundamental Concepts/Modrn Bio (A),S218,28,24,91.3%,95.7%,7.46,B (3.20),B- (2.86)
+393,"Chu, Monica W",BILD 12 - Neurobiology and Behavior (A),S218,27,9,100.0%,100.0%,5.61,B (3.25),B+ (3.39)
+394,"Vijapurkar, Ulka",BILD 2 - Multicellular Life (A),S218,63,17,93.8%,100.0%,7.75,B+ (3.40),B (3.28)
+395,"Broccard Bell, Heather Chr",BILD 3 - Organismic&Evolutionary Biol (A),S218,65,28,72.0%,88.0%,6.12,B (3.21),C+ (2.69)
+396,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (A),S218,57,23,90.0%,100.0%,4.21,B+ (3.57),A- (3.73)
+397,"Davis, Amanda Gabrielle",BILD 1 - The Cell (A),S118,62,56,94.6%,92.9%,7.61,B+ (3.39),B- (2.89)
+398,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),S118,14,10,90.0%,77.8%,6.5,B (3.00),
+399,"Reuther, Keefe",BILD 2 - Multicellular Life (A),S118,60,52,96.2%,96.2%,7.31,B+ (3.43),B+ (3.42)
+400,"Rana, Brinda Kanti",BILD 20 - Human Genetics/Modern Society (A),S118,30,12,81.8%,90.9%,6.14,B- (2.86),B (3.29)
+401,"Waterton, Joseph Sebastian",BILD 3 - Organismic&Evolutionary Biol (A),S118,72,25,87.5%,91.7%,5.58,B+ (3.30),B- (2.81)
+402,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (A),S118,54,39,97.4%,97.4%,3.66,A- (3.78),A- (3.78)
+403,"Patrick, Gentry",BILD 1 - The Cell (A),SP18,243,128,84.6%,72.4%,5.85,B (3.08),B- (2.92)
+404,"Pekkurnaz Banghart, Gulcin",BILD 1 - The Cell (B),SP18,37,17,93.8%,87.5%,3.75,A- (3.87),B (3.24)
+405,"Chu, Monica W",BILD 1 - The Cell (C),SP18,261,201,94.0%,94.9%,4.84,B+ (3.47),B (3.13)
+406,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),SP18,148,63,91.4%,87.5%,3.22,B+ (3.51),B (3.19)
+407,"Burg, Michael",BILD 2 - Multicellular Life (A),SP18,401,364,98.1%,97.8%,5.08,B+ (3.42),B (3.21)
+408,"Strause, Linda G.",BILD 22 - Human Nutrition (A),SP18,403,227,95.1%,95.9%,3.24,B+ (3.58),B+ (3.57)
+409,"Cooper, Kimberly Lynn",BILD 3 - Organismic&Evolutionary Biol (A),SP18,285,209,90.0%,94.2%,5.23,B (3.02),B- (2.74)
+410,"Kurle, Carolyn M.",BILD 3 - Organismic&Evolutionary Biol (B),SP18,415,204,95.2%,98.9%,4.51,B+ (3.37),B- (2.96)
+411,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (A),SP18,176,126,87.9%,97.6%,3.18,B+ (3.68),B+ (3.52)
+412,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (B),SP18,180,115,94.6%,99.1%,3.5,B+ (3.65),B+ (3.60)
+413,"Mel, Stephanie",BILD 60 - DEI in Relation to Human Bio (A),SP18,48,23,95.2%,100.0%,2.5,A (4.00),A- (3.76)
+414,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),SP18,13,9,87.5%,87.5%,0.75,,
+415,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),SP18,16,5,100.0%,100.0%,0.5,,
+416,"Hampton, Randolph Y.",BILD 87 - Freshman Seminar (C),SP18,18,15,92.9%,100.0%,0.9,A (4.00),
+417,"Chu, Monica W",BILD 1 - The Cell (A),WI18,204,168,97.0%,93.3%,5.01,B+ (3.50),B- (3.00)
+418,"Burg, Michael",BILD 1 - The Cell (B),WI18,384,352,98.3%,98.6%,4.06,B+ (3.54),B (3.30)
+419,"Komiyama, Takaki",BILD 12 - Neurobiology and Behavior (A),WI18,182,101,90.8%,92.9%,4.56,B (3.27),B- (2.80)
+420,"Su, Chih-Ying",BILD 2 - Multicellular Life (A),WI18,78,43,95.1%,85.4%,6.36,B (3.27),C+ (2.66)
+421,"Schroeder, Julian I",BILD 2 - Multicellular Life (B),WI18,320,271,97.4%,88.8%,5.05,B+ (3.39),B (3.17)
+422,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (A),WI18,374,302,94.3%,95.0%,4.67,B (3.28),B- (2.77)
+423,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (B),WI18,384,329,92.9%,98.8%,4.51,B (3.26),B- (2.94)
+424,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (A),WI18,189,129,90.8%,95.8%,3.14,B+ (3.57),B+ (3.43)
+425,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (B),WI18,186,142,87.6%,97.1%,3.69,B+ (3.59),B+ (3.56)
+426,"Macagno, Eduardo R.",BILD 60 - DEI in Relation to Human Bio (A),WI18,48,23,90.9%,90.9%,3.32,A (4.00),B+ (3.63)
+427,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),WI18,17,11,100.0%,100.0%,0.5,,
+428,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),WI18,14,8,75.0%,87.5%,0.5,A (4.00),
+429,"Mel, Stephanie",BILD 1 - The Cell (A),FA17,302,222,96.8%,98.1%,5.15,B+ (3.51),B- (2.80)
+430,"Reuther, Keefe",BILD 1 - The Cell (B),FA17,278,235,96.6%,99.1%,5.03,B+ (3.30),B (3.07)
+431,"Burg, Michael",BILD 10 - Fundamental Concepts/Modrn Bio (A),FA17,272,247,96.7%,96.7%,3.79,B+ (3.52),B+ (3.57)
+432,"Burg, Michael",BILD 2 - Multicellular Life (A),FA17,342,292,98.6%,97.6%,4.95,B+ (3.60),B+ (3.43)
+433,"Fortes, P. A. George",BILD 26 - Human Physiology (A),FA17,174,80,61.0%,50.7%,5.27,B- (2.71),C+ (2.58)
+434,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (A),FA17,407,332,93.3%,95.4%,5.0,B (3.27),B- (2.84)
+435,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (B),FA17,383,314,94.2%,95.8%,5.17,B+ (3.38),B- (2.84)
+436,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (A),FA17,186,174,83.4%,91.1%,3.72,B+ (3.57),B+ (3.58)
+437,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (B),FA17,184,151,81.9%,86.3%,3.81,B+ (3.49),B+ (3.58)
+438,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (C),FA17,184,152,87.2%,96.6%,3.34,B+ (3.40),B+ (3.60)
+439,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),FA17,18,8,100.0%,87.5%,0.5,,
+440,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),FA17,20,11,100.0%,90.0%,0.5,B (3.00),
+441,"Butler, Madeline",BILD 96 - Biology: Honors Seminar (A),FA17,19,14,100.0%,100.0%,0.64,A (4.00),
+442,"Espin Palazon, Raquel",BILD 1 - The Cell (A),S217,69,47,95.7%,95.7%,6.54,B+ (3.31),
+443,"Gustafson-Brown, Cindy",BILD 10 - Fundamental Concepts/Modrn Bio (A),S217,35,28,89.3%,92.6%,6.86,B (3.27),B- (2.94)
+444,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (A),S217,113,88,93.1%,100.0%,6.75,B+ (3.50),B (3.13)
+445,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (A),S217,54,47,85.1%,100.0%,5.8,B+ (3.68),
+446,"Cooper, Andrew Michael",BILD 1 - The Cell (A),S117,59,52,96.2%,96.2%,6.88,B (3.14),B (3.05)
+447,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),S117,26,7,83.3%,80.0%,5.83,A (4.00),B+ (3.67)
+448,"Vijapurkar, Ulka",BILD 2 - Multicellular Life (A),S117,92,25,92.0%,88.0%,8.74,B (3.29),B- (2.85)
+449,"Broccard Bell, Heather Chr",BILD 3 - Organismic&Evolutionary Biol (A),S117,91,74,85.1%,87.8%,6.69,B (3.16),C+ (2.64)
+450,"Reuther, Keefe",BILD 1 - The Cell (A),SP17,340,302,94.0%,91.0%,5.4,B+ (3.36),B- (2.88)
+451,"Patrick, Gentry",BILD 1 - The Cell (B),SP17,141,125,92.0%,87.2%,5.22,B+ (3.31),B- (2.95)
+452,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),SP17,132,65,70.2%,66.7%,3.26,B+ (3.38),B- (2.82)
+453,"Su, Chih-Ying",BILD 2 - Multicellular Life (A),SP17,242,111,90.5%,76.2%,6.94,B (3.08),C+ (2.62)
+454,"Strause, Linda G.",BILD 22 - Human Nutrition (A),SP17,367,194,95.2%,93.6%,3.28,B+ (3.57),B+ (3.38)
+455,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (A),SP17,342,262,89.5%,93.4%,4.64,B (3.24),C+ (2.67)
+456,"Kurle, Carolyn M.",BILD 3 - Organismic&Evolutionary Biol (B),SP17,450,231,92.0%,97.2%,4.6,B+ (3.42),B- (2.88)
+457,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (A),SP17,175,154,62.7%,71.2%,3.9,B+ (3.49),B+ (3.45)
+458,"Bozinovic, Goran",BILD 4 - Introductory Biology Lab (B),SP17,136,64,78.0%,78.0%,3.87,B+ (3.59),B+ (3.62)
+459,"Mel, Stephanie",BILD 60 - DEI in Relation to Human Bio (A),SP17,48,24,91.7%,100.0%,2.83,A- (3.71),A- (3.81)
+460,"Bier, Ethan",BILD 7 - The Beginning of Life (A),SP17,192,60,83.0%,86.8%,3.78,B (3.18),B+ (3.36)
+461,"Yanofsky, Martin F.",BILD 7 - The Beginning of Life (A),SP17,193,60,81.1%,98.1%,3.78,B (3.15),B+ (3.36)
+462,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),SP17,9,4,100.0%,100.0%,7.17,A (4.00),
+463,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),SP17,10,5,100.0%,100.0%,4.5,,
+464,"Hampton, Randolph Y.",BILD 87 - Freshman Seminar (C),SP17,17,10,77.8%,88.9%,1.61,A (4.00),
+465,"Mel, Stephanie",BILD 1 - The Cell (A),WI17,363,205,92.9%,86.9%,5.32,B (3.29),C+ (2.61)
+466,"Dutton, Rachel Janelle",BILD 1 - The Cell (B),WI17,232,193,95.8%,82.8%,4.77,B+ (3.49),B (3.05)
+467,"Komiyama, Takaki",BILD 12 - Neurobiology and Behavior (A),WI17,162,76,91.4%,97.1%,4.41,B (3.17),B- (2.83)
+468,"Leutgeb, Jill K.",BILD 2 - Multicellular Life (A),WI17,204,108,94.1%,64.4%,6.24,B (3.06),B- (2.71)
+469,"Schroeder, Julian I",BILD 2 - Multicellular Life (B),WI17,237,212,95.7%,90.9%,5.31,B+ (3.33),B (3.16)
+470,"Kohn, Joshua R",BILD 3 - Organismic&Evolutionary Biol (A),WI17,365,209,83.5%,76.3%,5.41,B (3.01),C+ (2.70)
+471,"Cooper, Kimberly Lynn",BILD 3 - Organismic&Evolutionary Biol (B),WI17,399,333,91.1%,95.7%,4.98,B (3.27),B- (2.83)
+472,"McDonnell, Lisa Marie",BILD 4 - Introductory Biology Lab (A),WI17,185,136,83.5%,88.7%,3.94,B+ (3.42),B+ (3.65)
+473,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (B),WI17,188,129,84.8%,97.6%,3.22,B+ (3.55),B+ (3.46)
+474,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (C),WI17,186,171,72.5%,94.2%,3.55,B+ (3.38),B+ (3.52)
+475,"Macagno, Eduardo R.",BILD 60 - DEI in Relation to Human Bio (A),WI17,50,22,95.0%,90.0%,3.13,A- (3.89),B+ (3.53)
+476,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),WI17,14,7,83.3%,100.0%,0.5,A (4.00),
+477,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),WI17,18,5,100.0%,100.0%,0.5,,
+478,"Mel, Stephanie",BILD 1 - The Cell (A),FA16,343,275,94.0%,93.7%,5.43,B+ (3.40),B- (2.90)
+479,"Burg, Michael",BILD 1 - The Cell (B),FA16,188,130,92.1%,90.6%,4.17,B+ (3.41),B (3.24)
+480,"Burg, Michael",BILD 10 - Fundamental Concepts/Modrn Bio (A),FA16,339,177,96.4%,97.6%,4.22,B+ (3.66),B+ (3.61)
+481,"Wasserman, Steven A.",BILD 2 - Multicellular Life (A),FA16,195,119,94.0%,96.6%,6.72,B (3.13),C+ (2.65)
+482,"Fortes, P. A. George",BILD 2 - Multicellular Life (B),FA16,121,46,90.9%,56.8%,5.05,B+ (3.48),B- (2.78)
+483,"Fortes, P. A. George",BILD 26 - Human Physiology (A),FA16,111,48,81.4%,65.1%,3.99,B (3.00),C+ (2.65)
+484,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (A),FA16,316,257,91.3%,93.7%,5.65,B (3.22),B- (2.99)
+485,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (B),FA16,320,260,89.3%,95.6%,6.15,B (3.19),B- (2.99)
+486,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (C),FA16,413,355,91.8%,95.2%,4.96,B+ (3.39),B (3.07)
+487,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (A),FA16,182,175,88.4%,92.5%,3.94,B+ (3.51),A- (3.76)
+488,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (B),FA16,139,100,81.1%,97.9%,4.37,A- (3.77),A- (3.73)
+489,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (C),FA16,185,167,89.2%,97.0%,3.43,B+ (3.69),A- (3.76)
+490,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),FA16,21,13,75.0%,66.7%,0.83,A (4.00),
+491,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),FA16,19,11,100.0%,100.0%,1.61,A (4.00),
+492,"Jin, Yishi",BILD 96 - Biology: Honors Seminar (A),FA16,26,15,75.0%,91.7%,0.83,,
+493,"Reuther, Keefe",BILD 10 - Fundamental Concepts/Modrn Bio (A),S216,68,50,96.0%,100.0%,5.9,B+ (3.59),B+ (3.48)
+494,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (A),S216,131,111,90.0%,94.5%,6.63,B+ (3.43),B- (2.89)
+495,"Hicks, Jenna Schug",BILD 1 - The Cell (A),S116,74,60,94.9%,98.3%,5.67,B (3.26),B- (2.87)
+496,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),S116,20,6,100.0%,100.0%,3.7,A- (3.80),B+ (3.58)
+497,"Vijapurkar, Ulka",BILD 2 - Multicellular Life (A),S116,91,32,90.0%,86.7%,7.57,B (3.29),B- (2.98)
+498,"Lewis, Levi Steele",BILD 3 - Organismic&Evolutionary Biol (A),S116,89,28,73.1%,76.9%,7.19,B+ (3.32),B- (2.74)
+499,"McDonnell, Lisa Marie",BILD 4 - Introductory Biology Lab (A),S116,43,16,78.6%,92.9%,4.07,B+ (3.54),B+ (3.46)
+500,"Reuther, Keefe",BILD 1 - The Cell (A),SP16,350,283,98.2%,94.6%,5.14,B+ (3.49),B- (2.84)
+501,"Patrick, Gentry",BILD 1 - The Cell (B),SP16,194,83,87.8%,58.1%,5.04,B (3.20),B- (2.88)
+502,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),SP16,115,51,82.6%,82.6%,3.07,B+ (3.67),B (3.12)
+503,"Su, Chih-Ying",BILD 2 - Multicellular Life (A),SP16,304,150,93.7%,79.0%,5.93,B (3.19),C+ (2.51)
+504,"Strause, Linda G.",BILD 22 - Human Nutrition (A),SP16,348,160,97.3%,94.5%,3.43,B+ (3.68),B+ (3.58)
+505,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (A),SP16,289,208,85.0%,75.2%,4.84,B+ (3.41),B- (2.80)
+506,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (B),SP16,137,108,90.6%,87.7%,5.29,B+ (3.38),B- (2.82)
+507,"Macagno, Eduardo R.","BILD 38 - Dementia, Science and Society (A)",SP16,45,19,94.4%,88.9%,3.06,B+ (3.31),B (3.24)
+508,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (A),SP16,201,157,69.5%,76.8%,3.59,B+ (3.41),B+ (3.34)
+509,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (B),SP16,197,127,84.7%,99.2%,3.06,B+ (3.69),B (3.24)
+510,"Wang, Jean Yin Jen",BILD 40 - Intro to Biomed Research (A),SP16,81,39,100.0%,100.0%,0.68,A (4.00),
+511,"Mel, Stephanie",BILD 60 - Biology and Diversity (A),SP16,50,27,100.0%,100.0%,3.35,A- (3.85),A- (3.71)
+512,"Bier, Ethan",BILD 7 - The Beginning of Life (A),SP16,175,59,73.2%,82.1%,3.42,B+ (3.36),B- (2.82)
+513,"Yanofsky, Martin F.",BILD 7 - The Beginning of Life (A),SP16,186,59,73.2%,89.3%,3.46,B+ (3.36),B- (2.82)
+514,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),SP16,16,6,60.0%,60.0%,0.5,,
+515,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),SP16,12,5,100.0%,100.0%,0.5,A (4.00),
+516,"Mel, Stephanie",BILD 1 - The Cell (A),WI16,402,318,96.2%,94.9%,5.41,B+ (3.50),B (3.03)
+517,"Burg, Michael",BILD 1 - The Cell (B),WI16,97,57,96.4%,87.5%,5.66,B (3.21),B (3.00)
+518,"Leutgeb, Jill K.",BILD 2 - Multicellular Life (A),WI16,293,250,91.1%,74.5%,6.44,B (3.15),B (3.19)
+519,"Schroeder, Julian I",BILD 2 - Multicellular Life (B),WI16,161,138,93.5%,92.0%,5.87,B+ (3.34),B (3.16)
+520,"Fortes, P. A. George",BILD 26 - Human Physiology (A),WI16,131,57,74.5%,43.1%,5.1,B (3.05),C+ (2.65)
+521,"Holway, David A.",BILD 3 - Organismic&Evolutionary Biol (A),WI16,363,191,82.5%,84.7%,5.0,B (3.11),C+ (2.67)
+522,"Wills, Christopher",BILD 3 - Organismic&Evolutionary Biol (B),WI16,337,307,85.2%,82.9%,5.2,B (3.23),B- (2.99)
+523,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (A),WI16,233,199,71.3%,89.2%,2.84,B+ (3.57),B+ (3.32)
+524,"Mel, Stephanie",BILD 4 - Introductory Biology Lab (B),WI16,239,203,85.4%,97.5%,2.99,B+ (3.67),B+ (3.43)
+525,"Collins, Eva-Maria Schoetz",BILD 51 - Q-Bio Lab (A),WI16,25,25,60.0%,88.0%,8.9,B (3.29),A- (3.80)
+526,"Macagno, Eduardo R.",BILD 60 - Biology and Diversity (A),WI16,47,16,93.8%,87.5%,5.0,B+ (3.67),A- (3.72)
+527,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),WI16,15,12,100.0%,100.0%,1.05,A (4.00),
+528,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),WI16,17,11,70.0%,80.0%,0.5,A (4.00),
+529,"Reuther, Keefe",BILD 1 - The Cell (A),FA15,234,189,95.2%,95.2%,5.77,B (3.28),B- (2.97)
+530,"Mel, Stephanie",BILD 1 - The Cell (B),FA15,277,132,98.4%,92.9%,5.51,B+ (3.41),B- (2.85)
+531,"Reinagel, Pam",BILD 12 - Neurobiology and Behavior (A),FA15,101,57,64.2%,52.8%,4.5,B+ (3.35),B+ (3.34)
+532,"Wasserman, Steven A.",BILD 2 - Multicellular Life (A),FA15,207,167,94.0%,92.8%,6.82,B (3.07),B- (2.76)
+533,"Fortes, P. A. George",BILD 2 - Multicellular Life (B),FA15,117,32,93.3%,46.7%,5.1,B+ (3.38),C+ (2.59)
+534,"Kurle, Carolyn M.",BILD 3 - Organismic&Evolutionary Biol (A),FA15,410,232,95.1%,98.7%,4.47,B+ (3.47),B- (2.97)
+535,"Kurle, Carolyn M.",BILD 3 - Organismic&Evolutionary Biol (B),FA15,332,189,97.8%,100.0%,3.97,B+ (3.59),B- (2.97)
+536,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (C),FA15,183,136,87.3%,81.3%,5.21,B+ (3.33),B- (2.97)
+537,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (A),FA15,248,165,82.1%,91.7%,3.15,A- (3.71),
+538,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),FA15,18,11,60.0%,70.0%,1.1,A- (3.75),
+539,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),FA15,20,15,92.9%,92.9%,0.5,A (4.00),
+540,"French, Kathleen Ann",BILD 96 - Biology: Honors Seminar (A),FA15,23,16,64.3%,71.4%,1.36,A (4.00),
+541,"Chu, Monica W",BILD 12 - Neurobiology and Behavior (A),S215,19,18,94.1%,88.2%,7.56,B+ (3.46),
+542,"Perks, Krista Eva",BILD 2 - Multicellular Life (A),S215,102,87,92.9%,64.7%,9.46,B (3.29),B (3.08)
+543,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (A),S215,25,21,100.0%,100.0%,2.4,A- (3.90),B+ (3.33)
+544,"Espin Palazon, Raquel",BILD 1 - The Cell (A),S115,74,36,85.7%,62.9%,10.21,B+ (3.52),B (3.15)
+545,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),S115,31,12,91.7%,91.7%,5.17,A- (3.73),B+ (3.66)
+546,"Wills, Christopher",BILD 3 - Organismic&Evolutionary Biol (A),S115,129,52,80.0%,80.0%,6.73,B (3.12),B- (2.97)
+547,"Gustafson-Brown, Cindy",BILD 36 - AIDS Science and Society (A),S115,10,6,100.0%,100.0%,9.3,B- (2.75),
+548,"Mel, Stephanie",BILD 1 - The Cell (A),SP15,389,154,97.9%,93.8%,5.65,B+ (3.31),C+ (2.60)
+549,"Reuther, Keefe",BILD 1 - The Cell (B),SP15,224,164,93.3%,92.6%,5.82,B (3.10),B- (2.72)
+550,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),SP15,226,98,91.8%,87.1%,2.95,B+ (3.68),B (3.24)
+551,"Leutgeb, Jill K.",BILD 2 - Multicellular Life (A),SP15,246,118,96.3%,73.4%,6.16,B (3.28),B- (2.94)
+552,"Su, Chih-Ying",BILD 2 - Multicellular Life (B),SP15,181,87,90.2%,78.0%,6.38,B (3.25),B (3.05)
+553,"Strause, Linda G.",BILD 22 - Human Nutrition (A),SP15,335,167,96.9%,97.5%,3.49,A- (3.71),B+ (3.31)
+554,"Wills, Christopher",BILD 3 - Organismic&Evolutionary Biol (A),SP15,306,136,85.4%,82.3%,5.01,B (3.21),B- (2.74)
+555,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (B),SP15,381,328,91.5%,95.7%,5.32,B+ (3.37),B- (2.82)
+556,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (A),SP15,24,20,100.0%,100.0%,3.03,A- (3.85),B (3.23)
+557,"Wang, Jean Yin Jen",BILD 40 - Intro to Biomed Research (A),SP15,99,52,98.0%,98.0%,1.1,A (4.00),
+558,"Mel, Stephanie",BILD 60 - Biology and Diversity (A),SP15,57,19,88.2%,94.1%,4.25,A (4.00),
+559,"Bier, Ethan",BILD 7 - The Beginning of Life (A),SP15,173,74,87.1%,98.6%,4.29,B+ (3.33),B (3.17)
+560,"Yanofsky, Martin F.",BILD 7 - The Beginning of Life (A),SP15,173,74,86.8%,100.0%,4.29,B+ (3.35),B (3.17)
+561,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),SP15,12,5,100.0%,100.0%,2.5,A (4.00),
+562,"Halpain, Shelley",BILD 1 - The Cell (A),WI15,283,137,93.9%,73.5%,5.78,B+ (3.47),B+ (3.37)
+563,"Mel, Stephanie",BILD 1 - The Cell (B),WI15,384,195,96.8%,89.8%,5.12,B (3.22),C+ (2.70)
+564,"Komiyama, Takaki",BILD 12 - Neurobiology and Behavior (A),WI15,93,38,94.3%,97.1%,4.1,B+ (3.62),B (3.06)
+565,"Berg, Darwin K.",BILD 2 - Multicellular Life (A),WI15,241,94,90.3%,89.2%,6.15,B+ (3.40),B- (2.84)
+566,"Schroeder, Julian I",BILD 2 - Multicellular Life (B),WI15,133,108,95.3%,96.3%,6.12,B+ (3.31),B (3.19)
+567,"Markow, Therese A.",BILD 20 - Human Genetics/Modern Society (A),WI15,55,39,89.2%,70.3%,3.26,B+ (3.35),B (3.13)
+568,"Fortes, P. A. George",BILD 26 - Human Physiology (A),WI15,116,50,72.3%,51.1%,5.22,B (3.21),C+ (2.64)
+569,"Holway, David A.",BILD 3 - Organismic&Evolutionary Biol (A),WI15,404,180,82.5%,85.4%,5.52,B (3.08),C+ (2.68)
+570,"Cooper, Kimberly Lynn",BILD 3 - Organismic&Evolutionary Biol (B),WI15,349,279,90.6%,90.2%,4.68,B (3.20),C+ (2.70)
+571,"Macagno, Eduardo R.","BILD 38 - Dementia, Science and Society (A)",WI15,37,20,94.7%,94.7%,4.29,B+ (3.33),B+ (3.36)
+572,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (A),WI15,34,17,100.0%,100.0%,3.63,A- (3.75),B+ (3.47)
+573,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),WI15,10,6,100.0%,100.0%,0.5,A (4.00),
+574,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),WI15,16,11,90.0%,100.0%,2.06,,
+575,"Chilukuri, Lakshmi N",BILD 91 - Biol Freshm/Strategies/Success (A),WI15,11,6,100.0%,100.0%,1.17,,
+576,"Wienhausen, Gabriele",BILD 91 - Biol Freshm/Strategies/Success (B),WI15,14,5,80.0%,80.0%,3.3,C (2.00),
+577,"Mel, Stephanie",BILD 1 - The Cell (A),FA14,362,160,95.0%,92.1%,5.61,B+ (3.54),B- (2.71)
+578,"Reuther, Keefe",BILD 1 - The Cell (B),FA14,182,82,92.4%,92.4%,5.44,B+ (3.31),C+ (2.65)
+579,"Wasserman, Steven A.",BILD 2 - Multicellular Life (A),FA14,221,180,94.3%,93.7%,6.84,B (3.10),B- (2.75)
+580,"Fortes, P. A. George",BILD 2 - Multicellular Life (B),FA14,199,66,91.1%,39.3%,5.41,B (3.09),C+ (2.47)
+581,"Kurle, Carolyn M.",BILD 3 - Organismic&Evolutionary Biol (A),FA14,400,205,92.1%,97.0%,4.55,B+ (3.49),B (3.01)
+582,"Kurle, Carolyn M.",BILD 3 - Organismic&Evolutionary Biol (B),FA14,326,185,92.7%,98.7%,4.8,B+ (3.53),B (3.01)
+583,"Lo, Stanley Malvin Ming-Hi",BILD 4 - Introductory Biology Lab (A),FA14,19,13,100.0%,100.0%,4.32,B+ (3.30),
+584,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),FA14,19,12,91.7%,100.0%,2.0,A (4.00),
+585,"French, Kathleen Ann",BILD 96 - Biology: Honors Seminar (A),FA14,23,16,85.7%,100.0%,0.93,A (4.00),
+586,"Todd, Krista L.",BILD 2 - Multicellular Life (A),S214,107,42,85.4%,75.6%,8.35,B (3.10),B (3.27)
+587,"Richmond, Maxi Polihronaki",BILD 3 - Organismic&Evolutionary Biol (A),S214,145,76,93.4%,94.7%,7.53,B (3.16),B- (2.80)
+588,"Reuther, Keefe",BILD 1 - The Cell (A),S114,111,35,97.1%,91.2%,7.21,B+ (3.47),B- (2.72)
+589,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),S114,34,11,80.0%,90.0%,5.5,A- (3.80),B+ (3.52)
+590,"Gustafson-Brown, Cindy",BILD 36 - AIDS Science and Society (A),S114,21,16,93.8%,100.0%,7.38,B (3.25),B (3.05)
+591,"Mel, Stephanie",BILD 1 - The Cell (A),SP14,321,131,94.4%,84.9%,4.53,B (3.26),B- (2.93)
+592,"Ghiara, Jayant",BILD 1 - The Cell (B),SP14,320,157,99.3%,98.0%,5.08,B+ (3.63),B+ (3.52)
+593,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),SP14,261,115,84.2%,79.2%,3.38,A- (3.80),A- (3.72)
+594,"French, Kathleen Ann",BILD 2 - Multicellular Life (A),SP14,120,37,94.1%,55.9%,5.91,B (3.26),B- (2.76)
+595,"Schroeder, Julian I",BILD 2 - Multicellular Life (B),SP14,200,71,89.6%,80.6%,5.93,B (3.27),B (3.16)
+596,"Strause, Linda G.",BILD 22 - Human Nutrition (A),SP14,315,149,95.8%,95.1%,3.62,B+ (3.60),B+ (3.41)
+597,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (A),SP14,378,154,91.7%,95.1%,4.75,B (3.22),B- (2.78)
+598,"Mel, Stephanie","BILD 60 - Race, Ethnicity, Gender in Bio (A)",SP14,20,11,100.0%,100.0%,1.1,,
+599,"Bier, Ethan",BILD 7 - The Beginning of Life (A),SP14,85,27,92.3%,88.5%,4.12,B+ (3.43),B- (2.98)
+600,"Yanofsky, Martin F.",BILD 7 - The Beginning of Life (A),SP14,86,25,92.0%,96.0%,3.94,B+ (3.57),B- (2.98)
+601,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),SP14,15,10,90.0%,100.0%,0.5,A (4.00),
+602,"Woodruff, David S",BILD 87 - Freshman Seminar (B),SP14,20,13,100.0%,100.0%,2.04,,
+603,"Nieh, James Charles",BILD 87 - Freshman Seminar (C),SP14,9,3,100.0%,100.0%,0.5,A (4.00),
+604,"Chilukuri, Lakshmi N",BILD 91 - Biol Freshm/Strategies/Success (A),SP14,13,7,85.7%,100.0%,0.5,,
+605,"Halpain, Shelley",BILD 1 - The Cell (A),WI14,266,125,97.4%,83.8%,5.49,B+ (3.55),B (3.16)
+606,"Golden, Susan S.",BILD 1 - The Cell (B),WI14,340,183,97.1%,85.1%,5.94,B+ (3.32),B- (2.83)
+607,"Traver, David",BILD 10 - Fundamental Concepts/Modrn Bio (A),WI14,281,118,84.1%,82.3%,4.34,B (3.15),B+ (3.34)
+608,"Komiyama, Takaki",BILD 12 - Neurobiology and Behavior (A),WI14,67,27,91.7%,95.8%,3.33,B (3.15),B+ (3.33)
+609,"Leutgeb, Jill K.",BILD 2 - Multicellular Life (A),WI14,380,132,94.2%,77.7%,6.38,B+ (3.39),B (3.04)
+610,"Fortes, P. A. George",BILD 26 - Human Physiology (A),WI14,129,56,71.7%,47.2%,4.89,C+ (2.53),C (2.28)
+611,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (A),WI14,380,212,94.2%,97.1%,4.95,B+ (3.35),B- (2.78)
+612,"Woodruff, David S",BILD 3 - Organismic&Evolutionary Biol (B),WI14,250,145,79.4%,63.2%,6.74,B- (2.95),C+ (2.63)
+613,"Macagno, Eduardo R.","BILD 38 - Dementia, Science and Society (A)",WI14,50,29,82.1%,89.3%,4.21,B+ (3.62),B+ (3.38)
+614,"Woodruff, David S",BILD 87 - Freshman Seminar (A),WI14,21,13,100.0%,100.0%,2.0,B (3.00),
+615,"Nieh, James Charles",BILD 87 - Freshman Seminar (C),WI14,18,14,92.3%,100.0%,1.12,A (4.00),
+616,"Patrick, Gentry",BILD 1 - The Cell (A),FA13,381,162,97.4%,90.8%,5.75,B+ (3.50),B (3.00)
+617,"Reuther, Keefe",BILD 10 - Fundamental Concepts/Modrn Bio (A),FA13,234,114,89.1%,92.7%,4.52,B (3.28),B- (2.89)
+618,"Reinagel, Pam",BILD 12 - Neurobiology and Behavior (A),FA13,79,40,79.5%,79.5%,3.47,B (3.26),B- (2.91)
+619,"Wasserman, Steven A.",BILD 2 - Multicellular Life (A),FA13,182,98,94.6%,95.7%,6.87,B+ (3.31),B- (2.76)
+620,"Fortes, P. A. George",BILD 2 - Multicellular Life (B),FA13,150,61,83.9%,57.1%,6.09,B (3.13),C+ (2.51)
+621,"Kurle, Carolyn M.",BILD 3 - Organismic&Evolutionary Biol (A),FA13,436,245,93.5%,97.4%,5.37,B+ (3.54),B- (2.89)
+622,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (B),FA13,273,145,85.7%,91.4%,5.13,B (3.21),B- (2.76)
+623,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),FA13,19,12,100.0%,100.0%,0.68,,
+624,"French, Kathleen Ann",BILD 96 - Biology: Honors Seminar (A),FA13,32,26,64.0%,80.0%,1.14,A (4.00),
+625,"Reuther, Keefe",BILD 2 - Multicellular Life (A),S213,167,37,93.9%,93.9%,9.25,B+ (3.52),B (3.08)
+626,"Woodruff, David S",BILD 3 - Organismic&Evolutionary Biol (A),S213,128,32,86.2%,79.3%,8.29,B- (2.96),C+ (2.59)
+627,"Pykalainen, Anette",BILD 1 - The Cell (A),S113,130,40,79.5%,66.7%,8.55,B (3.03),C+ (2.56)
+628,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),S113,25,14,85.7%,78.6%,5.21,A (4.00),A- (3.73)
+629,"Gustafson-Brown, Cindy",BILD 36 - AIDS Science and Society (A),S113,18,12,100.0%,91.7%,9.33,B+ (3.40),
+630,"Patrick, Gentry",BILD 1 - The Cell (A),SP13,366,139,92.6%,88.1%,4.83,B (3.28),B- (2.97)
+631,"Rypien, Krystal L",BILD 10 - Fundamental Concepts/Modrn Bio (A),SP13,181,75,90.7%,92.0%,4.34,B (3.26),C+ (2.64)
+632,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),SP13,212,76,93.2%,86.3%,3.33,A- (3.77),B+ (3.65)
+633,"French, Kathleen Ann",BILD 2 - Multicellular Life (A),SP13,225,69,89.6%,65.7%,5.87,B+ (3.32),B- (2.81)
+634,"Strause, Linda G.",BILD 22 - Human Nutrition (A),SP13,373,125,96.8%,96.8%,3.34,B+ (3.60),B+ (3.54)
+635,"Rypien, Krystal L",BILD 3 - Organismic&Evolutionary Biol (A),SP13,373,146,87.3%,87.3%,5.69,B (3.09),C+ (2.59)
+636,"Bier, Ethan",BILD 7 - The Beginning of Life (A),SP13,67,21,71.4%,81.0%,4.69,B+ (3.35),B (3.26)
+637,"Yanofsky, Martin F.",BILD 7 - The Beginning of Life (A),SP13,67,20,80.0%,90.0%,4.7,B+ (3.31),B (3.26)
+638,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),SP13,11,6,83.3%,66.7%,2.17,,
+639,"Woodruff, David S",BILD 87 - Freshman Seminar (B),SP13,19,11,100.0%,100.0%,0.9,A (4.00),
+640,"Holway, David A.",BILD 87 - Freshman Seminar (C),SP13,19,9,100.0%,88.9%,2.94,A (4.00),
+641,"Chilukuri, Lakshmi N",BILD 95 - Undergraduate Workshops (A),SP13,12,3,100.0%,100.0%,1.5,,
+642,"Johnson, Tracy Lanise",BILD 95 - Undergraduate Workshops (A),SP13,12,3,100.0%,100.0%,0.5,,
+643,"Macagno, Eduardo R.",BILD 95 - Undergraduate Workshops (A),SP13,12,3,100.0%,100.0%,1.5,,
+644,"Mel, Stephanie",BILD 95 - Undergraduate Workshops (A),SP13,12,3,100.0%,100.0%,1.5,,
+645,"Wienhausen, Gabriele",BILD 95 - Undergraduate Workshops (B),SP13,7,6,100.0%,100.0%,0.83,A (4.00),
+646,"Halpain, Shelley",BILD 1 - The Cell (A),WI13,277,130,92.1%,72.4%,5.83,B+ (3.45),C+ (2.70)
+647,"Golden, Susan S.",BILD 1 - The Cell (B),WI13,281,131,93.0%,89.1%,6.48,B+ (3.30),C+ (2.70)
+648,"Rypien, Krystal L",BILD 10 - Fundamental Concepts/Modrn Bio (A),WI13,315,204,94.6%,94.6%,4.28,B+ (3.45),B+ (3.33)
+649,"Komiyama, Takaki",BILD 12 - Neurobiology and Behavior (A),WI13,47,21,95.2%,95.2%,3.93,B+ (3.37),B (3.16)
+650,"Wasserman, Steven A.",BILD 2 - Multicellular Life (A),WI13,204,139,94.2%,94.9%,7.22,B (3.23),B- (2.72)
+651,"Fortes, P. A. George",BILD 26 - Human Physiology (A),WI13,137,77,68.9%,54.1%,5.26,B- (2.87),B- (2.90)
+652,"Holway, David A.",BILD 3 - Organismic&Evolutionary Biol (A),WI13,350,172,86.0%,83.6%,5.01,B (3.02),B- (2.71)
+653,"Macagno, Eduardo R.","BILD 38 - Dementia, Science and Society (A)",WI13,48,22,100.0%,95.2%,3.17,B+ (3.50),B+ (3.35)
+654,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),WI13,17,9,88.9%,88.9%,3.25,A (4.00),
+655,"Brown, Willie C.",BILD 87 - Freshman Seminar (B),WI13,12,7,100.0%,100.0%,1.93,,
+656,"Kiger, Amy",BILD 1 - The Cell (A),FA12,364,233,82.7%,86.8%,6.86,B (3.06),C+ (2.49)
+657,"Trujillo, Gloriana V.",BILD 1 - The Cell (A),FA12,364,223,81.7%,57.5%,6.94,B (3.06),C+ (2.49)
+658,"Reinagel, Pam",BILD 12 - Neurobiology and Behavior (A),FA12,75,31,88.9%,77.8%,2.87,B+ (3.70),B+ (3.46)
+659,"Leutgeb, Jill K.",BILD 2 - Multicellular Life (A),FA12,198,87,92.5%,92.5%,6.78,B (3.28),B- (3.00)
+660,"Fortes, P. A. George",BILD 2 - Multicellular Life (B),FA12,130,54,92.0%,66.0%,4.98,B+ (3.34),C+ (2.62)
+661,"Kurle, Carolyn M.",BILD 3 - Organismic&Evolutionary Biol (A),FA12,370,199,92.1%,98.9%,4.69,B+ (3.38),C+ (2.62)
+662,"Kohn, Joshua R",BILD 3 - Organismic&Evolutionary Biol (B),FA12,311,141,75.8%,76.5%,5.31,B- (2.99),C+ (2.70)
+663,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),FA12,15,9,88.9%,100.0%,0.94,,
+664,"French, Kathleen Ann",BILD 96 - Biology: Honors Seminar (A),FA12,35,24,95.0%,95.0%,0.9,A (4.00),
+665,"Reuther, Keefe",BILD 2 - Multicellular Life (A),S212,136,36,100.0%,94.4%,7.33,B+ (3.43),B- (2.88)
+666,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (A),S212,115,27,85.2%,92.3%,9.02,B (3.08),B- (2.82)
+667,"Reuther, Keefe",BILD 1 - The Cell (A),S112,125,41,92.7%,92.7%,9.52,B+ (3.32),C+ (2.54)
+668,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),S112,40,14,92.9%,85.7%,5.36,A- (3.75),B+ (3.57)
+669,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (A),S112,119,39,84.2%,97.4%,6.5,B+ (3.38),B- (2.73)
+670,"Reuther, Keefe",BILD 1 - The Cell (B),SP12,325,147,86.2%,84.8%,5.77,B (3.24),C+ (2.66)
+671,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),SP12,220,87,90.8%,90.7%,3.4,A- (3.88),B+ (3.58)
+672,"French, Kathleen Ann",BILD 2 - Multicellular Life (A),SP12,296,119,89.0%,59.0%,7.63,B (3.17),B- (2.97)
+673,"Strause, Linda G.",BILD 22 - Human Nutrition (A),SP12,361,140,97.8%,95.5%,3.26,A- (3.74),B+ (3.56)
+674,"Markow, Therese A.",BILD 3 - Organismic&Evolutionary Biol (A),SP12,397,207,65.5%,19.2%,5.86,B (3.23),B (3.06)
+675,"Macagno, Eduardo R.","BILD 38 - Dementia, Science and Society (A)",SP12,20,13,84.6%,100.0%,3.58,B+ (3.50),B+ (3.64)
+676,"Rafii, Michael S","BILD 38 - Dementia, Science and Society (A)",SP12,20,10,88.9%,100.0%,3.83,B+ (3.50),B+ (3.64)
+677,"Bier, Ethan",BILD 7 - The Beginning of Life (A),SP12,70,17,62.5%,56.3%,5.0,B+ (3.31),B (3.26)
+678,"Yanofsky, Martin F.",BILD 7 - The Beginning of Life (A),SP12,70,17,62.5%,100.0%,4.1,B+ (3.31),B (3.26)
+679,"Brown, Willie C.",BILD 87 - Freshman Seminar (A),SP12,10,8,100.0%,100.0%,3.25,A (4.00),
+680,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),SP12,8,5,100.0%,100.0%,1.3,,
+681,"Woodruff, David S",BILD 87 - Freshman Seminar (C),SP12,17,13,100.0%,100.0%,2.33,A (4.00),
+682,"Holway, David A.",BILD 87 - Freshman Seminar (D),SP12,17,13,100.0%,100.0%,0.65,A (4.00),
+683,"Wienhausen, Gabriele",BILD 95 - Undergraduate Workshops (A),SP12,10,4,75.0%,100.0%,1.0,,
+684,"Golden, Susan S.",BILD 1 - The Cell (A),WI12,308,141,86.1%,83.2%,7.16,B+ (3.34),C+ (2.62)
+685,"Halpain, Shelley",BILD 1 - The Cell (B),WI12,140,117,94.0%,72.4%,6.82,B (3.09),B- (2.99)
+686,"Traver, David",BILD 10 - Fundamental Concepts/Modrn Bio (A),WI12,380,164,79.8%,80.7%,5.13,B+ (3.35),B+ (3.35)
+687,"Wasserman, Steven A.",BILD 2 - Multicellular Life (A),WI12,291,232,94.4%,98.7%,8.15,B (3.21),C+ (2.67)
+688,"Fortes, P. A. George",BILD 26 - Human Physiology (A),WI12,132,52,72.5%,64.7%,5.08,B- (2.74),C+ (2.66)
+689,"Woodruff, David S",BILD 3 - Organismic&Evolutionary Biol (A),WI12,243,121,79.3%,67.5%,7.26,B- (2.96),C+ (2.63)
+690,"Holway, David A.",BILD 3 - Organismic&Evolutionary Biol (B),WI12,273,128,81.9%,85.8%,6.77,B (3.11),C+ (2.68)
+691,"Merkhofer, Evan Carroll",BILD 36 - AIDS Science and Society (A),WI12,75,46,91.1%,90.9%,5.37,B+ (3.37),B (3.05)
+692,"Macagno, Eduardo R.","BILD 38 - Dementia, Science and Society (A)",WI12,21,12,75.0%,75.0%,3.5,A (4.00),B+ (3.51)
+693,"Woodruff, David S",BILD 87 - Freshman Seminar (A),WI12,15,12,91.7%,100.0%,1.0,,
+694,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),WI12,9,5,80.0%,100.0%,1.0,A (4.00),
+695,"Beck, Kevin Douglas",BILD 95 - Undergraduate Workshops (A),WI12,12,11,90.9%,90.9%,1.95,A (4.00),
+696,"Patrick, Gentry",BILD 1 - The Cell (A),FA11,245,114,94.7%,97.4%,5.9,B+ (3.39),B- (2.84)
+697,"Kiger, Amy",BILD 1 - The Cell (B),FA11,271,126,89.6%,80.5%,8.13,B (3.21),C+ (2.58)
+698,"Reinagel, Pam",BILD 12 - Neurobiology and Behavior (A),FA11,73,42,85.7%,71.4%,3.45,B+ (3.39),B+ (3.31)
+699,"Leutgeb, Jill K.",BILD 2 - Multicellular Life (A),FA11,119,50,95.9%,93.9%,8.13,B+ (3.45),B (3.21)
+700,"Fortes, P. A. George",BILD 2 - Multicellular Life (B),FA11,187,65,93.8%,71.9%,6.13,B+ (3.58),B (3.02)
+701,"Kurle, Carolyn M.",BILD 3 - Organismic&Evolutionary Biol (A),FA11,403,239,91.1%,94.4%,5.67,B (3.24),C+ (2.50)
+702,"Goodale, Eben B.",BILD 3 - Organismic&Evolutionary Biol (B),FA11,249,118,90.7%,89.8%,5.32,B+ (3.50),B- (2.93)
+703,"Brown, Willie C.",BILD 87 - Freshman Seminar (A),FA11,16,11,100.0%,100.0%,2.14,A (4.00),
+704,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),FA11,17,13,92.3%,100.0%,0.81,A (4.00),
+705,"Eng, John",BILD 92 - Professional Topics (A),FA11,15,7,85.7%,71.4%,0.79,,
+706,"D'Cruz, Louise M.",BILD 95 - Undergraduate Workshops (A),FA11,7,6,83.3%,100.0%,2.83,A (4.00),
+707,"French, Kathleen Ann",BILD 96 - Biology: Honors Seminar (A),FA11,18,11,81.8%,81.8%,1.05,A (4.00),
+708,"Richmond, Maxi Polihronaki",BILD 2 - Multicellular Life (A),S211,127,65,87.5%,41.3%,9.06,B (3.28),B- (2.83)
+709,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (A),S211,157,73,83.6%,97.3%,7.68,B+ (3.44),C+ (2.63)
+710,"Shulse, Christine Nicole",BILD 1 - The Cell (A),S111,130,120,94.1%,90.8%,8.15,B+ (3.50),B (3.07)
+711,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),S111,33,11,100.0%,90.9%,5.23,B+ (3.55),B+ (3.39)
+712,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (A),S111,158,80,91.1%,98.8%,7.08,B+ (3.36),C+ (2.66)
+713,"Gustafson-Brown, Cindy",BILD 36 - AIDS Science and Society (A),S111,40,17,94.1%,100.0%,10.26,B+ (3.45),C+ (2.65)
+714,"Kiger, Amy",BILD 1 - The Cell (A),SP11,366,163,93.2%,92.5%,7.25,B (3.21),C+ (2.31)
+715,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),SP11,287,111,88.0%,85.2%,2.93,B+ (3.64),B+ (3.37)
+716,"French, Kathleen Ann",BILD 2 - Multicellular Life (A),SP11,344,154,94.7%,88.1%,6.46,B+ (3.32),B- (2.87)
+717,"Strause, Linda G.",BILD 22 - Human Nutrition (A),SP11,359,157,96.2%,96.2%,3.66,B+ (3.67),B+ (3.68)
+718,"Holway, David A.",BILD 3 - Organismic&Evolutionary Biol (A),SP11,389,166,72.7%,78.8%,5.48,B (3.18),B- (2.72)
+719,"Woodruff, David S",BILD 87 - Freshman Seminar (A),SP11,19,8,100.0%,100.0%,0.5,A (4.00),
+720,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),SP11,13,5,100.0%,100.0%,0.5,,
+721,"Brown, Willie C.",BILD 87 - Freshman Seminar (C),SP11,11,4,100.0%,100.0%,2.0,A (4.00),
+722,"Bafna, Vineet",BILD 94 - Prof. Issues/Bioinformatics (A),SP11,49,21,85.7%,95.2%,1.17,A (4.00),
+723,"Wienhausen, Gabriele",BILD 95 - Undergraduate Workshops (A),SP11,22,13,100.0%,100.0%,0.83,,
+724,"Wienhausen, Gabriele",BILD 95 - Undergraduate Workshops (B),SP11,11,5,100.0%,100.0%,0.9,A (4.00),
+725,"Tour, Ella",BILD 1 - The Cell (A),WI11,274,147,88.4%,72.8%,5.64,B (3.16),C+ (2.43)
+726,"Golden, Susan S.",BILD 1 - The Cell (B),WI11,250,137,88.2%,80.1%,5.89,B (3.26),B- (2.84)
+727,"Berg, Darwin K.",BILD 2 - Multicellular Life (A),WI11,270,123,96.7%,93.3%,7.57,B+ (3.40),C+ (2.50)
+728,"Schroeder, Julian I",BILD 2 - Multicellular Life (B),WI11,182,81,96.3%,76.5%,6.8,B+ (3.33),B (3.09)
+729,"Fortes, P. A. George",BILD 26 - Human Physiology (A),WI11,262,130,69.8%,57.4%,5.28,B (3.10),B- (2.82)
+730,"Woodruff, David S",BILD 3 - Organismic&Evolutionary Biol (A),WI11,308,174,69.4%,72.8%,7.23,B (3.04),C+ (2.52)
+731,"Macagno, Eduardo R.","BILD 38 - Dementia, Science and Society (A)",WI11,46,25,70.8%,91.7%,3.67,B (3.23),B (3.22)
+732,"Woodruff, David S",BILD 87 - Freshman Seminar (A),WI11,20,13,100.0%,100.0%,0.83,A (4.00),
+733,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),WI11,16,10,100.0%,100.0%,0.7,A (4.00),
+734,"Wienhausen, Gabriele",BILD 87 - Freshman Seminar (C),WI11,16,13,100.0%,100.0%,2.04,A (4.00),
+735,"Wienhausen, Gabriele",BILD 95 - Undergraduate Workshops (A),WI11,9,5,100.0%,100.0%,0.9,A (4.00),
+736,"Patrick, Gentry",BILD 1 - The Cell (A),FA10,196,85,97.6%,92.9%,5.93,B+ (3.32),B- (2.76)
+737,"Halpain, Shelley",BILD 1 - The Cell (B),FA10,273,128,85.6%,48.0%,6.68,B (3.21),C+ (2.46)
+738,"Leutgeb, Jill K.",BILD 2 - Multicellular Life (A),FA10,156,66,89.2%,52.3%,7.45,B (3.14),C+ (2.46)
+739,"Fortes, P. A. George",BILD 2 - Multicellular Life (B),FA10,195,79,93.7%,78.2%,6.65,B+ (3.45),B- (2.77)
+740,"Kohn, Joshua R",BILD 3 - Organismic&Evolutionary Biol (A),FA10,424,214,81.0%,86.2%,5.59,B (3.18),C+ (2.70)
+741,"Goodale, Eben B.",BILD 3 - Organismic&Evolutionary Biol (B),FA10,294,158,82.8%,69.2%,6.22,B (3.20),B- (2.75)
+742,"Woodruff, David S",BILD 87 - Freshman Seminar (A),FA10,19,14,100.0%,100.0%,0.79,A (4.00),
+743,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),FA10,16,10,70.0%,80.0%,0.7,A (4.00),
+744,"French, Kathleen Ann",BILD 96 - Biology: Honors Seminar (A),FA10,10,7,100.0%,100.0%,1.36,A (4.00),
+745,"Burg, Michael A.",BILD 1 - The Cell (A),SU10,91,24,87.5%,100.0%,7.33,B+ (3.39),
+746,"Clement, Sandra",BILD 1 - The Cell (A),SU10,38,27,100.0%,100.0%,7.46,B+ (3.42),
+747,"Lee, Suzanne",BILD 1 - The Cell (A),SU10,38,27,100.0%,96.3%,7.31,B+ (3.42),
+748,"Bever, Jennie Lynn",BILD 10 - Fundamental Concepts/Modrn Bio (A),SU10,57,17,70.6%,94.1%,4.85,A- (3.71),
+749,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),SU10,25,8,87.5%,87.5%,4.0,A (4.00),
+750,"Burg, Michael A.",BILD 2 - Multicellular Life (A),SU10,142,44,95.3%,93.0%,7.1,B+ (3.37),
+751,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (A),SU10,148,41,90.2%,95.1%,7.55,B+ (3.47),
+752,"Woodruff, David S",BILD 3 - Organismic&Evolutionary Biol (A),SU10,106,37,80.6%,86.1%,7.47,B+ (3.37),
+753,"Kiger, Amy",BILD 1 - The Cell (A),SP10,164,77,90.8%,82.7%,5.76,B (3.23),C+ (2.46)
+754,"Sato, Brian K",BILD 1 - The Cell (B),SP10,272,143,95.0%,96.5%,5.73,B (3.19),B- (2.79)
+755,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),SP10,200,87,92.9%,91.8%,3.56,A- (3.87),B+ (3.50)
+756,"Schroeder, Julian I",BILD 2 - Multicellular Life (A),SP10,126,52,92.2%,76.5%,5.13,B+ (3.37),B (3.10)
+757,"Burg, Michael A.",BILD 2 - Multicellular Life (B),SP10,249,96,96.8%,94.6%,5.61,B (3.24),B- (2.83)
+758,"Schmidt, Robert J",BILD 20 - Human Genetics/Modern Society (A),SP10,146,72,87.5%,91.7%,3.47,B+ (3.32),C+ (2.64)
+759,"Strause, Linda G.",BILD 22 - Human Nutrition (A),SP10,326,159,96.8%,95.6%,3.46,B+ (3.52),B+ (3.45)
+760,"Wills, Christopher",BILD 3 - Organismic&Evolutionary Biol (A),SP10,312,136,84.6%,88.9%,4.87,B+ (3.34),B- (2.72)
+761,"Wills, Christopher",BILD 3 - Organismic&Evolutionary Biol (B),SP10,275,112,76.4%,80.9%,5.8,B (3.17),B- (2.72)
+762,"Bier, Ethan",BILD 7 - The Beginning of Life (A),SP10,61,22,86.4%,81.8%,5.14,B+ (3.48),B (3.15)
+763,"Yanofsky, Martin F.",BILD 7 - The Beginning of Life (A),SP10,61,21,85.0%,95.0%,5.2,B+ (3.48),B (3.15)
+764,"Woodruff, David S",BILD 87 - Freshman Seminar (A),SP10,20,14,100.0%,100.0%,0.5,,
+765,"Saier, Milton H.",BILD 87 - Freshman Seminar (C),SP10,13,7,71.4%,100.0%,0.79,A (4.00),
+766,"Chrispeels, Maarten J.",BILD 87 - Freshman Seminar (D),SP10,8,5,100.0%,100.0%,0.5,,
+767,"Crawford, Nigel M.",BILD 87 - Freshman Seminar (E),SP10,11,9,87.5%,87.5%,0.75,A (4.00),
+768,"Gaasterland, Theresa",BILD 94 - Prof. Issues/Bioinformatics (A),SP10,35,15,93.3%,93.3%,1.83,A (4.00),
+769,"Macagno, Eduardo R.",BILD 95 - Undergraduate Workshops (A),SP10,6,4,100.0%,100.0%,1.83,,
+770,"Traver, David",BILD 1 - The Cell (A),WI10,187,101,98.0%,96.0%,5.99,B+ (3.58),B- (2.93)
+771,"Golden, Susan S.",BILD 1 - The Cell (B),WI10,110,28,85.7%,82.1%,5.0,B (3.21),C (2.29)
+772,"Sato, Brian K",BILD 1 - The Cell (C),WI10,135,72,94.4%,94.4%,5.64,B+ (3.41),B- (2.80)
+773,"Bever, Jennie Lynn",BILD 10 - Fundamental Concepts/Modrn Bio (A),WI10,320,135,94.0%,97.0%,3.71,B+ (3.60),B+ (3.45)
+774,"Berg, Darwin K.",BILD 2 - Multicellular Life (A),WI10,291,109,88.1%,87.9%,7.38,B (3.19),B- (2.70)
+775,"Burg, Michael A.",BILD 2 - Multicellular Life (B),WI10,178,64,92.2%,90.6%,5.55,B+ (3.56),C+ (2.65)
+776,"Henter, Heather J.",BILD 3 - Organismic&Evolutionary Biol (A),WI10,144,63,85.7%,81.0%,5.55,B+ (3.37),C+ (2.63)
+777,"Henter, Heather J.",BILD 3 - Organismic&Evolutionary Biol (B),WI10,380,152,93.3%,88.6%,5.31,B+ (3.34),C+ (2.63)
+778,"Woodruff, David S",BILD 3 - Organismic&Evolutionary Biol (C),WI10,214,84,81.0%,79.5%,6.72,B (3.26),C+ (2.53)
+779,"Gustafson-Brown, Cindy",BILD 36 - AIDS Science and Society (A),WI10,169,66,95.4%,95.3%,4.66,B (3.27),B- (2.76)
+780,"Wienhausen, Gabriele",BILD 87 - Freshman Seminar (A),WI10,20,15,100.0%,100.0%,1.57,,
+781,"Woodruff, David S",BILD 87 - Freshman Seminar (B),WI10,20,13,92.3%,92.3%,0.81,A (4.00),
+782,"Saier, Milton H.",BILD 87 - Freshman Seminar (C),WI10,12,6,100.0%,100.0%,0.5,,
+783,"Saier, Milton H.",BILD 87 - Freshman Seminar (D),WI10,9,4,100.0%,100.0%,0.5,A (4.00),
+784,"Macagno, Eduardo R.",BILD 95 - Undergraduate Workshops (A),WI10,19,13,92.3%,92.3%,1.12,,
+785,"Pogliano, Joseph",BILD 95 - Undergraduate Workshops (B),WI10,28,16,100.0%,100.0%,1.57,A (4.00),
+786,"Patrick, Gentry",BILD 1 - The Cell (A),FA09,248,128,96.0%,92.7%,4.82,B+ (3.53),B- (2.89)
+787,"Halpain, Shelley",BILD 1 - The Cell (B),FA09,187,79,97.5%,82.3%,5.87,B+ (3.35),B- (2.78)
+788,"Gustafson-Brown, Cindy",BILD 10 - Fundamental Concepts/Modrn Bio (A),FA09,161,85,82.1%,87.1%,4.14,B+ (3.30),B- (2.93)
+789,"Leutgeb, Jill K.",BILD 2 - Multicellular Life (A),FA09,121,38,97.4%,71.1%,6.66,B+ (3.36),C (2.19)
+790,"Mel, Stephanie",BILD 2 - Multicellular Life (B),FA09,204,130,98.5%,99.2%,4.78,A- (3.72),C+ (2.64)
+791,"Fortes, P. A. George",BILD 26 - Human Physiology (A),FA09,204,98,67.3%,69.4%,4.03,B (3.20),B (3.13)
+792,"Henter, Heather J.",BILD 3 - Organismic&Evolutionary Biol (A),FA09,367,234,89.8%,88.0%,4.55,B+ (3.38),C+ (2.61)
+793,"Henter, Heather J.",BILD 3 - Organismic&Evolutionary Biol (B),FA09,384,269,86.1%,83.7%,4.16,B+ (3.45),C+ (2.61)
+794,"Pogliano, Joseph",BILD 71 - Genomics Research Initiative (A),FA09,56,26,100.0%,100.0%,3.86,,A- (3.94)
+795,"Pogliano, Kit J.",BILD 71 - Genomics Research Initiative (A),FA09,56,26,100.0%,100.0%,3.86,,A- (3.94)
+796,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),FA09,13,12,91.7%,83.3%,0.5,A (4.00),
+797,"Crawford, Nigel M.",BILD 87 - Freshman Seminar (B),FA09,19,16,93.8%,100.0%,0.88,A (4.00),
+798,"Woodruff, David S",BILD 87 - Freshman Seminar (C),FA09,20,18,100.0%,100.0%,0.72,A (4.00),
+799,"Saier, Milton H.",BILD 87 - Freshman Seminar (D),FA09,14,11,100.0%,100.0%,0.68,A (4.00),
+800,"Santoso, Buyung",BILD 1 - The Cell (A),SU09,103,46,93.5%,91.3%,5.89,B+ (3.49),
+801,"Lasse, Samuel H",BILD 10 - Fundamental Concepts/Modrn Bio (A),SU09,38,19,84.2%,84.2%,4.29,B+ (3.57),
+802,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),SU09,28,10,100.0%,100.0%,3.5,A- (3.89),
+803,"Burg, Michael A.",BILD 2 - Multicellular Life (A),SU09,76,32,100.0%,84.4%,8.95,B+ (3.32),
+804,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (A),SU09,103,38,92.1%,97.2%,7.36,B+ (3.47),
+805,"Reuther, Keefe",BILD 3 - Organismic&Evolutionary Biol (A),SU09,144,47,89.4%,95.7%,6.97,B+ (3.50),
+806,"Kiger, Amy",BILD 1 - The Cell (A),SP09,149,54,91.8%,92.2%,5.92,B (3.21),C+ (2.37)
+807,"Sato, Brian K",BILD 1 - The Cell (B),SP09,297,210,96.0%,97.9%,4.24,B+ (3.37),B- (2.85)
+808,"Loomis, William F.",BILD 10 - Fundamental Concepts/Modrn Bio (A),SP09,163,65,92.3%,84.6%,3.05,B+ (3.48),B (3.07)
+809,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),SP09,185,121,96.6%,94.0%,2.65,A- (3.89),B+ (3.47)
+810,"Schroeder, Julian I",BILD 2 - Multicellular Life (A),SP09,184,85,90.2%,80.7%,4.94,B+ (3.35),B- (2.88)
+811,"Mel, Stephanie",BILD 2 - Multicellular Life (B),SP09,258,162,92.5%,86.9%,5.01,B+ (3.38),B- (2.73)
+812,"Strause, Linda G.",BILD 22 - Human Nutrition (A),SP09,335,147,94.4%,95.8%,2.58,B+ (3.54),B (3.14)
+813,"Kohn, Joshua R",BILD 3 - Organismic&Evolutionary Biol (A),SP09,423,223,83.9%,89.0%,3.83,B+ (3.42),C+ (2.55)
+814,"Bier, Ethan",BILD 7 - The Beginning of Life (A),SP09,107,57,86.0%,94.7%,3.66,B+ (3.41),B (3.14)
+815,"Yanofsky, Martin F.",BILD 7 - The Beginning of Life (A),SP09,107,57,86.0%,94.7%,3.66,B+ (3.41),B (3.14)
+816,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),SP09,1,9,100.0%,100.0%,1.39,,
+817,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),SP09,8,11,100.0%,100.0%,0.5,A (4.00),
+818,"Woodruff, David S",BILD 87 - Freshman Seminar (C),SP09,16,14,100.0%,100.0%,2.04,,
+819,"Gaasterland, Theresa",BILD 94 - Prof. Issues/Bioinformatics (A),SP09,29,18,100.0%,94.1%,0.5,A- (3.75),
+820,"Traver, David",BILD 1 - The Cell (A),WI09,270,131,97.7%,93.9%,4.81,B+ (3.57),B (3.22)
+821,"Boulanger, Lisa",BILD 1 - The Cell (B),WI09,192,77,93.5%,97.4%,4.53,B+ (3.64),C+ (2.58)
+822,"Bever, Jennie Lynn",BILD 10 - Fundamental Concepts/Modrn Bio (A),WI09,272,165,92.8%,94.8%,2.61,B+ (3.62),B+ (3.45)
+823,"Mel, Stephanie",BILD 2 - Multicellular Life (A),WI09,305,199,92.4%,89.4%,4.91,B+ (3.39),C+ (2.60)
+824,"Towb, Par",BILD 2 - Multicellular Life (B),WI09,206,111,95.5%,82.9%,5.4,B+ (3.45),C+ (2.36)
+825,"Woodruff, David S",BILD 3 - Organismic&Evolutionary Biol (A),WI09,208,84,83.1%,74.7%,4.96,B (3.20),C+ (2.61)
+826,"Henter, Heather J.",BILD 3 - Organismic&Evolutionary Biol (B),WI09,273,145,83.6%,81.5%,4.29,B+ (3.31),C+ (2.61)
+827,"Henter, Heather J.",BILD 3 - Organismic&Evolutionary Biol (C),WI09,276,175,82.5%,84.8%,4.52,B+ (3.45),C+ (2.61)
+828,"Gustafson-Brown, Cindy",BILD 36 - AIDS Science and Society (A),WI09,157,138,89.8%,88.3%,4.46,B (3.30),B- (2.75)
+829,"Woodruff, David S",BILD 87 - Freshman Seminar (A),WI09,17,16,100.0%,100.0%,0.5,,
+830,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),WI09,14,9,100.0%,100.0%,0.72,,
+831,"Saier, Milton H.",BILD 87 - Freshman Seminar (C),WI09,11,11,90.0%,100.0%,1.05,A (4.00),
+832,"Bever, Jennie Lynn",BILD 1 - The Cell (A),FA08,235,111,98.2%,95.5%,4.68,B+ (3.43),B- (2.96)
+833,"Patrick, Gentry",BILD 1 - The Cell (B),FA08,272,169,96.9%,90.7%,4.62,B+ (3.36),B- (2.90)
+834,"Gustafson-Brown, Cindy",BILD 10 - Fundamental Concepts/Modrn Bio (A),FA08,212,148,82.2%,87.0%,4.54,B (3.15),B- (2.73)
+835,"Towb, Par",BILD 2 - Multicellular Life (A),FA08,319,216,95.8%,88.4%,5.31,B+ (3.36),C+ (2.58)
+836,"Fortes, P. A. George",BILD 26 - Human Physiology (A),FA08,161,78,75.6%,72.7%,4.11,B (3.25),B (3.10)
+837,"Wills, Christopher",BILD 3 - Organismic&Evolutionary Biol (A),FA08,381,159,86.4%,94.8%,3.92,B+ (3.33),C+ (2.59)
+838,"Henter, Heather J.",BILD 3 - Organismic&Evolutionary Biol (B),FA08,384,199,88.3%,81.1%,4.01,B+ (3.47),C+ (2.60)
+839,"Henter, Heather J.",BILD 3 - Organismic&Evolutionary Biol (C),FA08,202,137,89.3%,82.7%,3.96,B+ (3.48),C+ (2.60)
+840,"Pogliano, Joseph",BILD 71 - Genomics Research Initiative (A),FA08,24,19,100.0%,100.0%,5.34,A- (3.94),B+ (3.69)
+841,"Pogliano, Kit J.",BILD 71 - Genomics Research Initiative (A),FA08,24,19,100.0%,100.0%,5.34,A- (3.94),B+ (3.69)
+842,"Crawford, Nigel M.",BILD 87 - Freshman Seminar (A),FA08,19,18,100.0%,100.0%,0.72,,
+843,"Woodruff, David S",BILD 87 - Freshman Seminar (B),FA08,16,17,100.0%,100.0%,0.75,,
+844,"Bever, Jennie Lynn",BILD 1 - The Cell (A),SU08,69,52,94.0%,87.8%,7.68,B (3.22),
+845,"Towb, Par",BILD 1 - The Cell (A),SU08,56,30,96.7%,96.7%,7.67,B+ (3.67),
+846,"Tour, Ella",BILD 10 - Fundamental Concepts/Modrn Bio (A),SU08,42,28,92.9%,96.4%,4.07,B+ (3.54),
+847,"Saier, Milton H.",BILD 18GS - Human Impact on the Environmnt (A),SU08,31,30,96.7%,100.0%,4.23,A (4.00),
+848,"Towb, Par",BILD 2 - Multicellular Life (A),SU08,107,65,96.8%,90.5%,6.03,B+ (3.53),
+849,"Towb, Par",BILD 2 - Multicellular Life (A),SU08,94,61,93.2%,91.5%,6.94,B+ (3.46),
+850,"Santoso, Buyung",BILD 1 - The Cell (A),SP08,312,151,97.3%,98.0%,4.41,B+ (3.57),B (3.22)
+851,"Ghiara, Jayant",BILD 1 - The Cell (B),SP08,179,91,98.9%,96.6%,4.83,B+ (3.56),B (3.07)
+852,"Loomis, William F.",BILD 10 - Fundamental Concepts/Modrn Bio (A),SP08,153,61,91.5%,88.3%,2.7,B+ (3.35),B (3.01)
+853,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),SP08,187,88,89.4%,88.2%,2.07,A- (3.80),A- (3.75)
+854,"Schroeder, Julian I",BILD 2 - Multicellular Life (A),SP08,228,98,95.8%,87.5%,4.91,B+ (3.39),B- (2.84)
+855,"Towb, Par",BILD 2 - Multicellular Life (B),SP08,228,130,96.8%,88.9%,4.99,B+ (3.42),B- (2.86)
+856,"Strause, Linda G.",BILD 22 - Human Nutrition (A),SP08,366,210,93.1%,97.5%,3.04,B (3.26),B (3.09)
+857,"Kohn, Joshua R",BILD 3 - Organismic&Evolutionary Biol (A),SP08,327,158,89.0%,91.6%,4.73,B+ (3.53),C+ (2.56)
+858,"Woodruff, David S",BILD 3 - Organismic&Evolutionary Biol (B),SP08,289,104,82.4%,61.4%,5.1,B (3.30),B- (2.70)
+859,"Bier, Ethan",BILD 7 - The Beginning of Life (A),SP08,98,64,78.7%,93.5%,2.66,B+ (3.36),B- (2.84)
+860,"Yanofsky, Martin F.",BILD 7 - The Beginning of Life (A),SP08,98,64,78.7%,93.5%,2.66,B+ (3.36),B- (2.84)
+861,"Saier, Milton H.",BILD 87 - Freshman Seminar (A),SP08,12,10,100.0%,100.0%,0.5,,
+862,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),SP08,12,10,100.0%,100.0%,0.7,,
+863,"Zhang, Kun",BILD 94 - Prof. Issues/Bioinformatics (A),SP08,26,16,93.8%,100.0%,1.25,A (4.00),
+864,"Green, Melvin H.",BILD 95 - Undergraduate Workshops (A),SP08,21,15,100.0%,100.0%,0.77,A (4.00),
+865,"Bever, Jennie Lynn",BILD 1 - The Cell (A),WI08,301,132,95.3%,85.8%,4.59,B+ (3.50),B- (2.85)
+866,"Boulanger, Lisa",BILD 1 - The Cell (B),WI08,293,100,93.0%,99.0%,5.27,B+ (3.37),C+ (2.55)
+867,"Towb, Par",BILD 10 - Fundamental Concepts/Modrn Bio (A),WI08,332,119,83.1%,93.2%,2.14,B+ (3.58),B+ (3.34)
+868,"Potter, Ellen",BILD 2 - Multicellular Life (A),WI08,292,247,87.7%,13.9%,5.74,B (3.28),C+ (2.60)
+869,"Wasserman, Steven A.",BILD 2 - Multicellular Life (A),WI08,292,202,90.7%,96.4%,5.57,B (3.28),C+ (2.60)
+870,"Berg, Darwin K.",BILD 2 - Multicellular Life (B),WI08,283,162,98.7%,97.5%,5.71,B+ (3.41),C+ (2.59)
+871,"Pinon, Ramon",BILD 24 - Biology of Human Reproduction (A),WI08,122,44,78.6%,76.7%,4.22,B (3.09),B- (2.84)
+872,"Henter, Heather J.",BILD 3 - Organismic&Evolutionary Biol (A),WI08,272,110,86.9%,85.0%,4.14,B (3.27),B- (2.74)
+873,"Henter, Heather J.",BILD 3 - Organismic&Evolutionary Biol (B),WI08,271,147,88.2%,82.9%,4.31,B+ (3.41),B- (2.74)
+874,"Woodruff, David S",BILD 87 - Freshman Seminar (A),WI08,21,20,100.0%,100.0%,1.12,,
+875,"Saier, Milton H.",BILD 87 - Freshman Seminar (C),WI08,10,7,100.0%,83.3%,1.3,,
+876,"Saier, Milton H.",BILD 87 - Freshman Seminar (D),WI08,13,10,100.0%,100.0%,1.3,A (4.00),
+877,"Crawford, Nigel M.",BILD 87 - Freshman Seminar (E),WI08,32,20,100.0%,100.0%,0.8,A (4.00),
+878,"Wasserman, Steven A.",BILD 1 - The Cell (A),FA07,261,202,93.9%,91.8%,5.68,B (3.16),C+ (2.66)
+879,"Patrick, Gentry",BILD 1 - The Cell (B),FA07,252,154,97.3%,88.6%,5.02,B+ (3.41),B- (2.81)
+880,"Sann, Sharon Bree",BILD 10 - Fundamental Concepts/Modrn Bio (A),FA07,209,132,84.7%,87.1%,3.85,B+ (3.35),B- (2.92)
+881,"Towb, Par",BILD 2 - Multicellular Life (A),FA07,303,209,96.6%,87.8%,6.06,B+ (3.61),B- (2.94)
+882,"Fortes, P. A. George",BILD 26 - Human Physiology (A),FA07,154,82,67.1%,59.5%,4.11,B- (2.98),B- (2.78)
+883,"Wills, Christopher",BILD 3 - Organismic&Evolutionary Biol (A),FA07,266,157,78.8%,79.5%,4.06,B+ (3.42),B- (2.79)
+884,"Wills, Christopher",BILD 3 - Organismic&Evolutionary Biol (B),FA07,296,142,89.2%,95.7%,4.15,B+ (3.35),B- (2.79)
+885,"Gustafson-Brown, Cindy",BILD 36 - AIDS Science and Society (A),FA07,186,113,92.8%,92.9%,4.05,B (3.27),B- (2.78)
+886,"Woodruff, David S",BILD 87 - Freshman Seminar (A),FA07,17,16,100.0%,100.0%,0.5,,
+887,"Saier, Milton H.",BILD 87 - Freshman Seminar (B),FA07,17,10,100.0%,100.0%,0.7,,
+888,"Saier, Milton H.",BILD 87 - Freshman Seminar (C),FA07,14,11,100.0%,100.0%,1.23,A (4.00),
+889,"Santoso, Buyung",BILD 1 - The Cell (A),SU07,89,70,96.9%,88.4%,5.02,B+ (3.56),
+890,"Towb, Par",BILD 1 - The Cell (A),SU07,98,74,93.0%,88.7%,7.73,B+ (3.47),
+891,"Gustafson-Brown, Cindy",BILD 10 - Fundamental Concepts/Modrn Bio (A),SU07,36,25,70.8%,70.8%,5.25,B- (2.71),
+892,"Saier, Milton H.",BILD 18 - Human Impact on the Environmnt (A),SU07,23,17,100.0%,100.0%,2.85,A- (3.80),
+893,"Towb, Par",BILD 2 - Multicellular Life (A),SU07,96,73,94.4%,95.8%,6.69,B+ (3.48),
+894,"Towb, Par",BILD 2 - Multicellular Life (A),SU07,88,46,97.8%,86.7%,7.39,B+ (3.57),
+895,"Pinon, Ramon",BILD 24 - Biology of Human Reproduction (A),SU07,33,15,71.4%,84.6%,5.93,B- (2.80),

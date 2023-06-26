@@ -1,0 +1,402 @@
+,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+0,"Donald, Nancy Ann",ANTH 10 - Climate Justice (A),SP23,74,52,98.0%,100.0%,3.01,A- (3.72),A- (3.75)
+1,"Hankins, Joseph D.",ANTH 103 - Sociocultural Anthropology (A),SP23,95,32,96.9%,100.0%,5.88,A- (3.70),B+ (3.42)
+2,"Bialecki, Jon Anthony",ANTH 111 - Religion&Ecology/Anthropocene (A),SP23,21,9,100.0%,88.9%,4.28,B+ (3.67),B+ (3.68)
+3,"Jones, Ian William Nasser",ANTH 112 - Regenerative Science/Ecology (A),SP23,28,11,100.0%,100.0%,3.59,B+ (3.55),B+ (3.68)
+4,"Lewis, Leslie R",ANTH 128B - CAS: Capstone Project (A),SP23,8,4,75.0%,100.0%,2.5,A (4.00),
+5,"Varma, Saiba",ANTH 192 - Senior Seminar in Anthropology (A),SP23,16,8,87.5%,100.0%,1.0,A (4.00),
+6,"Varma, Saiba",ANTH 196C - Honors Studies in Anthropology (A),SP23,8,4,100.0%,100.0%,10.5,A (4.00),
+7,"Marchetto, Maria Carolina",ANTH 2 - Human Origins (A),SP23,150,49,100.0%,95.9%,3.19,A- (3.76),B+ (3.55)
+8,"Stroth, Luke Reyneri",ANTH 3 - Global Archaeology (A),SP23,113,54,94.2%,96.2%,2.54,B+ (3.69),B+ (3.57)
+9,"Fox, Patrick Keolu Ozer",ANTH 102 - Humans Are Cultural Animals (A),WI23,153,89,89.7%,94.3%,3.33,B+ (3.49),B+ (3.65)
+10,"Stroth, Luke Reyneri",ANTH 106 - Climate and Civilization (A),WI23,34,13,100.0%,100.0%,4.19,A (4.00),B+ (3.30)
+11,"Jones, Ian William Nasser","ANTH 107 - Dsgn:Disasters,Emerg,Weather (B)",WI23,29,12,90.9%,90.9%,4.86,A (4.00),B+ (3.66)
+12,"Jones, Ian William Nasser",ANTH 110 - The Climate Change Seminar (A),WI23,19,6,50.0%,100.0%,2.17,A- (3.83),
+13,"Jones, Ian William Nasser",ANTH 112 - Regenerative Science/Ecology (A),WI23,28,12,83.3%,91.7%,6.0,A- (3.82),B+ (3.45)
+14,"Lewis, Leslie R",ANTH 128A - CAS: Community Engaged Resrch (A),WI23,10,4,75.0%,75.0%,2.5,A (4.00),
+15,"Kennemore, Amy Michelle",ANTH 21 - Race and Racisms (A),WI23,271,111,94.4%,97.2%,4.35,A- (3.85),A- (3.71)
+16,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),WI23,139,92,93.5%,98.9%,3.59,A- (3.72),B+ (3.58)
+17,"Pedersen, David",ANTH 24 - Mapping Capitalism (A),WI23,39,22,90.9%,90.5%,2.5,A- (3.86),A- (3.71)
+18,"Semendeferi, Ekaterini",ANTH 5 - The Human Machine (A),WI23,17,9,100.0%,100.0%,7.61,B (3.14),
+19,"Varma, Saiba",ANTH 87 - Freshman Seminar (A),WI23,19,9,100.0%,100.0%,0.94,B (3.00),
+20,"Varma, Saiba",ANTH 1 - Introduction to Culture (A),FA22,157,78,98.7%,100.0%,2.68,A- (3.92),B+ (3.69)
+21,"Stewart, Alexander B",ANTH 10 - Climate Justice (B),FA22,189,72,72.9%,85.5%,3.6,B+ (3.51),B+ (3.45)
+22,"Goldstein, Paul S",ANTH 101 - Foundations/Social Complexity (A),FA22,122,39,89.7%,92.3%,4.35,B+ (3.58),B+ (3.68)
+23,"Jones, Ian William Nasser","ANTH 105 - Climate Change, Race,& Inequal (A)",FA22,39,15,93.3%,100.0%,5.03,B+ (3.64),B (3.05)
+24,"Jones, Ian William Nasser","ANTH 108 - IndigPpls, Develop,& ClimChng (A)",FA22,26,9,88.9%,100.0%,3.61,B+ (3.67),A- (3.75)
+25,"Kaiser, Bronwyn Nicole",ANTH 192 - Senior Seminar in Anthropology (A),FA22,15,4,100.0%,100.0%,0.5,A (4.00),
+26,"Non, Amy L",ANTH 192 - Senior Seminar in Anthropology (A),FA22,15,4,100.0%,100.0%,0.5,A (4.00),
+27,"Varma, Saiba",ANTH 196A - Honors Studies in Anthropology (A),FA22,11,3,100.0%,100.0%,9.17,A (4.00),
+28,"Wilder, Linnea Lorene",ANTH 2 - Human Origins (A),FA22,183,77,86.7%,89.2%,3.81,B+ (3.41),B- (2.79)
+29,"Kang, Byung Chu",ANTH 21 - Race and Racisms (A),FA22,319,123,99.2%,99.2%,3.44,A- (3.97),A- (3.72)
+30,"Kennemore, Amy Michelle",ANTH 21 - Race and Racisms (B),FA22,137,61,91.8%,100.0%,4.01,A- (3.85),A (4.00)
+31,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),FA22,208,92,87.8%,96.7%,3.53,A- (3.78),B (3.18)
+32,"Yeh, Rihan Wen Xin",ANTH 4 - Words/Worlds/Intro to AN/Lang (A),FA22,65,34,78.1%,71.9%,3.25,B+ (3.59),B (3.00)
+33,"Jordan, David K.",ANTH 87 - Freshman Seminar (A),FA22,17,8,87.5%,87.5%,1.5,A (4.00),
+34,"Jordan, David K.",ANTH 87 - Freshman Seminar (B),FA22,18,14,92.9%,100.0%,1.5,A (4.00),
+35,"Wilder, Linnea Lorene",ANTH 102 - Humans Are Cultural Animals (A),S222,23,4,100.0%,100.0%,4.0,B+ (3.67),A- (3.81)
+36,"Varma, Saiba",ANTH 103 - Sociocultural Anthropology (A),S222,22,8,100.0%,100.0%,4.79,A- (3.86),B+ (3.70)
+37,"Bialecki, Jon Anthony",ANTH 111 - Religion&Ecology/Anthropocene (A),S222,15,4,100.0%,100.0%,5.17,A (4.00),
+38,"Hrvoj Mihic, Branka",ANTH 2 - Human Origins (A),S222,70,19,88.9%,94.4%,6.82,B+ (3.67),C+ (2.65)
+39,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),S222,27,8,100.0%,100.0%,6.75,A- (3.71),B+ (3.41)
+40,"Berman, Michael David",ANTH 1 - Introduction to Culture (A),S122,36,16,100.0%,100.0%,4.1,A- (3.79),A- (3.77)
+41,"Algaze, Guillermo",ANTH 101 - Foundations/Social Complexity (A),S122,32,7,100.0%,100.0%,4.79,A- (3.71),B+ (3.54)
+42,"Stewart, Alexander B","ANTH 105 - Climate Change, Race,& Inequal (A)",S122,26,6,83.3%,100.0%,5.17,B+ (3.40),A- (3.82)
+43,"Kennemore, Amy Michelle",ANTH 23 - Debating Multiculturalism (A),S122,26,5,100.0%,100.0%,4.9,B+ (3.60),A (4.00)
+44,"Rivera-Collazo, Isabel C",ANTH 3 - Global Archaeology (A),S122,27,4,100.0%,100.0%,2.0,A- (3.75),B+ (3.62)
+45,"Stewart, Alexander B",ANTH 10 - Climate Justice (A),SP22,65,33,87.9%,97.0%,2.56,A- (3.75),B+ (3.68)
+46,"Hankins, Joseph D.",ANTH 103 - Sociocultural Anthropology (A),SP22,115,40,87.2%,89.5%,4.76,B+ (3.66),B+ (3.38)
+47,"Jones, Ian William Nasser","ANTH 107 - Dsgn:Disasters,Emerg,Weather (A)",SP22,27,11,100.0%,100.0%,5.3,A- (3.80),A- (3.89)
+48,"Jones, Ian William Nasser",ANTH 112 - Regenerative Science/Ecology (A),SP22,27,8,100.0%,100.0%,3.36,A (4.00),B+ (3.41)
+49,"Lewis, Leslie R",ANTH 128B - CAS: Capstone Project (A),SP22,14,6,100.0%,100.0%,6.83,B+ (3.67),
+50,"Marchetto, Maria Carolina",ANTH 2 - Human Origins (A),SP22,124,43,90.2%,97.5%,3.94,A- (3.73),B+ (3.42)
+51,"Kennemore, Amy Michelle",ANTH 21 - Race and Racisms (A),SP22,140,55,88.7%,98.1%,4.17,A- (3.78),B+ (3.64)
+52,"Kurian, Amrita Achamma",ANTH 23 - Debating Multiculturalism (A),SP22,137,55,96.0%,96.0%,3.3,A- (3.80),B+ (3.54)
+53,"Levy, Thomas E",ANTH 3 - Global Archaeology (A),SP22,79,22,95.2%,95.2%,3.74,A- (3.86),B+ (3.65)
+54,"Bialecki, Jon Anthony",ANTH 1 - Introduction to Culture (A),WI22,123,61,93.2%,96.6%,3.14,B+ (3.41),B+ (3.53)
+55,"Fox, Patrick Keolu Ozer",ANTH 102 - Humans Are Cultural Animals (A),WI22,150,79,64.5%,52.0%,3.49,B+ (3.55),A- (3.76)
+56,"Jones, Ian William Nasser","ANTH 105 - Climate Change, Race,& Inequal (A)",WI22,34,18,94.1%,94.1%,5.5,B (3.13),B (3.18)
+57,"Jones, Ian William Nasser",ANTH 106 - Climate and Civilization (A),WI22,20,7,100.0%,100.0%,5.5,B+ (3.33),B+ (3.68)
+58,"Parish, Steven Martin",ANTH 110 - The Climate Change Seminar (A),WI22,12,3,100.0%,100.0%,6.5,A (4.00),
+59,"Bialecki, Jon Anthony",ANTH 111 - Religion&Ecology/Anthropocene (A),WI22,12,4,100.0%,100.0%,3.0,A- (3.75),
+60,"Lewis, Leslie R",ANTH 128A - CAS: Community Engaged Resrch (B),WI22,14,5,100.0%,100.0%,4.1,A- (3.80),
+61,"Non, Amy L",ANTH 196B - Honors Studies in Anthropology (A),WI22,5,3,100.0%,100.0%,5.83,B+ (3.67),
+62,"Borrero, Mario Ricardo",ANTH 21 - Race and Racisms (A),WI22,72,50,95.9%,97.9%,3.74,A- (3.80),B+ (3.47)
+63,"Berman, Michael David",ANTH 21 - Race and Racisms (B),WI22,107,46,100.0%,100.0%,3.03,A- (3.84),A- (3.80)
+64,"Kurian, Amrita Achamma",ANTH 21 - Race and Racisms (B),WI22,107,46,100.0%,100.0%,3.03,A- (3.84),A- (3.80)
+65,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),WI22,97,77,90.9%,96.1%,3.11,B+ (3.66),B+ (3.56)
+66,"Non, Amy L",ANTH 87 - Freshman Seminar (A),WI22,20,9,100.0%,100.0%,1.0,,
+67,"Stewart, Alexander B",ANTH 10 - Climate Justice (A),FA21,31,14,92.9%,83.3%,3.93,A- (3.86),B+ (3.67)
+68,"Goldstein, Paul S",ANTH 101 - Foundations/Social Complexity (A),FA21,116,38,88.2%,85.3%,4.09,B+ (3.55),B+ (3.61)
+69,"Jones, Ian William Nasser","ANTH 108 - IndigPpls, Develop,& ClimChng (A)",FA21,24,10,100.0%,100.0%,8.94,B+ (3.67),B+ (3.65)
+70,"Fortier, Jana","ANTH 109 - ClimChng,CultHertage,&Vulnrabl (A)",FA21,23,7,100.0%,100.0%,4.21,A (4.00),A- (3.73)
+71,"Non, Amy L",ANTH 196A - Honors Studies in Anthropology (A),FA21,6,4,100.0%,100.0%,7.5,A- (3.75),
+72,"Wilder, Linnea Lorene",ANTH 2 - Human Origins (A),FA21,206,88,90.6%,96.4%,4.71,B (3.21),B- (2.78)
+73,"Kennemore, Amy Michelle",ANTH 21 - Race and Racisms (A),FA21,123,50,83.0%,100.0%,4.89,B+ (3.49),A- (3.78)
+74,"Kang, Byung Chu",ANTH 21 - Race and Racisms (B),FA21,311,163,97.5%,99.4%,3.67,A- (3.93),A- (3.83)
+75,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),FA21,204,129,88.1%,96.8%,4.38,B+ (3.66),B+ (3.65)
+76,"Berman, Michael David",ANTH 23 - Debating Multiculturalism (B),FA21,72,50,100.0%,100.0%,2.79,A- (3.98),A- (3.87)
+77,"Yeh, Rihan Wen Xin",ANTH 4 - Words/Worlds/Intro to AN/Lang (A),FA21,32,23,87.0%,91.3%,3.98,B+ (3.53),B (3.15)
+78,"Jordan, David K.",ANTH 87 - Freshman Seminar (A),FA21,16,12,91.7%,91.7%,1.0,A (4.00),
+79,"Jordan, David K.",ANTH 87 - Freshman Seminar (B),FA21,16,9,100.0%,100.0%,2.94,A (4.00),
+80,"Varma, Saiba",ANTH 87 - Freshman Seminar (C),FA21,14,8,100.0%,100.0%,0.75,,
+81,"Algaze, Guillermo",ANTH 101 - Foundations/Social Complexity (B),S221,18,3,100.0%,100.0%,5.17,B+ (3.67),
+82,"Hrvoj Mihic, Branka",ANTH 102 - Humans Are Cultural Animals (A),S221,25,3,100.0%,66.7%,2.5,A (4.00),B (3.21)
+83,"Stewart, Alexander B","ANTH 105 - Climate Change, Race,& Inequal (A)",S221,24,8,87.5%,87.5%,5.5,A (4.00),B+ (3.38)
+84,"Nippoldt, Lauren Jean",ANTH 21 - Race and Racisms (B),S221,20,8,100.0%,100.0%,5.75,A- (3.88),A- (3.71)
+85,"Villavicencio Miranda, Marianinna",ANTH 23 - Debating Multiculturalism (B),S221,19,5,100.0%,100.0%,4.5,B (3.20),
+86,"Jassal, Aftab",ANTH 1 - Introduction to Culture (A),S121,16,8,100.0%,100.0%,4.25,A (4.00),
+87,"Hallingstad Obrien, Dylan Jam",ANTH 103 - Sociocultural Anthropology (A),S121,20,16,100.0%,100.0%,4.63,A- (3.71),B+ (3.34)
+88,"Wilder, Linnea Lorene",ANTH 2 - Human Origins (B),S121,19,5,100.0%,100.0%,4.0,B+ (3.67),
+89,"Arani, Alexia Alisabeth",ANTH 21 - Race and Racisms (B),S121,29,9,100.0%,100.0%,6.72,A- (3.78),B+ (3.62)
+90,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (B),S121,19,5,100.0%,100.0%,6.5,B+ (3.50),
+91,"Brenner, Suzanne A",ANTH 103 - Sociocultural Anthropology (A),SP21,100,36,91.7%,100.0%,5.28,A- (3.91),B+ (3.59)
+92,"Stroth, Luke Reyneri",ANTH 106 - Climate and Civilization (A),SP21,28,15,100.0%,100.0%,4.37,A- (3.79),B+ (3.66)
+93,"Non, Amy L",ANTH 192 - Senior Seminar in Anthropology (A),SP21,7,4,100.0%,100.0%,0.5,A (4.00),
+94,"Jenkins, Janis A.",ANTH 192 - Senior Seminar in Anthropology (B),SP21,11,4,100.0%,100.0%,0.5,,
+95,"Wilder, Linnea Lorene",ANTH 2 - Human Origins (A),SP21,85,27,92.6%,77.8%,3.24,B+ (3.58),B- (2.81)
+96,"Borrero, Mario Ricardo",ANTH 21 - Race and Racisms (A),SP21,123,77,89.5%,93.4%,3.89,A- (3.71),B+ (3.40)
+97,"Villavicencio Miranda, Marianinna",ANTH 23 - Debating Multiculturalism (A),SP21,28,21,90.0%,100.0%,3.45,A- (3.83),B+ (3.51)
+98,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (B),SP21,61,43,83.7%,95.3%,3.24,B+ (3.64),A- (3.73)
+99,"Kaiser, Bronwyn Nicole",ANTH 25 - Research In Anthropology (A),SP21,9,8,100.0%,100.0%,2.5,A- (3.88),
+100,"Levy, Thomas E",ANTH 3 - Global Archaeology (A),SP21,78,22,95.2%,95.2%,3.59,A- (3.76),A- (3.70)
+101,"Yeh, Rihan Wen Xin",ANTH 87 - Freshman Seminar (C),SP21,10,5,100.0%,100.0%,3.0,B+ (3.67),
+102,"Wu, Hua",ANTH 1 - Introduction to Culture (A),WI21,93,38,97.3%,97.3%,2.77,A- (3.86),B+ (3.61)
+103,"Hrvoj Mihic, Branka",ANTH 102 - Humans Are Cultural Animals (A),WI21,141,65,84.4%,93.8%,4.81,B+ (3.53),B+ (3.51)
+104,"Parish, Steven Martin",ANTH 110 - The Climate Change Seminar (A),WI21,16,5,100.0%,80.0%,4.5,A (4.00),
+105,"Bialecki, Jon Anthony",ANTH 111 - Religion&Ecology/Anthropocene (A),WI21,17,9,100.0%,100.0%,5.17,A- (3.86),
+106,"Non, Amy L",ANTH 196B - Honors Studies in Anthropology (A),WI21,11,3,100.0%,100.0%,6.5,B+ (3.67),
+107,"Kurian, Amrita Achamma",ANTH 21 - Race and Racisms (A),WI21,122,63,96.8%,96.8%,3.77,A- (3.80),B+ (3.38)
+108,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),WI21,64,49,95.9%,95.9%,3.68,B+ (3.64),B+ (3.65)
+109,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (B),WI21,79,60,88.1%,100.0%,3.87,B+ (3.68),B+ (3.55)
+110,"Varma, Saiba",ANTH 87 - Freshman Seminar (A),WI21,9,8,100.0%,100.0%,2.25,A (4.00),
+111,"Goldstein, Paul S",ANTH 101 - Foundations/Social Complexity (A),FA20,43,16,81.3%,100.0%,2.63,B+ (3.43),A- (3.70)
+112,"Goldstein, Paul S",ANTH 101 - Foundations/Social Complexity (B),FA20,33,13,100.0%,100.0%,4.81,B+ (3.46),B+ (3.64)
+113,"Goldstein, Paul S",ANTH 101 - Foundations/Social Complexity (C),FA20,15,6,100.0%,100.0%,6.17,B+ (3.40),
+114,"Jones, Ian William Nasser","ANTH 105 - Climate Change, Race,& Inequal (A)",FA20,39,19,100.0%,100.0%,4.61,B+ (3.65),B+ (3.31)
+115,"Hrvoj Mihic, Branka",ANTH 2 - Human Origins (A),FA20,201,100,95.9%,97.9%,3.97,B+ (3.61),B (3.10)
+116,"Kennemore, Amy Michelle",ANTH 21 - Race and Racisms (A),FA20,97,65,92.2%,95.3%,5.08,A- (3.75),A- (3.85)
+117,"Kang, Byung Chu",ANTH 21 - Race and Racisms (B),FA20,302,200,98.0%,96.5%,3.95,A- (3.88),B+ (3.65)
+118,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),FA20,223,187,91.8%,98.9%,4.01,B+ (3.67),A- (3.74)
+119,"Berman, Michael David",ANTH 23 - Debating Multiculturalism (B),FA20,71,48,97.9%,100.0%,3.17,A- (3.83),A- (3.90)
+120,"Varma, Saiba",ANTH 87 - Freshman Seminar (A),FA20,19,15,100.0%,100.0%,0.9,A (4.00),
+121,"Clausing, Elizabeth Sarah Frances",ANTH 102 - Humans Are Cultural Animals (A),S220,31,5,80.0%,80.0%,4.5,A (4.00),B+ (3.69)
+122,"Hanson, Kari Lynne",ANTH 2 - Human Origins (A),S220,36,13,76.9%,75.0%,4.81,B+ (3.64),B+ (3.70)
+123,"Kennemore, Amy Michelle",ANTH 21 - Race and Racisms (A),S220,28,13,83.3%,100.0%,6.33,A- (3.89),A- (3.90)
+124,"Villavicencio, Marianinna",ANTH 23 - Debating Multiculturalism (A),S220,21,4,100.0%,100.0%,6.5,A- (3.75),B+ (3.60)
+125,"Varma, Saiba",ANTH 1 - Introduction to Culture (A),S120,22,8,87.5%,87.5%,5.5,B+ (3.38),B+ (3.38)
+126,"Algaze, Guillermo",ANTH 101 - Foundations/Social Complexity (A),S120,20,6,83.3%,83.3%,5.83,A (4.00),B+ (3.36)
+127,"Arani, Alexia Alisabeth",ANTH 21 - Race and Racisms (A),S120,49,10,100.0%,100.0%,3.3,A (4.00),A- (3.76)
+128,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),S120,28,4,100.0%,100.0%,5.5,B+ (3.67),B+ (3.32)
+129,"Rivera-Collazo, Isabel C",ANTH 3 - Global Archaeology (A),S120,24,15,93.3%,100.0%,3.57,B+ (3.53),B+ (3.53)
+130,"Non, Amy L",ANTH 43 - Intro/Bio & Culture of Race (A),S120,27,15,93.3%,100.0%,5.83,B+ (3.43),B (3.25)
+131,"Bialecki, Jon Anthony",ANTH 103 - Sociocultural Anthropology (A),SP20,102,34,97.0%,100.0%,3.77,B+ (3.61),A- (3.82)
+132,"Jones, Ian William Nasser","ANTH 105 - Climate Change, Race,& Inequal (A)",SP20,24,13,100.0%,100.0%,3.42,A- (3.73),A- (3.72)
+133,"Parish, Steven Martin",ANTH 110 - The Climate Change Seminar (A),SP20,15,5,100.0%,100.0%,2.5,A (4.00),
+134,"Wilder, Linnea Lorene",ANTH 2 - Human Origins (A),SP20,118,37,77.8%,86.1%,3.94,B (3.16),B (3.10)
+135,"Dalla Dea, Ariane Lumena",ANTH 21 - Race and Racisms (A),SP20,143,58,89.5%,91.2%,3.45,A- (3.90),A- (3.96)
+136,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),SP20,108,51,96.0%,98.0%,3.94,A- (3.78),A- (3.74)
+137,"Algaze, Guillermo",ANTH 3 - Global Archaeology (A),SP20,68,20,90.0%,90.0%,4.2,B+ (3.42),B+ (3.62)
+138,"Non, Amy L",ANTH 87 - Freshman Seminar (A),SP20,20,17,100.0%,100.0%,1.13,A (4.00),
+139,"Goldstein, Paul S",ANTH 87 - Freshman Seminar (B),SP20,11,6,100.0%,100.0%,0.83,,
+140,"Varma, Saiba",ANTH 1 - Introduction to Culture (A),WI20,78,52,96.2%,98.1%,3.35,B+ (3.65),B+ (3.60)
+141,"Hrvoj Mihic, Branka",ANTH 102 - Humans Are Cultural Animals (A),WI20,170,63,93.5%,93.4%,3.44,A- (3.71),B+ (3.64)
+142,"Jones, Ian William Nasser",ANTH 106 - Climate and Civilization (A),WI20,19,5,100.0%,100.0%,3.7,B+ (3.60),
+143,"Bialecki, Jon Anthony",ANTH 111 - Religion&Ecology/Anthropocene (A),WI20,10,3,100.0%,100.0%,5.17,B+ (3.50),
+144,"Dalla Dea, Ariane Lumena",ANTH 21 - Race and Racisms (A),WI20,160,119,88.9%,79.1%,3.66,A- (3.86),A- (3.72)
+145,"Ramirez, Belinda Cherie",ANTH 21 - Race and Racisms (B),WI20,19,12,100.0%,100.0%,3.0,B+ (3.55),
+146,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),WI20,54,40,75.0%,92.5%,3.1,B+ (3.40),B+ (3.31)
+147,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (B),WI20,101,62,96.7%,100.0%,3.17,B+ (3.64),B+ (3.31)
+148,"Wilder, Linnea Lorene",ANTH 5 - Human Machine:Skeleton Within (A),WI20,23,8,100.0%,100.0%,3.75,B+ (3.57),B+ (3.64)
+149,"Goldstein, Paul S",ANTH 101 - Foundations/Social Complexity (A),FA19,140,53,78.0%,84.0%,4.18,B+ (3.52),B+ (3.56)
+150,"Non, Amy L",ANTH 196A - Honors Studies in Anthropology (A),FA19,8,6,100.0%,100.0%,6.5,A- (3.83),
+151,"Hrvoj Mihic, Branka",ANTH 2 - Human Origins (A),FA19,206,105,89.0%,91.8%,3.47,B (3.15),B (3.21)
+152,"Dalla Dea, Ariane Lumena",ANTH 21 - Race and Racisms (A),FA19,128,55,72.5%,64.0%,2.89,A- (3.85),B+ (3.62)
+153,"Jones, Ian William Nasser",ANTH 21 - Race and Racisms (B),FA19,370,301,95.9%,97.2%,3.91,A- (3.85),A- (3.87)
+154,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),FA19,248,199,91.5%,96.4%,3.35,B+ (3.54),B+ (3.41)
+155,"Borrero, Mario Ricardo",ANTH 23 - Debating Multiculturalism (B),FA19,94,73,89.9%,94.1%,3.54,B+ (3.51),B (3.24)
+156,"Non, Amy L",ANTH 87 - Freshman Seminar (A),FA19,13,8,100.0%,100.0%,0.79,,
+157,"Wilder, Linnea Lorene",ANTH 2 - Human Origins (A),S219,19,4,100.0%,100.0%,3.0,A (4.00),
+158,"Kennemore, Amy Michelle",ANTH 21 - Race and Racisms (A),S219,12,6,100.0%,100.0%,5.83,A- (3.80),
+159,"Russell, Whitney Lauren",ANTH 23 - Debating Multiculturalism (A),S219,27,16,100.0%,100.0%,5.0,B+ (3.64),A (4.00)
+160,"Liss, Brady James",ANTH 3 - Global Archaeology (A),S219,16,7,100.0%,100.0%,4.79,A- (3.71),
+161,"Howland, Matthew David",ANTH 101 - Foundations/Social Complexity (A),S119,17,3,100.0%,100.0%,3.83,A (4.00),
+162,"Hrvoj Mihic, Branka",ANTH 102 - Humans Are Cultural Animals (A),S119,30,13,100.0%,100.0%,3.12,A- (3.77),B+ (3.34)
+163,"Kurian, Amrita Achamma",ANTH 21 - Race and Racisms (A),S119,25,19,89.5%,88.9%,5.24,B (3.08),B (3.00)
+164,"Brenner, Suzanne A",ANTH 103 - Sociocultural Anthropology (A),SP19,142,52,86.3%,80.4%,4.07,B+ (3.57),B+ (3.36)
+165,"Semendeferi, Ekaterini",ANTH 192 - Senior Seminar in Anthropology (A),SP19,11,8,100.0%,100.0%,1.0,A (4.00),
+166,"Semendeferi, Ekaterini",ANTH 196C - Honors Studies in Anthropology (A),SP19,4,3,100.0%,100.0%,3.83,A (4.00),
+167,"Hrvoj Mihic, Branka",ANTH 2 - Human Origins (A),SP19,178,87,78.0%,90.0%,3.65,B (3.02),B (3.04)
+168,"Balaswaminathan, Sowparnika",ANTH 21 - Race and Racisms (A),SP19,164,60,84.9%,94.2%,2.8,B+ (3.65),B+ (3.43)
+169,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),SP19,162,118,87.2%,94.9%,3.01,B+ (3.43),B (3.18)
+170,"Kang, Byung Chu",ANTH 44 - New Media in the Korean Wave (A),SP19,71,43,97.6%,97.6%,1.62,A- (3.87),A- (3.74)
+171,"Semendeferi, Ekaterini",ANTH 87 - Freshman Seminar (A),SP19,13,9,100.0%,100.0%,0.5,,
+172,"Bialecki, Jon Anthony",ANTH 1 - Introduction to Culture (A),WI19,63,28,88.9%,92.6%,2.94,B+ (3.54),B+ (3.41)
+173,"Wilder, Linnea Lorene",ANTH 102 - Humans Are Cultural Animals (A),WI19,137,60,96.5%,93.0%,2.91,B+ (3.62),B+ (3.67)
+174,"Semendeferi, Ekaterini",ANTH 196B - Honors Studies in Anthropology (A),WI19,10,3,100.0%,100.0%,9.83,A (4.00),
+175,"Rothschild, Amy C",ANTH 21 - Race and Racisms (A),WI19,145,47,97.8%,97.8%,2.94,A- (3.79),B+ (3.42)
+176,"Berman, Michael David",ANTH 21 - Race and Racisms (B),WI19,147,89,92.9%,94.0%,2.48,A- (3.70),B+ (3.58)
+177,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),WI19,235,176,84.5%,95.4%,3.03,B+ (3.54),B (3.19)
+178,"Kang, Byung Chu",ANTH 87 - Freshman Seminar (B),WI19,16,8,100.0%,87.5%,0.5,A (4.00),
+179,"Jordan, David K.",ANTH 87 - Freshman Seminar (C),WI19,11,7,100.0%,100.0%,2.21,A (4.00),
+180,"Jordan, David K.",ANTH 87 - Freshman Seminar (D),WI19,10,7,100.0%,100.0%,1.07,A (4.00),
+181,"Goldstein, Paul S",ANTH 101 - Foundations/Social Complexity (A),FA18,137,73,81.2%,79.1%,4.0,B+ (3.33),B+ (3.35)
+182,"Semendeferi, Ekaterini",ANTH 196A - Honors Studies in Anthropology (A),FA18,13,4,100.0%,100.0%,7.0,A (4.00),
+183,"Rothschild, Amy C",ANTH 21 - Race and Racisms (A),FA18,212,96,94.7%,97.8%,3.01,B+ (3.58),B+ (3.54)
+184,"Kang, Byung Chu",ANTH 21 - Race and Racisms (B),FA18,314,214,94.2%,93.7%,3.36,A- (3.82),A- (3.73)
+185,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),FA18,407,351,87.9%,95.6%,3.53,B+ (3.58),B+ (3.42)
+186,"Rivera-Collazo, Isabel C",ANTH 3 - Global Archaeology (A),FA18,66,47,95.7%,100.0%,3.14,B+ (3.49),B (3.17)
+187,"Semendeferi, Ekaterini",ANTH 87 - Freshman Seminar (A),FA18,17,13,100.0%,100.0%,0.5,A (4.00),
+188,"Liss, Brady James",ANTH 101 - Foundations/Social Complexity (A),S218,21,13,100.0%,100.0%,3.83,B (3.17),B- (2.83)
+189,"Wilder, Linnea Lorene",ANTH 102 - Humans Are Cultural Animals (A),S118,38,13,100.0%,83.3%,2.81,B+ (3.50),A- (3.72)
+190,"Hrvoj Mihic, Branka",ANTH 2 - Human Origins (A),S118,21,7,85.7%,100.0%,4.17,A- (3.75),B+ (3.58)
+191,"Kurian, Amrita Achamma",ANTH 21 - Race and Racisms (A),S118,28,14,78.6%,100.0%,8.21,B+ (3.33),B (3.07)
+192,"Kennemore, Amy Michelle",ANTH 23 - Debating Multiculturalism (A),S118,25,21,95.2%,100.0%,5.83,B+ (3.50),A- (3.76)
+193,"Brenner, Suzanne A",ANTH 103 - Sociocultural Anthropology (A),SP18,139,55,81.5%,83.3%,4.46,B+ (3.62),B+ (3.63)
+194,"Semendeferi, Ekaterini",ANTH 192 - Senior Seminar in Anthropology (A),SP18,12,8,85.7%,85.7%,1.75,A (4.00),
+195,"Semendeferi, Ekaterini",ANTH 196C - Honors Studies in Anthropology (A),SP18,6,5,80.0%,100.0%,10.5,A (4.00),
+196,"Bennallack, Kathleen Celia",ANTH 21 - Race and Racisms (A),SP18,188,61,81.0%,71.9%,2.64,A- (3.80),B+ (3.60)
+197,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),SP18,169,133,86.7%,93.8%,3.02,B+ (3.63),B+ (3.46)
+198,"Levy, Thomas E",ANTH 3 - Global Archaeology (A),SP18,56,25,90.9%,90.9%,2.75,B+ (3.65),A- (3.72)
+199,"Non, Amy L",ANTH 43 - Intro/Bio & Culture of Race (A),SP18,50,34,84.8%,93.9%,3.5,B+ (3.57),B (3.19)
+200,"Bialecki, Jon Anthony",ANTH 1 - Introduction to Culture (A),WI18,52,26,87.0%,91.3%,3.37,B+ (3.57),B+ (3.43)
+201,"Lafleur, Marni M",ANTH 102 - Humans Are Cultural Animals (A),WI18,140,68,82.1%,89.4%,3.34,A- (3.82),B+ (3.59)
+202,"Olivas Hernandez, Olga Lid",ANTH 21 - Race and Racisms (A),WI18,113,46,77.8%,84.1%,2.77,A- (3.79),A- (3.74)
+203,"Duzel, Esin",ANTH 21 - Race and Racisms (B),WI18,200,163,79.1%,89.6%,3.1,B+ (3.61),B+ (3.53)
+204,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),WI18,210,187,88.0%,91.8%,3.38,B+ (3.60),A- (3.72)
+205,"Semendeferi, Ekaterini",ANTH 87 - Freshman Seminar (A),WI18,12,10,100.0%,100.0%,0.5,A (4.00),
+206,"Jordan, David K.",ANTH 87 - Freshman Seminar (B),WI18,14,10,88.9%,88.9%,1.3,,
+207,"Jordan, David K.",ANTH 87 - Freshman Seminar (C),WI18,13,9,100.0%,100.0%,1.17,,
+208,"Goldstein, Paul S",ANTH 101 - Foundations/Social Complexity (A),FA17,135,64,78.3%,78.3%,3.52,B+ (3.40),B+ (3.49)
+209,"Semendeferi, Ekaterini",ANTH 196A - Honors Studies in Anthropology (A),FA17,18,3,100.0%,100.0%,11.17,A (4.00),
+210,"Lafleur, Marni M",ANTH 2 - Human Origins (A),FA17,179,96,92.2%,96.7%,3.01,B+ (3.41),B- (2.91)
+211,"Kang, Byung Chu",ANTH 21 - Race and Racisms (A),FA17,280,212,97.1%,99.5%,2.63,A- (3.95),A- (3.81)
+212,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),FA17,312,270,83.5%,94.0%,3.69,B+ (3.41),B+ (3.60)
+213,"Duzel, Esin",ANTH 23 - Debating Multiculturalism (B),FA17,191,173,84.4%,92.4%,3.45,A- (3.74),B+ (3.68)
+214,"Kang, Byung Chu",ANTH 87 - Freshman Seminar (A),FA17,16,10,100.0%,100.0%,0.94,A (4.00),
+215,"Semendeferi, Ekaterini",ANTH 87 - Freshman Seminar (B),FA17,18,14,92.3%,92.3%,0.5,A (4.00),
+216,"Parish, Steven Martin",ANTH 21 - Race and Racisms (A),S217,30,4,100.0%,100.0%,2.5,B (3.00),B+ (3.50)
+217,"Kennemore, Amy Michelle",ANTH 23 - Debating Multiculturalism (A),S217,41,11,72.7%,90.9%,8.32,A- (3.88),
+218,"Wilder, Linnea Lorene",ANTH 2 - Human Origins (A),S117,17,7,100.0%,100.0%,6.21,A- (3.75),
+219,"Rothschild, Amy C",ANTH 21 - Race and Racisms (A),S117,36,17,93.8%,100.0%,5.38,B+ (3.64),B+ (3.37)
+220,"Brenner, Suzanne A",ANTH 103 - Sociocultural Anthropology (A),SP17,65,34,81.8%,84.8%,4.5,B+ (3.52),B+ (3.56)
+221,"Semendeferi, Ekaterini",ANTH 196C - Honors Studies in Anthropology (A),SP17,6,4,100.0%,100.0%,2.5,A (4.00),
+222,"Garth, Hanna Fitzmaurice",ANTH 21 - Race and Racisms (A),SP17,220,162,86.8%,88.7%,3.83,B (3.29),B (3.27)
+223,"Itzhak, Nofit",ANTH 23 - Debating Multiculturalism (A),SP17,148,55,78.0%,64.0%,3.7,B+ (3.58),B (3.10)
+224,"Duzel, Esin",ANTH 23 - Debating Multiculturalism (C),SP17,35,7,100.0%,100.0%,3.64,B+ (3.67),B+ (3.31)
+225,"Levy, Thomas E",ANTH 3 - Global Archaeology (A),SP17,51,14,100.0%,100.0%,2.21,A- (3.86),B+ (3.60)
+226,"Duzel, Esin",ANTH 1 - Introduction to Culture (A),WI17,66,25,95.8%,95.8%,4.67,A- (3.91),B+ (3.42)
+227,"Beasley, Melanie Marie",ANTH 102 - Humans Are Cultural Animals (A),WI17,81,73,90.4%,98.6%,4.78,B+ (3.41),B+ (3.60)
+228,"Kang, Byung Chu",ANTH 21 - Race and Racisms (A),WI17,190,76,87.1%,82.9%,2.53,A- (3.77),A- (3.73)
+229,"Duzel, Esin",ANTH 23 - Debating Multiculturalism (A),WI17,94,45,80.5%,73.2%,3.91,B+ (3.69),B+ (3.38)
+230,"Klimova, Julia Germanovna",ANTH 23 - Debating Multiculturalism (B),WI17,225,96,83.7%,62.8%,3.08,A- (3.77),B+ (3.56)
+231,"Jordan, David K.",ANTH 87 - Freshman Seminar (A),WI17,16,10,100.0%,90.0%,2.1,,
+232,"Jordan, David K.",ANTH 87 - Freshman Seminar (B),WI17,8,6,100.0%,100.0%,1.5,,
+233,"Goldstein, Paul S",ANTH 87 - Freshman Seminar (C),WI17,10,4,75.0%,75.0%,0.5,,
+234,"Goldstein, Paul S",ANTH 101 - Foundations/Social Complexity (A),FA16,101,45,87.8%,87.8%,4.6,B+ (3.50),B+ (3.36)
+235,"Beasley, Melanie Marie",ANTH 2 - Human Origins (A),FA16,154,147,94.5%,93.8%,4.03,B+ (3.32),B (3.15)
+236,"Klimova, Julia Germanovna",ANTH 21 - Race and Racisms (A),FA16,274,143,85.4%,83.1%,3.25,B+ (3.63),B+ (3.41)
+237,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),FA16,269,219,84.4%,91.5%,3.64,B+ (3.56),B+ (3.62)
+238,"Itzhak, Nofit",ANTH 23 - Debating Multiculturalism (B),FA16,271,159,66.2%,77.7%,4.1,B (3.29),B (3.06)
+239,"Parish, Steven Martin",ANTH 87 - Freshman Seminar (B),FA16,15,9,100.0%,100.0%,0.79,A (4.00),
+240,"Hagerman, Kiri Louise",ANTH 2 - Human Origins (A),S216,14,9,88.9%,100.0%,4.25,B (3.00),
+241,"Parish, Steven Martin",ANTH 21 - Race and Racisms (A),S216,39,9,87.5%,50.0%,4.0,B+ (3.50),A- (3.80)
+242,"Balaswaminathan, Sowparnika",ANTH 23 - Debating Multiculturalism (A),S216,39,11,81.8%,100.0%,6.14,B+ (3.36),B- (2.95)
+243,"Hrvoj Mihic, Branka",ANTH 101 - Foundations/Social Complexity (A),S116,10,6,66.7%,100.0%,8.83,B+ (3.40),
+244,"Butt, Waqas H",ANTH 21 - Race and Racisms (A),S116,34,7,83.3%,100.0%,6.17,B (3.00),B (3.24)
+245,"Fortier, Jana",ANTH 103 - Sociocultural Anthropology (A),SP16,83,41,65.0%,57.5%,4.35,B+ (3.34),B (3.21)
+246,"Semendeferi, Ekaterini",ANTH 196C - Honors Studies in Anthropology (A),SP16,4,4,100.0%,100.0%,6.0,A (4.00),
+247,"Klimova, Julia Germanovna",ANTH 21 - Race and Racisms (A),SP16,194,84,89.5%,88.2%,3.16,B+ (3.51),B (3.25)
+248,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),SP16,152,114,84.1%,91.2%,3.25,B+ (3.51),B+ (3.48)
+249,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (B),SP16,184,135,90.9%,94.7%,3.45,B+ (3.61),B+ (3.60)
+250,"Levy, Thomas E",ANTH 3 - World Prehistory (A),SP16,34,18,77.8%,94.4%,2.61,B+ (3.69),B (3.17)
+251,"Goldstein, Paul S",ANTH 87 - Freshman Seminar (A),SP16,7,4,66.7%,100.0%,0.5,,
+252,"Fortier, Jana",ANTH 1 - Introduction to Culture (A),WI16,72,44,70.7%,75.6%,3.87,B+ (3.33),B (3.12)
+253,"Lafleur, Marni M",ANTH 102 - Humans Are Cultural Animals (A),WI16,104,55,98.1%,98.1%,3.69,B+ (3.67),B+ (3.68)
+254,"Klimova, Julia Germanovna",ANTH 21 - Race and Racisms (A),WI16,207,84,89.5%,86.8%,2.42,B+ (3.65),B+ (3.53)
+255,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),WI16,196,171,75.6%,89.3%,3.24,B+ (3.48),B+ (3.60)
+256,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (B),WI16,189,154,80.9%,94.7%,3.47,B+ (3.53),B+ (3.60)
+257,"Jordan, David K.",ANTH 87 - Freshman Seminar (A),WI16,14,11,100.0%,100.0%,1.05,,
+258,"Jordan, David K.",ANTH 87 - Freshman Seminar (B),WI16,13,10,100.0%,100.0%,1.17,A (4.00),
+259,"Goldstein, Paul S",ANTH 101 - Foundations/Social Complexity (A),FA15,96,43,76.7%,79.1%,3.83,B+ (3.41),B (3.29)
+260,"Lafleur, Marni M",ANTH 2 - Human Origins (A),FA15,140,73,94.4%,98.6%,3.65,B+ (3.50),B (3.12)
+261,"Klimova, Julia Germanovna",ANTH 21 - Race and Racisms (A),FA15,181,78,90.1%,70.4%,4.27,A- (3.73),B+ (3.52)
+262,"Lewis, Leslie R",ANTH 23 - Debating Multiculturalism (A),FA15,295,124,92.2%,92.2%,3.95,A- (3.76),B+ (3.68)
+263,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (B),FA15,217,89,80.7%,85.5%,4.09,B+ (3.42),B+ (3.60)
+264,"Hanson, Kari Lynne",ANTH 2 - Human Origins (A),S215,23,12,100.0%,100.0%,5.0,A- (3.80),B+ (3.68)
+265,"Parish, Steven Martin",ANTH 21 - Race and Racisms (A),S215,40,14,100.0%,91.7%,5.33,A- (3.75),A- (3.96)
+266,"Garic-Humphrey, Natasa",ANTH 23 - Debating Multiculturalism (A),S215,51,12,81.8%,72.7%,5.23,B+ (3.63),B- (2.98)
+267,"Fontana, Erica L",ANTH 1 - Introduction to Culture (A),S115,23,10,100.0%,100.0%,4.28,A- (3.88),A- (3.89)
+268,"Saravia, Paula F",ANTH 21 - Race and Racisms (A),S115,32,8,87.5%,87.5%,5.5,A- (3.75),B+ (3.58)
+269,"Parker, Ian Nicholas",ANTH 23 - Debating Multiculturalism (A),S115,46,19,88.9%,83.3%,7.17,A- (3.78),B (3.28)
+270,"Hankins, Joseph D.",ANTH 103 - Social Anthropology (A),SP15,76,34,100.0%,100.0%,5.05,B+ (3.52),B (3.27)
+271,"Semendeferi, Ekaterini",ANTH 196C - Thesis Research (A),SP15,6,4,100.0%,100.0%,3.17,A (4.00),
+272,"Kramer, Elise A.",ANTH 23 - Debating Multiculturalism (A),SP15,383,148,82.4%,83.1%,2.76,B+ (3.64),B+ (3.50)
+273,"Pedersen, David",ANTH 23 - Debating Multiculturalism (B),SP15,30,11,70.0%,90.0%,3.39,B (3.14),B+ (3.43)
+274,"Levy, Thomas E",ANTH 3 - World Prehistory (A),SP15,52,23,82.6%,95.7%,2.85,B+ (3.47),B+ (3.33)
+275,"Jordan, David K.",ANTH 87 - Freshman Seminar (A),SP15,6,4,100.0%,100.0%,1.5,,
+276,"Jordan, David K.",ANTH 87 - Freshman Seminar (B),SP15,12,9,100.0%,100.0%,1.5,A (4.00),
+277,"Stewart, Alexander B",ANTH 1 - Introduction to Culture (A),WI15,94,70,85.5%,91.3%,4.32,B+ (3.61),B+ (3.37)
+278,"Lafleur, Marni M",ANTH 102 - Humans Are Cultural Animals (A),WI15,59,27,92.6%,88.9%,5.24,A- (3.72),B+ (3.57)
+279,"Novak, Jessica M",ANTH 21 - Race and Racisms (A),WI15,103,43,78.6%,85.7%,5.04,B+ (3.44),B (3.11)
+280,"Kramer, Elise A.",ANTH 23 - Debating Multiculturalism (A),WI15,267,111,92.2%,92.2%,3.19,B+ (3.63),B+ (3.35)
+281,"Goldstein, Paul S",ANTH 101 - Foundations/Social Complexity (A),FA14,103,47,88.4%,93.0%,4.88,B+ (3.48),B+ (3.44)
+282,"Lafleur, Marni M",ANTH 2 - Human Origins (A),FA14,179,114,88.5%,91.7%,3.89,B+ (3.61),B+ (3.45)
+283,"Lewis, Leslie R",ANTH 21 - Race and Racisms (A),FA14,188,94,96.3%,98.8%,4.25,A- (3.77),B+ (3.63)
+284,"Kramer, Elise A.",ANTH 23 - Debating Multiculturalism (A),FA14,387,180,91.6%,92.9%,3.64,B+ (3.66),B+ (3.44)
+285,"Somerville, Andrew D",ANTH 2 - Human Origins (A),S214,20,3,100.0%,100.0%,5.83,A (4.00),A- (3.82)
+286,"Tucker Sade, Alexis E",ANTH 21 - Race and Racisms (A),S214,36,11,88.9%,88.9%,4.5,A- (3.83),
+287,"Garic-Humphrey, Natasa",ANTH 23 - Debating Multiculturalism (A),S214,58,14,91.7%,83.3%,4.17,B+ (3.60),B (3.20)
+288,"Rothschild, Amy C",ANTH 1 - Introduction to Culture (A),S114,23,8,87.5%,87.5%,7.75,B+ (3.63),B+ (3.64)
+289,"Stewart, Alexander B",ANTH 23 - Debating Multiculturalism (A),S114,47,33,93.9%,97.0%,4.98,B+ (3.61),B (3.28)
+290,"Kramer, Elise A.",ANTH 103 - Social Anthropology (A),SP14,88,44,83.7%,76.7%,3.71,B+ (3.55),B+ (3.38)
+291,"Luna, Sarah L",ANTH 23 - Debating Multiculturalism (A),SP14,238,78,78.4%,81.1%,3.04,B+ (3.31),B- (2.89)
+292,"Levy, Thomas E",ANTH 3 - World Prehistory (A),SP14,80,36,74.2%,83.9%,2.76,B+ (3.44),B (3.07)
+293,"Pav, Brent R.",ANTH 42 - Study of Primates in Nature (A),SP14,27,9,88.9%,77.8%,4.06,B+ (3.50),B (3.17)
+294,"Jordan, David K.",ANTH 87 - Freshman Seminar (B),SP14,11,7,100.0%,100.0%,1.7,,
+295,"Pav, Brent R.",ANTH 102 - Humans Are Cultural Animals (A),WI14,86,39,92.1%,84.2%,3.91,B+ (3.46),B (3.26)
+296,"Algaze, Guillermo",ANTH 147 - Understanding/Human Social Ord (A),WI14,8,3,100.0%,100.0%,15.83,A (4.00),
+297,"Friedman, Jonathan A",ANTH 147 - Understanding/Human Social Ord (A),WI14,10,3,100.0%,100.0%,15.83,A (4.00),
+298,"Pav, Brent R.",ANTH 2 - Human Origins (A),WI14,139,74,88.2%,92.6%,3.91,B (3.07),B (3.29)
+299,"Luna, Sarah L",ANTH 21 - Race and Racisms (A),WI14,108,42,83.3%,78.6%,3.55,A- (3.77),B+ (3.57)
+300,"Lewis, Leslie R",ANTH 23 - Debating Multiculturalism (A),WI14,231,112,91.5%,95.3%,4.5,B+ (3.63),B+ (3.51)
+301,"Lewis, Leslie R",ANTH 1 - Introduction to Culture (A),FA13,192,105,92.9%,93.9%,4.19,B+ (3.62),B+ (3.55)
+302,"Goldstein, Paul S",ANTH 101 - Foundations/Social Complexity (A),FA13,93,43,85.7%,88.1%,4.5,B+ (3.63),B+ (3.69)
+303,"Pav, Brent R.",ANTH 21 - Race and Racisms (A),FA13,64,36,83.3%,86.1%,3.93,B+ (3.63),B+ (3.36)
+304,"Kramer, Elise A.",ANTH 23 - Debating Multiculturalism (A),FA13,394,172,82.9%,85.4%,3.23,B+ (3.48),B (3.21)
+305,"Postero, Nancy Grey",ANTH 87 - Freshman Seminar (A),FA13,6,5,100.0%,100.0%,4.9,,
+306,"Montesinos, Jorge Roberto",ANTH 1 - Introduction to Culture (A),S213,17,3,100.0%,100.0%,3.17,A (4.00),
+307,"Volta, Beniamino P",ANTH 101 - Foundations/Social Complexity (A),S113,10,5,100.0%,100.0%,3.5,A (4.00),
+308,"Beasley, Melanie Marie",ANTH 2 - Human Origins (A),S113,24,8,71.4%,100.0%,4.21,A (4.00),B (3.25)
+309,"Keyes, David G",ANTH 23 - Debating Multiculturalism (A),S113,52,19,84.2%,94.7%,6.61,A- (3.77),B+ (3.37)
+310,"Hankins, Joseph D.",ANTH 103 - Social Anthropology (A),SP13,81,42,90.2%,95.1%,5.05,B+ (3.67),B+ (3.56)
+311,"Sutton, Mark Quincey",ANTH 3 - World Prehistory (A),SP13,80,27,88.9%,92.6%,2.87,A- (3.87),A- (3.71)
+312,"Jordan, David K.",ANTH 87 - Freshman Seminar (A),SP13,24,12,66.7%,83.3%,2.67,A (4.00),
+313,"Wakefield, Monica",ANTH 102 - Humans Are Cultural Animals (A),WI13,107,46,82.2%,91.1%,5.26,B+ (3.39),B (3.04)
+314,"Algaze, Guillermo",ANTH 147 - Understanding/Human Social Ord (A),WI13,12,4,100.0%,100.0%,9.5,B+ (3.67),
+315,"Friedman, Jonathan K.",ANTH 147 - Understanding/Human Social Ord (A),WI13,12,4,100.0%,100.0%,8.5,B+ (3.67),
+316,"Wakefield, Monica",ANTH 2 - Human Origins (A),WI13,182,69,87.9%,95.5%,4.07,B (3.30),B (3.18)
+317,"Jordan, David K.",ANTH 87 - Freshman Seminar (A),WI13,15,12,100.0%,100.0%,1.5,A (4.00),
+318,"Goldsmith, Trevor A",ANTH 1 - Introduction to Culture (A),FA12,137,75,66.2%,52.3%,4.41,B+ (3.49),B (3.25)
+319,"Algaze, Guillermo",ANTH 101 - Foundations/Social Complexity (A),FA12,101,38,80.6%,91.4%,4.56,A- (3.71),B+ (3.31)
+320,"Ozyurek, Esra",ANTH 23 - Debating Multiculturalism (A),FA12,272,127,63.9%,50.0%,2.86,B+ (3.45),B+ (3.31)
+321,"Schoeninger, Margaret J",ANTH 5 - Intro Human Skeleton (A),FA12,52,25,90.9%,95.5%,4.6,B+ (3.42),B- (2.92)
+322,"Plunger, Elizabeth M",ANTH 101 - Foundations/Social Complexity (A),S212,19,6,100.0%,100.0%,6.17,A (4.00),
+323,"Peterson, Mary E.",ANTH 2 - Human Origins (A),S212,22,7,71.4%,100.0%,8.21,B+ (3.50),B (3.20)
+324,"Karis, Timothy Daniel",ANTH 23 - Debating Multiculturalism (A),S212,53,16,68.8%,87.5%,7.25,B (3.22),B (3.06)
+325,"Eliot, Krista Shawn",ANTH 1 - Introduction to Culture (A),S112,23,15,100.0%,86.7%,5.57,A- (3.79),B+ (3.62)
+326,"Algaze, Guillermo",ANTH 3 - World Prehistory (A),S112,15,6,100.0%,100.0%,5.17,B+ (3.33),
+327,"Bialecki, Jon Anthony",ANTH 103 - Social Anthropology (B),SP12,98,40,85.0%,92.5%,5.1,B+ (3.55),B+ (3.44)
+328,"Fortier, Jana",ANTH 3 - World Prehistory (B),SP12,80,33,75.8%,66.7%,4.44,B (3.24),B (3.04)
+329,"Wakefield, Monica",ANTH 42 - Study of Primates in Nature (A),SP12,34,16,100.0%,100.0%,4.38,B+ (3.53),B+ (3.34)
+330,"Postero, Nancy Grey",ANTH 87 - Freshman Seminar (A),SP12,11,3,100.0%,100.0%,1.83,,
+331,"Wakefield, Monica",ANTH 102 - Humans Are Cultural Animals (A),WI12,136,68,86.8%,97.1%,5.15,B+ (3.38),B (3.20)
+332,"Wakefield, Monica",ANTH 2 - Human Origins (A),WI12,166,89,83.0%,94.3%,4.99,B+ (3.43),B (3.17)
+333,"Fortier, Jana",ANTH 1 - Introduction to Culture (B),FA11,132,61,85.0%,80.0%,5.33,B+ (3.47),B- (2.85)
+334,"Algaze, Guillermo",ANTH 101 - Foundations/Social Complexity (A),FA11,136,69,84.1%,89.7%,5.63,B+ (3.58),B+ (3.38)
+335,"Pedersen, David",ANTH 23 - Debating Multiculturalism (A),FA11,158,70,42.9%,59.4%,5.46,B- (2.74),B- (2.74)
+336,"Jordan, David K.",ANTH 87 - Freshman Seminar (A),FA11,13,9,88.9%,100.0%,1.17,A (4.00),
+337,"Karis, Timothy Daniel",ANTH 1 - Introduction to Culture (A),S211,19,11,100.0%,90.9%,5.77,B+ (3.44),
+338,"Peterson, Mary E.",ANTH 2 - Human Origins (A),S211,20,18,94.1%,94.1%,6.17,B (3.24),B+ (3.47)
+339,"Haynes, Naomi Rae",ANTH 23 - Debating Multiculturalism (A),S111,17,7,100.0%,100.0%,6.21,B+ (3.67),
+340,"Algaze, Guillermo",ANTH 3 - World Prehistory (A),S111,21,12,75.0%,75.0%,3.5,A- (3.70),B+ (3.52)
+341,"Hankins, Joseph D.",ANTH 103 - Social Anthropology (A),SP11,129,93,96.7%,98.9%,5.7,B+ (3.64),B+ (3.56)
+342,"Hankins, Joseph D.",ANTH 21 - Race and Racisms (A),SP11,27,22,100.0%,100.0%,6.68,B+ (3.60),B- (2.92)
+343,"Carter, Tara D",ANTH 3 - World Prehistory (A),SP11,133,62,98.4%,100.0%,3.66,A- (3.72),B+ (3.65)
+344,"Jordan, David K.",ANTH 87 - Freshman Seminar (A),SP11,13,5,100.0%,100.0%,2.0,,
+345,"Wakefield, Monica",ANTH 102 - Humans Are Cultural Animals (A),WI11,112,63,93.7%,93.7%,5.87,B+ (3.54),B- (2.76)
+346,"Wakefield, Monica",ANTH 2 - Human Origins (A),WI11,166,73,72.6%,84.5%,4.61,B (3.17),B- (2.84)
+347,"Jordan, David K.",ANTH 87 - Freshman Seminar (A),WI11,14,10,100.0%,100.0%,2.9,,
+348,"Fortier, Jana",ANTH 1 - Introduction to Culture (A),FA10,206,104,84.6%,89.4%,4.29,B+ (3.38),B (3.13)
+349,"Goldstein, Paul S",ANTH 101 - Foundations/Social Complexity (A),FA10,144,76,78.9%,78.9%,4.71,B+ (3.41),B+ (3.31)
+350,"Pedersen, David",ANTH 23 - Debating Multiculturalism (A),FA10,165,81,71.8%,64.6%,3.78,B+ (3.39),B+ (3.46)
+351,"Goldstein, Paul S",ANTH 87 - Freshman Seminar (A),FA10,4,4,75.0%,100.0%,0.5,,
+352,"Jordan, David K.",ANTH 87 - Freshman Seminar (B),FA10,12,9,100.0%,88.9%,2.0,A (4.00),
+353,"Parish, Steven Martin",ANTH 87 - Freshman Seminar (C),FA10,16,7,100.0%,85.7%,1.07,A (4.00),
+354,"Thornton, Brendan Jamal",ANTH 1 - Introduction to Culture (A),SU10,20,6,100.0%,100.0%,3.5,A (4.00),
+355,"Wild, Kyleb D.",ANTH 2 - Human Origins (A),SU10,25,17,94.1%,94.1%,6.15,A- (3.87),
+356,"Miller, Katherine J.",ANTH 23 - Debating Multiculturalism (A),SU10,22,8,87.5%,87.5%,7.5,B+ (3.67),
+357,"Algaze, Guillermo",ANTH 3 - World Prehistory (A),SU10,19,3,100.0%,100.0%,3.83,B+ (3.67),
+358,"Barger, Nicole L.",ANTH 42 - Study of Primates in Nature (A),SU10,10,3,100.0%,100.0%,5.17,A (4.00),
+359,"Hankins, Joseph D.",ANTH 103 - Social Anthropology (A),SP10,123,87,96.6%,98.9%,5.83,B+ (3.49),B (3.21)
+360,"Muniz, Adolfo A",ANTH 3 - World Prehistory (A),SP10,94,52,86.3%,88.2%,3.81,B+ (3.41),B (3.07)
+361,"Moore, James J",ANTH 42 - Study of Primates in Nature (A),SP10,49,20,95.0%,95.0%,4.5,B (3.22),B (3.04)
+362,"Jordan, David K.",ANTH 87 - Freshman Seminar (A),SP10,17,11,90.9%,90.9%,0.86,,
+363,"Jenkins, Janis A.",ANTH 87 - Freshman Seminar (B),SP10,11,9,87.5%,100.0%,1.0,A (4.00),
+364,"Moore, James J",ANTH 87 - Freshman Seminar (E),SP10,13,6,66.7%,83.3%,0.5,,
+365,"Friedlander, Nancylee",ANTH 102 - Humans Are Cultural Animals (A),WI10,120,58,87.9%,89.7%,5.26,B+ (3.70),B+ (3.45)
+366,"Semendeferi, Ekaterini",ANTH 2 - Human Origins (A),WI10,202,85,69.1%,63.0%,3.91,B- (2.89),C+ (2.58)
+367,"Fortier, Jana",ANTH 1 - Introduction to Culture (A),FA09,193,122,87.0%,88.9%,3.68,B+ (3.47),B (3.10)
+368,"Algaze, Guillermo",ANTH 101 - Foundations/Social Complexity (A),FA09,123,96,83.1%,83.3%,4.48,B+ (3.44),B (3.12)
+369,"Pedersen, David",ANTH 23 - Debating Multiculturalism (A),FA09,118,53,80.8%,86.5%,2.54,B+ (3.53),B+ (3.37)
+370,"Moore, James J",ANTH 87 - Freshman Seminar (B),FA09,10,10,100.0%,100.0%,0.9,A (4.00),
+371,"Vandehey, Scott Lawrence",ANTH 1 - Introduction to Culture (A),SU09,24,10,100.0%,100.0%,6.7,A- (3.70),
+372,"Teffer, Katharine D.",ANTH 2 - Human Origins (A),SU09,25,11,80.0%,80.0%,3.95,B+ (3.63),
+373,"Thornton, Brendan Jamal",ANTH 23 - Debating Multiculturalism (A),SU09,23,12,100.0%,100.0%,4.17,B+ (3.64),
+374,"Simon, Gregory Mark",ANTH 103 - Social Anthropology (A),SP09,114,79,84.6%,77.2%,5.04,B+ (3.42),B- (2.99)
+375,"Pedersen, David",ANTH 23 - Debating Multiculturalism (A),SP09,77,43,83.7%,90.7%,3.02,B+ (3.68),B+ (3.66)
+376,"Algaze, Guillermo",ANTH 3 - World Prehistory (A),SP09,65,33,97.0%,97.0%,2.62,B+ (3.59),B+ (3.35)
+377,"Algaze, Guillermo",ANTH 3 - World Prehistory (B),SP09,107,70,78.6%,78.6%,2.81,B+ (3.40),B+ (3.35)
+378,"Fortier, Jana",ANTH 1 - Introduction to Culture (A),WI09,212,98,87.6%,82.3%,3.4,B+ (3.30),B- (2.96)
+379,"Moore, James J",ANTH 102 - Humans Are Cultural Animals (A),WI09,75,40,84.6%,64.1%,5.15,B (3.22),B (3.20)
+380,"Jordan, David K.",ANTH 87 - Freshman Seminar (A),WI09,16,15,100.0%,100.0%,1.03,,
+381,"Jordan, David K.",ANTH 87 - Freshman Seminar (B),WI09,13,9,100.0%,100.0%,1.17,,
+382,"Goldstein, Paul S",ANTH 101 - Foundations/Social Complexity (A),FA08,118,59,77.6%,89.5%,4.64,B+ (3.39),B (3.21)
+383,"Semendeferi, Ekaterini",ANTH 2 - Human Origins (A),FA08,180,121,78.8%,83.3%,4.33,B (3.02),C+ (2.57)
+384,"Moore, James J",ANTH 42 - Study of Primates in Nature (A),FA08,25,24,95.8%,91.7%,3.67,B (3.23),B (3.03)
+385,"Parish, Steven Martin",ANTH 87 - Freshman Seminar (A),FA08,16,12,75.0%,81.8%,0.67,A (4.00),
+386,"Parish, Steven Martin",ANTH 87 - Freshman Seminar (B),FA08,14,11,90.9%,100.0%,0.5,A (4.00),
+387,"Moore, James J",ANTH 87 - Freshman Seminar (D),FA08,7,7,100.0%,100.0%,0.79,A (4.00),
+388,"Danely, Jason A",ANTH 1 - Introduction to Culture (A),SU08,22,19,100.0%,100.0%,3.76,B+ (3.65),
+389,"Moore, James J",ANTH 102 - Humans Are Cultural Animals (A),SP08,61,34,90.9%,84.8%,5.79,B (3.27),B (3.09)
+390,"Goldstein, Paul S",ANTH 3 - World Prehistory (A),SP08,101,60,84.7%,79.3%,3.08,B (3.24),B- (2.93)
+391,"Jordan, David K.",ANTH 87 - Freshman Seminar (A),SP08,8,7,100.0%,100.0%,0.79,,
+392,"Fortier, Jana",ANTH 1 - Introduction to Culture (A),WI08,134,56,85.7%,87.5%,3.11,B (3.18),B- (3.00)
+393,"Ozyurek, Esra",ANTH 103 - Social Anthropology (A),WI08,95,50,66.7%,47.9%,3.34,B+ (3.48),B+ (3.41)
+394,"Algaze, Guillermo",ANTH 101 - Foundations/Social Complexity (A),FA07,111,64,95.2%,93.7%,4.47,B+ (3.47),B (3.27)
+395,"Semendeferi, Ekaterini",ANTH 2 - Human Origins (A),FA07,125,61,90.2%,91.8%,3.81,B (3.29),C+ (2.32)
+396,"Pedersen, David",ANTH 23 - Debating Multiculturalism (A),FA07,136,72,66.7%,77.8%,3.94,B+ (3.32),B (3.13)
+397,"Jordan, David K.",ANTH 87 - Freshman Seminar (A),FA07,20,19,84.2%,100.0%,0.92,A (4.00),
+398,"Augsburger, Christina S",ANTH 1 - Introduction to Culture (A),SU07,18,13,92.3%,92.3%,5.23,B+ (3.58),
+399,"Schwake, Sonja A.",ANTH 3 - World Prehistory (A),SU07,16,15,100.0%,100.0%,6.63,B (3.29),
+400,"Teffer, Katharine D.",ANTH 42 - Study of Primates in Nature (A),SU07,7,7,100.0%,100.0%,4.79,B+ (3.40),

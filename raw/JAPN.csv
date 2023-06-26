@@ -1,0 +1,972 @@
+,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+0,"Maruyama, Rie",JAPN 10C - First Year Japanese III (A),SP23,9,6,100.0%,100.0%,5.3,A- (3.80),
+1,"Sato, Kyoko",JAPN 10C - First Year Japanese III (B),SP23,26,12,100.0%,100.0%,6.0,A- (3.82),B+ (3.40)
+2,"Tipton, Yuko",JAPN 10C - First Year Japanese III (C),SP23,5,4,100.0%,100.0%,3.0,B+ (3.67),
+3,"Tipton, Yuko",JAPN 10C - First Year Japanese III (D),SP23,10,6,100.0%,100.0%,5.83,B+ (3.60),
+4,"Kamioka, Sachiko",JAPN 10C - First Year Japanese III (E),SP23,25,11,100.0%,100.0%,5.23,B+ (3.57),B+ (3.40)
+5,"Homma, Kunihiko",JAPN 10C - First Year Japanese III (F),SP23,22,11,100.0%,100.0%,4.5,A (4.00),B+ (3.58)
+6,"Maruyama, Rie",JAPN 10C - First Year Japanese III (G),SP23,22,6,100.0%,100.0%,5.17,B+ (3.60),B+ (3.50)
+7,"Homma, Kunihiko",JAPN 10C - First Year Japanese III (H),SP23,26,12,90.9%,100.0%,6.14,B+ (3.50),B+ (3.46)
+8,"McKee, Mayumi Mochizuki",JAPN 10C - First Year Japanese III (I),SP23,26,16,100.0%,100.0%,6.63,A- (3.80),B+ (3.70)
+9,"Inada, Minori",JAPN 10C - First Year Japanese III (J),SP23,24,13,100.0%,100.0%,4.65,B+ (3.67),B+ (3.66)
+10,"Inada, Minori",JAPN 10C - First Year Japanese III (K),SP23,26,14,100.0%,100.0%,4.93,B+ (3.50),A- (3.75)
+11,"McKee, Mayumi Mochizuki",JAPN 10C - First Year Japanese III (L),SP23,22,13,100.0%,100.0%,4.96,B+ (3.50),B (3.24)
+12,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (M),SP23,23,13,100.0%,100.0%,7.27,B+ (3.64),B+ (3.44)
+13,"Simpson, Junko Tokuda",JAPN 130C - Third Year Japanese III (A),SP23,15,5,80.0%,100.0%,8.1,B+ (3.60),
+14,"Ross, Kayoko F",JAPN 130C - Third Year Japanese III (B),SP23,15,4,100.0%,75.0%,4.5,A- (3.75),
+15,"Inada, Minori",JAPN 135C - Japanese/Prof Purposes III (A),SP23,9,3,100.0%,100.0%,4.5,A (4.00),
+16,"Takeda, Izumi",JAPN 135C - Japanese/Prof Purposes III (B),SP23,18,13,100.0%,100.0%,4.35,A- (3.85),
+17,"Sato, Kyoko",JAPN 140C - Fourth Year Japanese III (A),SP23,8,6,83.3%,100.0%,6.17,A (4.00),
+18,"Miyao, Daisuke",JAPN 190 - Japanese St Research Seminar (A),SP23,19,10,100.0%,100.0%,4.7,A- (3.90),
+19,"Maruyama, Rie",JAPN 20C - Second Year Japanese III (A),SP23,18,6,100.0%,100.0%,3.17,A- (3.83),
+20,"Takeda, Izumi",JAPN 20C - Second Year Japanese III (B),SP23,24,10,100.0%,100.0%,6.7,B+ (3.67),B+ (3.50)
+21,"Kamioka, Sachiko",JAPN 20C - Second Year Japanese III (C),SP23,19,10,90.0%,100.0%,4.3,B+ (3.44),
+22,"Simpson, Junko Tokuda",JAPN 20C - Second Year Japanese III (D),SP23,13,4,75.0%,100.0%,5.5,B+ (3.33),
+23,"Sato, Kyoko",JAPN 10B - First Year Japanese II (A),WI23,21,10,100.0%,100.0%,5.5,B+ (3.50),B+ (3.40)
+24,"Ross, Kayoko F",JAPN 10B - First Year Japanese II (B),WI23,10,7,100.0%,100.0%,5.93,B+ (3.60),
+25,"Sato, Kyoko",JAPN 10B - First Year Japanese II (C),WI23,26,14,100.0%,92.3%,6.19,B+ (3.45),B (3.18)
+26,"Kamioka, Sachiko",JAPN 10B - First Year Japanese II (D),WI23,24,14,100.0%,100.0%,5.88,A- (3.70),B+ (3.69)
+27,"Ross, Kayoko F",JAPN 10B - First Year Japanese II (E),WI23,13,3,100.0%,100.0%,5.83,B+ (3.33),
+28,"Homma, Kunihiko",JAPN 10B - First Year Japanese II (F),WI23,21,10,100.0%,100.0%,5.1,B+ (3.57),B (3.10)
+29,"Kamioka, Sachiko",JAPN 10B - First Year Japanese II (G),WI23,25,14,100.0%,100.0%,6.64,B+ (3.64),B+ (3.40)
+30,"Tipton, Yuko",JAPN 10B - First Year Japanese II (H),WI23,20,10,90.0%,90.0%,6.1,B (3.22),B (3.05)
+31,"Tipton, Yuko",JAPN 10B - First Year Japanese II (I),WI23,24,13,100.0%,100.0%,6.5,B+ (3.40),B+ (3.38)
+32,"Maruyama, Rie",JAPN 10B - First Year Japanese II (J),WI23,22,13,100.0%,100.0%,4.65,A (4.00),B+ (3.57)
+33,"McKee, Mayumi Mochizuki",JAPN 10B - First Year Japanese II (K),WI23,24,15,100.0%,100.0%,6.37,B+ (3.57),B (3.04)
+34,"Homma, Kunihiko",JAPN 10B - First Year Japanese II (L),WI23,21,11,100.0%,100.0%,5.39,A- (3.89),B+ (3.41)
+35,"McKee, Mayumi Mochizuki",JAPN 10B - First Year Japanese II (M),WI23,26,14,100.0%,100.0%,5.12,B+ (3.56),B+ (3.47)
+36,"Homma, Kunihiko",JAPN 10B - First Year Japanese II (N),WI23,21,11,100.0%,100.0%,7.23,B+ (3.38),B (3.04)
+37,"Simpson, Junko Tokuda",JAPN 130B - Third Year Japanese II (A),WI23,20,10,75.0%,100.0%,6.25,B+ (3.63),B+ (3.57)
+38,"Ross, Kayoko F",JAPN 130B - Third Year Japanese II (B),WI23,22,9,100.0%,100.0%,5.75,A (4.00),B+ (3.64)
+39,"Takeda, Izumi",JAPN 135B - Japanese/Prof Purposes II (A),WI23,26,12,100.0%,100.0%,3.83,A (4.00),A- (3.93)
+40,"Sato, Kyoko",JAPN 140B - Fourth Year Japanese II (A),WI23,10,5,75.0%,75.0%,6.0,A (4.00),
+41,"McKee, Mayumi Mochizuki",JAPN 150C - Advanced Japanese III (A),WI23,8,3,100.0%,100.0%,3.83,A (4.00),
+42,"Turner, Christena L.",JAPN 190 - Japanese St Research Seminar (A),WI23,9,3,100.0%,100.0%,3.17,A (4.00),
+43,"Takeda, Izumi",JAPN 20B - Second Year Japanese II (A),WI23,26,14,100.0%,100.0%,4.21,A- (3.82),A- (3.85)
+44,"Takeda, Izumi",JAPN 20B - Second Year Japanese II (B),WI23,22,12,100.0%,100.0%,4.5,A- (3.75),A- (3.74)
+45,"Maruyama, Rie",JAPN 20B - Second Year Japanese II (C),WI23,25,11,100.0%,100.0%,6.68,A- (3.80),B+ (3.50)
+46,"Simpson, Junko Tokuda",JAPN 20B - Second Year Japanese II (D),WI23,11,3,100.0%,100.0%,7.83,B+ (3.33),
+47,"Kamioka, Sachiko",JAPN 20B - Second Year Japanese II (E),WI23,15,6,100.0%,100.0%,2.83,B (3.20),
+48,"Maruyama, Rie",JAPN 10A - First Year Japanese I (A),FA22,30,17,100.0%,100.0%,6.38,B (3.06),B- (2.90)
+49,"Homma, Kunihiko",JAPN 10A - First Year Japanese I (B),FA22,27,16,93.8%,93.8%,5.63,B+ (3.60),B- (2.97)
+50,"McKee, Mayumi Mochizuki",JAPN 10A - First Year Japanese I (C),FA22,27,9,88.9%,100.0%,6.06,A (4.00),B+ (3.47)
+51,"Sato, Kyoko",JAPN 10A - First Year Japanese I (D),FA22,26,10,100.0%,100.0%,6.7,A- (3.88),B+ (3.32)
+52,"Kamioka, Sachiko",JAPN 10A - First Year Japanese I (E),FA22,27,18,100.0%,100.0%,5.79,B+ (3.60),B+ (3.57)
+53,"Sato, Kyoko",JAPN 10A - First Year Japanese I (F),FA22,29,12,100.0%,100.0%,6.83,A- (3.73),B+ (3.70)
+54,"Maruyama, Rie",JAPN 10A - First Year Japanese I (G),FA22,28,8,100.0%,100.0%,5.93,B+ (3.67),B+ (3.38)
+55,"Kamioka, Sachiko",JAPN 10A - First Year Japanese I (H),FA22,26,12,100.0%,100.0%,7.67,A- (3.70),B+ (3.55)
+56,"Homma, Kunihiko",JAPN 10A - First Year Japanese I (I),FA22,30,20,100.0%,100.0%,5.4,B+ (3.45),B+ (3.36)
+57,"McKee, Mayumi Mochizuki",JAPN 10A - First Year Japanese I (J),FA22,25,14,100.0%,100.0%,5.93,A- (3.92),B+ (3.50)
+58,"Inada, Minori",JAPN 10A - First Year Japanese I (K),FA22,21,11,100.0%,100.0%,4.5,A- (3.91),B+ (3.42)
+59,"Tipton, Yuko",JAPN 10A - First Year Japanese I (L),FA22,18,12,100.0%,100.0%,6.0,B+ (3.55),
+60,"Inada, Minori",JAPN 10A - First Year Japanese I (M),FA22,27,8,100.0%,100.0%,4.5,B+ (3.38),B+ (3.35)
+61,"McKee, Mayumi Mochizuki",JAPN 10A - First Year Japanese I (N),FA22,20,10,90.0%,90.0%,8.1,B+ (3.57),B+ (3.48)
+62,"Homma, Kunihiko",JAPN 10A - First Year Japanese I (O),FA22,25,13,100.0%,100.0%,3.5,A- (3.73),B+ (3.51)
+63,"Tipton, Yuko",JAPN 10A - First Year Japanese I (P),FA22,16,9,100.0%,100.0%,4.5,A- (3.71),
+64,"Simpson, Junko Tokuda",JAPN 130A - Third Year Japanese I (A),FA22,28,10,100.0%,100.0%,4.94,A (4.00),B+ (3.38)
+65,"Ross, Kayoko F",JAPN 130A - Third Year Japanese I (B),FA22,36,15,76.9%,92.3%,6.81,B+ (3.42),B+ (3.62)
+66,"Inada, Minori",JAPN 135A - Japanese/Professional Purposes (A),FA22,18,7,85.7%,100.0%,3.64,A- (3.86),
+67,"Takeda, Izumi",JAPN 135A - Japanese/Professional Purposes (B),FA22,16,8,100.0%,100.0%,2.5,A- (3.88),
+68,"Sato, Kyoko",JAPN 140A - Fourth Year Japanese I (A),FA22,13,4,100.0%,100.0%,5.0,B+ (3.50),
+69,"Simpson, Junko Tokuda",JAPN 20A - Second Year Japanese I (A),FA22,25,9,100.0%,100.0%,4.94,B+ (3.43),B+ (3.37)
+70,"Takeda, Izumi",JAPN 20A - Second Year Japanese I (B),FA22,24,10,100.0%,100.0%,5.5,B+ (3.67),A- (3.74)
+71,"Ross, Kayoko F",JAPN 20A - Second Year Japanese I (C),FA22,30,17,100.0%,100.0%,5.68,B+ (3.33),B+ (3.38)
+72,"Takeda, Izumi",JAPN 20A - Second Year Japanese I (D),FA22,29,13,100.0%,100.0%,6.19,B+ (3.55),B+ (3.69)
+73,"Maruyama, Rie",JAPN 20A - Second Year Japanese I (E),FA22,27,14,92.3%,100.0%,5.5,B+ (3.60),B+ (3.54)
+74,"Kamioka, Sachiko",JAPN 20A - Second Year Japanese I (F),FA22,28,17,100.0%,100.0%,4.63,A- (3.77),B+ (3.59)
+75,"Ross, Kayoko F",JAPN 20A - Second Year Japanese I (G),FA22,23,9,100.0%,88.9%,5.61,B+ (3.38),B+ (3.50)
+76,"Ross, Kayoko F",JAPN 20A - Second Year Japanese I (A),S122,20,5,100.0%,100.0%,4.5,A (4.00),B+ (3.67)
+77,"Tipton, Yuko",JAPN 10C - First Year Japanese III (A),SP22,20,11,100.0%,100.0%,5.95,A- (3.80),B+ (3.69)
+78,"Tipton, Yuko",JAPN 10C - First Year Japanese III (B),SP22,25,10,100.0%,100.0%,4.28,B+ (3.67),B+ (3.65)
+79,"Maruyama, Rie",JAPN 10C - First Year Japanese III (C),SP22,20,9,88.9%,100.0%,3.61,A- (3.89),A- (3.78)
+80,"Maruyama, Rie",JAPN 10C - First Year Japanese III (D),SP22,22,10,100.0%,100.0%,4.06,A- (3.75),B (3.08)
+81,"Sato, Kyoko",JAPN 10C - First Year Japanese III (E),SP22,21,9,100.0%,100.0%,3.83,A- (3.78),A- (3.74)
+82,"Takeda, Izumi",JAPN 10C - First Year Japanese III (F),SP22,22,7,100.0%,100.0%,4.79,B+ (3.60),A- (3.87)
+83,"Takeda, Izumi",JAPN 10C - First Year Japanese III (G),SP22,24,9,88.9%,88.9%,5.83,A- (3.89),A- (3.86)
+84,"Kamioka, Sachiko",JAPN 10C - First Year Japanese III (H),SP22,24,15,100.0%,100.0%,4.77,A- (3.73),A- (3.71)
+85,"Kamioka, Sachiko",JAPN 10C - First Year Japanese III (I),SP22,26,12,100.0%,100.0%,7.83,B+ (3.67),A- (3.74)
+86,"McKee, Mayumi Mochizuki",JAPN 10C - First Year Japanese III (J),SP22,25,14,100.0%,100.0%,4.83,A- (3.75),B+ (3.70)
+87,"Iwamoto, Naoki",JAPN 10C - First Year Japanese III (L),SP22,26,15,100.0%,100.0%,5.43,A- (3.77),A- (3.77)
+88,"Simpson, Junko Tokuda",JAPN 10C - First Year Japanese III (M),SP22,23,11,100.0%,100.0%,6.32,A- (3.75),B+ (3.59)
+89,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (N),SP22,24,15,100.0%,100.0%,5.07,B+ (3.57),B+ (3.45)
+90,"McKee, Mayumi Mochizuki",JAPN 10C - First Year Japanese III (O),SP22,16,10,100.0%,100.0%,4.5,A- (3.78),
+91,"Simpson, Junko Tokuda",JAPN 130C - Third Year Japanese III (A),SP22,11,7,100.0%,100.0%,5.64,A (4.00),
+92,"Inada, Minori",JAPN 130C - Third Year Japanese III (B),SP22,21,7,100.0%,100.0%,4.79,A (4.00),A- (3.84)
+93,"Takeda, Izumi",JAPN 135C - Japanese/Prof Purposes III (A),SP22,27,16,93.8%,100.0%,5.63,A- (3.88),A- (3.83)
+94,"Sato, Kyoko",JAPN 140C - Fourth Year Japanese III (A),SP22,16,10,100.0%,100.0%,6.3,A- (3.78),
+95,"Berman, Michael David",JAPN 190 - Sel Topcs/Contmp Japn Studies (A),SP22,19,10,100.0%,100.0%,4.9,A- (3.70),
+96,"Inada, Minori",JAPN 20C - Second Year Japanese III (A),SP22,16,5,100.0%,100.0%,4.1,A (4.00),
+97,"Inada, Minori",JAPN 20C - Second Year Japanese III (B),SP22,23,9,100.0%,100.0%,5.5,A- (3.71),B+ (3.61)
+98,"Iwamoto, Naoki",JAPN 20C - Second Year Japanese III (C),SP22,22,5,100.0%,100.0%,4.5,A- (3.75),B+ (3.59)
+99,"Maruyama, Rie",JAPN 20C - Second Year Japanese III (D),SP22,16,7,100.0%,100.0%,4.5,A (4.00),
+100,"Ross, Kayoko F",JAPN 20C - Second Year Japanese III (E),SP22,16,9,100.0%,100.0%,8.06,A- (3.88),
+101,"Sato, Kyoko",JAPN 10B - First Year Japanese II (A),WI22,16,5,100.0%,100.0%,4.9,A (4.00),
+102,"Sato, Kyoko",JAPN 10B - First Year Japanese II (B),WI22,16,7,100.0%,100.0%,5.64,A- (3.71),
+103,"Maruyama, Rie",JAPN 10B - First Year Japanese II (C),WI22,29,18,100.0%,100.0%,6.28,B+ (3.69),B (3.08)
+104,"Maruyama, Rie",JAPN 10B - First Year Japanese II (D),WI22,11,4,100.0%,100.0%,4.0,A- (3.75),
+105,"Iwamoto, Naoki",JAPN 10B - First Year Japanese II (E),WI22,34,23,100.0%,100.0%,6.59,B+ (3.57),B+ (3.43)
+106,"Kamioka, Sachiko",JAPN 10B - First Year Japanese II (F),WI22,32,19,100.0%,100.0%,6.72,B+ (3.69),B+ (3.45)
+107,"Iwamoto, Naoki",JAPN 10B - First Year Japanese II (H),WI22,36,13,100.0%,100.0%,6.67,B (3.00),B+ (3.34)
+108,"Kamioka, Sachiko",JAPN 10B - First Year Japanese II (I),WI22,31,14,100.0%,100.0%,7.12,B (3.27),B+ (3.39)
+109,"Ross, Kayoko F",JAPN 10B - First Year Japanese II (J),WI22,22,16,100.0%,100.0%,5.38,A- (3.81),B+ (3.34)
+110,"Tipton, Yuko",JAPN 10B - First Year Japanese II (K),WI22,35,19,100.0%,100.0%,7.21,B+ (3.59),B+ (3.39)
+111,"McKee, Mayumi Mochizuki",JAPN 10B - First Year Japanese II (L),WI22,34,16,100.0%,100.0%,5.13,A- (3.71),B (3.27)
+112,"McKee, Mayumi Mochizuki",JAPN 10B - First Year Japanese II (N),WI22,19,9,100.0%,100.0%,4.25,A- (3.71),
+113,"Tipton, Yuko",JAPN 10B - First Year Japanese II (O),WI22,24,13,100.0%,100.0%,6.96,A- (3.82),B+ (3.45)
+114,"Simpson, Junko Tokuda",JAPN 130B - Third Year Japanese II (A),WI22,20,11,100.0%,90.9%,5.77,B+ (3.64),B+ (3.60)
+115,"Inada, Minori",JAPN 130B - Third Year Japanese II (B),WI22,17,6,83.3%,100.0%,3.83,A (4.00),
+116,"Takeda, Izumi",JAPN 135B - Japanese/Prof Purposes II (A),WI22,28,15,93.3%,100.0%,4.37,A- (3.93),A- (3.86)
+117,"Sato, Kyoko",JAPN 140B - Fourth Year Japanese II (A),WI22,15,12,90.9%,100.0%,7.17,B+ (3.64),
+118,"McKee, Mayumi Mochizuki",JAPN 150B - Advanced Japanese II (A),WI22,7,4,100.0%,100.0%,5.0,A- (3.75),
+119,"Takeda, Izumi",JAPN 20B - Second Year Japanese II (A),WI22,22,12,100.0%,100.0%,4.5,B+ (3.50),B+ (3.57)
+120,"Simpson, Junko Tokuda",JAPN 20B - Second Year Japanese II (B),WI22,9,4,100.0%,100.0%,4.0,A- (3.75),
+121,"Ross, Kayoko F",JAPN 20B - Second Year Japanese II (C),WI22,22,10,100.0%,100.0%,7.5,A- (3.86),B+ (3.43)
+122,"Inada, Minori",JAPN 20B - Second Year Japanese II (D),WI22,24,15,100.0%,100.0%,4.63,B+ (3.67),B+ (3.69)
+123,"Kamioka, Sachiko",JAPN 20B - Second Year Japanese II (E),WI22,23,11,100.0%,100.0%,6.1,A- (3.75),A- (3.80)
+124,"Iwamoto, Naoki",JAPN 20B - Second Year Japanese II (F),WI22,16,6,100.0%,100.0%,8.83,B+ (3.67),
+125,"Ross, Kayoko F",JAPN 10A - First Year Japanese I (A),FA21,30,17,93.8%,93.8%,6.5,B+ (3.56),B+ (3.49)
+126,"Sato, Kyoko",JAPN 10A - First Year Japanese I (B),FA21,33,16,100.0%,100.0%,5.63,A- (3.85),A- (3.70)
+127,"Ross, Kayoko F",JAPN 10A - First Year Japanese I (C),FA21,29,11,100.0%,100.0%,7.59,B+ (3.36),B (3.12)
+128,"Iwamoto, Naoki",JAPN 10A - First Year Japanese I (D),FA21,31,18,94.1%,100.0%,6.85,A- (3.76),B (3.21)
+129,"Sato, Kyoko",JAPN 10A - First Year Japanese I (E),FA21,33,13,92.3%,100.0%,6.04,A- (3.70),B+ (3.44)
+130,"Maruyama, Rie",JAPN 10A - First Year Japanese I (F),FA21,30,16,87.5%,100.0%,6.88,B+ (3.60),B+ (3.52)
+131,"Iwamoto, Naoki",JAPN 10A - First Year Japanese I (G),FA21,27,19,100.0%,100.0%,6.5,A- (3.71),B+ (3.49)
+132,"McKee, Mayumi Mochizuki",JAPN 10A - First Year Japanese I (H),FA21,31,15,100.0%,100.0%,5.03,B+ (3.58),B (3.15)
+133,"Kipnis, Yuko",JAPN 10A - First Year Japanese I (I),FA21,31,15,92.9%,92.9%,6.5,A- (3.77),B+ (3.49)
+134,"Maruyama, Rie",JAPN 10A - First Year Japanese I (J),FA21,28,9,88.9%,88.9%,6.94,B+ (3.57),B+ (3.47)
+135,"Iwamoto, Naoki",JAPN 10A - First Year Japanese I (K),FA21,33,21,95.2%,100.0%,5.55,A- (3.75),B+ (3.69)
+136,"Kipnis, Yuko",JAPN 10A - First Year Japanese I (L),FA21,31,15,86.7%,93.3%,7.21,B (3.14),B- (2.83)
+137,"McKee, Mayumi Mochizuki",JAPN 10A - First Year Japanese I (M),FA21,30,14,92.3%,92.3%,7.88,A- (3.85),B+ (3.56)
+138,"Tipton, Yuko",JAPN 10A - First Year Japanese I (N),FA21,31,16,93.3%,93.3%,6.13,B+ (3.40),B (3.27)
+139,"Kamioka, Sachiko",JAPN 10A - First Year Japanese I (O),FA21,33,21,100.0%,100.0%,5.1,A- (3.88),A- (3.89)
+140,"McKee, Mayumi Mochizuki",JAPN 10A - First Year Japanese I (P),FA21,29,17,100.0%,100.0%,6.13,B+ (3.43),B+ (3.49)
+141,"Tipton, Yuko",JAPN 10A - First Year Japanese I (Q),FA21,32,19,100.0%,94.7%,5.55,A- (3.79),B+ (3.67)
+142,"Inada, Minori",JAPN 130A - Third Year Japanese I (A),FA21,21,11,90.9%,100.0%,5.41,A- (3.91),A- (3.88)
+143,"Inada, Minori",JAPN 130A - Third Year Japanese I (B),FA21,21,13,100.0%,100.0%,6.5,A- (3.75),B+ (3.64)
+144,"Simpson, Junko Tokuda",JAPN 130A - Third Year Japanese I (C),FA21,15,5,60.0%,80.0%,7.3,B+ (3.40),
+145,"Takeda, Izumi",JAPN 135A - Japanese/Professional Purposes (A),FA21,29,19,100.0%,94.7%,4.39,A- (3.89),A- (3.80)
+146,"Sato, Kyoko",JAPN 140A - Fourth Year Japanese I (A),FA21,22,13,83.3%,100.0%,6.17,B+ (3.64),B (3.26)
+147,"Turner, Christena L.",JAPN 190 - Sel Topcs/Contmp Japn Studies (A),FA21,20,5,100.0%,100.0%,6.1,B+ (3.67),A- (3.80)
+148,"Inada, Minori",JAPN 20A - Second Year Japanese I (A),FA21,32,19,94.4%,100.0%,5.5,B+ (3.57),B (3.22)
+149,"Kamioka, Sachiko",JAPN 20A - Second Year Japanese I (B),FA21,29,16,93.3%,86.7%,6.07,B+ (3.54),B+ (3.54)
+150,"Simpson, Junko Tokuda",JAPN 20A - Second Year Japanese I (C),FA21,29,11,100.0%,100.0%,5.05,A- (3.86),A- (3.81)
+151,"Takeda, Izumi",JAPN 20A - Second Year Japanese I (D),FA21,31,14,100.0%,100.0%,6.19,B+ (3.69),B+ (3.50)
+152,"Ross, Kayoko F",JAPN 20A - Second Year Japanese I (E),FA21,28,12,91.7%,100.0%,6.17,B+ (3.50),B+ (3.64)
+153,"Maruyama, Rie",JAPN 20A - Second Year Japanese I (F),FA21,27,12,90.9%,100.0%,5.59,A- (3.90),A- (3.80)
+154,"Takeda, Izumi",JAPN 20A - Second Year Japanese I (G),FA21,29,14,100.0%,100.0%,5.5,B+ (3.62),B+ (3.57)
+155,"Kamioka, Sachiko",JAPN 20A - Second Year Japanese I (H),FA21,15,4,100.0%,100.0%,5.0,A- (3.75),
+156,"Ross, Kayoko F",JAPN 20A - Second Year Japanese I (A),S121,13,4,100.0%,100.0%,7.5,B+ (3.67),
+157,"Maruyama, Rie",JAPN 10C - First Year Japanese III (A),SP21,30,7,100.0%,100.0%,3.36,A- (3.75),A- (3.80)
+158,"Tipton, Yuko",JAPN 10C - First Year Japanese III (B),SP21,22,9,100.0%,100.0%,4.75,A- (3.71),A- (3.77)
+159,"Maruyama, Rie",JAPN 10C - First Year Japanese III (C),SP21,29,14,100.0%,100.0%,5.64,A- (3.83),B+ (3.67)
+160,"Takeda, Izumi",JAPN 10C - First Year Japanese III (D),SP21,29,15,100.0%,100.0%,6.1,B+ (3.50),B+ (3.52)
+161,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (E),SP21,24,9,100.0%,100.0%,3.25,B+ (3.60),B+ (3.58)
+162,"Tipton, Yuko",JAPN 10C - First Year Japanese III (F),SP21,30,14,100.0%,100.0%,5.21,A- (3.85),B+ (3.58)
+163,"Iwamoto, Naoki",JAPN 10C - First Year Japanese III (G),SP21,25,15,100.0%,100.0%,4.9,A- (3.71),A- (3.83)
+164,"Maruyama, Rie",JAPN 10C - First Year Japanese III (H),SP21,26,12,100.0%,100.0%,5.59,A- (3.73),B+ (3.65)
+165,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (I),SP21,20,10,90.0%,90.0%,5.3,A- (3.78),B+ (3.69)
+166,"Inada, Minori",JAPN 10C - First Year Japanese III (J),SP21,26,12,100.0%,100.0%,4.83,A- (3.75),B+ (3.65)
+167,"Iwamoto, Naoki",JAPN 10C - First Year Japanese III (K),SP21,25,12,100.0%,100.0%,4.33,A- (3.91),A- (3.89)
+168,"Kamioka, Sachiko",JAPN 10C - First Year Japanese III (L),SP21,30,19,100.0%,100.0%,6.61,A- (3.71),A- (3.72)
+169,"Simpson, Junko Tokuda",JAPN 10C - First Year Japanese III (M),SP21,30,14,100.0%,100.0%,5.79,A (4.00),A- (3.91)
+170,"Kamioka, Sachiko",JAPN 10C - First Year Japanese III (N),SP21,31,17,100.0%,94.1%,5.44,A- (3.85),A- (3.90)
+171,"Inada, Minori",JAPN 130C - Third Year Japanese III (A),SP21,25,12,100.0%,100.0%,4.67,A- (3.83),B+ (3.65)
+172,"Simpson, Junko Tokuda",JAPN 130C - Third Year Japanese III (B),SP21,13,6,100.0%,83.3%,7.17,B+ (3.40),
+173,"Takeda, Izumi",JAPN 135C - Japanese/Prof Purposes III (A),SP21,12,4,100.0%,100.0%,2.5,A (4.00),
+174,"McKee, Mayumi Mochizuki",JAPN 150A - Advanced Japanese I (A),SP21,8,4,100.0%,100.0%,4.5,A (4.00),
+175,"Matsumura, Wendy Y",JAPN 190 - Sel Topcs/Contmp Japn Studies (A),SP21,19,9,88.9%,88.9%,4.5,A- (3.86),
+176,"Ross, Kayoko F",JAPN 20C - Second Year Japanese III (A),SP21,26,13,100.0%,100.0%,7.77,A- (3.91),A- (3.72)
+177,"Sato, Kyoko",JAPN 20C - Second Year Japanese III (B),SP21,22,10,100.0%,100.0%,2.9,A (4.00),A- (3.94)
+178,"McKee, Mayumi Mochizuki",JAPN 20C - Second Year Japanese III (C),SP21,27,18,94.4%,100.0%,5.06,A- (3.94),A- (3.72)
+179,"Iwamoto, Naoki",JAPN 20C - Second Year Japanese III (D),SP21,27,10,100.0%,100.0%,4.5,A- (3.80),B+ (3.70)
+180,"Kamioka, Sachiko",JAPN 10B - First Year Japanese II (A),WI21,29,11,100.0%,100.0%,6.5,A (4.00),B+ (3.63)
+181,"Kamioka, Sachiko",JAPN 10B - First Year Japanese II (B),WI21,28,17,100.0%,100.0%,6.63,B+ (3.67),B+ (3.51)
+182,"Ross, Kayoko F",JAPN 10B - First Year Japanese II (C),WI21,11,6,100.0%,100.0%,4.5,A (4.00),
+183,"Takeda, Izumi",JAPN 10B - First Year Japanese II (D),WI21,30,14,92.9%,100.0%,6.36,B+ (3.64),B+ (3.32)
+184,"Tipton, Yuko",JAPN 10B - First Year Japanese II (E),WI21,19,10,100.0%,100.0%,6.7,B+ (3.44),
+185,"Inada, Minori",JAPN 10B - First Year Japanese II (F),WI21,28,15,100.0%,100.0%,4.77,B+ (3.69),B+ (3.60)
+186,"Takeda, Izumi",JAPN 10B - First Year Japanese II (G),WI21,32,19,100.0%,100.0%,5.45,B+ (3.65),B (3.27)
+187,"Tipton, Yuko",JAPN 10B - First Year Japanese II (H),WI21,25,18,100.0%,100.0%,5.39,B+ (3.53),A- (3.72)
+188,"Kamioka, Sachiko",JAPN 10B - First Year Japanese II (I),WI21,32,21,100.0%,100.0%,6.88,B+ (3.56),B (3.26)
+189,"Simpson, Junko Tokuda",JAPN 10B - First Year Japanese II (J),WI21,20,10,90.0%,88.9%,5.9,B+ (3.56),B (3.26)
+190,"Iwamoto, Naoki",JAPN 10B - First Year Japanese II (K),WI21,29,13,100.0%,100.0%,6.96,A- (3.91),B+ (3.60)
+191,"Iwamoto, Naoki",JAPN 10B - First Year Japanese II (L),WI21,30,20,100.0%,100.0%,6.4,A- (3.94),A- (3.82)
+192,"Maruyama, Rie",JAPN 10B - First Year Japanese II (M),WI21,30,19,100.0%,100.0%,5.76,A- (3.94),A- (3.78)
+193,"Maruyama, Rie",JAPN 10B - First Year Japanese II (N),WI21,31,14,100.0%,100.0%,6.04,A- (3.75),A- (3.79)
+194,"Inada, Minori",JAPN 10B - First Year Japanese II (O),WI21,31,16,100.0%,100.0%,5.75,A- (3.93),A- (3.87)
+195,"Simpson, Junko Tokuda",JAPN 130B - Third Year Japanese II (A),WI21,18,10,100.0%,100.0%,5.9,A (4.00),
+196,"Inada, Minori",JAPN 130B - Third Year Japanese II (B),WI21,32,17,88.2%,100.0%,5.68,B+ (3.60),B+ (3.65)
+197,"Takeda, Izumi",JAPN 135B - Japanese/Prof Purposes II (A),WI21,16,7,100.0%,100.0%,4.21,A- (3.71),
+198,"Sato, Kyoko",JAPN 140B - Fourth Year Japanese II (A),WI21,12,3,100.0%,100.0%,3.83,A (4.00),
+199,"McKee, Mayumi Mochizuki",JAPN 150C - Advanced Japanese III (A),WI21,8,5,100.0%,100.0%,4.5,A (4.00),
+200,"Turner, Christena L.",JAPN 190 - Sel Topcs/Contmp Japn Studies (A),WI21,19,11,100.0%,100.0%,7.41,B+ (3.64),
+201,"Sato, Kyoko",JAPN 20B - Second Year Japanese II (A),WI21,22,14,92.3%,100.0%,6.65,A- (3.80),A- (3.95)
+202,"Sato, Kyoko",JAPN 20B - Second Year Japanese II (B),WI21,16,7,100.0%,100.0%,3.36,A (4.00),
+203,"Ross, Kayoko F",JAPN 20B - Second Year Japanese II (C),WI21,26,11,100.0%,100.0%,5.59,A- (3.73),A- (3.72)
+204,"McKee, Mayumi Mochizuki",JAPN 20B - Second Year Japanese II (D),WI21,23,14,100.0%,100.0%,5.5,A- (3.83),B+ (3.53)
+205,"McKee, Mayumi Mochizuki",JAPN 20B - Second Year Japanese II (E),WI21,22,18,100.0%,100.0%,5.17,A (4.00),A- (3.91)
+206,"Iwamoto, Naoki",JAPN 10A - First Year Japanese I (A),FA20,36,16,100.0%,100.0%,5.13,A- (3.85),B+ (3.47)
+207,"Iwamoto, Naoki",JAPN 10A - First Year Japanese I (B),FA20,34,14,100.0%,100.0%,5.88,B+ (3.40),A- (3.77)
+208,"Maruyama, Rie",JAPN 10A - First Year Japanese I (C),FA20,36,23,95.7%,100.0%,6.41,A- (3.75),A- (3.80)
+209,"Inada, Minori",JAPN 10A - First Year Japanese I (D),FA20,30,17,94.1%,94.1%,3.79,A- (3.81),B+ (3.62)
+210,"Takeda, Izumi",JAPN 10A - First Year Japanese I (E),FA20,33,14,100.0%,100.0%,5.21,B+ (3.33),B- (2.98)
+211,"Kamioka, Sachiko",JAPN 10A - First Year Japanese I (F),FA20,27,19,100.0%,100.0%,7.72,B+ (3.63),B+ (3.33)
+212,"Takeda, Izumi",JAPN 10A - First Year Japanese I (G),FA20,31,13,100.0%,100.0%,3.83,A- (3.82),B+ (3.42)
+213,"Maruyama, Rie",JAPN 10A - First Year Japanese I (H),FA20,34,23,100.0%,100.0%,5.68,A- (3.70),A- (3.78)
+214,"Inada, Minori",JAPN 10A - First Year Japanese I (I),FA20,24,18,100.0%,100.0%,5.61,A- (3.75),B+ (3.62)
+215,"Simpson, Junko Tokuda",JAPN 10A - First Year Japanese I (J),FA20,26,15,100.0%,100.0%,5.83,A- (3.93),A- (3.76)
+216,"Kamioka, Sachiko",JAPN 10A - First Year Japanese I (K),FA20,34,23,100.0%,100.0%,5.93,B+ (3.65),B+ (3.59)
+217,"Maruyama, Rie",JAPN 10A - First Year Japanese I (L),FA20,34,18,100.0%,100.0%,5.68,A- (3.94),A- (3.77)
+218,"Tipton, Yuko",JAPN 10A - First Year Japanese I (M),FA20,31,22,100.0%,100.0%,6.59,B+ (3.60),A- (3.78)
+219,"Kamioka, Sachiko",JAPN 10A - First Year Japanese I (N),FA20,30,16,100.0%,100.0%,5.25,A- (3.80),B+ (3.46)
+220,"Tipton, Yuko",JAPN 10A - First Year Japanese I (P),FA20,35,27,100.0%,100.0%,7.31,A- (3.74),B+ (3.65)
+221,"Ross, Kayoko F",JAPN 10A - First Year Japanese I (Q),FA20,34,18,100.0%,100.0%,5.61,A- (3.89),B+ (3.60)
+222,"Simpson, Junko Tokuda",JAPN 130A - Third Year Japanese I (A),FA20,34,16,87.5%,93.8%,7.13,B+ (3.53),B+ (3.53)
+223,"Inada, Minori",JAPN 130A - Third Year Japanese I (B),FA20,34,20,94.7%,100.0%,5.2,A- (3.90),A- (3.90)
+224,"Takeda, Izumi",JAPN 135A - Japanese/Professional Purposes (A),FA20,25,14,85.7%,100.0%,3.64,A- (3.86),A- (3.79)
+225,"Sato, Kyoko",JAPN 140A - Fourth Year Japanese I (A),FA20,14,4,50.0%,75.0%,3.0,A (4.00),
+226,"Sato, Kyoko",JAPN 20A - Second Year Japanese I (A),FA20,19,9,100.0%,100.0%,4.28,B+ (3.63),
+227,"Sato, Kyoko",JAPN 20A - Second Year Japanese I (B),FA20,20,13,92.3%,100.0%,3.73,B+ (3.67),B+ (3.69)
+228,"Ross, Kayoko F",JAPN 20A - Second Year Japanese I (C),FA20,24,12,100.0%,100.0%,6.0,B+ (3.55),B (3.29)
+229,"Ross, Kayoko F",JAPN 20A - Second Year Japanese I (D),FA20,19,9,100.0%,100.0%,7.17,B+ (3.56),
+230,"McKee, Mayumi Mochizuki",JAPN 20A - Second Year Japanese I (E),FA20,11,6,100.0%,100.0%,4.5,A (4.00),
+231,"Iwamoto, Naoki",JAPN 20A - Second Year Japanese I (F),FA20,21,10,90.0%,100.0%,5.1,A- (3.88),A- (3.92)
+232,"McKee, Mayumi Mochizuki",JAPN 20A - Second Year Japanese I (G),FA20,19,17,100.0%,100.0%,6.5,B+ (3.53),
+233,"McKee, Mayumi Mochizuki",JAPN 20A - Second Year Japanese I (H),FA20,25,12,100.0%,100.0%,7.95,A (4.00),A- (3.88)
+234,"Inada, Minori",JAPN 20A - Second Year Japanese I (A),S120,18,6,100.0%,100.0%,4.17,A- (3.80),
+235,"Tipton, Yuko",JAPN 10C - First Year Japanese III (A),SP20,24,11,100.0%,100.0%,5.77,B+ (3.64),A- (3.89)
+236,"Kamioka, Sachiko",JAPN 10C - First Year Japanese III (B),SP20,24,15,100.0%,100.0%,5.79,A- (3.83),A- (3.74)
+237,"Iwamoto, Naoki",JAPN 10C - First Year Japanese III (C),SP20,24,10,100.0%,100.0%,3.7,A- (3.88),A- (3.86)
+238,"Tipton, Yuko",JAPN 10C - First Year Japanese III (D),SP20,22,8,100.0%,100.0%,5.5,A (4.00),A- (3.88)
+239,"Kamioka, Sachiko",JAPN 10C - First Year Japanese III (E),SP20,21,13,100.0%,100.0%,5.27,A- (3.85),A- (3.95)
+240,"Maruyama, Rie",JAPN 10C - First Year Japanese III (F),SP20,23,14,85.7%,100.0%,4.64,A (4.00),A- (3.98)
+241,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (G),SP20,24,12,91.7%,100.0%,4.5,A- (3.89),B+ (3.65)
+242,"Iwamoto, Naoki",JAPN 10C - First Year Japanese III (H),SP20,22,7,100.0%,100.0%,5.36,A- (3.71),A- (3.92)
+243,"Maruyama, Rie",JAPN 10C - First Year Japanese III (I),SP20,23,12,100.0%,100.0%,4.67,B+ (3.63),B+ (3.55)
+244,"Simpson, Junko Tokuda",JAPN 10C - First Year Japanese III (J),SP20,20,6,100.0%,100.0%,5.5,A- (3.80),A- (3.74)
+245,"Iwamoto, Naoki",JAPN 10C - First Year Japanese III (K),SP20,24,8,100.0%,100.0%,5.25,A- (3.86),A- (3.93)
+246,"Takeda, Izumi",JAPN 10C - First Year Japanese III (L),SP20,20,8,100.0%,87.5%,5.75,A- (3.86),A- (3.78)
+247,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (M),SP20,20,10,100.0%,100.0%,5.1,A- (3.80),A- (3.86)
+248,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (N),SP20,23,6,100.0%,83.3%,4.17,A (4.00),A- (3.96)
+249,"Inada, Minori",JAPN 130C - Third Year Japanese III (B),SP20,21,6,100.0%,100.0%,3.5,B+ (3.67),B+ (3.62)
+250,"Takeda, Izumi",JAPN 135C - Japanese/Prof Purposes III (A),SP20,12,6,83.3%,100.0%,3.17,A- (3.83),
+251,"Sato, Kyoko",JAPN 140C - Fourth Year Japanese III (A),SP20,12,9,100.0%,100.0%,4.94,A- (3.88),
+252,"Inada, Minori",JAPN 20C - Second Year Japanese III (A),SP20,21,12,100.0%,100.0%,4.33,A- (3.83),A- (3.78)
+253,"Sato, Kyoko",JAPN 20C - Second Year Japanese III (B),SP20,24,16,100.0%,100.0%,6.25,B+ (3.63),B+ (3.46)
+254,"Inada, Minori",JAPN 20C - Second Year Japanese III (C),SP20,25,12,100.0%,100.0%,4.17,A (4.00),B+ (3.69)
+255,"McKee, Mayumi Mochizuki",JAPN 20C - Second Year Japanese III (D),SP20,25,16,100.0%,100.0%,4.5,A- (3.87),A- (3.84)
+256,"Simpson, Junko Tokuda",JAPN 10B - First Year Japanese II (A),WI20,16,10,100.0%,100.0%,5.3,B+ (3.67),
+257,"Simpson, Junko Tokuda",JAPN 10B - First Year Japanese II (B),WI20,28,17,94.1%,100.0%,5.56,B+ (3.67),B+ (3.59)
+258,"Tipton, Yuko",JAPN 10B - First Year Japanese II (C),WI20,21,12,100.0%,100.0%,5.33,A- (3.90),B+ (3.63)
+259,"Ross, Kayoko F",JAPN 10B - First Year Japanese II (D),WI20,26,11,100.0%,100.0%,5.95,B+ (3.67),B+ (3.45)
+260,"Kamioka, Sachiko",JAPN 10B - First Year Japanese II (E),WI20,25,15,100.0%,100.0%,4.37,A- (3.83),A- (3.78)
+261,"Iwamoto, Naoki",JAPN 10B - First Year Japanese II (F),WI20,29,13,100.0%,100.0%,6.17,B+ (3.67),B+ (3.50)
+262,"Tipton, Yuko",JAPN 10B - First Year Japanese II (G),WI20,28,12,91.7%,100.0%,4.33,B+ (3.55),A- (3.78)
+263,"Iwamoto, Naoki",JAPN 10B - First Year Japanese II (H),WI20,28,18,100.0%,100.0%,4.74,B+ (3.65),B+ (3.69)
+264,"Maruyama, Rie",JAPN 10B - First Year Japanese II (I),WI20,28,18,100.0%,100.0%,4.5,B+ (3.67),B+ (3.48)
+265,"Tipton, Yuko",JAPN 10B - First Year Japanese II (J),WI20,17,9,100.0%,100.0%,4.94,A- (3.88),
+266,"Kamioka, Sachiko",JAPN 10B - First Year Japanese II (K),WI20,27,15,93.3%,100.0%,4.63,B+ (3.31),B (3.09)
+267,"Kamioka, Sachiko",JAPN 10B - First Year Japanese II (L),WI20,27,11,100.0%,100.0%,3.95,A- (3.90),B+ (3.69)
+268,"Maruyama, Rie",JAPN 10B - First Year Japanese II (M),WI20,21,13,100.0%,100.0%,4.65,A- (3.92),A- (3.84)
+269,"Maruyama, Rie",JAPN 10B - First Year Japanese II (N),WI20,21,16,100.0%,100.0%,5.21,B+ (3.69),B+ (3.61)
+270,"Inada, Minori",JAPN 130B - Third Year Japanese II (A),WI20,21,6,100.0%,100.0%,3.7,A- (3.80),B+ (3.68)
+271,"Simpson, Junko Tokuda",JAPN 130B - Third Year Japanese II (B),WI20,17,5,100.0%,100.0%,4.9,B+ (3.33),
+272,"Ross, Kayoko F",JAPN 135B - Japanese/Prof Purposes II (A),WI20,13,5,60.0%,40.0%,2.9,A (4.00),
+273,"Sato, Kyoko",JAPN 140B - Fourth Year Japanese II (A),WI20,18,10,100.0%,100.0%,5.7,A- (3.70),
+274,"McKee, Mayumi Mochizuki",JAPN 150A - Advanced Japanese I (A),WI20,5,5,100.0%,100.0%,4.5,A (4.00),
+275,"Turner, Christena L.",JAPN 190 - Sel Topcs/Contmp Japn Studies (A),WI20,17,9,100.0%,100.0%,7.17,A- (3.78),
+276,"Sato, Kyoko",JAPN 20B - Second Year Japanese II (A),WI20,23,13,100.0%,92.3%,5.73,B+ (3.54),B+ (3.62)
+277,"Sato, Kyoko",JAPN 20B - Second Year Japanese II (B),WI20,18,10,100.0%,100.0%,4.1,A- (3.75),
+278,"Inada, Minori",JAPN 20B - Second Year Japanese II (C),WI20,24,13,100.0%,100.0%,4.17,A- (3.92),A- (3.77)
+279,"McKee, Mayumi Mochizuki",JAPN 20B - Second Year Japanese II (D),WI20,23,11,100.0%,100.0%,4.5,A- (3.90),A- (3.73)
+280,"McKee, Mayumi Mochizuki",JAPN 20B - Second Year Japanese II (E),WI20,24,16,100.0%,100.0%,6.1,A- (3.80),B+ (3.61)
+281,"Kamioka, Sachiko",JAPN 10A - First Year Japanese I (A),FA19,21,13,100.0%,100.0%,5.73,B+ (3.62),B+ (3.53)
+282,"Maruyama, Rie",JAPN 10A - First Year Japanese I (B),FA19,26,16,93.8%,93.8%,4.0,A- (3.87),A- (3.74)
+283,"Ross, Kayoko F",JAPN 10A - First Year Japanese I (C),FA19,27,18,93.8%,100.0%,4.5,A- (3.71),B+ (3.66)
+284,"Kamioka, Sachiko",JAPN 10A - First Year Japanese I (D),FA19,25,17,93.8%,93.8%,5.75,B+ (3.50),B+ (3.51)
+285,"Takeda, Izumi",JAPN 10A - First Year Japanese I (E),FA19,30,17,100.0%,100.0%,5.75,B+ (3.67),B+ (3.63)
+286,"Maruyama, Rie",JAPN 10A - First Year Japanese I (F),FA19,30,29,93.1%,100.0%,5.67,A- (3.81),A- (3.79)
+287,"Takeda, Izumi",JAPN 10A - First Year Japanese I (G),FA19,27,19,94.4%,100.0%,5.72,B+ (3.41),B+ (3.33)
+288,"Iwamoto, Naoki",JAPN 10A - First Year Japanese I (H),FA19,28,17,94.1%,100.0%,6.03,B+ (3.63),B+ (3.59)
+289,"Ross, Kayoko F",JAPN 10A - First Year Japanese I (I),FA19,29,15,100.0%,100.0%,4.23,A- (3.86),B+ (3.57)
+290,"Simpson, Junko Tokuda",JAPN 10A - First Year Japanese I (J),FA19,28,13,91.7%,91.7%,4.67,B+ (3.67),B+ (3.68)
+291,"Iwamoto, Naoki",JAPN 10A - First Year Japanese I (K),FA19,25,17,100.0%,100.0%,4.74,A- (3.94),B+ (3.53)
+292,"Ross, Kayoko F",JAPN 10A - First Year Japanese I (L),FA19,27,13,100.0%,100.0%,6.35,A- (3.83),A- (3.83)
+293,"Simpson, Junko Tokuda",JAPN 10A - First Year Japanese I (M),FA19,23,14,100.0%,92.9%,5.93,A- (3.85),A- (3.77)
+294,"Kamioka, Sachiko",JAPN 10A - First Year Japanese I (N),FA19,24,17,100.0%,100.0%,4.5,B+ (3.69),B+ (3.57)
+295,"Tipton, Yuko",JAPN 10A - First Year Japanese I (O),FA19,23,16,100.0%,100.0%,4.63,A- (3.79),B+ (3.67)
+296,"Tipton, Yuko",JAPN 10A - First Year Japanese I (P),FA19,21,15,100.0%,100.0%,5.57,A- (3.73),B+ (3.66)
+297,"Iwamoto, Naoki",JAPN 10A - First Year Japanese I (Q),FA19,22,13,100.0%,100.0%,2.96,A- (3.92),B+ (3.69)
+298,"Simpson, Junko Tokuda",JAPN 130A - Third Year Japanese I (A),FA19,25,15,93.3%,100.0%,5.03,A- (3.73),B+ (3.61)
+299,"Inada, Minori",JAPN 130A - Third Year Japanese I (B),FA19,25,12,91.7%,100.0%,3.33,A- (3.83),B+ (3.34)
+300,"Takeda, Izumi",JAPN 135A - Japanese/Professional Purposes (A),FA19,19,7,100.0%,100.0%,3.64,A- (3.86),
+301,"Sato, Kyoko",JAPN 140A - Fourth Year Japanese I (A),FA19,19,7,100.0%,100.0%,3.64,A- (3.71),
+302,"Sato, Kyoko",JAPN 20A - Second Year Japanese I (A),FA19,21,16,100.0%,100.0%,6.13,B+ (3.55),B+ (3.64)
+303,"Sato, Kyoko",JAPN 20A - Second Year Japanese I (B),FA19,22,20,100.0%,100.0%,3.72,B+ (3.60),B+ (3.54)
+304,"Inada, Minori",JAPN 20A - Second Year Japanese I (C),FA19,25,11,100.0%,100.0%,5.41,B+ (3.50),B+ (3.54)
+305,"McKee, Mayumi Mochizuki",JAPN 20A - Second Year Japanese I (D),FA19,25,14,92.9%,100.0%,3.64,A- (3.75),B+ (3.32)
+306,"Maruyama, Rie",JAPN 20A - Second Year Japanese I (E),FA19,26,10,100.0%,100.0%,6.3,A- (3.70),B+ (3.41)
+307,"Inada, Minori",JAPN 20A - Second Year Japanese I (F),FA19,24,16,100.0%,100.0%,4.13,A- (3.79),A- (3.80)
+308,"McKee, Mayumi Mochizuki",JAPN 20A - Second Year Japanese I (G),FA19,24,15,100.0%,100.0%,5.43,B+ (3.67),A- (3.73)
+309,"McKee, Mayumi Mochizuki",JAPN 20A - Second Year Japanese I (H),FA19,21,18,94.4%,100.0%,5.21,A- (3.91),A- (3.98)
+310,"Simpson, Junko Tokuda",JAPN 10C - First Year Japanese III (A),SP19,26,12,100.0%,100.0%,5.83,A- (3.73),B+ (3.60)
+311,"Tipton, Yuko",JAPN 10C - First Year Japanese III (B),SP19,26,15,100.0%,100.0%,5.07,A- (3.71),B+ (3.67)
+312,"Maruyama, Rie",JAPN 10C - First Year Japanese III (C),SP19,17,11,100.0%,100.0%,3.9,B+ (3.67),
+313,"Simpson, Junko Tokuda",JAPN 10C - First Year Japanese III (D),SP19,22,12,100.0%,100.0%,5.23,A- (3.91),B+ (3.60)
+314,"Tipton, Yuko",JAPN 10C - First Year Japanese III (E),SP19,26,14,100.0%,100.0%,6.07,A- (3.75),B+ (3.67)
+315,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (F),SP19,16,6,100.0%,100.0%,4.83,B+ (3.67),
+316,"Takeda, Izumi",JAPN 10C - First Year Japanese III (G),SP19,26,15,100.0%,100.0%,5.5,B+ (3.62),B+ (3.58)
+317,"Inada, Minori",JAPN 10C - First Year Japanese III (H),SP19,26,11,100.0%,100.0%,4.14,B+ (3.44),B+ (3.54)
+318,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (I),SP19,24,12,91.7%,100.0%,6.17,B (3.27),A- (3.74)
+319,"Iwamoto, Naoki",JAPN 10C - First Year Japanese III (J),SP19,25,13,90.9%,90.9%,5.95,A- (3.80),A- (3.75)
+320,"Maruyama, Rie",JAPN 10C - First Year Japanese III (K),SP19,26,17,100.0%,100.0%,5.3,B+ (3.57),B+ (3.69)
+321,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (L),SP19,24,8,100.0%,100.0%,3.5,A (4.00),A- (3.74)
+322,"Iwamoto, Naoki",JAPN 10C - First Year Japanese III (M),SP19,25,13,100.0%,100.0%,4.81,B+ (3.67),A- (3.75)
+323,"Kamioka, Sachiko",JAPN 10C - First Year Japanese III (N),SP19,22,14,100.0%,100.0%,6.81,B+ (3.64),B+ (3.66)
+324,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (A),SP19,16,9,100.0%,100.0%,5.39,B+ (3.67),
+325,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (B),SP19,14,7,100.0%,100.0%,4.5,A- (3.83),
+326,"Takeda, Izumi",JAPN 135C - Japanese/Prof Purposes III (A),SP19,16,15,93.3%,93.3%,4.23,A- (3.80),
+327,"McKee, Mayumi Mochizuki",JAPN 140C - Fourth Year Japanese III (A),SP19,7,3,100.0%,100.0%,3.83,A (4.00),
+328,"Simpson, Junko Tokuda",JAPN 150C - Advanced Japanese III (A),SP19,9,4,100.0%,100.0%,3.0,A (4.00),
+329,"Sato, Kyoko",JAPN 20C - Second Yr Japanese III (A),SP19,19,10,90.0%,100.0%,2.9,A (4.00),
+330,"McKee, Mayumi Mochizuki",JAPN 20C - Second Yr Japanese III (B),SP19,24,14,100.0%,100.0%,4.5,A- (3.83),A- (3.70)
+331,"Maruyama, Rie",JAPN 20C - Second Yr Japanese III (C),SP19,24,10,100.0%,100.0%,3.61,A- (3.78),B+ (3.50)
+332,"Inada, Minori",JAPN 20C - Second Yr Japanese III (D),SP19,20,11,100.0%,100.0%,3.23,A- (3.90),B+ (3.56)
+333,"Inada, Minori",JAPN 10B - First Year Japanese II (A),WI19,21,10,100.0%,90.0%,5.3,B+ (3.50),B+ (3.44)
+334,"Inada, Minori",JAPN 10B - First Year Japanese II (B),WI19,29,11,100.0%,100.0%,5.3,B+ (3.67),B+ (3.44)
+335,"Tipton, Yuko",JAPN 10B - First Year Japanese II (C),WI19,19,11,100.0%,100.0%,7.23,A- (3.89),
+336,"Takeda, Izumi",JAPN 10B - First Year Japanese II (D),WI19,29,19,100.0%,100.0%,4.61,B+ (3.61),B+ (3.38)
+337,"Simpson, Junko Tokuda",JAPN 10B - First Year Japanese II (E),WI19,28,16,100.0%,100.0%,6.1,B+ (3.50),A- (3.71)
+338,"Iwamoto, Naoki",JAPN 10B - First Year Japanese II (F),WI19,28,12,91.7%,91.7%,7.83,B+ (3.67),A- (3.75)
+339,"Takeda, Izumi",JAPN 10B - First Year Japanese II (G),WI19,28,17,100.0%,100.0%,5.5,B+ (3.65),B+ (3.38)
+340,"Tipton, Yuko",JAPN 10B - First Year Japanese II (H),WI19,30,18,100.0%,100.0%,4.83,A- (3.76),B+ (3.48)
+341,"Iwamoto, Naoki",JAPN 10B - First Year Japanese II (I),WI19,23,18,100.0%,100.0%,5.68,A- (3.94),A- (3.75)
+342,"Maruyama, Rie",JAPN 10B - First Year Japanese II (J),WI19,23,15,93.3%,86.7%,4.37,B+ (3.54),B+ (3.31)
+343,"Maruyama, Rie",JAPN 10B - First Year Japanese II (K),WI19,27,12,100.0%,100.0%,5.67,A- (3.75),B+ (3.31)
+344,"Kamioka, Sachiko",JAPN 10B - First Year Japanese II (L),WI19,28,17,100.0%,100.0%,6.74,B+ (3.63),B+ (3.33)
+345,"Ross, Kayoko F",JAPN 10B - First Year Japanese II (M),WI19,27,12,100.0%,100.0%,5.0,A- (3.89),B+ (3.50)
+346,"Kamioka, Sachiko",JAPN 10B - First Year Japanese II (N),WI19,24,15,100.0%,100.0%,5.27,A- (3.90),B+ (3.33)
+347,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (A),WI19,22,7,100.0%,100.0%,5.64,B+ (3.67),A- (3.77)
+348,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (B),WI19,21,9,100.0%,100.0%,4.28,A- (3.86),A- (3.77)
+349,"Takeda, Izumi",JAPN 135B - Japanese/Prof Purposes II (A),WI19,20,17,100.0%,100.0%,3.56,A- (3.88),A- (3.80)
+350,"McKee, Mayumi Mochizuki",JAPN 140B - Fourth Year Japanese II (A),WI19,10,8,100.0%,100.0%,3.75,A- (3.75),
+351,"Simpson, Junko Tokuda",JAPN 150B - Advanced Japanese II (A),WI19,4,4,100.0%,100.0%,3.5,A (4.00),
+352,"Turner, Christena L.",JAPN 190 - Sel Topcs/Contmp Japn Studies (A),WI19,20,11,100.0%,100.0%,4.86,B+ (3.45),B+ (3.56)
+353,"McKee, Mayumi Mochizuki",JAPN 20B - Second Yr Japanese II (A),WI19,19,13,100.0%,100.0%,4.67,A- (3.90),
+354,"McKee, Mayumi Mochizuki",JAPN 20B - Second Yr Japanese II (B),WI19,25,14,100.0%,100.0%,3.5,A- (3.92),B+ (3.53)
+355,"Inada, Minori",JAPN 20B - Second Yr Japanese II (C),WI19,26,10,100.0%,100.0%,5.7,A (4.00),A- (3.75)
+356,"Ross, Kayoko F",JAPN 20B - Second Yr Japanese II (D),WI19,24,10,100.0%,100.0%,3.7,A- (3.89),A- (3.73)
+357,"Iwamoto, Naoki",JAPN 20B - Second Yr Japanese II (E),WI19,27,14,100.0%,100.0%,3.79,A- (3.92),A- (3.77)
+358,"Simpson, Junko Tokuda",JAPN 10A - First Year Japanese I (A),FA18,29,17,94.1%,100.0%,6.5,B+ (3.67),B+ (3.55)
+359,"Inada, Minori",JAPN 10A - First Year Japanese I (B),FA18,32,16,100.0%,100.0%,5.38,A- (3.92),B+ (3.69)
+360,"Maruyama, Rie",JAPN 10A - First Year Japanese I (C),FA18,25,17,100.0%,100.0%,5.79,B+ (3.58),B+ (3.54)
+361,"Takeda, Izumi",JAPN 10A - First Year Japanese I (D),FA18,28,20,95.0%,100.0%,4.7,B+ (3.53),A- (3.71)
+362,"Simpson, Junko Tokuda",JAPN 10A - First Year Japanese I (E),FA18,31,24,100.0%,100.0%,5.75,A- (3.77),B+ (3.55)
+363,"Tipton, Yuko",JAPN 10A - First Year Japanese I (F),FA18,31,18,100.0%,100.0%,5.83,A- (3.81),B+ (3.50)
+364,"Maruyama, Rie",JAPN 10A - First Year Japanese I (G),FA18,27,16,100.0%,100.0%,5.13,B+ (3.60),B+ (3.54)
+365,"Takeda, Izumi",JAPN 10A - First Year Japanese I (H),FA18,30,15,100.0%,100.0%,6.04,A- (3.77),A- (3.71)
+366,"Inada, Minori",JAPN 10A - First Year Japanese I (I),FA18,30,16,100.0%,100.0%,4.0,A- (3.93),B+ (3.69)
+367,"Tipton, Yuko",JAPN 10A - First Year Japanese I (J),FA18,31,15,100.0%,100.0%,5.83,B+ (3.60),B+ (3.50)
+368,"Inada, Minori",JAPN 10A - First Year Japanese I (K),FA18,28,17,94.1%,100.0%,5.75,A- (3.87),B+ (3.69)
+369,"Kamioka, Sachiko",JAPN 10A - First Year Japanese I (L),FA18,30,17,100.0%,100.0%,5.79,A- (3.75),A- (3.73)
+370,"Ross, Kayoko F",JAPN 10A - First Year Japanese I (M),FA18,30,16,87.5%,93.8%,4.75,A- (3.81),A- (3.86)
+371,"Kamioka, Sachiko",JAPN 10A - First Year Japanese I (N),FA18,29,14,100.0%,100.0%,5.93,A- (3.75),A- (3.73)
+372,"Iwamoto, Naoki",JAPN 10A - First Year Japanese I (P),FA18,24,17,100.0%,100.0%,7.68,A- (3.79),A- (3.78)
+373,"Ross, Kayoko F",JAPN 10A - First Year Japanese I (Q),FA18,29,15,93.3%,100.0%,5.43,A- (3.85),A- (3.86)
+374,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (A),FA18,22,14,92.3%,100.0%,2.65,A- (3.91),A- (3.82)
+375,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (B),FA18,20,10,100.0%,100.0%,5.39,B+ (3.63),A- (3.82)
+376,"Takeda, Izumi",JAPN 135A - Japanese/Professional Purposes (A),FA18,18,19,89.5%,100.0%,4.82,A- (3.72),
+377,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese I (A),FA18,15,14,92.9%,100.0%,4.07,B+ (3.67),
+378,"Sato, Kyoko",JAPN 20A - Second Yr Japanese I (B),FA18,27,23,95.5%,100.0%,4.85,A- (3.82),B+ (3.62)
+379,"Ross, Kayoko F",JAPN 20A - Second Yr Japanese I (D),FA18,29,11,100.0%,100.0%,5.05,B+ (3.56),B+ (3.45)
+380,"Iwamoto, Naoki",JAPN 20A - Second Yr Japanese I (E),FA18,31,13,92.3%,100.0%,6.04,A- (3.91),A- (3.88)
+381,"Maruyama, Rie",JAPN 20A - Second Yr Japanese I (F),FA18,31,20,94.7%,100.0%,5.76,B+ (3.40),B+ (3.58)
+382,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (G),FA18,29,21,100.0%,100.0%,4.98,B+ (3.50),B+ (3.67)
+383,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (H),FA18,27,21,100.0%,100.0%,4.7,A- (3.71),B+ (3.67)
+384,"Iwamoto, Naoki",JAPN 20A - Second Yr Japanese I (I),FA18,29,23,95.7%,100.0%,4.24,B+ (3.65),A- (3.88)
+385,"Simpson, Junko Tokuda",JAPN 10C - First Year Japanese III (B),SP18,24,12,91.7%,91.7%,4.5,A- (3.89),B+ (3.62)
+386,"Inada, Minori",JAPN 10C - First Year Japanese III (C),SP18,24,10,100.0%,100.0%,3.9,B+ (3.44),A- (3.85)
+387,"Maruyama, Rie",JAPN 10C - First Year Japanese III (D),SP18,14,7,71.4%,71.4%,3.93,B+ (3.50),
+388,"Simpson, Junko Tokuda",JAPN 10C - First Year Japanese III (E),SP18,26,12,100.0%,91.7%,5.5,B+ (3.60),B+ (3.62)
+389,"Iwamoto, Naoki",JAPN 10C - First Year Japanese III (F),SP18,26,12,100.0%,100.0%,5.5,A (4.00),A- (3.90)
+390,"Tipton, Yuko",JAPN 10C - First Year Japanese III (G),SP18,24,12,100.0%,100.0%,3.95,A- (3.91),A- (3.77)
+391,"Inada, Minori",JAPN 10C - First Year Japanese III (H),SP18,26,15,100.0%,100.0%,7.07,A- (3.77),A- (3.85)
+392,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (I),SP18,26,13,100.0%,100.0%,4.5,A (4.00),B+ (3.61)
+393,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (J),SP18,28,14,100.0%,91.7%,5.12,A- (3.82),B+ (3.61)
+394,"Iwamoto, Naoki",JAPN 10C - First Year Japanese III (K),SP18,28,15,100.0%,100.0%,4.77,A- (3.93),A- (3.90)
+395,"Maruyama, Rie",JAPN 10C - First Year Japanese III (L),SP18,25,17,93.8%,100.0%,4.5,A- (3.73),A- (3.87)
+396,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (M),SP18,27,6,100.0%,100.0%,3.3,A (4.00),B+ (3.61)
+397,"Takeda, Izumi",JAPN 10C - First Year Japanese III (N),SP18,22,7,83.3%,83.3%,7.5,B+ (3.60),B+ (3.64)
+398,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (A),SP18,8,8,100.0%,100.0%,5.5,A- (3.88),
+399,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (B),SP18,15,15,93.3%,100.0%,5.17,A- (3.79),
+400,"Takeda, Izumi",JAPN 135C - Japanese/Prof Purposes III (A),SP18,8,9,88.9%,100.0%,4.5,A- (3.89),
+401,"McKee, Mayumi Mochizuki",JAPN 140C - Fourth Year Japanese III (A),SP18,8,6,100.0%,100.0%,3.5,A- (3.75),
+402,"Simpson, Junko Tokuda",JAPN 150C - Advanced Japanese III (A),SP18,8,6,100.0%,100.0%,3.5,A (4.00),
+403,"Sato, Kyoko",JAPN 20C - Second Yr Japanese III (A),SP18,19,13,100.0%,100.0%,3.73,A- (3.83),
+404,"McKee, Mayumi Mochizuki",JAPN 20C - Second Yr Japanese III (B),SP18,20,13,92.3%,100.0%,3.58,A- (3.75),B+ (3.37)
+405,"Maruyama, Rie",JAPN 20C - Second Yr Japanese III (C),SP18,20,14,92.9%,92.9%,4.79,A- (3.71),B+ (3.59)
+406,"Inada, Minori",JAPN 20C - Second Yr Japanese III (D),SP18,21,10,90.0%,100.0%,4.9,A (4.00),B+ (3.64)
+407,"Iwamoto, Naoki",JAPN 10B - First Year Japanese II (A),WI18,19,15,100.0%,100.0%,5.97,B+ (3.64),
+408,"Iwamoto, Naoki",JAPN 10B - First Year Japanese II (B),WI18,27,20,100.0%,100.0%,5.1,A- (3.88),A- (3.77)
+409,"Ross, Kayoko F",JAPN 10B - First Year Japanese II (C),WI18,26,13,100.0%,100.0%,6.81,B+ (3.67),B+ (3.58)
+410,"Inada, Minori",JAPN 10B - First Year Japanese II (D),WI18,25,15,92.9%,92.9%,6.36,A- (3.75),B+ (3.57)
+411,"Takeda, Izumi",JAPN 10B - First Year Japanese II (E),WI18,29,19,100.0%,100.0%,5.13,A- (3.88),B+ (3.66)
+412,"Tipton, Yuko",JAPN 10B - First Year Japanese II (F),WI18,30,13,100.0%,100.0%,5.58,A- (3.77),A- (3.93)
+413,"Simpson, Junko Tokuda",JAPN 10B - First Year Japanese II (G),WI18,29,15,100.0%,100.0%,6.07,A- (3.77),B+ (3.63)
+414,"Takeda, Izumi",JAPN 10B - First Year Japanese II (H),WI18,27,15,100.0%,93.3%,5.17,B+ (3.67),B+ (3.66)
+415,"Tipton, Yuko",JAPN 10B - First Year Japanese II (I),WI18,28,18,100.0%,100.0%,4.83,A- (3.89),A- (3.93)
+416,"Iwamoto, Naoki",JAPN 10B - First Year Japanese II (J),WI18,27,16,100.0%,100.0%,6.13,B+ (3.67),A- (3.77)
+417,"Maruyama, Rie",JAPN 10B - First Year Japanese II (K),WI18,25,13,100.0%,100.0%,4.19,A- (3.83),B+ (3.39)
+418,"Ross, Kayoko F",JAPN 10B - First Year Japanese II (L),WI18,18,8,100.0%,100.0%,4.5,A- (3.88),
+419,"Kamioka, Sachiko",JAPN 10B - First Year Japanese II (M),WI18,28,14,100.0%,92.9%,4.79,A- (3.92),A- (3.71)
+420,"Kamioka, Sachiko",JAPN 10B - First Year Japanese II (N),WI18,28,18,94.4%,100.0%,5.94,A- (3.94),A- (3.71)
+421,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (A),WI18,18,18,94.4%,88.9%,4.61,A- (3.76),
+422,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (B),WI18,14,13,100.0%,100.0%,4.65,B+ (3.62),
+423,"Takeda, Izumi",JAPN 135B - Japanese/Prof Purposes II (A),WI18,8,7,85.7%,100.0%,5.07,A- (3.86),
+424,"McKee, Mayumi Mochizuki",JAPN 140B - Fourth Year Japanese II (A),WI18,5,3,100.0%,100.0%,4.5,B+ (3.67),
+425,"Simpson, Junko Tokuda",JAPN 150B - Advanced Japanese II (A),WI18,9,5,100.0%,100.0%,4.9,A (4.00),
+426,"Turner, Christena L.",JAPN 190 - Sel Topcs/Contmp Japn Studies (A),WI18,14,7,83.3%,100.0%,5.17,A- (3.83),
+427,"Inada, Minori",JAPN 20B - Second Yr Japanese II (A),WI18,26,17,100.0%,100.0%,4.62,A- (3.79),B+ (3.67)
+428,"McKee, Mayumi Mochizuki",JAPN 20B - Second Yr Japanese II (B),WI18,26,10,100.0%,100.0%,3.61,A- (3.88),B+ (3.64)
+429,"McKee, Mayumi Mochizuki",JAPN 20B - Second Yr Japanese II (C),WI18,25,14,100.0%,100.0%,3.5,B+ (3.69),B+ (3.64)
+430,"Maruyama, Rie",JAPN 20B - Second Yr Japanese II (E),WI18,22,15,100.0%,100.0%,3.17,B+ (3.67),A- (3.81)
+431,"Simpson, Junko Tokuda",JAPN 10A - First Year Japanese I (C),FA17,34,27,100.0%,100.0%,7.22,A- (3.88),A- (3.81)
+432,"Inada, Minori",JAPN 10A - First Year Japanese I (D),FA17,34,18,94.4%,100.0%,5.94,B+ (3.65),B+ (3.65)
+433,"Ross, Kayoko F",JAPN 10A - First Year Japanese I (E),FA17,35,17,100.0%,100.0%,7.21,B+ (3.62),A- (3.80)
+434,"Simpson, Junko Tokuda",JAPN 10A - First Year Japanese I (F),FA17,33,19,94.4%,94.1%,6.18,A- (3.76),A- (3.81)
+435,"Tipton, Yuko",JAPN 10A - First Year Japanese I (G),FA17,34,21,100.0%,100.0%,5.93,A- (3.75),A- (3.87)
+436,"Maruyama, Rie",JAPN 10A - First Year Japanese I (H),FA17,32,20,100.0%,89.5%,6.4,A- (3.78),A- (3.75)
+437,"Tipton, Yuko",JAPN 10A - First Year Japanese I (I),FA17,33,15,92.9%,92.9%,5.5,B+ (3.69),A- (3.87)
+438,"Ross, Kayoko F",JAPN 10A - First Year Japanese I (J),FA17,33,19,100.0%,100.0%,5.5,A- (3.87),A- (3.80)
+439,"Ross, Kayoko F",JAPN 10A - First Year Japanese I (K),FA17,34,14,100.0%,100.0%,5.5,B+ (3.60),A- (3.80)
+440,"Iwamoto, Naoki",JAPN 10A - First Year Japanese I (L),FA17,35,18,100.0%,100.0%,4.83,A- (3.94),A- (3.75)
+441,"Kamioka, Sachiko",JAPN 10A - First Year Japanese I (M),FA17,35,17,94.1%,94.1%,5.21,A (4.00),B+ (3.68)
+442,"Iwamoto, Naoki",JAPN 10A - First Year Japanese I (N),FA17,34,17,100.0%,100.0%,5.21,A- (3.79),A- (3.75)
+443,"Kamioka, Sachiko",JAPN 10A - First Year Japanese I (O),FA17,32,17,100.0%,100.0%,5.56,B+ (3.67),B+ (3.68)
+444,"Iwamoto, Naoki",JAPN 10A - First Year Japanese I (P),FA17,34,19,100.0%,100.0%,6.39,A- (3.79),A- (3.75)
+445,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (A),FA17,18,12,100.0%,100.0%,4.0,A- (3.75),
+446,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (B),FA17,20,11,100.0%,100.0%,2.1,A- (3.89),A- (3.86)
+447,"Simpson, Junko Tokuda",JAPN 135A - Japanese/Professional Purposes (A),FA17,9,5,40.0%,100.0%,10.1,B (3.00),
+448,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese I (A),FA17,10,6,83.3%,100.0%,3.3,A (4.00),
+449,"Inada, Minori",JAPN 20A - Second Yr Japanese I (A),FA17,25,14,100.0%,100.0%,4.81,B+ (3.58),A- (3.76)
+450,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (B),FA17,24,10,90.0%,90.0%,3.1,B+ (3.67),B+ (3.67)
+451,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (C),FA17,25,13,100.0%,100.0%,4.5,B+ (3.64),B+ (3.67)
+452,"Inada, Minori",JAPN 20A - Second Yr Japanese I (D),FA17,23,12,100.0%,100.0%,4.32,A- (3.78),A- (3.76)
+453,"Sato, Kyoko",JAPN 20A - Second Yr Japanese I (E),FA17,24,11,100.0%,100.0%,2.86,A- (3.90),B+ (3.52)
+454,"Maruyama, Rie",JAPN 20A - Second Yr Japanese I (F),FA17,24,14,100.0%,100.0%,3.58,A- (3.70),B+ (3.45)
+455,"Maruyama, Rie",JAPN 20A - Second Yr Japanese I (G),FA17,23,13,100.0%,100.0%,4.04,B+ (3.63),B+ (3.45)
+456,"Takeda, Izumi",JAPN 10C - First Year Japanese III (A),SP17,34,19,100.0%,100.0%,6.72,B (3.29),B+ (3.54)
+457,"Simpson, Junko Tokuda",JAPN 10C - First Year Japanese III (B),SP17,33,16,92.9%,71.4%,2.83,A- (3.85),B+ (3.36)
+458,"Simpson, Junko Tokuda",JAPN 10C - First Year Japanese III (C),SP17,34,11,100.0%,90.0%,3.39,B+ (3.50),B+ (3.36)
+459,"Tipton, Yuko",JAPN 10C - First Year Japanese III (D),SP17,35,26,95.7%,95.7%,4.67,A- (3.90),A- (3.87)
+460,"Tipton, Yuko",JAPN 10C - First Year Japanese III (E),SP17,35,21,100.0%,100.0%,3.26,A- (3.82),A- (3.87)
+461,"Inada, Minori",JAPN 10C - First Year Japanese III (F),SP17,35,12,91.7%,91.7%,4.33,A- (3.75),A- (3.73)
+462,"Simpson, Junko Tokuda",JAPN 10C - First Year Japanese III (G),SP17,29,14,100.0%,92.9%,4.79,B+ (3.36),B+ (3.36)
+463,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (H),SP17,35,11,100.0%,100.0%,3.75,A- (3.88),B+ (3.65)
+464,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (I),SP17,35,16,93.8%,87.5%,5.88,A- (3.85),B+ (3.65)
+465,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (B),SP17,9,5,80.0%,80.0%,2.5,B+ (3.60),
+466,"Takeda, Izumi",JAPN 135C - Japanese/Prof Purposes III (A),SP17,9,9,100.0%,100.0%,6.06,B+ (3.50),
+467,"Turner, Christena L.",JAPN 190 - Sel Topcs/Contmp Japn Studies (A),SP17,19,6,100.0%,100.0%,4.83,B+ (3.33),
+468,"Sato, Kyoko",JAPN 20C - Second Yr Japanese III (A),SP17,14,7,100.0%,100.0%,1.93,A- (3.83),
+469,"McKee, Mayumi Mochizuki",JAPN 20C - Second Yr Japanese III (B),SP17,20,10,100.0%,100.0%,2.7,A- (3.80),A- (3.81)
+470,"Inada, Minori",JAPN 20C - Second Yr Japanese III (C),SP17,19,11,100.0%,100.0%,3.95,A- (3.78),
+471,"Takeda, Izumi",JAPN 10B - First Year Japanese II (A),WI17,35,25,91.7%,95.8%,5.17,B+ (3.67),B+ (3.56)
+472,"Takeda, Izumi",JAPN 10B - First Year Japanese II (B),WI17,34,14,100.0%,100.0%,7.5,B+ (3.50),B+ (3.56)
+473,"Inada, Minori",JAPN 10B - First Year Japanese II (C),WI17,40,21,100.0%,100.0%,3.94,A- (3.74),B+ (3.55)
+474,"Tipton, Yuko",JAPN 10B - First Year Japanese II (D),WI17,37,21,100.0%,100.0%,5.7,A- (3.85),A- (3.85)
+475,"Simpson, Junko Tokuda",JAPN 10B - First Year Japanese II (E),WI17,37,22,90.5%,95.2%,5.13,A- (3.74),B+ (3.53)
+476,"Tipton, Yuko",JAPN 10B - First Year Japanese II (F),WI17,35,16,100.0%,100.0%,4.5,A- (3.79),A- (3.85)
+477,"Inada, Minori",JAPN 10B - First Year Japanese II (G),WI17,37,15,100.0%,100.0%,5.43,B+ (3.64),B+ (3.55)
+478,"Ross, Kayoko F",JAPN 10B - First Year Japanese II (I),WI17,34,14,100.0%,100.0%,6.65,B+ (3.58),B+ (3.62)
+479,"Ross, Kayoko F",JAPN 10B - First Year Japanese II (J),WI17,34,12,88.9%,100.0%,5.25,B+ (3.63),B+ (3.62)
+480,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (B),WI17,10,5,100.0%,100.0%,3.3,A- (3.80),
+481,"Takeda, Izumi",JAPN 135B - Japanese/Prof Purposes II (A),WI17,13,12,91.7%,100.0%,7.0,B+ (3.67),
+482,"Simpson, Junko Tokuda",JAPN 150B - Advanced Japanese II (A),WI17,7,3,100.0%,100.0%,2.5,A (4.00),
+483,"McKee, Mayumi Mochizuki",JAPN 20B - Second Yr Japanese II (A),WI17,26,12,100.0%,100.0%,3.17,A- (3.83),B+ (3.56)
+484,"McKee, Mayumi Mochizuki",JAPN 20B - Second Yr Japanese II (B),WI17,26,12,100.0%,100.0%,3.5,A- (3.82),B+ (3.56)
+485,"Inada, Minori",JAPN 20B - Second Yr Japanese II (C),WI17,29,16,100.0%,100.0%,3.07,A- (3.87),A- (3.72)
+486,"Takeda, Izumi",JAPN 10A - First Year Japanese I (A),FA16,38,23,100.0%,100.0%,5.64,A- (3.72),B+ (3.64)
+487,"Inada, Minori",JAPN 10A - First Year Japanese I (B),FA16,39,20,100.0%,84.2%,7.91,B+ (3.61),A- (3.95)
+488,"Takeda, Izumi",JAPN 10A - First Year Japanese I (C),FA16,37,19,100.0%,100.0%,5.97,A- (3.75),B+ (3.64)
+489,"Simpson, Junko Tokuda",JAPN 10A - First Year Japanese I (D),FA16,38,22,100.0%,100.0%,5.2,B+ (3.57),A- (3.75)
+490,"Tipton, Yuko",JAPN 10A - First Year Japanese I (E),FA16,38,20,100.0%,100.0%,5.55,A- (3.82),A- (3.73)
+491,"Simpson, Junko Tokuda",JAPN 10A - First Year Japanese I (F),FA16,42,23,95.0%,100.0%,5.87,A- (3.74),A- (3.75)
+492,"Tipton, Yuko",JAPN 10A - First Year Japanese I (G),FA16,39,19,100.0%,100.0%,4.85,B+ (3.69),A- (3.73)
+493,"Inada, Minori",JAPN 10A - First Year Japanese I (H),FA16,41,24,100.0%,95.7%,5.28,A- (3.91),A- (3.95)
+494,"Ross, Kayoko F",JAPN 10A - First Year Japanese I (I),FA16,41,19,100.0%,94.7%,4.97,B+ (3.62),A- (3.81)
+495,"Ross, Kayoko F",JAPN 10A - First Year Japanese I (J),FA16,38,11,90.0%,100.0%,7.5,A- (3.78),A- (3.81)
+496,"Tipton, Yuko",JAPN 10A - First Year Japanese I (K),FA16,36,24,100.0%,100.0%,4.41,B+ (3.68),A- (3.73)
+497,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (A),FA16,21,11,100.0%,100.0%,4.68,A (4.00),B+ (3.57)
+498,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (B),FA16,20,12,83.3%,91.7%,3.67,B+ (3.60),B+ (3.57)
+499,"Takeda, Izumi",JAPN 135A - Japanese/Professional Purposes (A),FA16,17,6,100.0%,100.0%,5.5,B+ (3.67),
+500,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese I (A),FA16,13,8,85.7%,85.7%,4.21,B (3.17),
+501,"Simpson, Junko Tokuda",JAPN 150A - Advanced Japanese I (A),FA16,8,3,100.0%,100.0%,3.17,A (4.00),
+502,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (A),FA16,29,14,100.0%,100.0%,4.5,A (4.00),B+ (3.60)
+503,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (B),FA16,31,15,93.3%,93.3%,3.21,A- (3.77),B+ (3.60)
+504,"Inada, Minori",JAPN 20A - Second Yr Japanese I (C),FA16,31,16,100.0%,93.3%,3.57,A (4.00),A- (3.82)
+505,"Sato, Kyoko",JAPN 20A - Second Yr Japanese I (D),FA16,31,9,100.0%,100.0%,4.72,A- (3.88),B+ (3.66)
+506,"Ross, Kayoko F",JAPN 20A - Second Yr Japanese I (E),FA16,29,21,90.0%,95.0%,4.4,A- (3.87),B+ (3.46)
+507,"Simpson, Junko Tokuda",JAPN 10C - First Year Japanese III (A),SP16,37,21,100.0%,83.3%,4.83,A- (3.88),A- (3.77)
+508,"Simpson, Junko Tokuda",JAPN 10C - First Year Japanese III (B),SP16,35,12,100.0%,100.0%,3.83,A- (3.83),A- (3.77)
+509,"Tipton, Yuko",JAPN 10C - First Year Japanese III (C),SP16,37,25,100.0%,100.0%,4.26,A- (3.86),B+ (3.67)
+510,"Takeda, Izumi",JAPN 10C - First Year Japanese III (D),SP16,38,23,100.0%,100.0%,4.59,B+ (3.68),B+ (3.63)
+511,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (E),SP16,38,18,94.4%,100.0%,3.56,A- (3.79),B+ (3.52)
+512,"Umabe, Sato",JAPN 10C - First Year Japanese III (F),SP16,38,16,100.0%,93.8%,3.63,A (4.00),A- (3.87)
+513,"Ross, Kayoko F",JAPN 10C - First Year Japanese III (G),SP16,31,14,100.0%,92.3%,3.73,A- (3.85),B+ (3.52)
+514,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (B),SP16,9,3,100.0%,100.0%,6.5,A (4.00),
+515,"Takeda, Izumi",JAPN 135C - Japanese/Prof Purposes III (A),SP16,6,6,100.0%,100.0%,7.17,B+ (3.67),
+516,"McKee, Mayumi Mochizuki",JAPN 140C - Fourth Year Japanese III (A),SP16,8,3,100.0%,100.0%,3.17,A (4.00),
+517,"Simpson, Junko Tokuda",JAPN 150C - Advanced Japanese III (A),SP16,10,8,85.7%,100.0%,4.79,A- (3.71),
+518,"Sato, Kyoko",JAPN 20C - Second Yr Japanese III (A),SP16,18,5,100.0%,100.0%,5.7,A- (3.80),
+519,"McKee, Mayumi Mochizuki",JAPN 20C - Second Yr Japanese III (B),SP16,26,17,100.0%,100.0%,3.32,A- (3.88),A- (3.76)
+520,"Ross, Kayoko F",JAPN 20C - Second Yr Japanese III (C),SP16,25,10,80.0%,100.0%,5.1,A- (3.90),B+ (3.47)
+521,"Tipton, Yuko",JAPN 10B - First Year Japanese II (A),WI16,39,19,100.0%,100.0%,4.28,A- (3.81),B+ (3.52)
+522,"Tipton, Yuko",JAPN 10B - First Year Japanese II (B),WI16,38,20,100.0%,100.0%,4.7,B+ (3.67),B+ (3.52)
+523,"Simpson, Junko Tokuda",JAPN 10B - First Year Japanese II (C),WI16,37,18,100.0%,100.0%,4.85,A- (3.87),B+ (3.67)
+524,"Ross, Kayoko F",JAPN 10B - First Year Japanese II (D),WI16,35,16,93.8%,81.3%,5.63,B+ (3.63),A- (3.73)
+525,"Takeda, Izumi",JAPN 10B - First Year Japanese II (E),WI16,36,22,100.0%,100.0%,5.36,A- (3.71),A- (3.84)
+526,"Takeda, Izumi",JAPN 10B - First Year Japanese II (F),WI16,38,21,100.0%,100.0%,5.7,A- (3.89),A- (3.84)
+527,"Umabe, Sato",JAPN 10B - First Year Japanese II (G),WI16,38,25,100.0%,100.0%,4.33,A- (3.95),A- (3.87)
+528,"Umabe, Sato",JAPN 10B - First Year Japanese II (H),WI16,38,17,94.1%,100.0%,3.91,A- (3.93),A- (3.87)
+529,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (A),WI16,12,4,100.0%,100.0%,5.83,B+ (3.50),
+530,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (B),WI16,11,8,100.0%,100.0%,6.0,A- (3.88),
+531,"Takeda, Izumi",JAPN 135B - Japanese/Prof Purposes II (A),WI16,4,4,100.0%,100.0%,8.0,A (4.00),
+532,"McKee, Mayumi Mochizuki",JAPN 140B - Fourth Year Japanese II (A),WI16,10,3,100.0%,100.0%,2.5,A (4.00),
+533,"Simpson, Junko Tokuda",JAPN 150B - Advanced Japanese II (A),WI16,12,10,100.0%,100.0%,3.25,A (4.00),
+534,"Turner, Christena L.",JAPN 190 - Sel Topcs/Contmp Japn Studies (A),WI16,17,7,100.0%,100.0%,7.5,A- (3.83),
+535,"McKee, Mayumi Mochizuki",JAPN 20B - Second Yr Japanese II (A),WI16,24,15,100.0%,100.0%,3.7,A- (3.93),B+ (3.38)
+536,"McKee, Mayumi Mochizuki",JAPN 20B - Second Yr Japanese II (B),WI16,26,15,100.0%,100.0%,3.03,A- (3.93),B+ (3.38)
+537,"Ross, Kayoko F",JAPN 20B - Second Yr Japanese II (C),WI16,26,17,100.0%,100.0%,4.0,A- (3.93),B+ (3.64)
+538,"Ross, Kayoko F",JAPN 10A - First Year Japanese I (A),FA15,37,21,100.0%,90.5%,4.5,A- (3.94),B+ (3.57)
+539,"Simpson, Junko Tokuda",JAPN 10A - First Year Japanese I (B),FA15,36,23,95.5%,100.0%,5.55,A- (3.76),B+ (3.46)
+540,"Simpson, Junko Tokuda",JAPN 10A - First Year Japanese I (C),FA15,37,21,100.0%,100.0%,4.7,B+ (3.53),B+ (3.46)
+541,"Tipton, Yuko",JAPN 10A - First Year Japanese I (D),FA15,37,20,100.0%,100.0%,4.74,A- (3.81),B+ (3.61)
+542,"Tipton, Yuko",JAPN 10A - First Year Japanese I (F),FA15,37,17,100.0%,100.0%,5.13,B+ (3.69),B+ (3.61)
+543,"Takeda, Izumi",JAPN 10A - First Year Japanese I (G),FA15,37,20,95.0%,100.0%,5.0,A- (3.85),B+ (3.55)
+544,"Takeda, Izumi",JAPN 10A - First Year Japanese I (H),FA15,36,20,94.1%,94.1%,5.68,A- (3.88),B+ (3.55)
+545,"Ross, Kayoko F",JAPN 10A - First Year Japanese I (I),FA15,37,20,100.0%,94.7%,4.61,A (4.00),B+ (3.57)
+546,"Umabe, Sato",JAPN 10A - First Year Japanese I (J),FA15,34,16,100.0%,100.0%,7.63,A- (3.87),A- (3.73)
+547,"Umabe, Sato",JAPN 10A - First Year Japanese I (K),FA15,35,18,93.8%,93.8%,5.5,A- (3.73),A- (3.73)
+548,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (A),FA15,18,6,83.3%,100.0%,6.17,A- (3.80),
+549,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (B),FA15,19,7,100.0%,85.7%,4.79,A- (3.71),
+550,"Takeda, Izumi",JAPN 135A - Japanese/Professional Purposes (A),FA15,11,11,81.8%,90.9%,5.23,B+ (3.50),
+551,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese I (B),FA15,14,4,100.0%,100.0%,4.0,A- (3.75),
+552,"Simpson, Junko Tokuda",JAPN 150A - Advanced Japanese I (A),FA15,14,7,100.0%,100.0%,3.5,A- (3.83),
+553,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (A),FA15,32,15,92.9%,85.7%,3.07,B+ (3.62),B+ (3.42)
+554,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (B),FA15,32,18,94.1%,100.0%,5.44,B+ (3.67),B+ (3.42)
+555,"Ross, Kayoko F",JAPN 20A - Second Yr Japanese I (C),FA15,25,9,100.0%,77.8%,5.17,A- (3.78),B+ (3.42)
+556,"Sato, Kyoko",JAPN 20A - Second Yr Japanese I (D),FA15,32,14,100.0%,100.0%,4.07,A- (3.93),A- (3.86)
+557,"Izumi, Yurika",JAPN 10C - First Year Japanese III (A),SP15,23,11,100.0%,100.0%,4.5,A- (3.80),B+ (3.69)
+558,"Izumi, Yurika",JAPN 10C - First Year Japanese III (B),SP15,27,10,100.0%,100.0%,4.5,A- (3.80),B+ (3.69)
+559,"Ito, Hifumi",JAPN 10C - First Year Japanese III (C),SP15,34,19,100.0%,100.0%,6.71,A- (3.83),B+ (3.68)
+560,"Izumi, Yurika",JAPN 10C - First Year Japanese III (D),SP15,30,18,100.0%,100.0%,4.83,A- (3.94),B+ (3.69)
+561,"Takeda, Izumi",JAPN 10C - First Year Japanese III (E),SP15,33,15,100.0%,100.0%,5.17,A- (3.80),A- (3.80)
+562,"Tipton, Yuko",JAPN 10C - First Year Japanese III (F),SP15,32,15,100.0%,100.0%,2.81,A (4.00),B+ (3.68)
+563,"Tipton, Yuko",JAPN 10C - First Year Japanese III (G),SP15,32,16,100.0%,100.0%,4.1,A- (3.88),B+ (3.68)
+564,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (A),SP15,9,3,100.0%,100.0%,5.17,B+ (3.67),
+565,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (B),SP15,9,3,100.0%,100.0%,4.5,B+ (3.33),
+566,"Takeda, Izumi",JAPN 135C - Japanese/Prof Purposes III (A),SP15,10,10,100.0%,100.0%,6.3,A- (3.70),
+567,"McKee, Mayumi Mochizuki",JAPN 140C - Fourth Year Japanese III (A),SP15,7,3,100.0%,100.0%,3.83,A (4.00),
+568,"Ito, Hifumi",JAPN 150C - Advanced Japanese III (A),SP15,4,4,100.0%,100.0%,3.0,B (3.25),
+569,"Sato, Kyoko",JAPN 20C - Second Yr Japanese III (A),SP15,28,11,90.9%,90.9%,3.05,A- (3.89),A- (3.74)
+570,"McKee, Mayumi Mochizuki",JAPN 20C - Second Yr Japanese III (B),SP15,30,18,100.0%,100.0%,3.7,B+ (3.67),B+ (3.56)
+571,"Ito, Hifumi",JAPN 10B - First Year Japanese II (A),WI15,30,23,100.0%,100.0%,5.23,B+ (3.67),B+ (3.59)
+572,"Ito, Hifumi",JAPN 10B - First Year Japanese II (B),WI15,32,13,100.0%,100.0%,4.19,A- (3.75),B+ (3.59)
+573,"Izumi, Yurika",JAPN 10B - First Year Japanese II (C),WI15,32,15,92.9%,92.9%,5.07,A- (3.79),B+ (3.52)
+574,"Tipton, Yuko",JAPN 10B - First Year Japanese II (D),WI15,31,12,100.0%,100.0%,5.17,A- (3.73),B+ (3.53)
+575,"Takeda, Izumi",JAPN 10B - First Year Japanese II (E),WI15,32,20,100.0%,100.0%,5.66,A- (3.94),A- (3.83)
+576,"Takeda, Izumi",JAPN 10B - First Year Japanese II (F),WI15,32,16,100.0%,100.0%,4.07,A- (3.93),A- (3.83)
+577,"Tipton, Yuko",JAPN 10B - First Year Japanese II (G),WI15,28,13,100.0%,100.0%,4.5,B+ (3.55),B+ (3.53)
+578,"Tipton, Yuko",JAPN 10B - First Year Japanese II (H),WI15,28,13,100.0%,100.0%,6.0,B+ (3.62),B+ (3.53)
+579,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (B),WI15,16,3,100.0%,100.0%,6.5,B+ (3.33),
+580,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (C),WI15,9,4,100.0%,100.0%,4.0,A- (3.75),
+581,"Takeda, Izumi",JAPN 135B - Japanese/Prof Purposes II (A),WI15,6,6,100.0%,100.0%,6.83,B (3.20),
+582,"McKee, Mayumi Mochizuki",JAPN 140B - Fourth Year Japanese II (A),WI15,14,5,100.0%,100.0%,4.5,A- (3.80),
+583,"Ito, Hifumi",JAPN 150B - Advanced Japanese II (A),WI15,4,3,100.0%,100.0%,3.83,B+ (3.33),
+584,"Turner, Christena L.",JAPN 190 - Sel Topcs/Contmp Japn Studies (A),WI15,10,3,100.0%,100.0%,3.17,B+ (3.67),
+585,"McKee, Mayumi Mochizuki",JAPN 20B - Second Yr Japanese II (A),WI15,25,15,100.0%,100.0%,4.1,B+ (3.64),B+ (3.53)
+586,"McKee, Mayumi Mochizuki",JAPN 20B - Second Yr Japanese II (B),WI15,25,11,100.0%,100.0%,2.72,A- (3.75),B+ (3.53)
+587,"Izumi, Yurika",JAPN 20B - Second Yr Japanese II (C),WI15,24,17,100.0%,100.0%,3.91,B+ (3.50),B+ (3.58)
+588,"Izumi, Yurika",JAPN 10A - First Year Japanese I (A),FA14,36,12,100.0%,100.0%,6.14,A- (3.73),B+ (3.67)
+589,"Ito, Hifumi",JAPN 10A - First Year Japanese I (B),FA14,35,19,100.0%,100.0%,6.88,A- (3.73),B+ (3.68)
+590,"Ito, Hifumi",JAPN 10A - First Year Japanese I (C),FA14,38,21,100.0%,100.0%,6.23,A- (3.73),B+ (3.68)
+591,"Izumi, Yurika",JAPN 10A - First Year Japanese I (D),FA14,38,23,95.5%,100.0%,5.59,A- (3.91),B+ (3.67)
+592,"Tipton, Yuko",JAPN 10A - First Year Japanese I (E),FA14,33,18,100.0%,100.0%,5.75,A- (3.87),A- (3.71)
+593,"Takeda, Izumi",JAPN 10A - First Year Japanese I (H),FA14,35,14,100.0%,100.0%,5.0,A- (3.92),B+ (3.69)
+594,"Takeda, Izumi",JAPN 10A - First Year Japanese I (I),FA14,36,21,100.0%,100.0%,8.5,A- (3.83),B+ (3.69)
+595,"Tipton, Yuko",JAPN 10A - First Year Japanese I (J),FA14,35,18,100.0%,100.0%,5.21,A- (3.93),A- (3.71)
+596,"Tipton, Yuko",JAPN 10A - First Year Japanese I (K),FA14,37,11,100.0%,87.5%,4.0,A- (3.75),A- (3.71)
+597,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (A),FA14,16,6,100.0%,83.3%,4.83,A- (3.83),
+598,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (B),FA14,17,6,100.0%,100.0%,4.83,A- (3.83),
+599,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese I (A),FA14,15,9,100.0%,100.0%,7.61,A- (3.88),
+600,"Ito, Hifumi",JAPN 150A - Advanced Japanese I (A),FA14,5,5,100.0%,100.0%,3.3,A (4.00),
+601,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (A),FA14,32,14,92.9%,92.9%,3.5,A- (3.77),A- (3.71)
+602,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (B),FA14,29,11,100.0%,90.0%,4.3,A- (3.70),A- (3.71)
+603,"Sato, Kyoko",JAPN 20A - Second Yr Japanese I (D),FA14,30,17,100.0%,100.0%,3.88,A- (3.70),B+ (3.51)
+604,"Izumi, Yurika",JAPN 20A - Second Yr Japanese I (F),FA14,33,21,94.4%,94.4%,5.32,B+ (3.43),B+ (3.58)
+605,"Izumi, Yurika",JAPN 10C - First Year Japanese III (A),SP14,30,17,100.0%,94.1%,3.91,A- (3.79),B+ (3.63)
+606,"Izumi, Yurika",JAPN 10C - First Year Japanese III (B),SP14,30,14,100.0%,100.0%,5.42,A- (3.85),B+ (3.63)
+607,"Ito, Hifumi",JAPN 10C - First Year Japanese III (C),SP14,31,15,100.0%,100.0%,5.42,A- (3.92),A- (3.76)
+608,"Takeda, Izumi",JAPN 10C - First Year Japanese III (D),SP14,56,14,100.0%,100.0%,3.73,B+ (3.69),B+ (3.45)
+609,"Izumi, Yurika",JAPN 10C - First Year Japanese III (E),SP14,32,11,100.0%,100.0%,5.5,A- (3.88),B+ (3.63)
+610,"Fukushima, Yumiko",JAPN 10C - First Year Japanese III (F),SP14,32,12,100.0%,100.0%,5.33,A- (3.78),A- (3.80)
+611,"Sato, Kyoko",JAPN 10C - First Year Japanese III (G),SP14,21,9,100.0%,100.0%,3.75,B+ (3.60),B (3.06)
+612,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (A),SP14,7,5,100.0%,100.0%,6.1,A (4.00),
+613,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (B),SP14,11,5,100.0%,100.0%,6.9,B+ (3.40),
+614,"Takeda, Izumi",JAPN 135C - Japanese/Prof Purposes III (A),SP14,10,4,100.0%,100.0%,4.5,A (4.00),
+615,"McKee, Mayumi Mochizuki",JAPN 140C - Fourth Year Japanese III (B),SP14,13,6,100.0%,100.0%,6.83,A- (3.80),
+616,"Ito, Hifumi",JAPN 150C - Advanced Japanese III (A),SP14,7,7,100.0%,100.0%,4.21,A- (3.71),
+617,"McKee, Mayumi Mochizuki",JAPN 20C - Second Yr Japanese III (A),SP14,14,6,83.3%,100.0%,3.83,B+ (3.60),
+618,"McKee, Mayumi Mochizuki",JAPN 20C - Second Yr Japanese III (B),SP14,20,7,100.0%,100.0%,2.5,A- (3.86),B+ (3.47)
+619,"Ito, Hifumi",JAPN 10B - First Year Japanese II (A),WI14,33,23,100.0%,100.0%,6.67,A- (3.89),B+ (3.68)
+620,"Ito, Hifumi",JAPN 10B - First Year Japanese II (B),WI14,31,18,100.0%,100.0%,5.09,A- (3.82),B+ (3.68)
+621,"Izumi, Yurika",JAPN 10B - First Year Japanese II (C),WI14,31,22,95.5%,95.5%,5.83,A- (3.80),B (3.28)
+622,"Izumi, Yurika",JAPN 10B - First Year Japanese II (D),WI14,33,13,100.0%,100.0%,5.88,B+ (3.60),B (3.28)
+623,"Takeda, Izumi",JAPN 10B - First Year Japanese II (E),WI14,29,15,93.3%,100.0%,3.93,A- (3.86),B (3.15)
+624,"Takeda, Izumi",JAPN 10B - First Year Japanese II (F),WI14,31,16,100.0%,100.0%,5.75,B+ (3.57),B (3.15)
+625,"Fukushima, Yumiko",JAPN 10B - First Year Japanese II (G),WI14,31,21,100.0%,100.0%,4.39,A- (3.86),B (3.29)
+626,"Fukushima, Yumiko",JAPN 10B - First Year Japanese II (H),WI14,31,13,92.3%,92.3%,4.19,A- (3.73),B (3.29)
+627,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (A),WI14,11,5,80.0%,80.0%,7.0,B+ (3.50),
+628,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (B),WI14,10,5,100.0%,100.0%,5.3,B+ (3.67),
+629,"Takeda, Izumi",JAPN 135B - Japanese/Prof Purposes II (A),WI14,9,6,80.0%,80.0%,6.5,B+ (3.50),
+630,"McKee, Mayumi Mochizuki",JAPN 140B - Fourth Year Japanese II (A),WI14,12,6,83.3%,83.3%,5.17,B+ (3.67),
+631,"Ito, Hifumi",JAPN 150B - Advanced Japanese II (A),WI14,6,5,100.0%,100.0%,4.5,A- (3.75),
+632,"Turner, Christena L.",JAPN 190 - Sel Topcs/Contmp Japn Studies (A),WI14,13,8,100.0%,100.0%,8.5,A- (3.75),
+633,"Tipton, Yuko",JAPN 20B - Second Yr Japanese II (A),WI14,16,6,100.0%,66.7%,2.83,B+ (3.50),
+634,"Tipton, Yuko",JAPN 20B - Second Yr Japanese II (B),WI14,17,11,100.0%,100.0%,3.59,B+ (3.64),
+635,"McKee, Mayumi Mochizuki",JAPN 20B - Second Yr Japanese II (C),WI14,22,11,100.0%,100.0%,4.14,A (4.00),A- (3.77)
+636,"Izumi, Yurika",JAPN 10A - First Year Japanese I (B),FA13,37,17,94.1%,94.1%,5.56,B+ (3.69),B+ (3.58)
+637,"Ito, Hifumi",JAPN 10A - First Year Japanese I (C),FA13,37,20,100.0%,100.0%,5.34,A- (3.78),B+ (3.68)
+638,"Ito, Hifumi",JAPN 10A - First Year Japanese I (D),FA13,39,17,94.1%,94.1%,4.26,A- (3.94),B+ (3.68)
+639,"Izumi, Yurika",JAPN 10A - First Year Japanese I (E),FA13,37,16,100.0%,100.0%,6.13,A- (3.88),B+ (3.58)
+640,"Izumi, Yurika",JAPN 10A - First Year Japanese I (F),FA13,39,17,100.0%,100.0%,7.0,A- (3.75),B+ (3.58)
+641,"Takeda, Izumi",JAPN 10A - First Year Japanese I (G),FA13,39,20,100.0%,94.4%,5.72,A- (3.88),B+ (3.61)
+642,"Takeda, Izumi",JAPN 10A - First Year Japanese I (H),FA13,40,17,100.0%,100.0%,5.56,A- (3.88),B+ (3.61)
+643,"Fukushima, Yumiko",JAPN 10A - First Year Japanese I (I),FA13,39,20,100.0%,100.0%,5.39,B+ (3.61),A- (3.71)
+644,"Fukushima, Yumiko",JAPN 10A - First Year Japanese I (J),FA13,39,21,100.0%,100.0%,4.85,A- (3.88),A- (3.71)
+645,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (A),FA13,18,7,100.0%,100.0%,6.79,A- (3.71),
+646,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (B),FA13,9,5,100.0%,100.0%,6.1,A (4.00),
+647,"Takeda, Izumi",JAPN 135A - Japanese/Professional Purposes (A),FA13,13,11,90.9%,81.8%,5.9,B+ (3.55),
+648,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese I (A),FA13,8,6,100.0%,100.0%,5.5,A- (3.83),
+649,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese I (B),FA13,7,4,100.0%,100.0%,7.83,B+ (3.67),
+650,"Ito, Hifumi",JAPN 150A - Advanced Japanese I (A),FA13,10,10,90.0%,100.0%,6.9,A- (3.75),
+651,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (A),FA13,27,18,100.0%,100.0%,5.17,A- (3.71),A- (3.85)
+652,"Tipton, Yuko",JAPN 20A - Second Yr Japanese I (B),FA13,25,17,100.0%,100.0%,3.32,A- (3.80),B+ (3.35)
+653,"Tipton, Yuko",JAPN 20A - Second Yr Japanese I (C),FA13,23,7,100.0%,85.7%,4.21,B+ (3.43),B+ (3.35)
+654,"Sato, Kyoko",JAPN 20A - Second Yr Japanese I (D),FA13,27,22,95.2%,95.2%,4.21,A- (3.81),A- (3.74)
+655,"Izumi, Yurika",JAPN 10C - First Year Japanese III (A),SP13,26,14,100.0%,100.0%,3.93,B+ (3.62),B+ (3.50)
+656,"Izumi, Yurika",JAPN 10C - First Year Japanese III (B),SP13,34,15,100.0%,92.9%,4.5,A (4.00),B+ (3.50)
+657,"Ito, Hifumi",JAPN 10C - First Year Japanese III (D),SP13,33,19,100.0%,100.0%,6.28,A- (3.78),B+ (3.64)
+658,"Fukushima, Yumiko",JAPN 10C - First Year Japanese III (E),SP13,33,16,100.0%,100.0%,3.83,A- (3.82),B+ (3.67)
+659,"Fukushima, Yumiko",JAPN 10C - First Year Japanese III (F),SP13,33,17,100.0%,100.0%,5.21,A- (3.81),B+ (3.67)
+660,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (B),SP13,8,4,100.0%,100.0%,5.0,A (4.00),
+661,"McKee, Mayumi Mochizuki",JAPN 140C - Fourth Year Japanese III (A),SP13,10,7,100.0%,100.0%,5.36,A- (3.71),
+662,"McKee, Mayumi Mochizuki",JAPN 140C - Fourth Year Japanese III (B),SP13,9,4,100.0%,100.0%,5.5,B+ (3.50),
+663,"McKee, Mayumi Mochizuki",JAPN 20C - Second Yr Japanese III (A),SP13,20,9,100.0%,100.0%,2.25,A- (3.75),A- (3.82)
+664,"Takeda, Izumi",JAPN 20C - Second Yr Japanese III (B),SP13,15,10,100.0%,100.0%,4.06,B+ (3.43),
+665,"Sato, Kyoko",JAPN 10B - First Year Japanese II (A),WI13,21,12,100.0%,90.9%,3.23,A- (3.80),B+ (3.57)
+666,"Takeda, Izumi",JAPN 10B - First Year Japanese II (B),WI13,27,13,100.0%,100.0%,5.42,A- (3.73),B+ (3.64)
+667,"Ito, Hifumi",JAPN 10B - First Year Japanese II (C),WI13,29,8,100.0%,100.0%,5.0,A- (3.83),B+ (3.32)
+668,"Ito, Hifumi",JAPN 10B - First Year Japanese II (D),WI13,29,13,100.0%,100.0%,4.83,A (4.00),B+ (3.32)
+669,"Izumi, Yurika",JAPN 10B - First Year Japanese II (E),WI13,28,16,100.0%,100.0%,6.0,B+ (3.54),B+ (3.54)
+670,"Fukushima, Yumiko",JAPN 10B - First Year Japanese II (G),WI13,26,12,91.7%,91.7%,6.67,A- (3.82),B+ (3.63)
+671,"Fukushima, Yumiko",JAPN 10B - First Year Japanese II (H),WI13,27,11,100.0%,100.0%,3.5,A- (3.78),B+ (3.63)
+672,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (A),WI13,10,5,100.0%,100.0%,3.7,A- (3.80),
+673,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (B),WI13,11,3,100.0%,100.0%,7.17,B+ (3.33),
+674,"McKee, Mayumi Mochizuki",JAPN 140B - Fourth Year Japanese II (A),WI13,9,6,100.0%,100.0%,4.17,B+ (3.67),
+675,"McKee, Mayumi Mochizuki",JAPN 140B - Fourth Year Japanese II (B),WI13,9,5,100.0%,100.0%,5.7,A- (3.80),
+676,"Turner, Christena L.",JAPN 190 - Sel Topcs/Contmp Japn Studies (A),WI13,22,8,87.5%,87.5%,8.0,B (3.25),B+ (3.58)
+677,"Tipton, Yuko",JAPN 20B - Second Yr Japanese II (B),WI13,27,17,93.8%,93.8%,4.63,B+ (3.60),B+ (3.56)
+678,"Tipton, Yuko",JAPN 20B - Second Yr Japanese II (C),WI13,28,15,100.0%,100.0%,3.5,B+ (3.50),B+ (3.56)
+679,"Izumi, Yurika",JAPN 100A - Japanese/Bilingual Speakers I (A),FA12,4,3,100.0%,100.0%,8.5,C+ (2.67),
+680,"Takeda, Izumi",JAPN 10A - First Year Japanese I (A),FA12,17,9,100.0%,100.0%,5.17,A- (3.75),
+681,"Tipton, Yuko",JAPN 10A - First Year Japanese I (B),FA12,25,12,100.0%,100.0%,6.0,B+ (3.64),B+ (3.54)
+682,"Sato, Kyoko",JAPN 10A - First Year Japanese I (C),FA12,28,13,100.0%,100.0%,3.5,A- (3.80),B+ (3.51)
+683,"Takeda, Izumi",JAPN 10A - First Year Japanese I (D),FA12,26,12,100.0%,100.0%,4.5,A- (3.91),B+ (3.56)
+684,"Ito, Hifumi",JAPN 10A - First Year Japanese I (E),FA12,25,12,100.0%,100.0%,4.83,A- (3.80),A- (3.71)
+685,"Ito, Hifumi",JAPN 10A - First Year Japanese I (F),FA12,26,12,100.0%,100.0%,4.67,A- (3.92),A- (3.71)
+686,"Izumi, Yurika",JAPN 10A - First Year Japanese I (G),FA12,26,9,100.0%,88.9%,4.72,A- (3.75),B+ (3.42)
+687,"Izumi, Yurika",JAPN 10A - First Year Japanese I (H),FA12,25,12,100.0%,90.0%,5.1,B+ (3.60),B+ (3.42)
+688,"Fukushima, Yumiko",JAPN 10A - First Year Japanese I (I),FA12,28,12,100.0%,100.0%,3.95,B+ (3.60),B+ (3.65)
+689,"Fukushima, Yumiko",JAPN 10A - First Year Japanese I (J),FA12,28,10,100.0%,100.0%,5.93,A (4.00),B+ (3.65)
+690,"Takeda, Izumi",JAPN 10A - First Year Japanese I (K),FA12,14,5,100.0%,100.0%,6.1,B+ (3.60),
+691,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (A),FA12,14,9,100.0%,100.0%,8.25,A- (3.88),
+692,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (B),FA12,12,7,100.0%,100.0%,4.79,B+ (3.40),
+693,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese I (A),FA12,20,14,100.0%,100.0%,5.21,B+ (3.46),B+ (3.63)
+694,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (A),FA12,19,13,100.0%,100.0%,3.77,A- (3.78),
+695,"Tipton, Yuko",JAPN 20A - Second Yr Japanese I (B),FA12,28,11,88.9%,88.9%,3.17,A- (3.83),B+ (3.51)
+696,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (C),FA12,30,10,90.0%,90.0%,3.9,B+ (3.67),B+ (3.64)
+697,"Tipton, Yuko",JAPN 20A - Second Yr Japanese I (D),FA12,25,11,100.0%,100.0%,4.5,B+ (3.60),B+ (3.51)
+698,"Fujiwara, Hisae",JAPN 100C - Japanese/Bilingual Spkrs III (A),SP12,14,9,88.9%,100.0%,4.94,A- (3.75),
+699,"Fukushima, Yumiko",JAPN 10C - First Year Japanese III (A),SP12,28,11,100.0%,100.0%,5.9,A- (3.80),B+ (3.52)
+700,"Sato, Kyoko",JAPN 10C - First Year Japanese III (B),SP12,20,7,100.0%,85.7%,2.5,B+ (3.60),B+ (3.48)
+701,"Ito, Hifumi",JAPN 10C - First Year Japanese III (C),SP12,28,18,94.4%,100.0%,2.94,B+ (3.64),B+ (3.53)
+702,"Nishimura, Masato",JAPN 10C - First Year Japanese III (D),SP12,25,17,94.1%,100.0%,3.44,B+ (3.47),B+ (3.34)
+703,"Ito, Hifumi",JAPN 10C - First Year Japanese III (E),SP12,29,10,100.0%,100.0%,3.9,B+ (3.60),B+ (3.53)
+704,"Fukushima, Yumiko",JAPN 10C - First Year Japanese III (F),SP12,29,12,100.0%,100.0%,4.17,A- (3.80),B+ (3.52)
+705,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (A),SP12,10,7,100.0%,100.0%,8.5,A- (3.86),
+706,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (B),SP12,7,6,100.0%,100.0%,5.17,B+ (3.67),
+707,"McKee, Mayumi Mochizuki",JAPN 140C - Fourth Year Japanese III (A),SP12,10,3,100.0%,100.0%,5.17,A (4.00),
+708,"Nishimura, Masato",JAPN 150C - Advanced Japanese III (A),SP12,10,5,100.0%,100.0%,5.3,A- (3.80),
+709,"McKee, Mayumi Mochizuki",JAPN 20C - Second Yr Japanese III (A),SP12,12,7,100.0%,100.0%,3.17,A (4.00),
+710,"Fujiwara, Hisae",JAPN 20C - Second Yr Japanese III (B),SP12,19,8,100.0%,100.0%,4.0,B+ (3.57),
+711,"McKee, Mayumi Mochizuki",JAPN 20C - Second Yr Japanese III (C),SP12,13,7,100.0%,100.0%,3.36,A- (3.86),
+712,"Fujiwara, Hisae",JAPN 100B - Japanese/Bilingual Speakers II (A),WI12,17,10,100.0%,100.0%,4.9,A- (3.89),
+713,"Tipton, Yuko",JAPN 10B - First Year Japanese II (A),WI12,15,7,100.0%,100.0%,4.5,A- (3.80),
+714,"Sato, Kyoko",JAPN 10B - First Year Japanese II (B),WI12,21,8,100.0%,87.5%,3.25,A- (3.86),B+ (3.51)
+715,"Ito, Hifumi",JAPN 10B - First Year Japanese II (C),WI12,23,15,93.3%,93.3%,4.63,B+ (3.54),B+ (3.41)
+716,"Ito, Hifumi",JAPN 10B - First Year Japanese II (D),WI12,29,11,100.0%,100.0%,3.95,A- (3.75),B+ (3.41)
+717,"Ito, Hifumi",JAPN 10B - First Year Japanese II (E),WI12,28,13,100.0%,92.3%,5.12,B+ (3.67),B+ (3.41)
+718,"Nishimura, Masato",JAPN 10B - First Year Japanese II (F),WI12,29,18,100.0%,100.0%,5.61,B+ (3.47),B (3.30)
+719,"Nishimura, Masato",JAPN 10B - First Year Japanese II (G),WI12,30,19,100.0%,100.0%,3.34,A- (3.75),B (3.30)
+720,"Fukushima, Yumiko",JAPN 10B - First Year Japanese II (H),WI12,31,18,100.0%,100.0%,4.06,B+ (3.63),B+ (3.52)
+721,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (A),WI12,14,10,100.0%,80.0%,5.7,A- (3.70),
+722,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (B),WI12,7,6,100.0%,100.0%,6.83,B+ (3.33),
+723,"McKee, Mayumi Mochizuki",JAPN 140B - Fourth Year Japanese II (A),WI12,14,6,100.0%,100.0%,3.83,A (4.00),
+724,"Nishimura, Masato",JAPN 150B - Advanced Japanese II (A),WI12,13,8,100.0%,100.0%,4.75,B+ (3.63),
+725,"Turner, Christena L.",JAPN 190 - Sel Topcs/Contmp Japn Studies (A),WI12,16,10,90.0%,100.0%,7.7,A- (3.70),
+726,"Fujiwara, Hisae",JAPN 20B - Second Yr Japanese II (A),WI12,25,15,100.0%,100.0%,4.5,B+ (3.64),B+ (3.42)
+727,"Fujiwara, Hisae",JAPN 20B - Second Yr Japanese II (B),WI12,16,7,100.0%,100.0%,4.21,B+ (3.67),
+728,"McKee, Mayumi Mochizuki",JAPN 20B - Second Yr Japanese II (C),WI12,16,11,100.0%,100.0%,6.68,A (4.00),
+729,"Fujiwara, Hisae",JAPN 100A - Japanese/Bilingual Speakers I (A),FA11,17,11,100.0%,100.0%,5.7,A- (3.78),
+730,"Kameda, Noriko",JAPN 10A - First Year Japanese I (A),FA11,23,14,100.0%,78.6%,5.79,A- (3.80),B+ (3.34)
+731,"Tipton, Yuko",JAPN 10A - First Year Japanese I (B),FA11,19,13,92.3%,84.6%,4.65,B+ (3.58),
+732,"Ito, Hifumi",JAPN 10A - First Year Japanese I (C),FA11,28,20,100.0%,100.0%,4.9,A- (3.74),B+ (3.59)
+733,"Tipton, Yuko",JAPN 10A - First Year Japanese I (D),FA11,29,15,100.0%,93.3%,4.9,A- (3.75),B+ (3.35)
+734,"Ito, Hifumi",JAPN 10A - First Year Japanese I (E),FA11,30,13,92.3%,100.0%,4.5,A (4.00),B+ (3.59)
+735,"Ito, Hifumi",JAPN 10A - First Year Japanese I (F),FA11,30,13,100.0%,100.0%,2.96,A- (3.92),B+ (3.59)
+736,"Nishimura, Masato",JAPN 10A - First Year Japanese I (G),FA11,27,12,100.0%,100.0%,5.83,A- (3.91),B (3.29)
+737,"Nishimura, Masato",JAPN 10A - First Year Japanese I (H),FA11,27,15,100.0%,100.0%,4.37,B+ (3.50),B (3.29)
+738,"Fukushima, Yumiko",JAPN 10A - First Year Japanese I (I),FA11,27,10,100.0%,100.0%,6.28,B+ (3.56),B+ (3.64)
+739,"Fukushima, Yumiko",JAPN 10A - First Year Japanese I (J),FA11,28,21,100.0%,100.0%,5.2,A (4.00),B+ (3.64)
+740,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (A),FA11,17,9,88.9%,77.8%,3.83,B+ (3.44),
+741,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (B),FA11,13,6,100.0%,66.7%,6.17,B+ (3.33),
+742,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese I (A),FA11,12,9,100.0%,100.0%,5.39,A- (3.71),
+743,"Nishimura, Masato",JAPN 150A - Advanced Japanese I (A),FA11,16,10,100.0%,100.0%,5.7,A- (3.89),
+744,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (A),FA11,34,22,100.0%,100.0%,4.14,A- (3.71),B+ (3.53)
+745,"Fujiwara, Hisae",JAPN 20A - Second Yr Japanese I (B),FA11,37,18,94.4%,100.0%,5.06,B+ (3.63),B+ (3.43)
+746,"Fujiwara, Hisae",JAPN 20A - Second Yr Japanese I (C),FA11,25,10,100.0%,100.0%,3.7,A- (3.80),B+ (3.43)
+747,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (D),FA11,24,16,93.8%,93.8%,4.13,B+ (3.63),B+ (3.53)
+748,"Fujiwara, Hisae",JAPN 100C - Japanese/Bilingual Spkrs III (A),SP11,7,3,100.0%,100.0%,8.5,B+ (3.33),
+749,"Ito, Hifumi",JAPN 10C - First Year Japanese III (A),SP11,32,19,100.0%,100.0%,4.29,B+ (3.56),B+ (3.47)
+750,"Ito, Hifumi",JAPN 10C - First Year Japanese III (B),SP11,33,18,100.0%,100.0%,5.28,A- (3.87),B+ (3.47)
+751,"Sato, Kyoko",JAPN 10C - First Year Japanese III (C),SP11,34,19,100.0%,100.0%,3.66,B+ (3.50),B+ (3.48)
+752,"Nishimura, Masato",JAPN 10C - First Year Japanese III (D),SP11,32,15,100.0%,93.3%,5.36,B+ (3.46),B (3.14)
+753,"Nishimura, Masato",JAPN 10C - First Year Japanese III (E),SP11,34,21,100.0%,100.0%,4.5,B+ (3.61),B (3.14)
+754,"Fukushima, Yumiko",JAPN 10C - First Year Japanese III (F),SP11,29,15,100.0%,100.0%,5.57,B (3.15),B (3.04)
+755,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (A),SP11,14,6,100.0%,100.0%,6.9,A (4.00),
+756,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (B),SP11,11,4,100.0%,100.0%,8.5,B+ (3.50),
+757,"McKee, Mayumi Mochizuki",JAPN 140C - Fourth Year Japanese III (A),SP11,13,10,100.0%,100.0%,5.9,A- (3.80),
+758,"McKee, Mayumi Mochizuki",JAPN 140C - Fourth Year Japanese III (B),SP11,13,7,100.0%,100.0%,3.64,A- (3.83),
+759,"Nishimura, Masato",JAPN 150C - Advanced Japanese III (A),SP11,13,8,100.0%,100.0%,6.0,A (4.00),
+760,"McKee, Mayumi Mochizuki",JAPN 20C - Second Yr Japanese III (A),SP11,12,6,83.3%,100.0%,4.83,B+ (3.33),
+761,"Fujiwara, Hisae",JAPN 20C - Second Yr Japanese III (B),SP11,30,15,100.0%,100.0%,3.97,A- (3.93),B+ (3.66)
+762,"Fujiwara, Hisae",JAPN 100B - Japanese/Bilingual Speakers II (A),WI11,7,5,100.0%,100.0%,5.7,B+ (3.60),
+763,"Ito, Hifumi",JAPN 10B - First Year Japanese II (A),WI11,31,21,100.0%,100.0%,5.55,B+ (3.60),B+ (3.36)
+764,"Ito, Hifumi",JAPN 10B - First Year Japanese II (B),WI11,31,17,100.0%,100.0%,4.62,A- (3.76),B+ (3.36)
+765,"Ito, Hifumi",JAPN 10B - First Year Japanese II (C),WI11,31,19,100.0%,100.0%,3.76,B+ (3.68),B+ (3.36)
+766,"Tipton, Yuko",JAPN 10B - First Year Japanese II (D),WI11,28,19,100.0%,88.9%,5.76,B+ (3.65),B+ (3.34)
+767,"Tipton, Yuko",JAPN 10B - First Year Japanese II (E),WI11,31,16,100.0%,81.3%,5.38,B+ (3.57),B+ (3.34)
+768,"Sato, Kyoko",JAPN 10B - First Year Japanese II (F),WI11,31,16,100.0%,93.8%,4.13,B+ (3.54),B (3.29)
+769,"Nishimura, Masato",JAPN 10B - First Year Japanese II (G),WI11,29,18,100.0%,94.4%,4.72,B+ (3.67),B (3.07)
+770,"Fukushima, Yumiko",JAPN 10B - First Year Japanese II (H),WI11,30,19,94.7%,94.7%,5.24,B+ (3.56),B (3.22)
+771,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (A),WI11,19,11,100.0%,100.0%,7.05,B+ (3.63),
+772,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (B),WI11,15,8,100.0%,100.0%,5.75,B+ (3.50),
+773,"McKee, Mayumi Mochizuki",JAPN 140B - Fourth Year Japanese II (A),WI11,13,11,100.0%,100.0%,2.86,A- (3.91),
+774,"McKee, Mayumi Mochizuki",JAPN 140B - Fourth Year Japanese II (B),WI11,11,6,100.0%,100.0%,5.83,B+ (3.60),
+775,"Nishimura, Masato",JAPN 150B - Advanced Japanese II (A),WI11,18,10,100.0%,100.0%,5.7,A- (3.90),
+776,"Turner, Christena L.",JAPN 190 - Sel Topcs/Contmp Japn Studies (A),WI11,21,12,100.0%,100.0%,7.5,B+ (3.50),B+ (3.57)
+777,"Fujiwara, Hisae",JAPN 20B - Second Yr Japanese II (A),WI11,30,20,100.0%,100.0%,5.4,A- (3.80),B+ (3.56)
+778,"Fujiwara, Hisae",JAPN 20B - Second Yr Japanese II (B),WI11,33,22,100.0%,100.0%,4.05,A- (3.85),B+ (3.56)
+779,"Fujiwara, Hisae",JAPN 100A - Japanese/Bilingual Speakers I (A),FA10,7,3,100.0%,100.0%,10.5,B+ (3.33),
+780,"Kameda, Noriko",JAPN 10A - First Year Japanese I (A),FA10,24,16,100.0%,93.8%,5.5,A- (3.80),B+ (3.42)
+781,"Kameda, Noriko",JAPN 10A - First Year Japanese I (B),FA10,29,14,92.9%,85.7%,6.21,B+ (3.69),B+ (3.42)
+782,"Kameda, Noriko",JAPN 10A - First Year Japanese I (C),FA10,29,15,100.0%,73.3%,4.23,A- (3.87),B+ (3.42)
+783,"Nishimura, Masato",JAPN 10A - First Year Japanese I (D),FA10,33,23,100.0%,100.0%,5.54,B+ (3.50),B+ (3.39)
+784,"Nishimura, Masato",JAPN 10A - First Year Japanese I (E),FA10,34,23,100.0%,100.0%,5.28,A- (3.76),B+ (3.39)
+785,"Fukushima, Yumiko",JAPN 10A - First Year Japanese I (F),FA10,30,16,100.0%,100.0%,6.88,B+ (3.53),B+ (3.43)
+786,"Fukushima, Yumiko",JAPN 10A - First Year Japanese I (G),FA10,35,17,100.0%,100.0%,4.15,A- (3.93),B+ (3.43)
+787,"Ito, Hifumi",JAPN 10A - First Year Japanese I (H),FA10,34,18,100.0%,100.0%,6.17,A- (3.76),B+ (3.64)
+788,"Ito, Hifumi",JAPN 10A - First Year Japanese I (I),FA10,35,20,100.0%,95.0%,5.1,A- (3.85),B+ (3.64)
+789,"Ito, Hifumi",JAPN 10A - First Year Japanese I (J),FA10,34,20,100.0%,100.0%,4.6,A- (3.70),B+ (3.64)
+790,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (A),FA10,22,11,100.0%,90.9%,5.1,A- (3.78),B+ (3.34)
+791,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (B),FA10,23,11,90.9%,100.0%,6.5,B+ (3.55),B+ (3.34)
+792,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese I (A),FA10,14,7,100.0%,100.0%,3.07,A- (3.86),
+793,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese I (B),FA10,13,8,100.0%,100.0%,5.0,A- (3.83),
+794,"Nishimura, Masato",JAPN 150A - Advanced Japanese I (A),FA10,17,12,100.0%,100.0%,4.5,A (4.00),
+795,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (A),FA10,33,19,100.0%,100.0%,6.29,A- (3.74),B+ (3.34)
+796,"Fujiwara, Hisae",JAPN 20A - Second Yr Japanese I (C),FA10,35,19,100.0%,100.0%,4.29,A- (3.71),B+ (3.48)
+797,"Fujiwara, Hisae",JAPN 20A - Second Yr Japanese I (D),FA10,36,18,77.8%,100.0%,5.94,B+ (3.64),B+ (3.48)
+798,"Ito, Hifumi",JAPN 10C - First Year Japanese III (A),SP10,29,12,100.0%,90.9%,3.33,B+ (3.30),B+ (3.48)
+799,"Ito, Hifumi",JAPN 10C - First Year Japanese III (B),SP10,31,14,100.0%,100.0%,4.21,B+ (3.54),B+ (3.48)
+800,"Ito, Hifumi",JAPN 10C - First Year Japanese III (C),SP10,31,16,100.0%,100.0%,3.03,B+ (3.67),B+ (3.48)
+801,"Sato, Kyoko",JAPN 10C - First Year Japanese III (D),SP10,25,14,92.9%,71.4%,3.64,B+ (3.46),B+ (3.37)
+802,"Nishimura, Masato",JAPN 10C - First Year Japanese III (E),SP10,32,18,94.4%,100.0%,4.83,B+ (3.59),B+ (3.50)
+803,"Nishimura, Masato",JAPN 10C - First Year Japanese III (F),SP10,33,21,100.0%,100.0%,5.07,B+ (3.67),B+ (3.50)
+804,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (A),SP10,13,6,100.0%,100.0%,6.17,A- (3.83),
+805,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (B),SP10,17,6,100.0%,100.0%,2.83,B+ (3.67),
+806,"McKee, Mayumi Mochizuki",JAPN 140C - Fourth Year Japanese III (A),SP10,12,11,100.0%,100.0%,5.05,A- (3.80),
+807,"McKee, Mayumi Mochizuki",JAPN 140C - Fourth Year Japanese III (B),SP10,7,5,100.0%,100.0%,4.5,A (4.00),
+808,"Nishimura, Masato",JAPN 150C - Advanced Japanese III (A),SP10,17,11,100.0%,100.0%,5.05,A- (3.90),
+809,"McKee, Mayumi Mochizuki",JAPN 20C - Second Yr Japanese III (A),SP10,29,12,100.0%,91.7%,3.5,A- (3.70),B+ (3.32)
+810,"Fujiwara, Hisae",JAPN 20C - Second Yr Japanese III (B),SP10,32,20,95.0%,100.0%,4.2,B+ (3.68),B+ (3.48)
+811,"Ito, Hifumi",JAPN 10B - First Year Japanese II (A),WI10,33,17,94.1%,100.0%,4.03,B+ (3.53),B+ (3.58)
+812,"Ito, Hifumi",JAPN 10B - First Year Japanese II (B),WI10,36,19,100.0%,100.0%,4.82,B+ (3.47),B+ (3.58)
+813,"Kameda, Noriko",JAPN 10B - First Year Japanese II (C),WI10,9,4,100.0%,100.0%,4.5,B- (2.75),
+814,"Kameda, Noriko",JAPN 10B - First Year Japanese II (D),WI10,25,16,100.0%,93.8%,4.63,B+ (3.50),B (3.24)
+815,"Sato, Kyoko",JAPN 10B - First Year Japanese II (E),WI10,15,6,100.0%,83.3%,3.5,B+ (3.50),
+816,"Nishimura, Masato",JAPN 10B - First Year Japanese II (F),WI10,33,24,100.0%,100.0%,3.67,A- (3.71),B+ (3.50)
+817,"Fukushima, Yumiko",JAPN 10B - First Year Japanese II (G),WI10,33,23,100.0%,100.0%,3.89,B+ (3.60),B+ (3.50)
+818,"Fukushima, Yumiko",JAPN 10B - First Year Japanese II (H),WI10,33,13,100.0%,100.0%,5.12,A- (3.92),B+ (3.50)
+819,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (A),WI10,22,13,100.0%,100.0%,4.35,B+ (3.58),B+ (3.60)
+820,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (B),WI10,15,9,100.0%,88.9%,4.06,A- (3.75),
+821,"McKee, Mayumi Mochizuki",JAPN 140B - Fourth Year Japanese II (A),WI10,10,5,100.0%,100.0%,4.5,B+ (3.60),
+822,"McKee, Mayumi Mochizuki",JAPN 140B - Fourth Year Japanese II (B),WI10,14,11,100.0%,100.0%,4.68,A- (3.80),
+823,"Nishimura, Masato",JAPN 150B - Advanced Japanese II (A),WI10,19,10,100.0%,100.0%,5.7,A- (3.89),
+824,"Turner, Christena L.",JAPN 190 - Sel Topcs/Contmp Japn Studies (A),WI10,10,5,100.0%,100.0%,9.3,A- (3.80),
+825,"Tipton, Yuko",JAPN 20B - Second Yr Japanese II (A),WI10,22,15,100.0%,100.0%,3.43,B+ (3.60),B+ (3.35)
+826,"Fujiwara, Hisae",JAPN 20B - Second Yr Japanese II (B),WI10,33,15,100.0%,100.0%,4.9,A- (3.86),B+ (3.62)
+827,"Fujiwara, Hisae",JAPN 20B - Second Yr Japanese II (C),WI10,31,15,100.0%,100.0%,3.03,A- (3.73),B+ (3.62)
+828,"Fujiwara, Hisae",JAPN 100A - Japanese/Bilingual Speakers I (A),FA09,4,3,100.0%,100.0%,5.83,B (3.00),
+829,"Kameda, Noriko",JAPN 10A - First Year Japanese I (A),FA09,32,23,91.3%,100.0%,5.2,B+ (3.59),B+ (3.33)
+830,"Kameda, Noriko",JAPN 10A - First Year Japanese I (B),FA09,31,18,100.0%,94.4%,3.94,A- (3.76),B+ (3.33)
+831,"Kameda, Noriko",JAPN 10A - First Year Japanese I (C),FA09,32,26,100.0%,100.0%,4.27,A- (3.91),B+ (3.33)
+832,"Fukushima, Yumiko",JAPN 10A - First Year Japanese I (E),FA09,30,26,100.0%,96.2%,3.96,B+ (3.70),B+ (3.66)
+833,"Fukushima, Yumiko",JAPN 10A - First Year Japanese I (F),FA09,30,27,100.0%,100.0%,3.98,A- (3.88),B+ (3.66)
+834,"Nishimura, Masato",JAPN 10A - First Year Japanese I (G),FA09,30,25,96.0%,96.0%,3.7,A- (3.76),B+ (3.33)
+835,"Nishimura, Masato",JAPN 10A - First Year Japanese I (H),FA09,34,29,100.0%,100.0%,3.4,A- (3.71),B+ (3.33)
+836,"Ito, Hifumi",JAPN 10A - First Year Japanese I (I),FA09,33,29,96.6%,100.0%,4.09,B+ (3.63),B+ (3.46)
+837,"Ito, Hifumi",JAPN 10A - First Year Japanese I (J),FA09,34,27,100.0%,100.0%,5.04,B+ (3.70),B+ (3.46)
+838,"Ito, Hifumi",JAPN 10A - First Year Japanese I (K),FA09,32,30,100.0%,100.0%,3.77,B+ (3.59),B+ (3.46)
+839,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (A),FA09,15,16,87.5%,93.8%,4.0,B+ (3.67),
+840,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (B),FA09,22,19,100.0%,100.0%,3.68,B+ (3.59),A- (3.74)
+841,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese I (A),FA09,16,16,87.5%,93.8%,4.25,B+ (3.60),
+842,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese I (B),FA09,13,12,90.9%,100.0%,3.77,B+ (3.64),
+843,"Nishimura, Masato",JAPN 150A - Advanced Japanese I (A),FA09,21,18,94.4%,94.4%,4.72,B+ (3.59),A- (3.74)
+844,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (A),FA09,35,32,100.0%,100.0%,3.47,A- (3.70),B+ (3.45)
+845,"Tipton, Yuko",JAPN 20A - Second Yr Japanese I (B),FA09,37,33,97.0%,97.0%,3.77,B+ (3.64),B+ (3.62)
+846,"Fujiwara, Hisae",JAPN 20A - Second Yr Japanese I (C),FA09,39,39,97.4%,100.0%,4.09,B+ (3.69),B+ (3.52)
+847,"Fujiwara, Hisae",JAPN 20A - Second Yr Japanese I (D),FA09,36,32,100.0%,100.0%,2.94,B+ (3.69),B+ (3.52)
+848,"Fukushima, Yumiko",JAPN 10A - First Year Japanese I (A),SU09,10,10,100.0%,100.0%,12.9,A- (3.70),
+849,"Fukushima, Yumiko",JAPN 10B - First Year Japanese II (A),SU09,12,14,100.0%,100.0%,11.07,B+ (3.54),
+850,"Tipton, Yuko",JAPN 10B - First Year Japanese II (A),SU09,12,14,100.0%,100.0%,11.07,B+ (3.54),
+851,"Tipton, Yuko",JAPN 10C - First Year Japanese III (A),SU09,13,4,100.0%,100.0%,7.5,A- (3.75),
+852,"Fujiwara, Hisae",JAPN 100C - Japanese/Bilingual Spkrs III (A),SP09,9,8,100.0%,100.0%,7.25,B+ (3.57),
+853,"Ito, Hifumi",JAPN 10C - First Year Japanese III (A),SP09,39,34,100.0%,100.0%,2.62,B+ (3.57),B+ (3.32)
+854,"Ito, Hifumi",JAPN 10C - First Year Japanese III (B),SP09,40,32,100.0%,100.0%,3.75,B+ (3.48),B+ (3.32)
+855,"Fukushima, Yumiko",JAPN 10C - First Year Japanese III (D),SP09,45,39,100.0%,100.0%,4.24,A- (3.71),B+ (3.59)
+856,"Nishimura, Masato",JAPN 10C - First Year Japanese III (E),SP09,35,33,100.0%,100.0%,3.35,B+ (3.57),B (3.30)
+857,"Sato, Kyoko",JAPN 10C - First Year Japanese III (F),SP09,43,29,100.0%,89.3%,3.67,B+ (3.52),B+ (3.35)
+858,"Nishimura, Masato",JAPN 10C - First Year Japanese III (G),SP09,35,29,100.0%,100.0%,3.6,B+ (3.65),B (3.30)
+859,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (A),SP09,7,7,100.0%,100.0%,3.07,A- (3.75),
+860,"Sato, Kyoko",JAPN 130C - Third Year Japanese III (B),SP09,18,18,83.3%,88.9%,5.94,B+ (3.57),
+861,"McKee, Mayumi Mochizuki",JAPN 140C - Fourth Year Japanese III (A),SP09,12,12,100.0%,100.0%,3.67,B+ (3.64),
+862,"McKee, Mayumi Mochizuki",JAPN 140C - Fourth Year Japanese III (B),SP09,13,12,100.0%,100.0%,3.83,B+ (3.42),
+863,"Nishimura, Masato",JAPN 150C - Advanced Japanese III (A),SP09,12,12,100.0%,100.0%,4.0,A (4.00),
+864,"McKee, Mayumi Mochizuki",JAPN 20C - Second Yr Japanese III (A),SP09,16,15,100.0%,100.0%,3.43,B+ (3.64),
+865,"Fujiwara, Hisae",JAPN 20C - Second Yr Japanese III (B),SP09,30,27,96.2%,100.0%,2.28,A- (3.75),B+ (3.42)
+866,"Fujiwara, Hisae",JAPN 20C - Second Yr Japanese III (C),SP09,23,23,100.0%,100.0%,2.67,B+ (3.61),B+ (3.42)
+867,"Fujiwara, Hisae",JAPN 100B - Japanese/Bilingual Speakers II (A),WI09,9,8,100.0%,100.0%,5.75,B+ (3.63),
+868,"Kameda, Noriko",JAPN 10B - First Year Japanese II (A),WI09,21,17,100.0%,87.5%,3.38,B+ (3.64),B+ (3.33)
+869,"Kameda, Noriko",JAPN 10B - First Year Japanese II (B),WI09,31,23,100.0%,91.3%,3.63,B+ (3.70),B+ (3.33)
+870,"Colsey, Makiko Ohashi",JAPN 10B - First Year Japanese II (C),WI09,32,26,96.2%,96.0%,3.92,B+ (3.56),B+ (3.32)
+871,"Nishimura, Masato",JAPN 10B - First Year Japanese II (E),WI09,35,34,100.0%,100.0%,3.74,B+ (3.62),B+ (3.53)
+872,"Fukushima, Yumiko",JAPN 10B - First Year Japanese II (F),WI09,26,25,100.0%,96.0%,4.25,B+ (3.52),B+ (3.33)
+873,"Ito, Hifumi",JAPN 10B - First Year Japanese II (G),WI09,34,30,96.7%,96.7%,4.43,B+ (3.58),B+ (3.41)
+874,"Ito, Hifumi",JAPN 10B - First Year Japanese II (H),WI09,32,28,100.0%,100.0%,3.29,B+ (3.42),B+ (3.41)
+875,"Ito, Hifumi",JAPN 10B - First Year Japanese II (I),WI09,34,29,96.6%,100.0%,4.02,B+ (3.56),B+ (3.41)
+876,"Fukushima, Yumiko",JAPN 10B - First Year Japanese II (J),WI09,34,29,100.0%,100.0%,3.6,B+ (3.63),B+ (3.33)
+877,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (A),WI09,20,17,94.1%,94.1%,4.85,A- (3.77),A- (3.73)
+878,"Sato, Kyoko",JAPN 130B - Third Year Japanese II (B),WI09,14,12,91.7%,83.3%,4.67,A- (3.73),
+879,"McKee, Mayumi Mochizuki",JAPN 140B - Fourth Year Japanese II (A),WI09,9,8,87.5%,100.0%,4.5,B+ (3.57),
+880,"McKee, Mayumi Mochizuki",JAPN 140B - Fourth Year Japanese II (B),WI09,14,14,100.0%,100.0%,4.5,B+ (3.38),
+881,"Nishimura, Masato",JAPN 150B - Advanced Japanese II (A),WI09,12,11,100.0%,100.0%,3.59,A- (3.90),
+882,"Yoneyama, Lisa",JAPN 190 - Topic/Contemp Japanese Studies (A),WI09,14,14,100.0%,100.0%,7.93,B+ (3.54),
+883,"Tipton, Yuko",JAPN 20B - Second Yr Japanese II (A),WI09,33,32,100.0%,100.0%,3.4,B+ (3.67),B (3.23)
+884,"Fujiwara, Hisae",JAPN 20B - Second Yr Japanese II (B),WI09,34,34,100.0%,100.0%,2.85,B+ (3.69),B+ (3.54)
+885,"Fujiwara, Hisae",JAPN 20B - Second Yr Japanese II (C),WI09,34,32,100.0%,100.0%,3.31,A- (3.70),B+ (3.54)
+886,"Fujiwara, Hisae",JAPN 100A - Japanese/Bilingual Speakers I (A),FA08,6,6,100.0%,100.0%,5.5,B+ (3.50),
+887,"Kameda, Noriko",JAPN 10A - First Year Japanese I (A),FA08,30,20,100.0%,75.0%,5.5,B+ (3.65),B+ (3.35)
+888,"Kameda, Noriko",JAPN 10A - First Year Japanese I (B),FA08,32,20,100.0%,90.0%,3.45,A- (3.85),B+ (3.35)
+889,"Sato, Kyoko",JAPN 10A - First Year Japanese I (C),FA08,33,25,100.0%,96.0%,4.42,A- (3.77),B+ (3.55)
+890,"Kameda, Noriko",JAPN 10A - First Year Japanese I (D),FA08,38,27,96.3%,96.3%,4.43,A- (3.77),B+ (3.35)
+891,"Fukushima, Yumiko",JAPN 10A - First Year Japanese I (E),FA08,32,29,100.0%,100.0%,5.05,A- (3.71),B+ (3.57)
+892,"Fukushima, Yumiko",JAPN 10A - First Year Japanese I (F),FA08,34,29,100.0%,100.0%,4.64,B+ (3.69),B+ (3.57)
+893,"Nishimura, Masato",JAPN 10A - First Year Japanese I (G),FA08,33,23,95.7%,100.0%,3.98,B+ (3.65),B+ (3.55)
+894,"Nishimura, Masato",JAPN 10A - First Year Japanese I (H),FA08,34,32,100.0%,100.0%,3.81,B+ (3.69),B+ (3.55)
+895,"Ito, Hifumi",JAPN 10A - First Year Japanese I (I),FA08,31,24,95.8%,100.0%,3.92,B+ (3.63),B+ (3.40)
+896,"Ito, Hifumi",JAPN 10A - First Year Japanese I (J),FA08,33,27,96.0%,96.0%,3.96,B+ (3.64),B+ (3.40)
+897,"Ito, Hifumi",JAPN 10A - First Year Japanese I (K),FA08,32,31,100.0%,100.0%,3.43,B+ (3.69),B+ (3.40)
+898,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (A),FA08,20,19,100.0%,88.9%,4.06,A- (3.75),B+ (3.67)
+899,"Sato, Kyoko",JAPN 130A - Third Year Japanese I (B),FA08,21,18,88.9%,94.4%,4.83,B+ (3.56),B+ (3.67)
+900,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese I (A),FA08,14,12,100.0%,100.0%,3.33,B- (2.89),
+901,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese I (B),FA08,14,13,92.3%,100.0%,3.88,B+ (3.33),
+902,"Nishimura, Masato",JAPN 150A - Advanced Japanese I (A),FA08,12,11,100.0%,100.0%,4.32,A- (3.82),
+903,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese I (A),FA08,32,32,100.0%,100.0%,4.63,B+ (3.67),B+ (3.52)
+904,"Tipton, Yuko",JAPN 20A - Second Yr Japanese I (B),FA08,32,32,96.7%,100.0%,3.25,B+ (3.47),B+ (3.37)
+905,"Fujiwara, Hisae",JAPN 20A - Second Yr Japanese I (C),FA08,35,33,100.0%,96.9%,3.35,B+ (3.69),B+ (3.62)
+906,"Tipton, Yuko",JAPN 20A - Second Yr Japanese I (D),FA08,34,34,94.1%,100.0%,3.11,B+ (3.58),B+ (3.37)
+907,"Tipton, Yuko",JAPN 20A - Second Yr Japanese I (E),FA08,26,28,100.0%,96.3%,4.43,B+ (3.57),B+ (3.37)
+908,"Kunitake, Yutaka K.",JAPN 10A - First Year Japanese I (A),SU08,18,18,88.2%,100.0%,7.5,A- (3.82),
+909,"Fukushima, Yumiko",JAPN 10B - First Year Japanese II (A),SU08,17,16,100.0%,100.0%,7.97,B+ (3.56),
+910,"Fukushima, Yumiko",JAPN 10C - First Year Japanese III (A),SU08,17,16,100.0%,100.0%,8.37,B+ (3.50),
+911,"Fujiwara, Hisae",JAPN 100C - Japanese:Bilingual Spkrs (A),SP08,8,8,100.0%,100.0%,5.75,A- (3.88),
+912,"Ito, Hifumi",JAPN 10C - First Year Japanese (A),SP08,35,30,100.0%,100.0%,3.6,B+ (3.52),B+ (3.40)
+913,"Ito, Hifumi",JAPN 10C - First Year Japanese (B),SP08,37,31,100.0%,100.0%,3.66,B+ (3.61),B+ (3.40)
+914,"Ito, Hifumi",JAPN 10C - First Year Japanese (C),SP08,35,28,100.0%,100.0%,5.07,B+ (3.50),B+ (3.40)
+915,"Fukushima, Yumiko",JAPN 10C - First Year Japanese (D),SP08,36,34,100.0%,97.1%,3.85,B+ (3.44),B+ (3.36)
+916,"Nishimura, Masato",JAPN 10C - First Year Japanese (E),SP08,36,30,100.0%,100.0%,4.37,B+ (3.41),B (3.26)
+917,"Nishimura, Masato",JAPN 10C - First Year Japanese (F),SP08,34,33,97.0%,100.0%,3.41,B+ (3.33),B (3.26)
+918,"Nishimura, Masato",JAPN 10C - First Year Japanese (G),SP08,35,29,100.0%,100.0%,3.6,B+ (3.33),B (3.26)
+919,"Sato, Kyoko",JAPN 130C - Third Year Japanese (A),SP08,14,13,100.0%,100.0%,3.33,A- (3.75),
+920,"Sato, Kyoko",JAPN 130C - Third Year Japanese (B),SP08,17,14,92.9%,92.9%,4.36,B (3.21),
+921,"McKee, Mayumi Mochizuki",JAPN 140C - Fourth Year Japanese (A),SP08,8,8,100.0%,100.0%,3.75,A- (3.88),
+922,"McKee, Mayumi Mochizuki",JAPN 140C - Fourth Year Japanese (B),SP08,8,7,100.0%,100.0%,8.21,B (3.00),
+923,"Sato, Kyoko",JAPN 150C - Advanced Japanese (A),SP08,14,13,100.0%,100.0%,2.96,A- (3.85),
+924,"Yoneyama, Lisa",JAPN 190 - Topic/Contemp Japanese Studies (A),SP08,15,10,100.0%,100.0%,7.7,A- (3.75),
+925,"McKee, Mayumi Mochizuki",JAPN 20C - Second Yr Japanese (A),SP08,18,17,100.0%,100.0%,3.91,A- (3.80),
+926,"Fujiwara, Hisae",JAPN 20C - Second Yr Japanese (B),SP08,33,26,96.2%,100.0%,2.9,A- (3.77),B+ (3.52)
+927,"Fujiwara, Hisae",JAPN 20C - Second Yr Japanese (C),SP08,23,19,88.9%,94.4%,2.61,A- (3.82),B+ (3.52)
+928,"Fujiwara, Hisae",JAPN 100B - Japanese/Bilingual Speakers (A),WI08,9,9,100.0%,100.0%,5.39,B (3.13),
+929,"Kameda, Noriko",JAPN 10B - First Year Japanese (A),WI08,10,12,100.0%,100.0%,6.0,A- (3.73),
+930,"Kameda, Noriko",JAPN 10B - First Year Japanese (B),WI08,35,31,93.5%,80.6%,3.92,B+ (3.33),B (3.05)
+931,"Nishimura, Masato",JAPN 10B - First Year Japanese (C),WI08,30,25,100.0%,100.0%,3.86,B+ (3.32),B (3.25)
+932,"Fukushima, Yumiko",JAPN 10B - First Year Japanese (D),WI08,29,28,92.6%,96.3%,3.29,B+ (3.65),B (3.22)
+933,"Nishimura, Masato",JAPN 10B - First Year Japanese (E),WI08,34,30,100.0%,100.0%,3.57,B+ (3.52),B (3.25)
+934,"Fukushima, Yumiko",JAPN 10B - First Year Japanese (F),WI08,30,28,100.0%,100.0%,4.57,B+ (3.30),B (3.22)
+935,"Ito, Hifumi",JAPN 10B - First Year Japanese (G),WI08,25,21,100.0%,100.0%,4.21,B+ (3.55),B (3.30)
+936,"Ito, Hifumi",JAPN 10B - First Year Japanese (H),WI08,29,28,92.9%,100.0%,4.64,B+ (3.46),B (3.30)
+937,"Ito, Hifumi",JAPN 10B - First Year Japanese (I),WI08,33,31,100.0%,100.0%,3.27,B+ (3.67),B (3.30)
+938,"Nishimura, Masato",JAPN 10B - First Year Japanese (J),WI08,31,28,96.4%,100.0%,4.72,B+ (3.50),B (3.25)
+939,"Sato, Kyoko",JAPN 130B - Third Year Japanese (A),WI08,19,19,94.7%,100.0%,3.34,A- (3.74),
+940,"Sato, Kyoko",JAPN 130B - Third Year Japanese (B),WI08,17,17,100.0%,100.0%,4.97,A- (3.71),
+941,"McKee, Mayumi Mochizuki",JAPN 140B - Fourth Year Japanese (A),WI08,7,7,85.7%,83.3%,7.07,B+ (3.57),
+942,"McKee, Mayumi Mochizuki",JAPN 140B - Fourth Year Japanese (B),WI08,10,10,90.0%,100.0%,6.5,B (3.20),
+943,"Sato, Kyoko",JAPN 150B - Advanced Japanese (A),WI08,10,10,100.0%,100.0%,2.9,A (4.00),
+944,"Turner, Christena L.",JAPN 190 - Topic/Contemp Japanese Studies (A),WI08,15,13,92.3%,92.3%,6.65,B+ (3.54),
+945,"McKee, Mayumi Mochizuki",JAPN 20B - Second Yr Japanese (A),WI08,31,31,100.0%,100.0%,3.4,B+ (3.64),B+ (3.46)
+946,"Fujiwara, Hisae",JAPN 20B - Second Yr Japanese (B),WI08,32,32,100.0%,100.0%,3.31,B+ (3.67),B+ (3.39)
+947,"Fujiwara, Hisae",JAPN 20B - Second Yr Japanese (C),WI08,33,33,100.0%,97.0%,3.71,B+ (3.44),B+ (3.39)
+948,"Fujiwara, Hisae",JAPN 100A - Japanese/Bilingual Speakers I (A),FA07,10,10,100.0%,100.0%,6.5,A- (3.78),
+949,"Kameda, Noriko",JAPN 10A - First Year Japanese (A),FA07,31,16,93.3%,100.0%,4.25,A- (3.86),B (3.21)
+950,"Kameda, Noriko",JAPN 10A - First Year Japanese (B),FA07,34,29,100.0%,100.0%,4.5,A- (3.86),B (3.21)
+951,"Nishimura, Masato",JAPN 10A - First Year Japanese (C),FA07,32,29,100.0%,100.0%,4.0,A- (3.81),B (3.03)
+952,"Kameda, Noriko",JAPN 10A - First Year Japanese (D),FA07,31,26,96.0%,96.0%,3.81,B+ (3.60),B (3.21)
+953,"Fukushima, Yumiko",JAPN 10A - First Year Japanese (E),FA07,35,28,96.4%,92.9%,3.57,A- (3.74),B+ (3.36)
+954,"Fukushima, Yumiko",JAPN 10A - First Year Japanese (F),FA07,31,24,100.0%,100.0%,4.92,A- (3.82),B+ (3.36)
+955,"Nishimura, Masato",JAPN 10A - First Year Japanese (G),FA07,33,28,100.0%,100.0%,4.14,B+ (3.65),B (3.03)
+956,"Nishimura, Masato",JAPN 10A - First Year Japanese (H),FA07,33,28,100.0%,100.0%,4.43,A- (3.80),B (3.03)
+957,"Ito, Hifumi",JAPN 10A - First Year Japanese (I),FA07,32,30,100.0%,100.0%,4.5,B+ (3.68),B (3.18)
+958,"Ito, Hifumi",JAPN 10A - First Year Japanese (J),FA07,32,26,96.2%,100.0%,3.65,A- (3.73),B (3.18)
+959,"Ito, Hifumi",JAPN 10A - First Year Japanese (K),FA07,33,28,100.0%,100.0%,4.14,A- (3.74),B (3.18)
+960,"Sato, Kyoko",JAPN 130A - Third Year Japanese (A),FA07,23,21,100.0%,100.0%,5.07,A- (3.75),B+ (3.51)
+961,"Sato, Kyoko",JAPN 130A - Third Year Japanese (B),FA07,18,17,100.0%,93.8%,3.91,B+ (3.53),
+962,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese (A),FA07,8,8,87.5%,100.0%,8.75,B- (2.88),
+963,"McKee, Mayumi Mochizuki",JAPN 140A - Fourth Year Japanese (B),FA07,12,12,91.7%,91.7%,5.67,B+ (3.45),
+964,"Sato, Kyoko",JAPN 150A - Advanced Japanese (A),FA07,15,13,92.3%,92.3%,3.88,A- (3.75),
+965,"McKee, Mayumi Mochizuki",JAPN 20A - Second Yr Japanese (A),FA07,34,32,100.0%,100.0%,3.85,B+ (3.41),B (3.12)
+966,"Fujiwara, Hisae",JAPN 20A - Second Yr Japanese (C),FA07,33,33,100.0%,100.0%,3.23,B+ (3.65),B+ (3.50)
+967,"Fujiwara, Hisae",JAPN 20A - Second Yr Japanese (D),FA07,34,33,100.0%,100.0%,4.5,B+ (3.65),B+ (3.50)
+968,"Fukushima, Yumiko",JAPN 10A - First Year Japanese (A),SU07,16,15,93.3%,100.0%,10.23,A- (3.77),
+969,"Fukushima, Yumiko",JAPN 10B - First Year Japanese (A),SU07,17,17,100.0%,100.0%,8.38,A- (3.80),
+970,"Fukushima, Yumiko",JAPN 10C - First Year Japanese (A),SU07,20,20,100.0%,100.0%,7.66,A- (3.79),

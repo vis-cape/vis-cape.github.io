@@ -1,0 +1,918 @@
+,Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+0,"Marez, Curtis F.",ETHN 100C - Social Justice Praxis (A),SP23,22,4,100.0%,100.0%,3.5,A (4.00),A- (3.84)
+1,"Daly, Heather Marie",ETHN 101TV - Ethnic Images on TV (A),SP23,43,14,100.0%,90.9%,2.86,B+ (3.67),A- (3.73)
+2,"Museus, Samuel David",ETHN 109 - Race & Social Movements (A),SP23,48,19,100.0%,100.0%,2.38,A- (3.94),A- (3.91)
+3,"Werner, Bradley T.",ETHN 113A - Decolonizing Geology (A),SP23,25,9,100.0%,100.0%,5.61,A- (3.88),A- (3.95)
+4,"Choi, Esther Min",ETHN 117 - Organic Social Movements (A),SP23,28,10,100.0%,100.0%,1.7,A (4.00),A (4.00)
+5,"Tran, Ly Thi Hai",ETHN 126 - Comp Filip&Viet Am Ident&Cmnty (A),SP23,32,9,100.0%,100.0%,2.94,A- (3.78),A- (3.85)
+6,"Martin Sandino, Amanda Maria Yoland",ETHN 127 - Sexuality & Nation (A),SP23,33,19,82.4%,100.0%,2.39,A- (3.78),A- (3.96)
+7,"Martin Sandino, Amanda Maria Yoland",ETHN 137 - Latina Issues & Cultural Prod. (A),SP23,22,12,100.0%,100.0%,2.0,A- (3.92),A (4.00)
+8,"Batarseh, Amanda Alicia",ETHN 166 - Topic:Arab/Muslim Amer Identy (A),SP23,22,10,100.0%,100.0%,3.1,A- (3.70),A- (3.95)
+9,"Perez, Roy",ETHN 189 - Special Topics/Ethnic Studies (A),SP23,19,12,100.0%,100.0%,4.5,A- (3.92),
+10,"Museus, Samuel David",ETHN 189 - Special Topics/Ethnic Studies (B),SP23,12,3,100.0%,100.0%,1.5,A (4.00),
+11,"Fuste, Jose Ignacio",ETHN 30 - Intro Chicanx & Latinx Studies (A),SP23,96,51,100.0%,100.0%,4.54,B+ (3.42),B+ (3.49)
+12,"Streeby, Shelley",ETHN 3R - R-Intro: Making Culture (A),SP23,377,123,86.3%,88.8%,3.84,A- (3.83),B+ (3.68)
+13,"Taylor-Garcia, Daphne",ETHN 100B - InterdisciplinaryMethodologies (A),WI23,23,15,93.3%,93.3%,3.43,A- (3.93),A- (3.95)
+14,"Espiritu, Yen",ETHN 100H - Honors Research Design (A),WI23,6,3,100.0%,100.0%,4.5,A (4.00),
+15,"Marez, Curtis F.",ETHN 101 - Ethnic Images in Film (A),WI23,92,36,94.1%,97.1%,3.32,A- (3.94),A- (3.73)
+16,"Fuste, Jose Ignacio","ETHN 104 - Race, Space, & Segregation (A)",WI23,59,27,100.0%,100.0%,4.2,B+ (3.62),A- (3.77)
+17,"Frank, Ross H.",ETHN 112B - NativeAm& Indigenous Hist USII (B),WI23,31,11,90.0%,90.0%,4.7,B+ (3.30),C+ (2.64)
+18,"Tran, Ly Thi Hai",ETHN 123 - Asian American Politics (A),WI23,20,7,100.0%,100.0%,3.5,A (4.00),B+ (3.61)
+19,"Sasaki, Christen T",ETHN 125R - R-Asian American History (A),WI23,36,15,100.0%,100.0%,3.43,A- (3.93),A- (3.86)
+20,"Power, Jade Yukana",ETHN 133 - Latinx Theatre and Performance (A),WI23,9,3,100.0%,100.0%,3.83,B+ (3.67),
+21,"Perreira, Christopher Michael",ETHN 139 - Chicano Literature in English (A),WI23,19,5,100.0%,100.0%,6.1,A (4.00),
+22,"Martinez-Matsuda, Veronica",ETHN 154 - History of Mexican America (A),WI23,24,10,100.0%,100.0%,2.72,B (3.10),B (3.03)
+23,"Museus, Samuel David",ETHN 163J - Asian American Social Movemnts (A),WI23,23,9,100.0%,100.0%,2.5,A (4.00),A- (3.95)
+24,"Patel, Shaista",ETHN 167A - Decolonial Muslim Feminisms (A),WI23,16,6,100.0%,100.0%,4.9,B+ (3.60),
+25,"Streeby, Shelley",ETHN 168 - Comparative Ethnic Literature (A),WI23,34,9,87.5%,85.7%,4.0,B+ (3.38),B+ (3.65)
+26,"Browne, Errol Tsekani",ETHN 170 - Slavery and the Atlantic World (A),WI23,15,5,80.0%,100.0%,2.5,A (4.00),
+27,"Dresser, Mark Stuart",ETHN 179 - Discover Jazz (A),WI23,24,10,100.0%,100.0%,2.1,B+ (3.67),A- (3.84)
+28,"Streeby, Shelley","ETHN 182 - Race, Gender, Sexuality Sci Fi (A)",WI23,57,19,89.5%,94.4%,5.83,A- (3.94),A- (3.75)
+29,"Sasaki, Christen T",ETHN 189 - Special Topics/Ethnic Studies (C),WI23,12,6,100.0%,100.0%,3.5,A (4.00),
+30,"Perreira, Christopher Michael",ETHN 2R - R-Intro:CirculationsofDifferen (A),WI23,355,139,91.6%,95.3%,3.55,A- (3.93),A- (3.80)
+31,"Frank, Ross H.",ETHN 1 - Intro: Land and Labor (A),FA22,351,167,79.0%,76.6%,4.59,A- (3.70),B+ (3.30)
+32,"Patel, Shaista",ETHN 100A - Theoretical Approaches (A),FA22,37,7,85.7%,85.7%,5.36,A- (3.86),
+33,"Perreira, Christopher Michael",ETHN 103 - Environmental Racism (A),FA22,68,18,88.2%,88.2%,2.85,B+ (3.56),
+34,"Sasaki, Christen T",ETHN 121R - R-Contemp Asian American Hist (A),FA22,36,7,100.0%,100.0%,2.5,A- (3.71),A (4.00)
+35,"Tran, Ly Thi Hai",ETHN 122 - Asian American Cult & Identity (A),FA22,35,8,100.0%,100.0%,3.0,A (4.00),B+ (3.62)
+36,"Ruiz, Ariana",ETHN 139 - Chicano Literature in English (A),FA22,18,6,100.0%,100.0%,5.3,B+ (3.40),
+37,"Jolivette, Andrew J",ETHN 144M - Antiracist Medicine/HealthCare (A),FA22,70,22,100.0%,95.0%,2.8,A (4.00),A (4.00)
+38,"Daly, Heather Marie",ETHN 152 - Law and Civil Rights (B),FA22,34,11,100.0%,100.0%,6.1,A (4.00),B+ (3.57)
+39,"Browne, Errol Tsekani",ETHN 161 - Black Poli&Protest since 1941 (A),FA22,19,6,83.3%,83.3%,2.5,B+ (3.60),
+40,"Patel, Shaista",ETHN 163E - Decolonial Theory (A),FA22,35,9,87.5%,100.0%,3.0,B (3.13),
+41,"Borgo, David Garcia",ETHN 178R - Blues: An Oral Tradition (A),FA22,25,12,100.0%,90.9%,3.59,B+ (3.45),B+ (3.41)
+42,"Browne, Errol Tsekani",ETHN 184 - Black Intellectuals in 20th C (A),FA22,16,6,80.0%,60.0%,3.3,A (4.00),
+43,"Beardsley, Steven Thomas",ETHN 187 - Latinx Sexualities (A),FA22,16,7,100.0%,100.0%,3.5,A (4.00),
+44,"Gutierrez, Oscar Antonio",ETHN 103 - Environmental Racism (A),S222,31,8,100.0%,100.0%,3.75,A (4.00),A- (3.87)
+45,"Choi, Esther Min","ETHN 104 - Race, Space, & Segregation (A)",S222,27,11,100.0%,100.0%,4.32,A- (3.89),A- (3.91)
+46,"Tanaka, Elaine Gale-armon",ETHN 142 - Medcn/Race&Globl Poli/Inequity (A),S222,20,5,100.0%,100.0%,4.5,B+ (3.50),A- (3.74)
+47,"Rassooli, Nima","ETHN 182 - Race, Gender, Sexuality Sci Fi (A)",S222,24,14,92.3%,76.9%,2.96,A (4.00),A- (3.97)
+48,"Gutierrez, Oscar Antonio",ETHN 102 - Sci and Techn:Race/Gendr/Class (A),S122,16,3,100.0%,100.0%,3.17,B+ (3.67),
+49,"Doermann, Hannah Friederike",ETHN 127 - Sexuality & Nation (A),S122,7,4,100.0%,100.0%,7.5,B (3.00),
+50,"Gavin, Camila Andrea",ETHN 155 - U.S. Militarism (A),S122,29,3,100.0%,100.0%,5.17,B+ (3.67),A- (3.89)
+51,"Marez, Curtis F.",ETHN 101TV - Ethnic Images on TV (A),SP22,53,10,100.0%,100.0%,3.3,A- (3.90),B+ (3.66)
+52,"Okonkwo, Holly",ETHN 102 - Sci and Techn:Race/Gendr/Class (A),SP22,39,8,87.5%,87.5%,4.25,A- (3.75),A- (3.71)
+53,"Perreira, Christopher Michael",ETHN 103 - Environmental Racism (A),SP22,40,10,100.0%,100.0%,3.1,A- (3.70),A- (3.98)
+54,"Werner, Bradley T.",ETHN 113A - Decolonizing Geology (A),SP22,22,5,100.0%,100.0%,4.5,A (4.00),B+ (3.67)
+55,"Man, Simeon S",ETHN 120D - Race & Oral Hist. in San Diego (A),SP22,22,5,100.0%,100.0%,4.1,A- (3.75),A- (3.74)
+56,"Tran, Ly Thi Hai",ETHN 123 - Asian American Politics (A),SP22,35,14,100.0%,92.9%,3.21,B+ (3.62),B+ (3.59)
+57,"Martin Sandino, Amanda Maria Yoland",ETHN 127 - Sexuality & Nation (A),SP22,29,14,100.0%,100.0%,5.42,A- (3.85),A- (3.72)
+58,"Huezo, Alexander D",ETHN 128 - Hip Hop: Politics of Culture (A),SP22,38,12,100.0%,100.0%,3.3,A- (3.90),B+ (3.67)
+59,"Gavin, Camila Andrea",ETHN 137 - Latina Issues & Cultural Prod. (A),SP22,18,5,100.0%,100.0%,4.9,A (4.00),
+60,"Tanaka, Elaine Gale-armon",ETHN 142 - Medcn/Race&Globl Poli/Inequity (A),SP22,25,9,100.0%,100.0%,4.06,A (4.00),A- (3.87)
+61,"Steelman, Katherine Wallis",ETHN 143 - Chicana/o Film & Media Studies (A),SP22,29,8,100.0%,100.0%,2.79,B+ (3.50),A- (3.85)
+62,"Espiritu, Yen",ETHN 155 - U.S. Militarism (A),SP22,44,9,100.0%,100.0%,4.0,B+ (3.38),B (3.23)
+63,"Huezo, Alexander D",ETHN 163E - Decolonial Theory (A),SP22,23,6,83.3%,83.3%,3.83,A- (3.83),A- (3.92)
+64,"Browne, Errol Tsekani",ETHN 170 - Slavery and the Atlantic World (A),SP22,16,3,100.0%,66.7%,1.83,B+ (3.67),
+65,"Streeby, Shelley","ETHN 182 - Race, Gender, Sexuality Sci Fi (A)",SP22,57,13,83.3%,100.0%,4.17,B+ (3.42),A- (3.75)
+66,"Shelby, Karen Lee","ETHN 183 - Gender,Race,Ethnicity & Class (A)",SP22,18,3,100.0%,100.0%,2.5,B+ (3.67),
+67,"Perez, Roy",ETHN 3 - Intro:Making Culture (A),SP22,367,124,90.8%,97.5%,3.33,A- (3.87),B+ (3.62)
+68,"Fuste, Jose Ignacio",ETHN 30 - Intro Chicanx & Latinx Studies (A),SP22,87,39,100.0%,100.0%,4.13,B+ (3.58),B+ (3.31)
+69,"Patel, Shaista",ETHN 100B - InterdisciplinaryMethodologies (A),WI22,30,10,100.0%,100.0%,6.5,B+ (3.63),B+ (3.59)
+70,"Marez, Curtis F.",ETHN 101 - Ethnic Images in Film (A),WI22,100,45,100.0%,100.0%,3.6,A- (3.92),B+ (3.66)
+71,"Man, Simeon S",ETHN 103A - United States & Pacific World (A),WI22,15,7,100.0%,100.0%,4.21,A (4.00),
+72,"Jolivette, Andrew J",ETHN 112B - NativeAm& Indigenous Hist USII (A),WI22,63,17,94.1%,94.1%,4.77,B+ (3.67),A- (3.87)
+73,"Suzuki, Erin M.",ETHN 124 - Asian American Literature (A),WI22,39,14,100.0%,100.0%,3.93,A- (3.93),A- (3.79)
+74,"Ruiz, Ariana",ETHN 139 - Chicano Literature in English (A),WI22,20,6,100.0%,100.0%,5.17,B (3.00),B (3.01)
+75,"Espiritu, Yen",ETHN 140A - Refugee San Diego (A),WI22,33,8,100.0%,100.0%,3.93,A- (3.86),A- (3.72)
+76,"Middleton, Kianna",ETHN 147 - Black Feminisms Past & Pres (A),WI22,15,5,100.0%,100.0%,3.7,A- (3.80),
+77,"Tran, Ly Thi Hai",ETHN 152 - Law and Civil Rights (A),WI22,10,4,100.0%,100.0%,6.5,B+ (3.50),
+78,"Huezo, Alexander D",ETHN 157 - Madness and Urbanization (A),WI22,19,7,100.0%,100.0%,2.5,B+ (3.67),
+79,"Browne, Errol Tsekani",ETHN 161 - Black Poli&Protest since 1941 (A),WI22,11,3,66.7%,66.7%,3.83,A (4.00),
+80,"Burelle, Julie Sara Veronique",ETHN 163F - Playing Indian:Native Am Cinem (A),WI22,31,14,100.0%,100.0%,4.81,B+ (3.67),A- (3.85)
+81,"Man, Simeon S",ETHN 163J - Asian American Social Movemnts (A),WI22,19,5,100.0%,100.0%,2.5,A (4.00),
+82,"Huezo, Alexander D","ETHN 177 - Race, Sound and Music (A)",WI22,22,3,100.0%,100.0%,3.17,B+ (3.33),B+ (3.42)
+83,"Dresser, Mark Stuart",ETHN 179 - Discover Jazz (A),WI22,22,11,90.9%,81.8%,3.05,A- (3.90),B+ (3.68)
+84,"Browne, Errol Tsekani",ETHN 184 - Black Intellectuals in 20th C (A),WI22,14,4,75.0%,50.0%,3.5,A (4.00),
+85,"Sasaki, Christen T",ETHN 2 - Intro:CirculationsofDifference (A),WI22,387,174,96.4%,99.4%,3.51,A- (3.86),A- (3.81)
+86,"Patel, Shaista",ETHN 1 - Intro: Land and Labor (A),FA21,403,186,87.8%,92.8%,3.43,A- (3.84),A- (3.80)
+87,"Frank, Ross H.",ETHN 100A - Theoretical Approaches (A),FA21,35,9,87.5%,87.5%,7.5,B+ (3.43),B (3.16)
+88,"Fuste, Jose Ignacio","ETHN 104 - Race, Space, & Segregation (A)",FA21,83,48,97.9%,100.0%,4.13,A- (3.82),A- (3.79)
+89,"Frank, Ross H.",ETHN 112A - NativeAm& Indigenous Hist US I (A),FA21,25,5,100.0%,80.0%,4.9,B+ (3.40),B (3.08)
+90,"Huezo, Alexander D",ETHN 113 - Decolonizing Education (A),FA21,41,14,100.0%,100.0%,3.93,A- (3.71),A- (3.70)
+91,"Vazquez, Cynthia",ETHN 118 - Contemprary Immigration Issues (A),FA21,38,13,83.3%,100.0%,4.83,B (3.25),B+ (3.57)
+92,"Huezo, Alexander D",ETHN 120 - Race/Perfrm: Poltcs Poplr Cult (A),FA21,38,12,91.7%,72.7%,1.83,A- (3.83),A- (3.72)
+93,"Sasaki, Christen T",ETHN 121 - Contemp Asian American History (A),FA21,32,16,100.0%,100.0%,2.88,A (4.00),A- (3.90)
+94,"Tran, Ly Thi Hai",ETHN 122 - Asian American Cult & Identity (A),FA21,40,9,100.0%,100.0%,4.06,A (4.00),A- (3.81)
+95,"Kim, Joo Ok",ETHN 124 - Asian American Literature (A),FA21,40,19,100.0%,100.0%,2.82,A- (3.94),A- (3.89)
+96,"Fuste, Jose Ignacio",ETHN 138 - Black & Latinx Crossings (A),FA21,36,12,100.0%,100.0%,4.33,A- (3.73),B (3.18)
+97,"Middleton, Kianna",ETHN 142 - Medcn/Race&Globl Poli/Inequity (A),FA21,44,13,100.0%,100.0%,3.27,A- (3.92),A- (3.84)
+98,"Batarseh, Amanda Alicia",ETHN 166 - Topic:Arab/Muslim Amer Identy (A),FA21,10,6,100.0%,100.0%,5.17,A (4.00),
+99,"Borgo, David Garcia",ETHN 178 - Blues: An Oral Tradition (A),FA21,26,21,100.0%,100.0%,4.98,A- (3.74),B+ (3.52)
+100,"Davis, Anthony Curtis",ETHN 179 - Discover Jazz (A),FA21,22,8,87.5%,87.5%,3.25,A (4.00),A- (3.96)
+101,"Perez, Roy",ETHN 187 - Latinx Sexualities (A),FA21,13,3,100.0%,100.0%,3.17,B+ (3.67),
+102,"Quintanilla, Olivia Arlene",ETHN 103 - Environmental Racism (A),S221,34,10,80.0%,90.0%,6.7,A- (3.78),A- (3.70)
+103,"Huang, Ningning",ETHN 124 - Asian American Literature (A),S221,18,6,100.0%,100.0%,7.5,A- (3.83),
+104,"Cuong, Marisol",ETHN 137 - Latina Issues & Cultural Prod. (A),S221,4,3,100.0%,100.0%,3.17,A (4.00),
+105,"Tanaka, Elaine Gale-armon",ETHN 142 - Medcn/Race&Globl Poli/Inequity (A),S221,16,6,100.0%,100.0%,4.5,A (4.00),
+106,"Man, Simeon S",ETHN 163J - Asian American Social Movemnts (A),S221,6,3,100.0%,100.0%,3.17,A (4.00),
+107,"Rassooli, Nima","ETHN 182 - Race, Gender, Sexuality Sci Fi (A)",S221,15,10,100.0%,100.0%,3.9,A- (3.88),
+108,"Abusneineh, Bayan Abdelmajid",ETHN 101 - Ethnic Images in Film (A),S121,23,8,100.0%,100.0%,7.5,A (4.00),B+ (3.65)
+109,"Bui, Kevin Xuanduy","ETHN 106 - Life, Death and the Human (A)",S121,19,3,100.0%,100.0%,5.83,B+ (3.67),
+110,"Boston, Martin Luther",ETHN 118 - Contemprary Immigration Issues (A),S121,18,9,100.0%,100.0%,6.5,A- (3.88),
+111,"Patel, Shaista",ETHN 127 - Sexuality & Nation (A),S121,15,4,100.0%,100.0%,6.0,B+ (3.50),
+112,"Choi, Esther Min","ETHN 185 - Discourse, Power & Inequality (A)",S121,6,5,100.0%,100.0%,3.7,A (4.00),
+113,"Fuste, Jose Ignacio",ETHN 100C - Social Justice Praxis (A),SP21,19,6,100.0%,100.0%,4.17,B+ (3.67),
+114,"Huezo, Alexander D",ETHN 109 - Race & Social Movements (A),SP21,41,15,100.0%,100.0%,5.7,A- (3.87),B+ (3.65)
+115,"Frank, Ross H.",ETHN 110 - Wrld Views/Indigenous America (A),SP21,22,6,66.7%,66.7%,9.17,B (3.20),B+ (3.44)
+116,"Frank, Ross H.",ETHN 112C - California Native Am. History (A),SP21,19,5,100.0%,100.0%,5.7,A (4.00),
+117,"Boston, Martin Luther",ETHN 117 - Organic Social Movements (A),SP21,17,5,100.0%,100.0%,5.7,B+ (3.40),
+118,"Alvarez, Luis A",ETHN 120D - Race & Oral Hist. in San Diego (A),SP21,12,4,100.0%,100.0%,6.5,B (3.25),
+119,"Suzuki, Erin M.",ETHN 124 - Asian American Literature (A),SP21,54,12,100.0%,100.0%,4.67,A- (3.92),A- (3.79)
+120,"Shelby, Karen Lee",ETHN 127 - Sexuality & Nation (A),SP21,17,7,85.7%,71.4%,5.07,A (4.00),
+121,"Huezo, Alexander D",ETHN 134 - Immigration&Ethnicity/Amer Soc (A),SP21,13,4,100.0%,100.0%,5.5,A- (3.75),
+122,"Tanaka, Elaine Gale-armon",ETHN 142 - Medcn/Race&Globl Poli/Inequity (A),SP21,22,11,100.0%,90.9%,3.95,A (4.00),A- (3.92)
+123,"Middleton, Kianna",ETHN 147 - Black Feminisms Past & Pres (A),SP21,17,3,100.0%,100.0%,3.17,B+ (3.67),
+124,"Boston, Martin Luther",ETHN 149 - African Amrcn Hist/the 20th C. (A),SP21,14,4,100.0%,100.0%,5.0,A (4.00),
+125,"Ramirez, Jorge",ETHN 154 - History of Mexican America (A),SP21,11,4,100.0%,100.0%,6.0,B+ (3.67),
+126,"Taylor-Garcia, Daphne","ETHN 183 - Gender,Race,Ethnicity & Class (A)",SP21,15,4,100.0%,100.0%,4.0,B+ (3.50),
+127,"Marez, Curtis F.",ETHN 3 - Intro:Making Culture (A),SP21,400,158,98.1%,96.8%,3.61,A- (3.88),A- (3.86)
+128,"Taylor-Garcia, Daphne",ETHN 100B - InterdisciplinaryMethodologies (A),WI21,23,7,71.4%,42.9%,2.5,A- (3.86),B+ (3.62)
+129,"Marez, Curtis F.",ETHN 101 - Ethnic Images in Film (A),WI21,99,44,95.3%,95.3%,3.57,A- (3.95),A (4.00)
+130,"Sasaki, Christen T",ETHN 125 - Asian American History (A),WI21,39,19,100.0%,100.0%,4.82,A- (3.94),A- (3.86)
+131,"Ruiz, Ariana",ETHN 139 - Chicano Literature in English (A),WI21,16,5,100.0%,100.0%,6.1,B (3.20),
+132,"Marez, Curtis F.",ETHN 143 - Chicana/o Film & Media Studies (A),WI21,47,12,100.0%,100.0%,4.5,A- (3.80),A (4.00)
+133,"Boston, Martin Luther",ETHN 153 - Citizenship & Civil Rts/20th c (A),WI21,21,8,100.0%,100.0%,6.5,B (3.14),B+ (3.43)
+134,"Huezo, Alexander D",ETHN 155 - U.S. Militarism (A),WI21,43,18,100.0%,94.4%,3.17,A- (3.88),A- (3.76)
+135,"Boston, Martin Luther",ETHN 164 - African Americans & Mass Media (A),WI21,17,7,100.0%,100.0%,4.5,B+ (3.50),
+136,"Huezo, Alexander D",ETHN 170 - Slavery and the Atlantic World (A),WI21,21,10,100.0%,100.0%,3.9,B+ (3.56),A- (3.87)
+137,"Childs, Dennis R.",ETHN 174 - Themes/Afro-Americn Literature (A),WI21,12,5,100.0%,100.0%,6.5,A- (3.75),
+138,"Dresser, Mark Stuart",ETHN 179 - Discover Jazz (A),WI21,23,9,77.8%,100.0%,2.94,A (4.00),A- (3.85)
+139,"Espiritu, Yen",ETHN 2 - Intro:CirculationsofDifference (A),WI21,365,172,93.5%,98.2%,3.4,A- (3.80),A- (3.82)
+140,"Jolivette, Andrew J",ETHN 1 - Intro: Land and Labor (A),FA20,377,165,96.3%,98.2%,3.49,A- (3.87),A- (3.91)
+141,"Espiritu, Yen",ETHN 100A - Theoretical Approaches (A),FA20,32,11,100.0%,100.0%,4.5,B+ (3.55),B+ (3.41)
+142,"Man, Simeon S",ETHN 103A - United States & Pacific World (A),FA20,12,6,100.0%,100.0%,2.83,A- (3.83),
+143,"Fuste, Jose Ignacio","ETHN 104 - Race, Space, & Segregation (A)",FA20,76,47,100.0%,97.9%,4.59,A- (3.80),A- (3.93)
+144,"Middleton, Kianna",ETHN 113 - Decolonizing Education (A),FA20,38,22,100.0%,100.0%,3.41,B+ (3.55),B+ (3.57)
+145,"Huezo, Alexander D","ETHN 115 - Monsters, Orphans and Robots (A)",FA20,25,12,91.7%,91.7%,4.14,A- (3.80),A- (3.72)
+146,"Huezo, Alexander D",ETHN 118 - Contemprary Immigration Issues (A),FA20,37,14,100.0%,100.0%,3.79,A- (3.71),B+ (3.33)
+147,"Fuste, Jose Ignacio",ETHN 119 - Race in the Americas (A),FA20,39,20,84.2%,94.7%,5.3,A- (3.84),A- (3.85)
+148,"Frank, Ross H.",ETHN 130 - Social & Econ Hist/Southwest I (A),FA20,26,8,100.0%,100.0%,4.75,A- (3.83),C+ (2.66)
+149,"Walkiewicz, Kathryn A",ETHN 168 - Comparative Ethnic Literature (A),FA20,24,8,100.0%,100.0%,6.0,A- (3.86),B+ (3.38)
+150,"Borgo, David Garcia",ETHN 178 - Blues: An Oral Tradition (A),FA20,32,19,100.0%,100.0%,3.34,A (4.00),A- (3.74)
+151,"Sasaki, Christen T",ETHN 20 - Intro to Asian Amer Studies (A),FA20,116,65,100.0%,100.0%,3.61,A- (3.84),A- (3.83)
+152,"Huezo, Alexander D",ETHN 103 - Environmental Racism (A),S220,30,12,100.0%,100.0%,4.68,B+ (3.55),B+ (3.64)
+153,"Choi, Esther Min","ETHN 104 - Race, Space, & Segregation (A)",S220,24,14,100.0%,100.0%,4.36,B+ (3.50),A- (3.81)
+154,"Dorr, Kirstie A.",ETHN 118 - Contemprary Immigration Issues (A),S220,23,7,100.0%,100.0%,3.93,A (4.00),A- (3.73)
+155,"Suzuki, Erin M.",ETHN 124 - Asian American Literature (A),S220,21,13,100.0%,100.0%,5.33,A (4.00),A- (3.96)
+156,"Abusneineh, Bayan Abdelmajid",ETHN 152 - Law and Civil Rights (A),S220,19,7,100.0%,100.0%,7.64,B+ (3.43),
+157,"Man, Simeon S",ETHN 163J - Asian American Social Movemnts (A),S220,6,3,100.0%,100.0%,3.17,A (4.00),
+158,"Boston, Martin Luther",ETHN 101 - Ethnic Images in Film (A),S120,25,10,80.0%,90.0%,8.5,B+ (3.67),B (3.04)
+159,"Shaikh, Hina",ETHN 102 - Sci and Techn:Race/Gendr/Class (A),S120,12,9,100.0%,100.0%,6.28,B+ (3.56),
+160,"Gavin, Camila Andrea",ETHN 116 - US-Mexico Bordr/Comp. Perspect (A),S120,29,12,100.0%,100.0%,6.7,B+ (3.67),A- (3.84)
+161,"Fuste, Jose Ignacio",ETHN 119 - Race in the Americas (A),S120,29,18,94.4%,94.4%,6.06,B+ (3.56),B+ (3.67)
+162,"Vazquez, Cynthia",ETHN 127 - Sexuality & Nation (A),S120,10,9,88.9%,77.8%,6.94,B+ (3.60),
+163,"Tanaka, Elaine Gale-armon",ETHN 142 - Medcn/Race&Globl Poli/Inequity (A),S120,20,3,100.0%,100.0%,4.5,A (4.00),A- (3.86)
+164,"Boston, Martin Luther","ETHN 182 - Race, Gender, Sexuality Sci Fi (A)",S120,21,9,100.0%,100.0%,7.61,B+ (3.33),B+ (3.51)
+165,"Kheshti, Roshanak",ETHN 100C - Social Justice Praxis (A),SP20,27,5,100.0%,100.0%,4.1,B+ (3.67),A (4.00)
+166,"Huezo, Alexander D","ETHN 106 - Life, Death and the Human (A)",SP20,53,14,100.0%,100.0%,5.36,B+ (3.69),A- (3.82)
+167,"Huezo, Alexander D",ETHN 116 - US-Mexico Bordr/Comp. Perspect (A),SP20,53,16,100.0%,100.0%,5.0,B+ (3.69),B+ (3.51)
+168,"Suzuki, Erin M.",ETHN 124 - Asian American Literature (A),SP20,35,16,100.0%,100.0%,4.88,A- (3.71),A- (3.95)
+169,"Lee, Leon Pakyuen",ETHN 128 - Hip Hop: Politics of Culture (A),SP20,22,4,100.0%,100.0%,5.5,A (4.00),A- (3.79)
+170,"Lopez Rivas, Philomena Jazmin",ETHN 137 - Latina Issues & Cultural Prod. (A),SP20,10,6,100.0%,100.0%,2.5,A- (3.83),
+171,"Marez, Curtis F.",ETHN 143 - Chicana/o Film & Media Studies (A),SP20,36,12,100.0%,100.0%,3.67,B+ (3.40),A- (3.73)
+172,"Saisi, Boke Nyaboke",ETHN 147 - Black Feminisms Past & Pres (A),SP20,8,3,100.0%,100.0%,3.83,B+ (3.33),
+173,"Taylor-Garcia, Daphne","ETHN 150 - Visuality, Sexuality, and Race (A)",SP20,13,4,100.0%,100.0%,4.0,B+ (3.50),
+174,"Boston, Martin Luther",ETHN 152 - Law and Civil Rights (A),SP20,36,13,100.0%,100.0%,5.88,A- (3.91),A- (3.75)
+175,"Klann, Mary Cameron",ETHN 153 - Citizenship & Civil Rts/20th c (A),SP20,19,4,100.0%,100.0%,3.5,A (4.00),
+176,"Streeby, Shelley",ETHN 168 - Comparative Ethnic Literature (A),SP20,20,9,100.0%,88.9%,4.72,A- (3.83),A (4.00)
+177,"Borgo, David Garcia",ETHN 179 - Discover Jazz (A),SP20,36,22,81.8%,90.9%,4.32,A- (3.75),A- (3.72)
+178,"Marez, Curtis F.",ETHN 189 - Special Topics/Ethnic Studies (A),SP20,18,11,100.0%,100.0%,4.32,A- (3.70),
+179,"Streeby, Shelley",ETHN 189 - Special Topics/Ethnic Studies (C),SP20,13,3,100.0%,100.0%,6.5,A (4.00),
+180,"Fuste, Jose Ignacio",ETHN 3 - Intro:Making Culture (A),SP20,393,180,91.4%,96.0%,3.39,A- (3.91),A- (3.95)
+181,"Patel, Shaista",ETHN 100B - InterdisciplinaryMethodologies (A),WI20,33,21,95.0%,100.0%,5.26,B (3.24),B (3.13)
+182,"Marez, Curtis F.",ETHN 101 - Ethnic Images in Film (A),WI20,55,24,100.0%,95.7%,3.72,B+ (3.55),A- (3.73)
+183,"Boston, Martin Luther",ETHN 113 - Decolonizing Education (A),WI20,24,11,100.0%,100.0%,4.32,A- (3.78),B+ (3.61)
+184,"Espiritu, Yen",ETHN 118 - Contemprary Immigration Issues (A),WI20,47,15,100.0%,100.0%,3.97,A- (3.73),B+ (3.56)
+185,"Sasaki, Christen T",ETHN 121 - Contemp Asian American History (A),WI20,46,22,100.0%,90.9%,3.23,B+ (3.64),A- (3.86)
+186,"Patel, Shaista",ETHN 163E - Decolonial Theory (A),WI20,8,7,100.0%,100.0%,3.36,B+ (3.50),
+187,"Burelle, Julie Sara Veronique",ETHN 163F - Playing Indian:Native Am Cinem (A),WI20,25,10,100.0%,100.0%,2.3,A- (3.89),B+ (3.63)
+188,"Kheshti, Roshanak","ETHN 177 - Race, Sound and Music (A)",WI20,21,9,100.0%,100.0%,4.5,A- (3.88),A (4.00)
+189,"Dresser, Mark Stuart",ETHN 179 - Discover Jazz (A),WI20,27,14,84.6%,92.3%,2.35,A- (3.75),B+ (3.33)
+190,"Streeby, Shelley","ETHN 182 - Race, Gender, Sexuality Sci Fi (A)",WI20,56,24,91.7%,87.5%,5.58,B+ (3.70),B+ (3.69)
+191,"Boston, Martin Luther",ETHN 184 - Black Intellectuals in 20th C (A),WI20,13,6,100.0%,100.0%,4.5,B+ (3.50),
+192,"Huezo, Alexander D","ETHN 185 - Discourse, Power & Inequality (A)",WI20,19,6,100.0%,100.0%,3.83,A (4.00),
+193,"Sasaki, Christen T",ETHN 189 - Special Topics/Ethnic Studies (A),WI20,8,4,100.0%,100.0%,4.5,B (3.25),
+194,"Taylor-Garcia, Daphne",ETHN 2 - Intro:CirculationsofDifference (A),WI20,295,132,54.8%,51.6%,2.84,B+ (3.60),A- (3.77)
+195,"Kaplan, Sara Clarke",ETHN 1 - Intro: Land and Labor (A),FA19,401,196,88.4%,87.2%,3.8,B+ (3.59),A- (3.81)
+196,"Frank, Ross H.",ETHN 100A - Theoretical Approaches (A),FA19,32,7,100.0%,57.1%,5.17,B (3.20),B+ (3.40)
+197,"Huezo, Alexander D",ETHN 103 - Environmental Racism (A),FA19,43,30,96.7%,100.0%,3.63,A- (3.86),B+ (3.68)
+198,"Fuste, Jose Ignacio","ETHN 104 - Race, Space, & Segregation (A)",FA19,68,41,100.0%,100.0%,5.09,A- (3.74),B+ (3.59)
+199,"Hankins, Sarah E.","ETHN 108 - Race, Culture & Social Change (A)",FA19,18,15,100.0%,93.3%,3.3,B+ (3.53),
+200,"Boston, Martin Luther",ETHN 109 - Race & Social Movements (A),FA19,42,14,100.0%,100.0%,5.88,B (3.08),B (3.20)
+201,"Jolivette, Andrew J",ETHN 112B - History/Native Americans/US II (A),FA19,21,10,100.0%,100.0%,3.75,A (4.00),A- (3.82)
+202,"Frank, Ross H.",ETHN 112C - California Native Am. History (A),FA19,11,5,100.0%,100.0%,7.0,A (4.00),
+203,"Huezo, Alexander D",ETHN 119 - Race in the Americas (A),FA19,14,7,100.0%,100.0%,3.5,A- (3.80),
+204,"Blanco, John D",ETHN 124 - Asian American Literature (A),FA19,40,20,78.9%,83.3%,3.34,B+ (3.60),A- (3.94)
+205,"Sasaki, Christen T",ETHN 125 - Asian American History (A),FA19,25,10,100.0%,100.0%,3.1,A- (3.75),B+ (3.67)
+206,"Dorr, Kirstie A.",ETHN 127 - Sexuality & Nation (A),FA19,25,9,100.0%,88.9%,3.17,A- (3.78),A- (3.87)
+207,"Tanaka, Elaine Gale-armon",ETHN 142 - Medcn/Race&Globl Poli/Inequity (A),FA19,31,12,100.0%,100.0%,7.7,B+ (3.60),B+ (3.31)
+208,"Boston, Martin Luther",ETHN 161 - Black Poli&Protest since 1941 (A),FA19,15,6,100.0%,100.0%,4.83,B+ (3.60),
+209,"Borgo, David Garcia",ETHN 178 - Blues: An Oral Tradition (A),FA19,27,23,100.0%,95.5%,2.85,A- (3.73),A- (3.77)
+210,"Whitley, Leila Marie","ETHN 183 - Gender,Race,Ethnicity & Class (A)",FA19,17,11,100.0%,100.0%,4.68,B+ (3.36),
+211,"Fuste, Jose Ignacio",ETHN 189 - Special Topics/Ethnic Studies (A),FA19,29,20,100.0%,94.7%,4.71,A- (3.71),B (3.29)
+212,"Espiritu, Yen",ETHN 20 - Intro to Asian Amer Studies (A),FA19,98,55,92.6%,92.6%,4.35,B+ (3.60),B+ (3.61)
+213,"Choi, Esther Min","ETHN 108 - Race, Culture & Social Change (A)",S219,18,7,85.7%,85.7%,5.07,B+ (3.57),
+214,"Vazquez, Cynthia",ETHN 110 - Wrld Views/Indigenous America (A),S219,26,19,78.9%,63.2%,4.61,B+ (3.47),B+ (3.37)
+215,"Linton, Mellissa Franceska",ETHN 2 - Intro:CirculationsofDifference (A),S219,96,33,89.7%,96.2%,3.21,A- (3.76),A- (3.78)
+216,"Jones, Aundrey Maurice",ETHN 101 - Ethnic Images in Film (A),S119,9,5,100.0%,100.0%,5.7,A- (3.75),
+217,"Daly, Heather Marie",ETHN 112A - History/Native Americans/US I (A),S119,14,5,100.0%,100.0%,4.9,B+ (3.40),
+218,"Shaikh, Hina",ETHN 127 - Sexuality & Nation (A),S119,11,9,88.9%,88.9%,5.83,A- (3.88),
+219,"Aguilar, Kevan Antonio",ETHN 131 - Social&Econ Hist/Southwest II (A),S119,10,5,100.0%,100.0%,6.5,A (4.00),
+220,"Padilla, Omar","ETHN 182 - Race, Gender, Sexuality Sci Fi (A)",S119,34,30,96.6%,100.0%,4.9,A- (3.76),A (4.00)
+221,"Saisi, Boke Nyaboke","ETHN 183 - Gender,Race,Ethnicity & Class (A)",S119,11,6,80.0%,60.0%,3.3,A- (3.80),
+222,"Fuste, Jose Ignacio",ETHN 100C - Social Justice Praxis (A),SP19,33,17,100.0%,94.1%,5.38,B+ (3.69),A- (3.85)
+223,"Visweswaran, Kamala",ETHN 102 - Sci and Techn:Race/Gendr/Class (A),SP19,26,7,40.0%,60.0%,4.1,C+ (2.67),B+ (3.48)
+224,"Ho, Lisa",ETHN 109 - Race & Social Movements (A),SP19,35,7,100.0%,85.7%,1.83,B+ (3.40),B+ (3.34)
+225,"Shaikh, Hina","ETHN 115 - Monsters, Orphans and Robots (A)",SP19,38,16,100.0%,100.0%,3.79,B+ (3.69),B+ (3.47)
+226,"Perez, Crystal Roxana Ramirez",ETHN 119 - Race in the Americas (A),SP19,32,23,85.7%,90.5%,3.9,B+ (3.58),B (3.27)
+227,"Man, Simeon S",ETHN 120D - Race & Oral Hist. in San Diego (A),SP19,13,7,85.7%,100.0%,6.79,B+ (3.57),
+228,"Ho, Lisa",ETHN 122 - Asian American Cult & Identity (A),SP19,35,15,92.9%,92.9%,3.36,A- (3.77),A- (3.74)
+229,"Kheshti, Roshanak",ETHN 127 - Sexuality & Nation (A),SP19,24,8,66.7%,83.3%,3.83,B+ (3.50),A- (3.76)
+230,"Linton, Mellissa Franceska",ETHN 129 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),SP19,20,8,100.0%,100.0%,5.64,B+ (3.67),A- (3.70)
+231,"Kharputly, Nadeen Sh B",ETHN 142 - Medcn/Race&Globl Poli/Inequity (A),SP19,54,16,100.0%,86.7%,2.75,A- (3.88),B+ (3.65)
+232,"Marez, Curtis F.",ETHN 143 - Chicana/o Film & Media Studies (A),SP19,34,16,100.0%,100.0%,3.13,A- (3.86),A- (3.80)
+233,"Kharputly, Nadeen Sh B",ETHN 153 - Citizenship & Civil Rts/20th c (A),SP19,27,11,100.0%,100.0%,3.77,A- (3.90),B+ (3.45)
+234,"Jones, Aundrey Maurice",ETHN 161 - Black Poli&Protest since 1941 (A),SP19,16,3,100.0%,100.0%,3.17,A (4.00),
+235,"Allen, Rachel Elizabeth",ETHN 179 - Discover Jazz (A),SP19,30,27,85.2%,88.9%,2.57,B+ (3.41),B+ (3.30)
+236,"Taylor-Garcia, Daphne","ETHN 183 - Gender,Race,Ethnicity & Class (A)",SP19,21,6,100.0%,100.0%,6.5,B (3.25),B+ (3.43)
+237,"Hidalgo, Melissa Martha",ETHN 187 - Latinx Sexualities (A),SP19,9,3,100.0%,100.0%,3.83,B+ (3.67),
+238,"Patel, Shaista",ETHN 189 - Special Topics/Ethnic Studies (A),SP19,24,13,91.7%,100.0%,5.17,A- (3.73),B+ (3.32)
+239,"Streeby, Shelley",ETHN 189 - Special Topics/Ethnic Studies (B),SP19,11,8,100.0%,100.0%,6.75,A- (3.71),
+240,"Streeby, Shelley",ETHN 3 - Intro:Making Culture (A),SP19,386,233,81.6%,87.3%,3.66,A- (3.72),A- (3.73)
+241,"Taylor-Garcia, Daphne",ETHN 100B - InterdisciplinaryMethodologies (A),WI19,33,9,88.9%,88.9%,4.0,A- (3.75),A- (3.81)
+242,"Fuste, Jose Ignacio",ETHN 101 - Ethnic Images in Film (A),WI19,70,30,100.0%,100.0%,3.29,A- (3.75),B+ (3.65)
+243,"Kharputly, Nadeen Sh B","ETHN 104 - Race, Space, & Segregation (A)",WI19,49,24,100.0%,100.0%,3.33,B+ (3.70),B+ (3.52)
+244,"Perez, Crystal Roxana Ramirez",ETHN 116 - US-Mexico Bordr/Comp. Perspect (A),WI19,34,12,100.0%,100.0%,5.3,B+ (3.67),B+ (3.32)
+245,"Kharputly, Nadeen Sh B",ETHN 117 - Organic Social Movements (A),WI19,46,29,100.0%,100.0%,3.79,A- (3.74),A- (3.76)
+246,"Ho, Lisa",ETHN 121 - Contemp Asian American History (A),WI19,43,16,100.0%,100.0%,3.43,A- (3.80),A- (3.86)
+247,"Marez, Curtis F.",ETHN 139 - Chicano Literature in English (A),WI19,25,15,93.3%,100.0%,4.77,B+ (3.64),B (3.21)
+248,"Taylor-Garcia, Daphne","ETHN 150 - Visuality, Sexuality, and Race (A)",WI19,13,9,100.0%,100.0%,5.36,B (3.17),
+249,"Espiritu, Yen",ETHN 155 - U.S. Militarism (A),WI19,36,13,100.0%,100.0%,4.35,B+ (3.67),B (3.27)
+250,"Davis, Anthony Curtis",ETHN 179 - Discover Jazz (A),WI19,22,8,57.1%,71.4%,3.07,B (3.00),B (3.17)
+251,"Streeby, Shelley","ETHN 182 - Race, Gender, Sexuality Sci Fi (A)",WI19,48,42,97.6%,100.0%,4.12,B+ (3.59),A- (3.78)
+252,"Ho, Lisa",ETHN 189 - Special Topics/Ethnic Studies (A),WI19,23,10,87.5%,100.0%,4.0,A- (3.75),B+ (3.60)
+253,"Dorr, Kirstie A.",ETHN 2 - Intro:CirculationsofDifference (A),WI19,389,191,74.7%,70.8%,3.52,B+ (3.63),B+ (3.60)
+254,"Gore, Dayo F.",ETHN 1 - Intro: Land and Labor (A),FA18,385,203,81.3%,77.5%,3.97,B+ (3.59),B+ (3.56)
+255,"Espiritu, Yen",ETHN 100A - Theoretical Approaches (A),FA18,37,14,92.9%,85.7%,5.64,B (3.00),B- (2.85)
+256,"Kharputly, Nadeen Sh B",ETHN 103 - Environmental Racism (A),FA18,34,27,100.0%,100.0%,3.24,A- (3.83),A- (3.72)
+257,"Montesinos, Jorge Roberto",ETHN 113 - Decolonizing Education (A),FA18,30,9,87.5%,75.0%,2.5,A- (3.88),A (4.00)
+258,"Dorr, Kirstie A.",ETHN 118 - Contemprary Immigration Issues (A),FA18,53,21,100.0%,100.0%,4.9,B+ (3.60),A- (3.87)
+259,"Ho, Lisa",ETHN 123 - Asian American Politics (A),FA18,33,15,93.3%,100.0%,3.21,A- (3.77),A- (3.81)
+260,"Ho, Lisa",ETHN 151 - Ethnic Politics in America (A),FA18,35,16,100.0%,100.0%,3.13,B+ (3.67),B+ (3.59)
+261,"Kharputly, Nadeen Sh B",ETHN 152 - Law and Civil Rights (A),FA18,32,25,100.0%,100.0%,3.54,B+ (3.68),B+ (3.63)
+262,"Patel, Shaista",ETHN 163E - Decolonial Theory (A),FA18,14,6,100.0%,100.0%,4.5,B+ (3.60),
+263,"Nicolazzo, Sarah E.",ETHN 168 - Comparative Ethnic Literature (A),FA18,9,3,100.0%,100.0%,5.17,B+ (3.50),
+264,"Borgo, David Garcia",ETHN 178 - Blues: An Oral Tradition (A),FA18,29,20,85.0%,85.0%,2.4,A- (3.79),B+ (3.61)
+265,"Daly, Heather Marie","ETHN 185 - Discourse, Power & Inequality (A)",FA18,28,13,84.6%,75.0%,3.58,B+ (3.67),B+ (3.53)
+266,"Blaise, Jean G",ETHN 190 - Research Methods/Ethnic&Racial (A),FA18,7,3,100.0%,100.0%,3.5,A (4.00),
+267,"Kozen, Cathleen Kiyomi",ETHN 20 - Intro to Asian Amer Studies (B),FA18,56,23,80.0%,55.0%,4.2,B+ (3.53),B+ (3.39)
+268,"Garcia Hernandez, Yessica",ETHN 101 - Ethnic Images in Film (A),S218,23,6,100.0%,100.0%,6.83,A- (3.83),B+ (3.53)
+269,"Quintanilla, Leslie Jocelyn",ETHN 103 - Environmental Racism (A),S218,31,19,94.7%,94.7%,6.18,B+ (3.56),B+ (3.55)
+270,"Hidalgo, Melissa Martha",ETHN 132 - Chicano Dramatic Literature (A),S218,12,4,100.0%,66.7%,5.0,B+ (3.50),
+271,"Celleri, Maria",ETHN 127 - Sexuality & Nation (A),S118,20,6,83.3%,100.0%,4.5,B+ (3.50),B+ (3.65)
+272,"Padilla, Omar","ETHN 182 - Race, Gender, Sexuality Sci Fi (A)",S118,28,26,100.0%,100.0%,4.42,A- (3.76),A- (3.97)
+273,"Nguyen, Ly Thuy","ETHN 183 - Gender,Race,Ethnicity & Class (A)",S118,11,3,100.0%,100.0%,4.5,B+ (3.33),
+274,"Yang, K. Wayne",ETHN 100C - Social Justice Praxis (A),SP18,38,14,100.0%,100.0%,6.67,A- (3.85),A (4.00)
+275,"Marez, Curtis F.",ETHN 101 - Ethnic Images in Film (A),SP18,52,21,94.7%,100.0%,3.5,B+ (3.63),B+ (3.53)
+276,"Celleri, Maria","ETHN 106 - Life, Death and the Human (A)",SP18,33,16,100.0%,100.0%,4.13,B+ (3.63),B+ (3.61)
+277,"De Leon, Justin",ETHN 110 - Wrld Views/Indigenous America (A),SP18,39,23,100.0%,100.0%,3.72,A (4.00),A- (3.96)
+278,"De Leon, Justin",ETHN 111 - Native American Literature (A),SP18,42,15,100.0%,100.0%,4.64,A- (3.83),A- (3.89)
+279,"Kharputly, Nadeen Sh B",ETHN 118 - Contemprary Immigration Issues (A),SP18,35,29,100.0%,100.0%,3.81,B+ (3.48),B+ (3.34)
+280,"Hidalgo, Melissa Martha",ETHN 120 - Race/Perfrm: Poltcs Poplr Cult (A),SP18,30,5,100.0%,100.0%,2.5,B+ (3.40),B+ (3.34)
+281,"Blanco, John D",ETHN 124 - Asian American Literature (A),SP18,34,16,80.0%,86.7%,4.1,B+ (3.54),A- (3.76)
+282,"Dorr, Kirstie A.",ETHN 127 - Sexuality & Nation (A),SP18,24,8,100.0%,100.0%,4.75,B+ (3.67),A- (3.77)
+283,"Ho, Lisa",ETHN 129 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),SP18,20,7,100.0%,100.0%,5.93,B+ (3.57),A- (3.88)
+284,"Williams, Robert Zachary",ETHN 149 - African Amrcn Hist/the 20th C. (A),SP18,15,4,100.0%,100.0%,3.83,A (4.00),
+285,"Suzuki, Erin M.",ETHN 168 - Comparative Ethnic Literature (A),SP18,9,4,100.0%,100.0%,4.5,A (4.00),
+286,"Davis, Anthony Curtis",ETHN 179 - Discover Jazz (A),SP18,18,6,50.0%,50.0%,3.7,B (3.00),
+287,"Taylor-Garcia, Daphne","ETHN 183 - Gender,Race,Ethnicity & Class (A)",SP18,18,7,100.0%,100.0%,3.93,B+ (3.60),
+288,"Zarate, Salvador Elias",ETHN 187 - Latinx Sexualities (A),SP18,14,8,100.0%,100.0%,5.75,B+ (3.63),
+289,"Kharputly, Nadeen Sh B",ETHN 189 - Special Topics/Ethnic Studies (A),SP18,10,6,100.0%,100.0%,4.17,B+ (3.67),
+290,"Kheshti, Roshanak",ETHN 3 - Intro:Making Culture (A),SP18,398,149,78.3%,85.0%,3.92,A- (3.74),A- (3.80)
+291,"Marez, Curtis F.",ETHN 100B - InterdisciplinaryMethodologies (A),WI18,41,8,57.1%,66.7%,3.0,A- (3.88),B+ (3.64)
+292,"De Leon, Justin","ETHN 104 - Race, Space, & Segregation (A)",WI18,64,28,100.0%,96.2%,4.04,B+ (3.68),A- (3.80)
+293,"Duzel, Esin",ETHN 109 - Race & Social Movements (A),WI18,17,11,90.9%,90.9%,4.5,B+ (3.60),
+294,"De Leon, Justin",ETHN 113 - Decolonizing Education (A),WI18,33,13,100.0%,100.0%,4.65,A- (3.77),A- (3.93)
+295,"Alomar, Maisam",ETHN 119 - Race in the Americas (A),WI18,13,7,100.0%,100.0%,6.5,B (3.29),
+296,"Nguyen, Ly Thuy",ETHN 122 - Asian American Cult & Identity (A),WI18,45,24,91.3%,82.6%,3.14,B+ (3.55),B+ (3.43)
+297,"Hernandez, Jillian",ETHN 137 - Latina Issues & Cultural Prod. (A),WI18,10,5,100.0%,100.0%,4.5,A- (3.80),
+298,"Taylor-Garcia, Daphne","ETHN 150 - Visuality, Sexuality, and Race (A)",WI18,15,12,100.0%,100.0%,5.0,A- (3.73),
+299,"Kharputly, Nadeen Sh B",ETHN 151 - Ethnic Politics in America (A),WI18,9,8,100.0%,100.0%,3.75,A (4.00),
+300,"Ho, Lisa",ETHN 152 - Law and Civil Rights (A),WI18,37,19,82.4%,88.2%,3.32,A- (3.76),A- (3.77)
+301,"Burelle, Julie Sara Veronique",ETHN 163F - Playing Indian:Native Am Cinem (A),WI18,17,7,100.0%,100.0%,1.93,A- (3.83),
+302,"Kharputly, Nadeen Sh B",ETHN 166 - Topic:Arab/Muslim Amer Identy (A),WI18,10,7,100.0%,100.0%,4.79,A- (3.83),
+303,"Nordeson, Kjell Gunnar",ETHN 179 - Discover Jazz (A),WI18,16,9,75.0%,75.0%,3.0,B+ (3.57),
+304,"Streeby, Shelley","ETHN 182 - Race, Gender, Sexuality Sci Fi (A)",WI18,35,12,58.3%,63.6%,4.0,A- (3.89),A- (3.81)
+305,"Hidalgo, Melissa Martha","ETHN 185 - Discourse, Power & Inequality (A)",WI18,18,7,66.7%,66.7%,5.83,B (3.20),
+306,"Espiritu, Yen",ETHN 2 - Intro:CirculationsofDifference (A),WI18,369,201,90.6%,89.4%,3.42,A- (3.78),A- (3.81)
+307,"Frank, Ross H.",ETHN 1 - Intro: Land and Labor (A),FA17,385,183,65.5%,52.6%,3.89,B+ (3.57),B+ (3.59)
+308,"Espiritu, Yen",ETHN 100A - Theoretical Approaches (A),FA17,35,11,100.0%,100.0%,7.41,B+ (3.36),B+ (3.46)
+309,"De Leon, Justin",ETHN 103 - Environmental Racism (A),FA17,48,23,95.5%,100.0%,4.95,A- (3.86),A- (3.78)
+310,"Kharputly, Nadeen Sh B",ETHN 105 - Ethnic Diversity and the City (A),FA17,26,15,93.3%,93.3%,7.03,A- (3.71),B+ (3.51)
+311,"Hidalgo, Melissa Martha",ETHN 116 - US-Mexico Bordr/Comp. Perspect (A),FA17,20,8,87.5%,100.0%,7.75,B+ (3.63),B+ (3.65)
+312,"Visweswaran, Kamala",ETHN 141 - Gandhi in the Modern World (A),FA17,14,3,100.0%,100.0%,3.83,A (4.00),
+313,"Hidalgo, Melissa Martha",ETHN 143 - Chicana/o Film & Media Studies (A),FA17,24,5,100.0%,100.0%,5.7,B+ (3.40),B+ (3.65)
+314,"Espiritu, Yen",ETHN 155 - U.S. Militarism (A),FA17,44,17,87.5%,86.7%,5.38,B+ (3.44),B+ (3.47)
+315,"De Leon, Justin",ETHN 160 - Global Indigenous Studies (A),FA17,22,7,100.0%,100.0%,8.9,A- (3.75),B+ (3.46)
+316,"Man, Simeon S",ETHN 163J - Asian American Social Movemnts (A),FA17,8,7,100.0%,100.0%,4.17,B+ (3.67),
+317,"Kharputly, Nadeen Sh B",ETHN 177 - Listening to the World (B),FA17,14,6,83.3%,83.3%,4.9,A- (3.75),
+318,"Chodos, Asher Tobin",ETHN 178 - Blues: An Oral Tradition (A),FA17,18,16,87.5%,93.8%,4.75,A- (3.71),
+319,"Ho, Lisa",ETHN 20 - Intro to Asian Amer Studies (A),FA17,49,23,91.3%,95.5%,3.46,B+ (3.48),A- (3.92)
+320,"Quintanilla, Leslie Jocelyn",ETHN 103 - Environmental Racism (A),S217,26,8,100.0%,100.0%,5.0,A- (3.71),
+321,"Singh, Vineeta",ETHN 147 - Black Feminisms Past & Pres (A),S217,7,4,100.0%,100.0%,7.83,A (4.00),
+322,"Boston, Martin Luther",ETHN 101 - Ethnic Images in Film (A),S117,24,3,66.7%,66.7%,7.83,B+ (3.50),B+ (3.66)
+323,"Dorr, Kirstie A.",ETHN 127 - Sexuality & Nation (A),S117,16,5,100.0%,100.0%,6.5,B+ (3.50),
+324,"Celleri, Maria",ETHN 135B - Lat-Chican/Cul Prod:1960toPres (A),S117,6,6,100.0%,100.0%,4.5,B+ (3.67),
+325,"Yang, K. Wayne",ETHN 100C - Social Justice Praxis (A),SP17,31,11,90.9%,100.0%,6.86,A- (3.82),A- (3.94)
+326,"Alomar, Maisam",ETHN 102 - Sci and Techn:Race/Gendr/Class (A),SP17,18,5,100.0%,100.0%,7.7,A- (3.75),
+327,"De Leon, Justin",ETHN 110 - Wrld Views/Indigenous America (A),SP17,49,29,96.6%,96.6%,3.6,A- (3.83),B+ (3.66)
+328,"Celleri, Maria",ETHN 113 - Decolonizing Education (A),SP17,29,22,95.0%,95.0%,4.8,A- (3.79),A- (3.80)
+329,"Villegas, Mark Redondo",ETHN 123 - Asian American Politics (A),SP17,24,24,91.3%,82.6%,6.24,B+ (3.45),B+ (3.59)
+330,"Kini, Ashvin Rathnanand",ETHN 129 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),SP17,23,6,83.3%,100.0%,3.83,B+ (3.40),B (3.11)
+331,"Werner, Bradley T.",ETHN 136 - Science/Analysis of Env Justic (A),SP17,13,4,0.0%,0.0%,2.5,A (4.00),
+332,"Nguyen, Linh Thuy",ETHN 140 - ComparativeRefugeeCommunities (A),SP17,20,9,100.0%,100.0%,5.25,B+ (3.38),B (3.16)
+333,"Vora, Kalindi",ETHN 142 - Medcn/Race&Globl Poli/Inequity (A),SP17,61,25,90.9%,95.5%,6.32,B+ (3.64),B+ (3.63)
+334,"Ho, Lisa",ETHN 152 - Law and Civil Rights (A),SP17,35,17,87.5%,93.8%,4.88,B+ (3.67),A- (3.91)
+335,"Kini, Ashvin Rathnanand",ETHN 164 - African Americans & Mass Media (A),SP17,23,8,100.0%,100.0%,4.21,B+ (3.50),B (3.19)
+336,"Walkiewicz, Kathryn A",ETHN 168 - Comparative Ethnic Literature (A),SP17,4,4,100.0%,100.0%,9.5,A- (3.75),
+337,"Childs, Dennis R.",ETHN 174 - Themes/Afro-Americn Literature (A),SP17,23,9,100.0%,100.0%,6.75,B+ (3.50),B+ (3.52)
+338,"Charney, Joshua Jamsheed",ETHN 179 - Discover Jazz (A),SP17,19,11,90.9%,100.0%,5.59,A- (3.89),
+339,"Taylor-Garcia, Daphne","ETHN 183 - Gender,Race,Ethnicity & Class (A)",SP17,13,4,100.0%,100.0%,5.0,A (4.00),
+340,"Nguyen, Linh Thuy","ETHN 185 - Discourse, Power & Inequality (A)",SP17,34,16,93.8%,93.8%,4.63,B+ (3.43),B (3.13)
+341,"De Leon, Justin",ETHN 189 - Special Topics/Ethnic Studies (A),SP17,27,13,100.0%,100.0%,3.33,A- (3.90),A- (3.89)
+342,"Espiritu, Yen",ETHN 189 - Special Topics/Ethnic Studies (B),SP17,26,8,100.0%,100.0%,3.5,A- (3.88),B (3.25)
+343,"Hernandez, Jillian",ETHN 3 - Intro:Making Culture (A),SP17,397,135,82.7%,78.7%,3.73,A- (3.73),A- (3.81)
+344,"Vora, Kalindi",ETHN 100B - InterdisciplinaryMethodologies (A),WI17,33,11,88.9%,100.0%,5.17,B+ (3.67),B+ (3.54)
+345,"Vora, Kalindi",ETHN 100H - Honors Research Design (A),WI17,10,3,100.0%,100.0%,5.5,A (4.00),
+346,"De Leon, Justin","ETHN 104 - Race, Space, & Segregation (A)",WI17,47,22,100.0%,100.0%,3.8,B+ (3.33),A- (3.79)
+347,"Kini, Ashvin Rathnanand","ETHN 106 - Life, Death and the Human (A)",WI17,29,10,100.0%,100.0%,5.0,B+ (3.63),B (3.26)
+348,"Nguyen, Linh Thuy",ETHN 118 - Contemprary Immigration Issues (A),WI17,16,5,100.0%,100.0%,6.5,B (3.25),
+349,"Kheshti, Roshanak",ETHN 120 - Race/Perfrm: Poltcs Poplr Cult (A),WI17,17,7,100.0%,100.0%,4.21,A- (3.83),
+350,"Nguyen, Linh Thuy",ETHN 121 - Contemp Asian American History (A),WI17,24,8,87.5%,87.5%,4.75,B (3.14),B (3.20)
+351,"Blanco, John D",ETHN 124 - Asian American Literature (A),WI17,29,15,53.3%,73.3%,3.64,B+ (3.46),A- (3.75)
+352,"Villegas, Mark Redondo",ETHN 126 - Comp Filip&Viet Am Ident&Cmnty (A),WI17,24,21,85.7%,90.5%,5.26,B+ (3.68),A- (3.70)
+353,"Villegas, Mark Redondo",ETHN 143 - Chicana/o Film & Media Studies (A),WI17,21,19,88.9%,83.3%,5.94,B+ (3.47),B+ (3.51)
+354,"Taylor-Garcia, Daphne","ETHN 150 - Visuality, Sexuality, and Race (A)",WI17,9,5,100.0%,100.0%,5.3,A- (3.80),
+355,"Taylor-Garcia, Daphne",ETHN 163E - Decolonial Theory (A),WI17,12,5,100.0%,100.0%,4.5,B+ (3.60),
+356,"Kini, Ashvin Rathnanand",ETHN 165 - Sex&Gendr/Afr Amer Communities (A),WI17,14,7,100.0%,100.0%,3.36,B+ (3.57),
+357,"De Leon, Justin",ETHN 187 - Latina/o Sexualities (A),WI17,17,8,100.0%,100.0%,4.75,B+ (3.57),
+358,"Williams, Robert Zachary","ETHN 188 - Afrn Amer, Religions &the City (A)",WI17,4,4,100.0%,100.0%,7.5,A (4.00),
+359,"Yang, K. Wayne",ETHN 2 - Intro:CirculationsofDifference (A),WI17,344,140,87.1%,88.6%,4.01,B+ (3.64),A- (3.74)
+360,"Visweswaran, Kamala",ETHN 20 - Intro to Asian Amer Studies (A),WI17,37,19,50.0%,44.4%,3.5,A- (3.92),B+ (3.50)
+361,"Frank, Ross H.",ETHN 1 - Intro: Land and Labor (A),FA16,394,192,67.2%,44.8%,4.24,B+ (3.63),B+ (3.60)
+362,"Kaplan, Sara Clarke",ETHN 100A - Theoretical Approaches (A),FA16,34,19,100.0%,100.0%,6.5,B+ (3.63),B+ (3.65)
+363,"Kini, Ashvin Rathnanand",ETHN 101 - Ethnic Images in Film (A),FA16,65,38,93.8%,96.9%,4.37,B+ (3.57),B+ (3.50)
+364,"Harper, Mattie Marie",ETHN 103 - Environmental Racism (A),FA16,48,22,81.8%,81.8%,4.05,A- (3.76),A- (3.76)
+365,"Harper, Mattie Marie",ETHN 111 - Native American Literature (A),FA16,19,6,100.0%,100.0%,5.83,A- (3.83),
+366,"De Leon, Justin",ETHN 116 - US-Mexico Bordr/Comp. Perspect (A),FA16,41,25,95.5%,100.0%,5.14,B+ (3.62),B+ (3.58)
+367,"Kini, Ashvin Rathnanand",ETHN 117 - Organic Social Movements (A),FA16,39,16,100.0%,100.0%,5.83,B+ (3.50),B (3.01)
+368,"Nguyen, Linh Thuy",ETHN 119 - Race in the Americas (A),FA16,21,9,100.0%,100.0%,7.25,B- (2.88),B (3.28)
+369,"Villegas, Mark Redondo",ETHN 122 - Asian American Cult & Identity (A),FA16,54,49,95.8%,97.9%,5.21,B+ (3.68),A- (3.88)
+370,"Villegas, Mark Redondo",ETHN 151 - Ethnic Politics in America (A),FA16,20,13,92.3%,92.3%,3.88,B+ (3.50),B+ (3.40)
+371,"Gutierrez, David G",ETHN 154 - History of Mexican America (A),FA16,14,6,60.0%,60.0%,2.9,B (3.00),
+372,"Espiritu, Yen",ETHN 155 - U.S. Militarism (A),FA16,40,24,100.0%,100.0%,6.86,B+ (3.70),B+ (3.68)
+373,"Charney, Joshua Jamsheed",ETHN 178 - Blues: An Oral Tradition (A),FA16,21,16,87.5%,93.8%,4.0,A- (3.73),A- (3.79)
+374,"Cesena, Maria Teresa",ETHN 139 - Chicano Literature in English (A),S216,6,4,100.0%,100.0%,3.17,A (4.00),
+375,"Perez, Crystal Roxana Ramirez",ETHN 168 - Comparative Ethnic Literature (A),S216,6,4,100.0%,66.7%,5.83,B+ (3.67),
+376,"Mogannam, Jennifer Marie","ETHN 108 - Race, Culture & Social Change (A)",S116,17,5,100.0%,100.0%,7.3,A (4.00),
+377,"Villegas, Mark Redondo",ETHN 125 - Asian American History (A),S116,12,4,100.0%,100.0%,6.5,A (4.00),
+378,"Villegas, Mark Redondo",ETHN 128 - Hip Hop: Politics of Culture (A),S116,15,4,75.0%,75.0%,5.0,B+ (3.50),
+379,"Kheshti, Roshanak",ETHN 100C - Social Justice Praxis (A),SP16,23,11,90.0%,100.0%,6.72,A- (3.78),A- (3.84)
+380,"Kheshti, Roshanak",ETHN 101 - Ethnic Images in Film (A),SP16,56,20,89.5%,94.7%,4.18,A- (3.82),A- (3.90)
+381,"Mendes, Gabriel",ETHN 105 - Ethnic Diversity and the City (A),SP16,16,6,83.3%,66.7%,2.83,A (4.00),
+382,"Hidalgo, Melissa Martha",ETHN 109 - Race & Social Movements (A),SP16,19,6,100.0%,100.0%,2.5,A (4.00),
+383,"Zarate, Salvador Elias",ETHN 116 - US-Mexico Bordr/Comp. Perspect (A),SP16,35,18,100.0%,100.0%,6.0,B+ (3.50),A- (3.80)
+384,"Dorr, Kirstie A.",ETHN 118 - Contemprary Immigration Issues (A),SP16,59,18,100.0%,94.4%,5.21,B+ (3.40),B+ (3.52)
+385,"Villegas, Mark Redondo",ETHN 121 - Contemp Asian American History (A),SP16,32,15,93.3%,86.7%,4.77,A- (3.71),A- (3.73)
+386,"Dorr, Kirstie A.",ETHN 127 - Sexuality & Nation (A),SP16,22,9,77.8%,77.8%,4.06,B+ (3.60),B+ (3.43)
+387,"Green, Christina Estel",ETHN 129 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),SP16,21,9,100.0%,100.0%,4.0,A- (3.86),B+ (3.57)
+388,"Taylor-Garcia, Daphne",ETHN 163E - Decolonial Theory (A),SP16,12,3,66.7%,100.0%,6.5,A (4.00),
+389,"Childs, Dennis R.",ETHN 174 - Themes/Afro-Americn Literature (A),SP16,31,15,100.0%,100.0%,8.5,B (3.17),B+ (3.59)
+390,"Borgo, David Garcia",ETHN 179B - Jazz Since 1946:Freedom & Form (A),SP16,14,9,88.9%,88.9%,4.25,A- (3.86),
+391,"Hidalgo, Melissa Martha","ETHN 185 - Discourse, Power & Inequality (B)",SP16,29,12,91.7%,83.3%,4.14,A- (3.80),A- (3.78)
+392,"Visweswaran, Kamala",ETHN 3 - Intro:Making Culture (A),SP16,301,130,65.1%,38.9%,3.64,B+ (3.53),A- (3.73)
+393,"Kheshti, Roshanak",ETHN 87 - Freshman Seminar (A),SP16,9,3,100.0%,100.0%,0.5,A (4.00),
+394,"Vora, Kalindi",ETHN 100B - InterdisciplinaryMethodologies (A),WI16,27,12,100.0%,100.0%,7.39,A- (3.78),A- (3.73)
+395,"Vora, Kalindi",ETHN 100H - Honors Research Design (A),WI16,9,3,100.0%,100.0%,8.5,A (4.00),
+396,"Vora, Kalindi",ETHN 102 - Sci and Techn:Race/Gendr/Class (A),WI16,28,13,100.0%,100.0%,3.67,A- (3.82),A- (3.93)
+397,"Iyengar, Malathi Michelle",ETHN 113 - Decolonizing Education (A),WI16,21,11,100.0%,100.0%,6.7,B+ (3.63),A- (3.76)
+398,"Ho, Lisa",ETHN 122 - Asian American Cult & Identity (A),WI16,28,12,91.7%,91.7%,6.17,A- (3.89),A- (3.83)
+399,"Frank, Ross H.",ETHN 130 - Social & Econ Hist/Southwest I (A),WI16,19,8,87.5%,87.5%,5.75,B (3.17),
+400,"Taylor-Garcia, Daphne","ETHN 150 - Visuality, Sexuality, and Race (A)",WI16,12,5,80.0%,80.0%,4.5,B+ (3.40),
+401,"Ha, Kyung Hee",ETHN 152 - Law and Civil Rights (A),WI16,32,10,100.0%,80.0%,4.94,A- (3.80),A- (3.77)
+402,"Richards, Stephanie F",ETHN 179A - Jazz Roots/Erly Dev(1900-1943) (A),WI16,19,18,88.9%,88.9%,3.28,B+ (3.44),
+403,"Taylor-Garcia, Daphne","ETHN 183 - Gender,Race,Ethnicity & Class (A)",WI16,19,8,57.1%,42.9%,5.07,A- (3.71),
+404,"Mendes, Gabriel",ETHN 184 - Black Intellectuals in 20th C (A),WI16,10,4,100.0%,66.7%,5.17,B+ (3.67),
+405,"Frank, Ross H.",ETHN 189 - Special Topics/Ethnic Studies (A),WI16,4,4,100.0%,100.0%,7.83,B+ (3.50),
+406,"Dorr, Kirstie A.",ETHN 2 - Intro:CirculationsofDifference (A),WI16,322,125,79.1%,83.5%,4.43,B+ (3.63),B+ (3.68)
+407,"Villegas, Mark Redondo",ETHN 20 - Intro to Asian Amer Studies (A),WI16,56,23,78.3%,91.3%,5.05,B+ (3.59),B+ (3.61)
+408,"Kheshti, Roshanak",ETHN 87 - Freshman Seminar (A),WI16,9,6,100.0%,100.0%,0.5,,
+409,"Harper, Mattie Marie",ETHN 1 - Intro: Land and Labor (A),FA15,388,180,72.8%,45.0%,4.19,A- (3.71),A- (3.80)
+410,"Espiritu, Yen",ETHN 100A - Theoretical Approaches (A),FA15,30,21,100.0%,100.0%,6.39,B+ (3.50),B (3.09)
+411,"Walsh, Michaela D","ETHN 104 - Race, Space, & Segregation (A)",FA15,43,16,100.0%,100.0%,4.13,B+ (3.60),B+ (3.52)
+412,"Walsh, Michaela D","ETHN 106 - Life, Death and the Human (A)",FA15,29,10,70.0%,70.0%,5.7,A- (3.89),B+ (3.64)
+413,"Yang, K. Wayne","ETHN 115 - Monsters, Orphans and Robots (A)",FA15,55,16,81.3%,100.0%,7.7,B+ (3.63),A- (3.86)
+414,"Villegas, Mark Redondo",ETHN 137 - Sp Topics:Latina Iss &Cult Prd (A),FA15,21,18,100.0%,94.4%,5.28,A- (3.94),A- (3.83)
+415,"Villegas, Mark Redondo",ETHN 143 - Chicana/o Film & Media Studies (A),FA15,23,16,100.0%,93.8%,6.13,B+ (3.40),B+ (3.65)
+416,"Gutierrez, David G",ETHN 154 - History of Mexican America (A),FA15,14,7,85.7%,57.1%,2.79,B+ (3.50),
+417,"Kheshti, Roshanak",ETHN 177 - Listening to the World (A),FA15,19,7,85.7%,100.0%,4.5,A (4.00),
+418,"Weinstein, Joshua Irving",ETHN 178 - Blues: An Oral Tradition (A),FA15,27,23,95.7%,100.0%,3.54,B+ (3.58),B (3.24)
+419,"Streeby, Shelley","ETHN 182 - Race, Gender, Sexuality Sci Fi (A)",FA15,55,30,96.6%,100.0%,6.14,A- (3.75),A- (3.78)
+420,"Hernandez, Jillian",ETHN 187 - Latina/o Sexualities (A),FA15,23,6,100.0%,100.0%,5.83,A (4.00),A- (3.94)
+421,"Marez, Curtis F.",ETHN 189 - Special Topics/Ethnic Studies (A),FA15,8,6,100.0%,100.0%,4.5,B+ (3.67),
+422,"Kheshti, Roshanak",ETHN 87 - Freshman Seminar (A),FA15,18,10,55.6%,88.9%,2.72,A (4.00),
+423,"Cuevas, Ofelia O",ETHN 101 - Ethnic Images in Film (A),S215,27,5,100.0%,60.0%,5.7,A (4.00),A- (3.72)
+424,"Aquallo, Alan Lechusza","ETHN 108 - Race, Culture & Social Change (A)",S215,27,3,100.0%,66.7%,3.17,A (4.00),A (4.00)
+425,"Green, Christina Estel","ETHN 104 - Race, Space, & Segregation (A)",S115,14,14,92.9%,100.0%,4.19,B+ (3.45),
+426,"Aquallo, Alan Lechusza",ETHN 110 - Wrld Views/Indigenous America (A),S115,29,3,100.0%,100.0%,4.5,A (4.00),A (4.00)
+427,"Zarate, Salvador Elias",ETHN 129 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),S115,12,10,100.0%,100.0%,5.9,A- (3.89),
+428,"Mariscal, George",ETHN 139 - Chicano Literature in English (A),S115,10,3,100.0%,100.0%,3.83,B+ (3.50),
+429,"Espiritu, Yen",ETHN 155GS - CriticalPerspective/VietnamWar (A),S115,14,8,87.5%,87.5%,8.0,A- (3.88),
+430,"Espiritu, Yen","ETHN 173GS - Gender, Sexuality and War (A)",S115,14,8,87.5%,87.5%,8.0,A- (3.88),
+431,"Ghandehari, Alborz","ETHN 183 - Gender,Race,Ethnicity & Class (A)",S115,17,8,87.5%,87.5%,5.75,A- (3.75),
+432,"Hernandez, Jillian",ETHN 100C - Social Justice Praxis (A),SP15,10,3,100.0%,100.0%,9.5,B+ (3.50),
+433,"Vora, Kalindi",ETHN 102 - Sci and Techn:Race/Gendr/Class (A),SP15,20,19,100.0%,94.7%,5.34,B+ (3.65),A- (3.78)
+434,"Vora, Kalindi","ETHN 106 - Life, Death and the Human (A)",SP15,28,23,95.7%,95.7%,4.41,B+ (3.68),A- (3.89)
+435,"Fuste, Jose Ignacio",ETHN 116 - US-Mexico Bordr/Comp. Perspect (A),SP15,63,23,95.5%,95.5%,4.77,B+ (3.64),B+ (3.61)
+436,"Blanco, John D",ETHN 124 - Asian American Literature (A),SP15,26,10,100.0%,100.0%,5.9,B+ (3.40),B+ (3.67)
+437,"Mendes, Gabriel",ETHN 128 - Hip Hop: Politics of Culture (A),SP15,30,7,33.3%,33.3%,3.83,B+ (3.33),B+ (3.32)
+438,"Mendes, Gabriel",ETHN 142 - Medcn/Race&Globl Poli/Inequity (A),SP15,57,26,84.0%,68.0%,3.75,A- (3.73),A- (3.79)
+439,"Harper, Mattie Marie",ETHN 158 - Native Am. Intellectuals/20thC (A),SP15,6,4,100.0%,66.7%,3.5,B+ (3.67),
+440,"Gore, Dayo F.",ETHN 165 - Sex&Gendr/Afr Amer Communities (A),SP15,21,10,80.0%,70.0%,3.9,B+ (3.56),B+ (3.66)
+441,"Childs, Dennis R.",ETHN 174 - Themes/Afro-Americn Literature (A),SP15,11,5,100.0%,100.0%,7.0,B (3.00),
+442,"Kheshti, Roshanak",ETHN 177 - Listening to the World (A),SP15,20,6,100.0%,100.0%,5.5,A (4.00),A- (3.75)
+443,"Borgo, David Garcia",ETHN 179B - Jazz Since 1946:Freedom & Form (A),SP15,30,26,48.0%,72.0%,4.58,B+ (3.31),B+ (3.33)
+444,"Kheshti, Roshanak",ETHN 3 - Intro:Making Culture (A),SP15,376,165,91.0%,83.2%,4.04,A- (3.80),A- (3.82)
+445,"Vora, Kalindi",ETHN 100B - InterdisciplinaryMethodologies (A),WI15,8,7,100.0%,100.0%,8.21,B+ (3.43),
+446,"Vora, Kalindi",ETHN 100H - Honors Research Design (A),WI15,10,5,100.0%,100.0%,10.5,A (4.00),
+447,"Yang, K. Wayne",ETHN 101 - Ethnic Images in Film (A),WI15,63,48,84.8%,97.8%,6.06,B (3.06),B+ (3.68)
+448,"Fuste, Jose Ignacio","ETHN 104 - Race, Space, & Segregation (A)",WI15,45,23,90.9%,90.9%,6.05,B+ (3.43),B+ (3.60)
+449,"Mendes, Gabriel",ETHN 105 - Ethnic Diversity and the City (A),WI15,21,18,83.3%,83.3%,4.39,B+ (3.67),A- (3.77)
+450,"Frank, Ross H.",ETHN 114B - Rep Native Am -Exhibit Design (B),WI15,8,5,100.0%,100.0%,4.5,B+ (3.60),
+451,"Sisavath, Davorn",ETHN 118 - Contemprary Immigration Issues (A),WI15,12,7,100.0%,66.7%,4.83,A- (3.83),
+452,"Santizo, Gabriela Domitila",ETHN 127 - Sexuality & Nation (A),WI15,23,23,82.6%,87.0%,4.5,B+ (3.56),B+ (3.55)
+453,"Nguyen, Linh Thuy",ETHN 129 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),WI15,14,6,83.3%,100.0%,5.5,A- (3.83),
+454,"Fuste, Jose Ignacio",ETHN 151 - Ethnic Politics in America (A),WI15,16,8,87.5%,87.5%,4.75,B+ (3.67),
+455,"Fuste, Jose Ignacio",ETHN 152 - Law and Civil Rights (A),WI15,47,26,100.0%,100.0%,5.7,A- (3.76),B+ (3.48)
+456,"Espiritu, Yen",ETHN 155 - U.S. Militarism (A),WI15,32,26,92.0%,100.0%,6.26,B (3.18),B (3.28)
+457,"Yang, K. Wayne",ETHN 162 - Prac Tribal Law & Journalism (A),WI15,14,6,100.0%,100.0%,4.9,A- (3.83),
+458,"Richards, Stephanie F",ETHN 179A - Jazz Roots/Erly Dev(1900-1943) (A),WI15,20,12,100.0%,90.0%,3.1,B+ (3.38),B- (2.79)
+459,"Marez, Curtis F.",ETHN 2 - Intro:CirculationsofDifference (A),WI15,306,225,79.6%,71.5%,4.2,B+ (3.55),B+ (3.63)
+460,"Kheshti, Roshanak",ETHN 87 - Freshman Seminar (A),WI15,10,3,100.0%,100.0%,0.5,,
+461,"Kaplan, Sara Clarke",ETHN 1 - Intro: Land and Labor (A),FA14,383,170,79.9%,79.9%,4.91,B+ (3.69),A- (3.70)
+462,"Espiritu, Yen",ETHN 100A - Theoretical Approaches (A),FA14,12,11,100.0%,100.0%,8.68,B (3.00),
+463,"Fuste, Jose Ignacio",ETHN 103 - Environmental Racism (A),FA14,63,32,96.7%,93.3%,5.86,B+ (3.52),A- (3.71)
+464,"Fuste, Jose Ignacio","ETHN 108 - Race, Culture & Social Change (A)",FA14,29,12,100.0%,100.0%,8.0,B+ (3.55),B (3.26)
+465,"Yanez, Angelica M",ETHN 113 - Decolonizing Education (A),FA14,23,15,93.3%,86.7%,5.7,B+ (3.36),B- (2.87)
+466,"Frank, Ross H.",ETHN 114A - Represent Native America (A),FA14,6,3,100.0%,100.0%,10.5,A (4.00),
+467,"Lin, Chien-Ting",ETHN 123 - Asian American Politics (A),FA14,14,3,100.0%,100.0%,8.5,A (4.00),
+468,"Frank, Ross H.",ETHN 130 - Social & Econ Hist/Southwest I (A),FA14,24,13,30.8%,61.5%,5.88,B (3.22),B- (2.96)
+469,"Carney, Christina J",ETHN 147 - Black Feminisms Past & Pres (A),FA14,8,5,100.0%,100.0%,6.1,A (4.00),
+470,"Taylor-Garcia, Daphne","ETHN 150 - Visuality, Sexuality, and Race (A)",FA14,14,5,100.0%,100.0%,4.5,B+ (3.67),
+471,"Weinstein, Joshua Irving",ETHN 178 - Blues: An Oral Tradition (A),FA14,23,17,100.0%,94.1%,3.75,B+ (3.44),B+ (3.40)
+472,"Yanez, Angelica M",ETHN 187 - Latina/o Sexualities (A),FA14,13,9,100.0%,100.0%,6.75,B+ (3.63),
+473,"Taylor-Garcia, Daphne",ETHN 189 - Special Topics/Ethnic Studies (A),FA14,12,10,100.0%,100.0%,4.28,A (4.00),
+474,"Solomon, Amanda Lee Albaniel",ETHN 20 - Intro to Asian Amer Studies (A),FA14,140,122,94.9%,96.6%,5.46,B+ (3.58),A- (3.74)
+475,"Kheshti, Roshanak",ETHN 87 - Freshman Seminar (A),FA14,12,6,83.3%,100.0%,0.5,A (4.00),
+476,"Kaplan, Sara Clarke",ETHN 87 - Freshman Seminar (B),FA14,13,10,100.0%,100.0%,2.7,,
+477,"Nguyen, Linh Thuy",ETHN 101 - Ethnic Images in Film (A),S214,12,10,100.0%,100.0%,7.9,B+ (3.50),
+478,"Fuste, Jose Ignacio",ETHN 109 - Race & Social Movements (A),S214,15,10,100.0%,100.0%,8.06,A (4.00),
+479,"Power, Jade Yukana",ETHN 101 - Ethnic Images in Film (A),S114,23,7,85.7%,71.4%,6.5,A (4.00),B+ (3.69)
+480,"Fuste, Jose Ignacio","ETHN 108 - Race, Culture & Social Change (A)",S114,15,4,100.0%,100.0%,4.5,A- (3.75),
+481,"Ho, Lisa",ETHN 123 - Asian American Politics (A),S114,10,5,100.0%,100.0%,8.5,B+ (3.60),
+482,"Gore, Dayo F.",ETHN 165 - Sex&Gendr/Afr Amer Communities (A),S114,13,3,100.0%,100.0%,3.5,A (4.00),
+483,"Frank, Ross H.",ETHN 100C - Social Justice Praxis (A),SP14,18,10,90.0%,90.0%,9.3,A- (3.90),
+484,"Dorr, Kirstie A.",ETHN 118 - Contemprary Immigration Issues (A),SP14,56,44,93.2%,93.2%,4.27,A- (3.72),B+ (3.70)
+485,"Chang, Alex",ETHN 124 - Asian American Literature (A),SP14,16,4,33.3%,66.7%,3.83,C (2.00),
+486,"Mendes, Gabriel",ETHN 142 - Medcn/Race&Globl Poli/Inequity (A),SP14,52,33,81.3%,56.3%,4.18,B+ (3.64),B+ (3.60)
+487,"Kaplan, Sara Clarke",ETHN 147 - Black Feminisms Past & Pres (A),SP14,21,6,100.0%,100.0%,7.83,B+ (3.33),A- (3.84)
+488,"Fuste, Jose Ignacio",ETHN 152 - Law and Civil Rights (A),SP14,44,28,92.6%,92.6%,7.31,B+ (3.64),B+ (3.65)
+489,"Gutierrez, David G",ETHN 153 - Citizenship & Civil Rts/20th c (A),SP14,9,4,100.0%,100.0%,6.0,B (3.25),
+490,"Childs, Dennis R.",ETHN 172 - Topics/African-American Prose (A),SP14,10,5,100.0%,80.0%,11.0,B+ (3.50),
+491,"Childs, Dennis R.",ETHN 174 - Themes/Afro-Americn Literature (A),SP14,16,7,85.7%,100.0%,5.07,B+ (3.57),
+492,"Borgo, David Garcia",ETHN 179B - Jazz Since 1946:Freedom & Form (A),SP14,15,11,90.9%,100.0%,5.77,B+ (3.67),
+493,"Hernandez, Jillian",ETHN 187 - Latina/o Sexualities (A),SP14,24,9,100.0%,100.0%,7.17,A- (3.86),B+ (3.59)
+494,"Navarro, Marilisa C",ETHN 189 - Special Topics/Ethnic Studies (A),SP14,18,6,100.0%,100.0%,3.83,B+ (3.67),
+495,"Hu, Brian",ETHN 189 - Special Topics/Ethnic Studies (B),SP14,23,9,88.9%,77.8%,3.25,B+ (3.67),B (3.17)
+496,"Yang, K. Wayne",ETHN 3 - Intro:Making Culture (A),SP14,392,246,82.7%,88.5%,4.5,B+ (3.69),A- (3.87)
+497,"Dorr, Kirstie A.",ETHN 87 - Freshman Seminar (A),SP14,10,5,100.0%,100.0%,1.7,A (4.00),
+498,"Streeby, Shelley",ETHN 100B - InterdisciplinaryMethodologies (A),WI14,30,15,81.8%,72.7%,6.72,A (4.00),A- (3.89)
+499,"el Tayeb, Fatima",ETHN 100H - Honors Research Design (A),WI14,10,3,100.0%,100.0%,7.83,A (4.00),
+500,"Fuste, Jose Ignacio",ETHN 103 - Environmental Racism (A),WI14,59,31,100.0%,100.0%,5.43,B+ (3.53),B+ (3.63)
+501,"Frank, Ross H.",ETHN 110 - Wrld Views/Indigenous America (A),WI14,22,13,63.6%,81.8%,6.14,B+ (3.50),B+ (3.65)
+502,"Yang, K. Wayne","ETHN 115 - Monsters, Orphans and Robots (A)",WI14,42,15,92.3%,100.0%,5.42,A- (3.92),B+ (3.67)
+503,"Power, Jade Yukana",ETHN 120 - Race/Perfrm: Poltcs Poplr Cult (A),WI14,18,9,100.0%,100.0%,5.83,A- (3.89),
+504,"Ha, Kyung Hee",ETHN 121 - Contemp Asian American History (A),WI14,30,13,92.3%,100.0%,6.5,B+ (3.69),B+ (3.68)
+505,"Marez, Curtis F.",ETHN 143 - Chicana/o Film & Media Studies (A),WI14,26,8,100.0%,87.5%,3.93,B (3.25),B+ (3.46)
+506,"Taylor-Garcia, Daphne","ETHN 150 - Visuality, Sexuality, and Race (A)",WI14,14,3,100.0%,66.7%,3.83,B+ (3.67),
+507,"Sharif, Lila A",ETHN 155 - U.S. Militarism (A),WI14,8,3,100.0%,100.0%,7.17,B+ (3.67),
+508,"Yang, K. Wayne",ETHN 162 - Prac Tribal Law & Journalism (A),WI14,16,6,83.3%,83.3%,4.17,A- (3.83),
+509,"Childs, Dennis R.",ETHN 174 - Themes/Afro-Americn Literature (A),WI14,17,6,100.0%,100.0%,5.83,B+ (3.33),
+510,"Streeby, Shelley","ETHN 182 - Race, Gender, Sexuality Sci Fi (A)",WI14,58,32,84.4%,87.5%,4.88,B+ (3.52),B+ (3.53)
+511,"Gore, Dayo F.",ETHN 2 - Intro:CirculationsofDifference (A),WI14,321,189,85.9%,92.4%,4.16,B+ (3.68),B+ (3.63)
+512,"Taylor-Garcia, Daphne",ETHN 1 - Intro: Land and Labor (A),FA13,321,205,63.2%,59.7%,4.36,B+ (3.67),A- (3.76)
+513,"Espiritu, Yen",ETHN 100 - Theories&Methods/Ethnic Stdies (A),FA13,47,35,85.7%,91.4%,7.93,B+ (3.44),B+ (3.38)
+514,"Kheshti, Roshanak",ETHN 101 - Ethnic Images in Film (A),FA13,65,34,94.1%,94.1%,4.92,A- (3.88),A- (3.88)
+515,"Fuste, Jose Ignacio","ETHN 104 - Race, Space, & Segregation (A)",FA13,41,27,100.0%,96.2%,4.96,B+ (3.69),B+ (3.64)
+516,"Mendes, Gabriel",ETHN 105 - Ethnic Diversity and the City (A),FA13,14,6,100.0%,100.0%,8.83,B+ (3.67),
+517,"Murillo, Ruben R",ETHN 117 - Organic Social Movements (A),FA13,14,5,100.0%,100.0%,5.3,A (4.00),
+518,"Kheshti, Roshanak",ETHN 127 - Sexuality & Nation (A),FA13,31,16,87.5%,87.5%,5.83,B+ (3.67),B+ (3.67)
+519,"Hernandez, Jillian",ETHN 137 - Sp Topics:Latina Iss &Cult Prd (A),FA13,11,6,100.0%,100.0%,3.83,A (4.00),
+520,"Carney, Christina J",ETHN 165 - Sex&Gendr/Afr Amer Communities (A),FA13,12,8,87.5%,87.5%,6.5,A- (3.80),
+521,"Weinstein, Joshua Irving",ETHN 178 - Blues: An Oral Tradition (A),FA13,10,8,87.5%,100.0%,6.25,B+ (3.67),
+522,"Dorr, Kirstie A.","ETHN 183 - Gender,Race,Ethnicity & Class (A)",FA13,29,14,85.7%,78.6%,5.12,B+ (3.57),B+ (3.60)
+523,"Vora, Kalindi","ETHN 185 - Discourse, Power & Inequality (A)",FA13,20,12,100.0%,100.0%,5.33,A- (3.83),A- (3.74)
+524,"Myers, Kit W",ETHN 20 - Intro to Asian Amer Studies (A),FA13,64,29,89.3%,89.3%,4.86,A- (3.72),A- (3.83)
+525,"Fuste, Jose Ignacio",ETHN 109 - Race & Social Movements (A),S213,15,6,100.0%,100.0%,8.5,B+ (3.60),
+526,"Yanez, Angelica M",ETHN 119 - Race in the Americas (A),S213,8,6,100.0%,80.0%,5.7,B (3.00),
+527,"Chen, Su-Shuan",ETHN 122 - Asian American Cult & Identity (A),S213,15,5,100.0%,100.0%,9.3,A (4.00),
+528,"Carney, Christina J",ETHN 107 - Fld Wrk/Racial&Ethnic Communit (A),S113,9,4,75.0%,100.0%,5.5,A (4.00),
+529,"Fuste, Jose Ignacio","ETHN 108 - Race, Culture & Social Change (A)",S113,16,9,100.0%,100.0%,7.17,B+ (3.63),
+530,"Rice, Candice T",ETHN 127 - Sexuality & Nation (A),S113,12,4,100.0%,100.0%,7.0,A (4.00),
+531,"Fuste, Jose Ignacio",ETHN 103 - Environmental Racism (A),SP13,49,34,100.0%,100.0%,5.56,B+ (3.63),A- (3.70)
+532,"Murillo, Ruben R","ETHN 106 - Life, Death and the Human (A)",SP13,31,7,71.4%,85.7%,3.83,B (3.00),B (3.17)
+533,"Dorr, Kirstie A.",ETHN 118 - Contemprary Immigration Issues (A),SP13,52,16,100.0%,100.0%,5.38,A- (3.81),B+ (3.67)
+534,"Solomon, Amanda Lee Albaniel",ETHN 129 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),SP13,19,15,100.0%,93.3%,4.1,B+ (3.62),
+535,"Murillo, Ruben R",ETHN 137 - Sp Topics:Latina Iss &Cult Prd (A),SP13,11,6,100.0%,66.7%,4.83,B+ (3.50),
+536,"Marez, Curtis F.",ETHN 143 - Chicana/o Film & Media Studies (A),SP13,31,12,91.7%,100.0%,5.5,B+ (3.30),B+ (3.55)
+537,"Fuste, Jose Ignacio",ETHN 151 - Ethnic Politics in America (A),SP13,19,12,100.0%,100.0%,7.23,B+ (3.67),
+538,"Rice, Candice T",ETHN 165 - Sex&Gendr/Afr Amer Communities (A),SP13,43,18,88.2%,94.1%,4.38,B+ (3.47),A- (3.91)
+539,"Williams, James G",ETHN 179B - Jazz Since 1946:Freedom & Form (A),SP13,12,7,28.6%,42.9%,3.93,B (3.20),
+540,"Dorr, Kirstie A.","ETHN 183 - Gender,Race,Ethnicity & Class (A)",SP13,40,15,100.0%,100.0%,7.5,B+ (3.67),B+ (3.68)
+541,"Vora, Kalindi","ETHN 185 - Discourse, Power & Inequality (A)",SP13,31,19,100.0%,100.0%,5.61,B+ (3.61),A- (3.77)
+542,"Kheshti, Roshanak",ETHN 189 - Special Topics/Ethnic Studies (A),SP13,14,4,100.0%,100.0%,10.5,B+ (3.50),
+543,"Yang, K. Wayne",ETHN 3 - Intro:Making Culture (A),SP13,349,135,80.5%,91.0%,4.76,B+ (3.61),B+ (3.68)
+544,"Kheshti, Roshanak",ETHN 87 - Freshman Seminar (A),SP13,20,10,90.0%,100.0%,0.5,,
+545,"Power, Jade Yukana",ETHN 101 - Ethnic Images in Film (A),WI13,62,33,100.0%,97.0%,5.0,A- (3.70),A- (3.70)
+546,"Fuste, Jose Ignacio","ETHN 104 - Race, Space, & Segregation (A)",WI13,49,29,92.9%,89.3%,6.57,B+ (3.64),B+ (3.48)
+547,"Frank, Ross H.",ETHN 112B - History/Native Americans/US II (A),WI13,9,4,75.0%,75.0%,3.0,B+ (3.50),
+548,"Yanez, Angelica M",ETHN 113 - Decolonizing Education (A),WI13,16,11,100.0%,100.0%,4.14,B+ (3.60),
+549,"Streeby, Shelley",ETHN 116 - US-Mexico Bordr/Comp. Perspect (A),WI13,27,15,92.9%,100.0%,6.36,B+ (3.50),B+ (3.42)
+550,"Chen, Su-Shuan",ETHN 122 - Asian American Cult & Identity (A),WI13,22,12,100.0%,100.0%,3.67,B+ (3.58),A- (3.81)
+551,"Solomon, Amanda Lee Albaniel",ETHN 124 - Asian American Literature (A),WI13,11,10,90.0%,90.0%,5.5,B+ (3.38),
+552,"Solomon, Amanda Lee Albaniel",ETHN 126 - Comp Filip&Viet Am Ident&Cmnty (A),WI13,15,9,100.0%,100.0%,5.5,B+ (3.43),
+553,"Murillo, Ruben R",ETHN 127 - Sexuality & Nation (A),WI13,18,6,100.0%,100.0%,5.7,B+ (3.60),
+554,"Fuste, Jose Ignacio",ETHN 152 - Law and Civil Rights (A),WI13,38,25,95.8%,95.8%,5.83,A- (3.71),A- (3.85)
+555,"Fuste, Jose Ignacio","ETHN 169 - Origin/Atlantic Wrld,1450-1650 (A)",WI13,4,3,100.0%,100.0%,11.83,B+ (3.33),
+556,"Childs, Dennis R.",ETHN 172 - Topics/African-American Prose (A),WI13,9,4,100.0%,100.0%,4.5,B+ (3.50),
+557,"Childs, Dennis R.",ETHN 174 - Themes/Afro-Americn Literature (A),WI13,9,4,100.0%,100.0%,4.5,B+ (3.50),
+558,"Borgo, David Garcia",ETHN 179A - Jazz Roots/Erly Dev(1900-1943) (B),WI13,8,6,83.3%,83.3%,3.5,A- (3.83),
+559,"Mendes, Gabriel","ETHN 188 - Afrn Amer, Religions &the City (A)",WI13,10,3,66.7%,33.3%,3.83,A (4.00),
+560,"Marez, Curtis F.",ETHN 189 - Special Topics/Ethnic Studies (A),WI13,33,15,86.7%,86.7%,4.93,B+ (3.47),B+ (3.52)
+561,"Taylor-Garcia, Daphne",ETHN 189 - Special Topics/Ethnic Studies (B),WI13,13,8,87.5%,100.0%,8.25,A- (3.86),
+562,"Dorr, Kirstie A.",ETHN 2 - Intro:CirculationsofDifference (A),WI13,175,148,89.7%,93.2%,4.14,A- (3.76),A- (3.86)
+563,"Kheshti, Roshanak",ETHN 87 - Freshman Seminar (A),WI13,13,9,100.0%,100.0%,0.75,A (4.00),
+564,"Kaplan, Sara Clarke",ETHN 100 - Theories&Methods/Ethnic Stdies (A),FA12,36,33,97.0%,93.9%,6.08,B+ (3.38),B+ (3.41)
+565,"Kunte, Nisha",ETHN 102 - Sci and Techn:Race/Gendr/Class (A),FA12,13,5,100.0%,100.0%,5.0,B+ (3.50),
+566,"Fuste, Jose Ignacio",ETHN 105 - Ethnic Diversity and the City (A),FA12,27,16,93.8%,93.8%,5.88,B+ (3.64),B+ (3.63)
+567,"Carney, Christina J",ETHN 107 - Fld Wrk/Racial&Ethnic Communit (A),FA12,11,3,100.0%,100.0%,6.5,A (4.00),
+568,"Fuste, Jose Ignacio",ETHN 109 - Race & Social Movements (A),FA12,17,12,100.0%,90.9%,6.68,B+ (3.64),
+569,"Cesena, Maria Teresa",ETHN 111 - Native American Literature (A),FA12,17,9,100.0%,100.0%,4.5,B+ (3.38),
+570,"Frank, Ross H.",ETHN 112A - History/Native Americans/US I (A),FA12,28,13,84.6%,69.2%,3.58,B+ (3.50),B+ (3.36)
+571,"Yang, K. Wayne","ETHN 115 - Monsters, Orphans and Robots (A)",FA12,41,14,92.3%,92.3%,4.83,A- (3.92),A (4.00)
+572,"Murillo, Ruben R",ETHN 119 - Race in the Americas (A),FA12,18,5,60.0%,60.0%,4.5,B+ (3.33),
+573,"Power, Jade Yukana",ETHN 120 - Race/Perfrm: Poltcs Poplr Cult (B),FA12,15,8,100.0%,100.0%,6.25,B+ (3.57),
+574,"Solomon, Amanda Lee Albaniel",ETHN 121 - Contemp Asian American History (A),FA12,38,16,87.5%,93.8%,4.5,A- (3.73),B+ (3.33)
+575,"Blanco, John D",ETHN 124 - Asian American Literature (A),FA12,18,9,88.9%,100.0%,4.28,A- (3.86),
+576,"Kaiser, Jeffrey G",ETHN 178 - Blues: An Oral Tradition (A),FA12,27,13,83.3%,83.3%,3.5,A (4.00),B (3.14)
+577,"Murillo, Ruben R",ETHN 1A - Intro:Population Histories/US (A),FA12,378,160,70.3%,73.6%,4.42,B+ (3.62),B+ (3.66)
+578,"Fuste, Jose Ignacio",ETHN 107 - Fld Wrk/Racial&Ethnic Communit (A),S212,5,3,100.0%,100.0%,7.83,B+ (3.33),
+579,"Fuste, Jose Ignacio",ETHN 107 - Fld Wrk/Racial&Ethnic Communit (A),S212,10,8,100.0%,100.0%,7.25,A- (3.88),
+580,"Yanez, Angelica M",ETHN 113 - Decolonizing Education (A),S212,6,6,100.0%,100.0%,8.83,B+ (3.67),
+581,"Cesena, Maria Teresa",ETHN 127 - Sexuality & Nation (A),S212,19,5,80.0%,80.0%,12.1,B+ (3.67),
+582,"Cesena, Maria Teresa",ETHN 127 - Sexuality & Nation (A),S212,12,3,100.0%,66.7%,7.17,A (4.00),
+583,"Murillo, Ruben R",ETHN 135B - Lat-Chican/Cul Prod:1960toPres (A),S212,11,5,80.0%,80.0%,9.3,B (3.25),
+584,"Chen, Su-Shuan",ETHN 101 - Ethnic Images in Film (A),S112,25,8,100.0%,87.5%,5.5,A- (3.86),A- (3.81)
+585,"Barnd, Natchee Blu",ETHN 103 - Environmental Racism (A),S112,18,14,92.9%,100.0%,8.79,B+ (3.62),
+586,"Rice, Candice T",ETHN 105 - Ethnic Diversity and the City (A),S112,6,4,100.0%,100.0%,8.5,A- (3.75),
+587,"Sharif, Lila A","ETHN 108 - Race, Culture & Social Change (A)",S112,7,4,100.0%,100.0%,9.5,B+ (3.67),
+588,"Sharif, Lila A","ETHN 108 - Race, Culture & Social Change (A)",S112,12,5,80.0%,100.0%,11.7,B+ (3.50),
+589,"Myers, Kit W",ETHN 121 - Contemp Asian American History (A),S112,15,12,90.9%,72.7%,8.17,B+ (3.36),
+590,"Reyes, Barbara Olivia",ETHN 130 - Social & Econ Hist/Southwest I (A),S112,7,4,100.0%,100.0%,6.5,B+ (3.50),
+591,"Mariscal, George",ETHN 135B - Lat-Chican/Cul Prod:1960toPres (A),S112,13,5,100.0%,100.0%,6.9,A- (3.75),
+592,"Murillo, Ruben R",ETHN 148 - Latino/a & Chicano/a Lit. (A),S112,9,3,100.0%,100.0%,6.5,A (4.00),
+593,"Kinney, Rebecca Jo",ETHN 101 - Ethnic Images in Film (A),SP12,48,24,91.7%,87.5%,5.17,B+ (3.62),B+ (3.65)
+594,"Ruiz, Stevie R","ETHN 104 - Race, Space, & Segregation (A)",SP12,28,12,100.0%,91.7%,6.33,A- (3.73),A- (3.99)
+595,"Cesena, Maria Teresa",ETHN 117 - Organic Social Movements (A),SP12,40,9,88.9%,88.9%,7.83,B+ (3.63),B+ (3.37)
+596,"Solomon, Amanda Lee Albaniel",ETHN 124 - Asian American Literature (A),SP12,15,4,100.0%,100.0%,5.5,B+ (3.33),
+597,"Solomon, Amanda Lee Albaniel",ETHN 124 - Asian American Literature (A),SP12,17,11,100.0%,100.0%,5.95,B+ (3.55),
+598,"Murillo, Ruben R",ETHN 127 - Sexuality & Nation (A),SP12,20,7,85.7%,71.4%,8.79,A- (3.83),B+ (3.62)
+599,"Murillo, Ruben R",ETHN 127 - Sexuality & Nation (A),SP12,23,8,75.0%,87.5%,8.21,A (4.00),B+ (3.62)
+600,"Myers, Kit W",ETHN 152 - Law and Civil Rights (A),SP12,35,24,100.0%,91.7%,4.75,B+ (3.61),B+ (3.59)
+601,"el Tayeb, Fatima",ETHN 166 - Topic:Arab/Muslim Amer Identy (A),SP12,21,8,100.0%,100.0%,5.75,B (3.00),B (3.27)
+602,"Barnd, Natchee Blu","ETHN 169 - Origin/Atlantic Wrld,1450-1650 (A)",SP12,6,5,80.0%,60.0%,5.3,B (3.20),
+603,"Davis, Anthony Curtis",ETHN 179B - Jazz Since 1946:Freedom & Form (A),SP12,126,41,58.5%,50.0%,4.21,B+ (3.38),B (3.09)
+604,"Davis, Anthony Curtis",ETHN 179B - Jazz Since 1946:Freedom & Form (A),SP12,26,6,66.7%,50.0%,4.5,A- (3.75),B (3.09)
+605,"Kim, Grace","ETHN 185 - Discourse, Power & Inequality (A)",SP12,43,17,100.0%,94.1%,4.62,A- (3.73),A (4.00)
+606,"Taylor-Garcia, Daphne",ETHN 189 - Special Topics/Ethnic Studies (B),SP12,22,11,100.0%,100.0%,5.05,A- (3.80),B+ (3.63)
+607,"Frank, Ross H.",ETHN 191C - Honors Research/Ethnic Studies (A),SP12,9,5,100.0%,100.0%,11.3,B+ (3.60),
+608,"Williams, Randall Jay",ETHN 1C - Intro:Race&Ethnic Relations/US (A),SP12,316,145,85.6%,90.0%,4.27,B+ (3.60),B+ (3.54)
+609,"Barnd, Natchee Blu",ETHN 103 - Environmental Racism (A),WI12,36,33,93.9%,84.8%,5.23,B+ (3.48),B- (2.96)
+610,"Kinney, Rebecca Jo",ETHN 105 - Ethnic Diversity and the City (A),WI12,12,8,57.1%,42.9%,5.36,B- (2.75),
+611,"Kinney, Rebecca Jo",ETHN 105 - Ethnic Diversity and the City (A),WI12,26,11,72.7%,90.9%,4.68,B+ (3.64),B (3.18)
+612,"Yang, K. Wayne",ETHN 113 - Decolonizing Education (A),WI12,40,16,100.0%,100.0%,5.75,A (4.00),A- (3.96)
+613,"Frank, Ross H.",ETHN 114A - Represent Native America (A),WI12,9,7,100.0%,100.0%,7.93,A (4.00),
+614,"Yang, K. Wayne","ETHN 115 - Monsters, Orphans and Robots (A)",WI12,25,10,100.0%,100.0%,7.5,A- (3.80),A (4.00)
+615,"Murillo, Ruben R",ETHN 118 - Contemprary Immigration Issues (A),WI12,39,27,96.3%,100.0%,6.35,B+ (3.31),B+ (3.40)
+616,"Cesena, Maria Teresa",ETHN 120 - Race/Perfrm: Poltcs Poplr Cult (A),WI12,11,7,100.0%,85.7%,4.5,B+ (3.33),
+617,"Sahara, Ayako",ETHN 122 - Asian American Cult & Identity (A),WI12,34,12,81.8%,63.6%,5.41,B+ (3.45),B+ (3.67)
+618,"Blanco, John D",ETHN 124 - Asian American Literature (A),WI12,21,16,86.7%,93.3%,4.36,B+ (3.50),A- (3.83)
+619,"Kim, Grace",ETHN 129 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),WI12,8,4,100.0%,100.0%,10.0,A (4.00),
+620,"Kim, Grace",ETHN 129 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),WI12,25,14,100.0%,100.0%,5.21,A- (3.77),A- (3.83)
+621,"Gutierrez, David G",ETHN 131 - Social&Econ Hist/Southwest II (A),WI12,35,10,90.0%,90.0%,4.9,B+ (3.50),B+ (3.30)
+622,"Mendes, Gabriel",ETHN 142 - Medcn/Race&Globl Poli/Inequity (A),WI12,50,19,84.2%,57.9%,7.13,B+ (3.58),B+ (3.48)
+623,"Marez, Curtis F.",ETHN 143 - Chicana/o Film & Media Studies (A),WI12,15,5,100.0%,100.0%,6.5,B (3.25),
+624,"Widener, Daniel",ETHN 149 - African Amrcn Hist/the 20th C. (A),WI12,47,20,90.0%,90.0%,4.2,A- (3.71),B+ (3.40)
+625,"Widener, Daniel",ETHN 149 - African Amrcn Hist/the 20th C. (A),WI12,11,4,75.0%,50.0%,3.0,A (4.00),
+626,"Imada, Adria L.",ETHN 155 - U.S. Militarism (A),WI12,12,8,100.0%,100.0%,5.75,B+ (3.50),
+627,"Lewis, Adam Charles",ETHN 174 - Themes/Afro-Americn Literature (A),WI12,14,4,100.0%,100.0%,4.5,A (4.00),
+628,"Power, Benjamin",ETHN 179A - Jazz Roots/Erly Dev(1900-1943) (A),WI12,155,63,93.5%,75.8%,2.92,B+ (3.68),B+ (3.35)
+629,"Power, Benjamin",ETHN 179A - Jazz Roots/Erly Dev(1900-1943) (A),WI12,15,4,100.0%,100.0%,5.0,B+ (3.67),
+630,"Tagle, Thea Q","ETHN 183 - Gender,Race,Ethnicity & Class (A)",WI12,14,6,100.0%,100.0%,7.17,A- (3.83),
+631,"Kheshti, Roshanak",ETHN 190 - Research Methods/Ethnic&Racial (A),WI12,18,5,80.0%,100.0%,4.9,A (4.00),
+632,"Kheshti, Roshanak",ETHN 190 - Research Methods/Ethnic&Racial (A),WI12,39,17,82.4%,94.1%,6.0,A- (3.82),A- (3.83)
+633,"Frank, Ross H.",ETHN 191B - Honors Research/Ethnic Studies (A),WI12,9,4,100.0%,100.0%,12.0,B (3.00),
+634,"Marez, Curtis F.",ETHN 1B - Intro:Immigr&Transfr Amer Life (A),WI12,279,123,69.7%,55.5%,5.85,B+ (3.40),B (3.24)
+635,"Kheshti, Roshanak",ETHN 87 - Freshman Seminar (A),WI12,14,8,75.0%,100.0%,0.75,A (4.00),
+636,"Kaplan, Sara Clarke",ETHN 100 - Theories&Methods/Ethnic Stdies (A),FA11,51,30,100.0%,96.7%,7.26,B+ (3.38),B- (2.92)
+637,"Barnd, Natchee Blu",ETHN 111 - Native American Literature (A),FA11,31,29,93.1%,93.1%,6.57,B (3.22),B- (2.96)
+638,"Cesena, Maria Teresa",ETHN 116 - US-Mexico Bordr/Comp. Perspect (A),FA11,49,20,94.4%,100.0%,5.8,B+ (3.47),B+ (3.46)
+639,"Taylor-Garcia, Daphne",ETHN 119 - Race in the Americas (A),FA11,64,26,73.1%,76.0%,4.9,B+ (3.32),B+ (3.54)
+640,"Gutierrez, David G",ETHN 134 - Immigration&Ethnicity/Amer Soc (A),FA11,17,9,88.9%,100.0%,8.5,B- (2.89),
+641,"Murillo, Ruben R",ETHN 137 - Sp Topics:Latina Iss &Cult Prd (A),FA11,30,15,100.0%,92.9%,5.21,A- (3.87),B+ (3.60)
+642,"Kaiser, Jeffrey G",ETHN 178 - Blues: An Oral Tradition (A),FA11,33,14,100.0%,100.0%,2.93,A- (3.83),B+ (3.53)
+643,"Kaiser, Jeffrey G",ETHN 178 - Blues: An Oral Tradition (A),FA11,148,87,98.8%,96.5%,3.36,A- (3.78),B+ (3.53)
+644,"Mendes, Gabriel",ETHN 184 - Black Intellectuals in 20th C (A),FA11,40,16,87.5%,68.8%,4.88,B (3.08),B- (2.91)
+645,"Marez, Curtis F.",ETHN 191A - Ugrad Research-Ethnic Studies (A),FA11,9,3,100.0%,100.0%,7.83,A (4.00),
+646,"Mendes, Gabriel",ETHN 1A - Intro:Population Histories/US (A),FA11,361,179,70.8%,61.4%,5.17,B+ (3.33),B+ (3.37)
+647,"Kinney, Rebecca Jo",ETHN 20 - Intro to Asian Amer Studies (A),FA11,58,29,75.0%,86.2%,5.29,B (3.00),B+ (3.32)
+648,"Tagle, Thea Q",ETHN 101 - Ethnic Images in Film (A),S211,32,19,94.7%,94.7%,7.13,B+ (3.38),B (3.16)
+649,"Kinney, Rebecca Jo","ETHN 104 - Race, Space, & Segregation (A)",S211,11,5,80.0%,80.0%,6.1,B (3.20),
+650,"Fuste, Jose Ignacio",ETHN 119 - Race in the Americas (A),S211,12,10,100.0%,100.0%,8.5,B+ (3.44),
+651,"Ruiz, Stevie R",ETHN 127 - Sexuality & Nation (A),S211,12,4,100.0%,100.0%,4.5,A- (3.75),
+652,"Ruiz, Stevie R",ETHN 127 - Sexuality & Nation (A),S211,12,5,80.0%,100.0%,7.7,B+ (3.50),
+653,"Voyles, Traci Brynne",ETHN 131 - Social&Econ Hist/Southwest II (A),S211,16,3,66.7%,100.0%,3.83,A (4.00),
+654,"Voyles, Traci Brynne",ETHN 131 - Social&Econ Hist/Southwest II (A),S211,16,7,100.0%,100.0%,7.93,A (4.00),
+655,"Voyles, Traci Brynne",ETHN 103 - Environmental Racism (A),S111,33,12,100.0%,91.7%,8.83,B+ (3.36),B+ (3.54)
+656,"Kinney, Rebecca Jo",ETHN 105 - Ethnic Diversity and the City (A),S111,14,5,80.0%,80.0%,8.5,B (3.25),
+657,"Kinney, Rebecca Jo",ETHN 105 - Ethnic Diversity and the City (A),S111,13,4,50.0%,50.0%,6.5,C (2.25),
+658,"Kong, Angela Wai-Yin",ETHN 107 - Fld Wrk/Racial&Ethnic Communit (A),S111,10,4,100.0%,100.0%,6.0,A- (3.75),
+659,"Kong, Angela Wai-Yin",ETHN 107 - Fld Wrk/Racial&Ethnic Communit (A),S111,14,3,100.0%,100.0%,3.83,B+ (3.50),
+660,"Morrill, Angela T",ETHN 112B - History/Native Americans/US II (A),S111,18,6,83.3%,83.3%,9.83,B+ (3.33),
+661,"Lowe, Lisa",ETHN 124 - Asian American Literature (A),S111,11,7,100.0%,100.0%,6.79,A (4.00),
+662,"Lowe, Lisa",ETHN 124 - Asian American Literature (A),S111,19,4,100.0%,100.0%,6.0,B+ (3.50),
+663,"Bui, Long T",ETHN 125 - Asian American History (A),S111,20,10,100.0%,100.0%,5.1,A- (3.71),A- (3.76)
+664,"Bui, Long T",ETHN 125 - Asian American History (A),S111,9,7,100.0%,100.0%,5.36,A- (3.80),
+665,"Reyes, Barbara Olivia",ETHN 130 - Social & Econ Hist/Southwest I (A),S111,4,3,100.0%,100.0%,3.83,B (3.00),
+666,"Arvin, Maile R",ETHN 168 - Comparative Ethnic Literature (A),S111,8,7,100.0%,100.0%,7.64,B+ (3.57),
+667,"Arvin, Maile R",ETHN 168 - Comparative Ethnic Literature (A),S111,7,5,100.0%,100.0%,4.9,B+ (3.60),
+668,"Forbes, Camille",ETHN 175 - Literature/Harlem Renaissance (A),S111,12,6,100.0%,100.0%,7.5,B (3.20),
+669,"Marez, Curtis F.",ETHN 101 - Ethnic Images in Film (A),SP11,86,34,88.2%,76.5%,5.56,B+ (3.48),B (3.15)
+670,"Kinney, Rebecca Jo",ETHN 105 - Ethnic Diversity and the City (A),SP11,58,27,65.4%,52.0%,5.69,B+ (3.40),B- (2.76)
+671,"Yang, K. Wayne",ETHN 113 - Decolonizing Education (A),SP11,39,16,93.8%,100.0%,6.13,A- (3.86),A (4.00)
+672,"Vasquez, Olga A.",ETHN 140 - Language & American Ethnicity (A),SP11,48,28,67.9%,46.4%,4.57,B+ (3.38),B+ (3.49)
+673,"Imada, Adria L.",ETHN 155 - U.S. Militarism (A),SP11,31,25,100.0%,100.0%,7.06,A- (3.77),B+ (3.43)
+674,"Taylor-Garcia, Daphne",ETHN 156 - Colonial Inst/Beg of Mod World (A),SP11,16,9,88.9%,88.9%,3.5,B+ (3.50),
+675,"Borgo, David Garcia",ETHN 179B - Jazz Since 1946:Freedom & Form (A),SP11,180,127,88.2%,90.4%,3.98,,B (3.18)
+676,"Gutierrez, David G",ETHN 180 - Topics/Mexican-American Hist (A),SP11,19,12,100.0%,100.0%,7.83,,
+677,"Vora, Kalindi","ETHN 185 - Discourse, Power & Inequality (A)",SP11,53,24,100.0%,100.0%,6.17,A- (3.78),A- (3.85)
+678,"Voyles, Traci Brynne",ETHN 189 - Special Topics/Ethnic Studies (A),SP11,11,8,100.0%,100.0%,7.0,A- (3.88),
+679,"Voyles, Traci Brynne",ETHN 189 - Special Topics/Ethnic Studies (B),SP11,14,11,90.9%,100.0%,7.05,B+ (3.55),
+680,"Taylor-Garcia, Daphne",ETHN 189 - Special Topics/Ethnic Studies (D),SP11,38,22,81.8%,90.9%,5.45,B+ (3.53),B+ (3.37)
+681,"Espiritu, Yen",ETHN 189 - Special Topics/Ethnic Studies (F),SP11,27,15,100.0%,100.0%,5.83,A- (3.93),B (3.14)
+682,"Kaplan, Sara Clarke",ETHN 189 - Special Topics/Ethnic Studies (F),SP11,27,14,100.0%,92.9%,6.07,A- (3.93),B (3.14)
+683,"Frank, Ross H.",ETHN 191C - Honors Research/Ethnic Studies (A),SP11,10,4,100.0%,100.0%,14.5,A (4.00),
+684,"Kheshti, Roshanak",ETHN 1C - Intro:Race&Ethnic Relations/US (A),SP11,302,115,90.3%,96.5%,4.43,A- (3.81),A- (3.80)
+685,"Kheshti, Roshanak",ETHN 87 - Freshman Seminar (A),SP11,10,4,100.0%,75.0%,0.5,,
+686,"Vora, Kalindi",ETHN 102 - Sci and Techn:Race/Gendr/Class (A),WI11,21,13,100.0%,100.0%,6.96,B+ (3.58),B+ (3.43)
+687,"Voyles, Traci Brynne",ETHN 103 - Environmental Racism (A),WI11,77,48,97.9%,100.0%,5.95,A- (3.70),B+ (3.37)
+688,"Vora, Kalindi","ETHN 106 - Life, Death and the Human (A)",WI11,35,25,80.0%,88.0%,7.3,B+ (3.35),B+ (3.43)
+689,"Cesena, Maria T.",ETHN 116 - US-Mexico Bordr/Comp. Perspect (A),WI11,35,20,90.0%,90.0%,7.03,A- (3.74),A- (3.76)
+690,"Imada, Adria L.",ETHN 120 - Race/Perfrm: Poltcs Poplr Cult (A),WI11,24,22,95.5%,95.2%,6.5,B+ (3.65),B+ (3.39)
+691,"Blanco, John D",ETHN 124 - Asian American Literature (A),WI11,34,17,82.4%,82.4%,6.26,,B+ (3.64)
+692,"Dorr, Kirstie A.",ETHN 127 - Sexuality & Nation (A),WI11,46,43,95.3%,100.0%,5.64,A- (3.70),A- (3.91)
+693,"Gutierrez, David G",ETHN 131 - Social&Econ Hist/Southwest II (A),WI11,51,21,85.7%,81.0%,5.07,,C+ (2.60)
+694,"Sanchez, Rosaura",ETHN 137 - Sp Topics:Latina Iss &Cult Prd (A),WI11,28,9,100.0%,100.0%,4.94,A- (3.78),B+ (3.53)
+695,"Castro, Robert Jess",ETHN 146A - Ensemble (A),WI11,15,5,100.0%,100.0%,3.3,,
+696,"El-Tayeb, Fatima",ETHN 166 - Topic:Arab/Muslim Amer Identy (A),WI11,17,8,100.0%,100.0%,6.75,B+ (3.50),
+697,"Borgo, David Garcia",ETHN 179A - Jazz Roots/Erly Dev(1900-1943) (A),WI11,172,82,87.8%,81.7%,4.23,,B+ (3.57)
+698,"Dorr, Kirstie A.","ETHN 183 - Gender,Race,Ethnicity & Class (A)",WI11,39,36,88.6%,94.4%,6.94,B+ (3.57),B+ (3.65)
+699,"Mendes, Gabriel","ETHN 188 - Afrn Amer, Religions &the City (A)",WI11,42,20,95.0%,90.0%,5.5,A- (3.79),B+ (3.50)
+700,"Morrill, Angela T",ETHN 189 - Special Topics/Ethnic Studies (C),WI11,27,18,87.5%,81.3%,6.26,A- (3.94),A (4.00)
+701,"Cuevas, Ofelia O",ETHN 189 - Special Topics/Ethnic Studies (D),WI11,11,8,50.0%,50.0%,5.5,A- (3.75),
+702,"Taylor-Garcia, Daphne",ETHN 189 - Special Topics/Ethnic Studies (F),WI11,19,11,100.0%,100.0%,8.3,B+ (3.36),
+703,"Frank, Ross H.",ETHN 191B - Honors Research/Ethnic Studies (A),WI11,10,3,100.0%,100.0%,11.17,A (4.00),
+704,"Frank, Ross H.",ETHN 1B - Intro:Immigr&Transfr Amer Life (A),WI11,202,101,80.0%,60.4%,4.94,B+ (3.46),B+ (3.35)
+705,"Perez, Jason Magabo",ETHN 20 - Intro to Asian Amer Studies (A),WI11,110,62,90.3%,87.1%,5.39,B+ (3.63),B (3.18)
+706,"Yang, K. Wayne",ETHN 87 - Freshman Seminar (A),WI11,15,10,100.0%,100.0%,1.7,A (4.00),
+707,"Kaplan, Sara Clarke",ETHN 100 - Theories&Methods/Ethnic Stdies (A),FA10,62,29,89.7%,92.9%,7.33,B (3.21),B (3.25)
+708,"Dorr, Kirstie A.",ETHN 118 - Contemprary Immigration Issues (A),FA10,60,29,93.1%,96.6%,4.86,B+ (3.59),B+ (3.44)
+709,"Murillo, Ruben R",ETHN 119 - Race in the Americas (A),FA10,54,28,89.3%,89.3%,7.46,B+ (3.46),B (3.14)
+710,"Kim, Grace",ETHN 129 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),FA10,35,14,100.0%,100.0%,6.21,B+ (3.46),B- (2.96)
+711,"Castro, Robert Jess",ETHN 132 - Chicano Dramatic Literature (A),FA10,17,9,100.0%,100.0%,4.28,,
+712,"Widener, Daniel",ETHN 149 - African Amrcn Hist/the 20th C. (A),FA10,68,37,81.1%,56.8%,4.82,,
+713,"Forbes, Camille",ETHN 175 - Literature/Harlem Renaissance (A),FA10,34,17,94.1%,88.2%,6.5,,B (3.15)
+714,"Williams, James G",ETHN 176 - Black Music&Texts:Comm&Cult Ex (A),FA10,40,19,63.2%,50.0%,4.08,B+ (3.38),B- (2.82)
+715,"Kaiser, Jeffrey G",ETHN 178 - Blues: An Oral Tradition (A),FA10,194,98,91.7%,93.8%,3.56,,B (3.24)
+716,"Marez, Curtis F.",ETHN 189 - Special Topics/Ethnic Studies (A),FA10,29,13,92.3%,92.3%,7.58,B (3.17),B+ (3.34)
+717,"Yang, K. Wayne",ETHN 190 - Research Methods/Ethnic&Racial (A),FA10,62,31,100.0%,100.0%,8.05,B+ (3.63),A- (3.98)
+718,"Frank, Ross H.",ETHN 191A - Ugrad Research-Ethnic Studies (A),FA10,13,6,66.7%,66.7%,8.83,A (4.00),
+719,"Mendes, Gabriel",ETHN 1A - Intro:Population Histories/US (A),FA10,295,133,73.5%,56.1%,4.42,B+ (3.58),B+ (3.43)
+720,"Voyles, Traci Brynne",ETHN 103 - Environmental Racism (A),SU10,38,9,100.0%,100.0%,5.17,A- (3.89),
+721,"Fuste, Jose Ignacio",ETHN 109 - Race & Social Movements (A),SU10,17,11,90.9%,90.9%,9.41,B (3.20),
+722,"Gonzales, Christian M",ETHN 112A - History/Native Americans/US I (A),SU10,30,8,100.0%,100.0%,9.25,B+ (3.43),
+723,"Garcia, Myrna",ETHN 118 - Contemprary Immigration Issues (A),SU10,18,6,80.0%,60.0%,4.5,B+ (3.60),
+724,"Morrill, Angela T",ETHN 119 - Race in the Americas (A),SU10,22,7,85.7%,57.1%,2.83,A- (3.86),
+725,"Cesena, Maria T.",ETHN 120 - Race/Perfrm: Poltcs Poplr Cult (A),SU10,14,4,100.0%,75.0%,7.5,A (4.00),
+726,"Vang, Ma",ETHN 122 - Asian American Cult & Identity (A),SU10,10,8,87.5%,100.0%,8.0,B (3.00),
+727,"Lowe, Lisa",ETHN 124 - Asian American Literature (A),SU10,14,11,100.0%,90.9%,6.86,,
+728,"Limki, Rashne M",ETHN 127 - Sexuality & Nation (A),SU10,27,12,83.3%,100.0%,6.0,B+ (3.38),
+729,"Bui, Long T",ETHN 129 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),SU10,17,8,100.0%,62.5%,5.5,B+ (3.57),
+730,"Voyles, Traci Brynne",ETHN 131 - Social&Econ Hist/Southwest II (A),SU10,17,7,100.0%,100.0%,5.64,,
+731,"Kheshti, Roshanak",ETHN 101 - Ethnic Images in Film (A),SP10,106,51,74.0%,96.0%,5.14,B+ (3.43),B+ (3.39)
+732,"Kheshti, Roshanak",ETHN 107 - Fld Wrk/Racial&Ethnic Communit (A),SP10,39,12,100.0%,100.0%,6.0,A- (3.73),B+ (3.63)
+733,"Cesena, Maria T.",ETHN 111 - Native American Literature (A),SP10,19,15,100.0%,100.0%,4.1,A- (3.92),
+734,"Imada, Adria L.",ETHN 120 - Race/Perfrm: Poltcs Poplr Cult (A),SP10,36,25,96.0%,92.0%,6.02,B+ (3.59),B (3.21)
+735,"Vang, Ma",ETHN 121 - Contemp Asian American History (A),SP10,50,25,80.0%,60.0%,4.1,B+ (3.42),B+ (3.49)
+736,"Shah, Nayan B",ETHN 125 - Asian American History (A),SP10,103,45,77.8%,86.7%,4.59,,B (3.22)
+737,"Vo, Chuong-Dai Hong",ETHN 126 - Comp Filip&Viet Am Ident&Cmnty (A),SP10,15,5,100.0%,100.0%,6.1,B+ (3.67),
+738,"Aquallo, Alan Lechusza",ETHN 128 - Hip Hop: Politics of Culture (A),SP10,134,51,66.7%,62.7%,4.06,A- (3.78),B+ (3.68)
+739,"Gutierrez, David G",ETHN 134 - Immigration&Ethnicity/Amer Soc (A),SP10,12,8,100.0%,100.0%,8.0,,
+740,"Kim, Grace",ETHN 152 - Law and Civil Rights (A),SP10,55,22,86.4%,81.8%,4.95,B+ (3.50),B+ (3.62)
+741,"Childs, Dennis R.",ETHN 172 - Afro-American Prose (A),SP10,45,24,95.8%,95.8%,5.2,,B (3.22)
+742,"Davis, Anthony Curtis",ETHN 179B - Jazz Since 1946:Freedom & Form (A),SP10,152,55,61.1%,42.6%,3.65,,B+ (3.44)
+743,"Espiritu, Yen",ETHN 189 - Special Topics/Ethnic Studies (A),SP10,53,23,100.0%,100.0%,3.8,A- (3.86),B+ (3.41)
+744,"Escobar, Martha D.",ETHN 189 - Special Topics/Ethnic Studies (B),SP10,42,18,88.9%,94.4%,5.17,B+ (3.56),B+ (3.48)
+745,"Gutierrez, Michelle R.",ETHN 189 - Special Topics/Ethnic Studies (C),SP10,15,5,100.0%,100.0%,4.9,A- (3.80),
+746,"Espiritu, Yen",ETHN 191C - Honors Research/Ethnic Studies (A),SP10,12,7,100.0%,85.7%,9.93,A- (3.71),
+747,"Yang, K. Wayne",ETHN 1C - Intro:Race&Ethnic Relations/US (A),SP10,309,145,92.4%,99.3%,5.0,A- (3.76),A- (3.74)
+748,"Kheshti, Roshanak",ETHN 87 - Freshman Seminar (A),SP10,11,6,100.0%,100.0%,0.5,,
+749,"Molina, Natalia Margarita",ETHN 87 - Freshman Seminar (B),SP10,8,3,100.0%,100.0%,1.83,,
+750,"Espiritu, Yen",ETHN 87 - Freshman Seminar (D),SP10,9,5,80.0%,80.0%,0.9,A (4.00),
+751,"Molina, Natalia Margarita",ETHN 105 - Ethnic Diversity and the City (A),WI10,92,31,83.9%,90.3%,5.27,B+ (3.55),B (3.30)
+752,"Escobar, Martha D.",ETHN 116 - US-Mexico Bordr/Comp. Perspect (A),WI10,43,14,92.9%,92.9%,6.5,A- (3.79),B+ (3.53)
+753,"Dorr, Kirstie A.",ETHN 118 - Contemprary Immigration Issues (A),WI10,59,35,94.3%,91.4%,6.03,A- (3.71),B+ (3.64)
+754,"Vo, Chuong-Dai Hong",ETHN 122 - Asian American Cult & Identity (A),WI10,41,18,77.8%,66.7%,4.17,B (3.09),C+ (2.64)
+755,"Blanco, John D",ETHN 124 - Asian American Literature (A),WI10,28,13,92.3%,92.3%,5.12,,B (3.18)
+756,"Kheshti, Roshanak",ETHN 127 - Sexuality & Nation (A),WI10,57,26,96.2%,96.2%,5.86,A- (3.75),A- (3.79)
+757,"Kim, Grace",ETHN 129 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),WI10,41,15,100.0%,100.0%,5.43,B+ (3.57),A- (3.72)
+758,"Gutierrez, David G",ETHN 131 - Social&Econ Hist/Southwest II (A),WI10,46,19,94.7%,94.7%,4.08,,B+ (3.62)
+759,"Mariscal, George",ETHN 168 - Comparative Ethnic Literature (A),WI10,36,20,90.0%,95.0%,4.5,,B (3.13)
+760,"Childs, Dennis R.",ETHN 172 - Afro-American Prose (A),WI10,42,25,96.0%,95.8%,6.74,,B+ (3.39)
+761,"Childs, Dennis R.",ETHN 174 - Themes/Afro-Americn Literature (A),WI10,36,20,100.0%,95.0%,6.1,,A- (3.74)
+762,"Lytle, Cecil William",ETHN 179A - Jazz Roots/Erly Dev(1900-1943) (A),WI10,183,65,92.3%,86.2%,2.5,,B+ (3.50)
+763,"Mendes, Gabriel",ETHN 184 - Black Intellectuals in 20th C (A),WI10,29,9,100.0%,88.9%,5.17,B+ (3.50),B (3.24)
+764,"Cesena, Maria T.",ETHN 189 - Special Topics/Ethnic Studies (A),WI10,10,8,100.0%,100.0%,5.25,A- (3.88),
+765,"Yang, K. Wayne",ETHN 190 - Research Methods/Ethnic&Racial (A),WI10,67,28,100.0%,100.0%,6.71,A- (3.85),A- (3.94)
+766,"Espiritu, Yen",ETHN 191B - Honors Research/Ethnic Studies (A),WI10,12,8,100.0%,100.0%,10.25,B+ (3.63),
+767,"Vora, Kalindi",ETHN 1B - Intro:Immigr&Transfr Amer Life (A),WI10,285,110,74.1%,67.0%,4.76,B+ (3.50),B (3.22)
+768,"Silva, Denise Ferreira Da",ETHN 87 - Freshman Seminar (A),WI10,9,3,66.7%,66.7%,1.17,,
+769,"Silva, Denise Ferreira Da",ETHN 100 - Theories&Methods/Ethnic Stdies (A),FA09,52,41,65.9%,51.3%,4.99,B+ (3.39),B+ (3.30)
+770,"Voyles, Traci B.",ETHN 103 - Environmental Racism (A),FA09,49,36,100.0%,97.1%,5.61,A- (3.71),B+ (3.39)
+771,"Mendes, Gabriel",ETHN 142 - Medcn/Race&Globl Poli/Inequity (A),FA09,35,28,92.3%,81.5%,4.71,B+ (3.46),B+ (3.36)
+772,"Mariscal, George",ETHN 148 - Latino/a & Chicano/a Lit. (A),FA09,50,33,96.8%,100.0%,4.26,,B+ (3.38)
+773,"Forbes, Camille",ETHN 175 - Literature/Harlem Renaissance (A),FA09,39,34,96.9%,93.8%,6.5,,C (2.19)
+774,"Borgo, David Garcia",ETHN 178 - Blues: An Oral Tradition (A),FA09,175,102,97.1%,94.1%,3.05,,B+ (3.50)
+775,"Dorr, Kirstie A.","ETHN 183 - Gender,Race,Ethnicity & Class (A)",FA09,47,41,97.6%,100.0%,4.99,B+ (3.61),B+ (3.66)
+776,"Espiritu, Yen",ETHN 191A - Ugrad Research-Ethnic Studies (A),FA09,12,12,100.0%,100.0%,8.86,A- (3.70),
+777,"Kaplan, Sara Clarke",ETHN 1A - Intro:Population Histories/US (A),FA09,363,281,72.5%,72.0%,4.14,B+ (3.46),B+ (3.53)
+778,"Vang, Ma",ETHN 20 - Intro to Asian Amer Studies (A),FA09,83,44,83.7%,69.8%,5.23,B (3.29),B (3.23)
+779,"Kinney, Rebecca Jo","ETHN 104 - Race, Space, & Segregation (A)",SU09,12,5,100.0%,100.0%,7.3,A- (3.75),
+780,"Fuste, Jose Ignacio",ETHN 109 - Race & Social Movements (A),SU09,12,10,100.0%,100.0%,9.5,A- (3.88),
+781,"Gonzales, Christian M",ETHN 112A - History/Native Americans/US I (A),SU09,36,9,88.9%,100.0%,5.83,B+ (3.57),
+782,"Morrill, Angela T",ETHN 112B - History/Native Americans/US II (A),SU09,22,12,100.0%,100.0%,4.67,,
+783,"Escobar, Martha D.",ETHN 116 - US-Mexico Bordr/Comp. Perspect (A),SU09,21,9,88.9%,88.9%,5.61,B+ (3.63),
+784,"Vang, Ma",ETHN 121 - Contemp Asian American History (A),SU09,22,14,100.0%,92.9%,9.36,B+ (3.54),
+785,"Gutierrez, Michelle R.",ETHN 129 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),SU09,21,5,100.0%,100.0%,4.5,B+ (3.60),
+786,"Reyes, Barbara Olivia",ETHN 130 - Social & Econ Hist/Southwest I (A),SU09,16,8,75.0%,87.5%,6.5,B+ (3.57),
+787,"Voyles, Traci B.",ETHN 131 - Social&Econ Hist/Southwest II (A),SU09,16,3,100.0%,100.0%,13.83,,
+788,"Bui, Long T",ETHN 151 - Ethnic Politics in America (A),SU09,9,8,100.0%,100.0%,6.0,B+ (3.63),
+789,"Forbes, Camille",ETHN 175 - Literature/Harlem Renaissance (A),SU09,20,10,90.0%,90.0%,6.9,,
+790,"Cesena, Maria T.",ETHN 189 - Special Topics/Ethnic Studies (A),SU09,9,8,100.0%,100.0%,6.75,B+ (3.63),
+791,"Elise, Sharon",ETHN 101 - Ethnic Images in Film (A),SP09,124,67,85.5%,71.4%,3.65,B+ (3.49),B (3.06)
+792,"Suarez, Harrod",ETHN 121 - Contemp Asian American History (A),SP09,33,19,83.3%,83.3%,3.45,A- (3.70),B (3.29)
+793,"Vo Dang, Thanh Thuy T.",ETHN 122 - Asian American Cult & Identity (A),SP09,47,36,94.3%,94.1%,4.67,B+ (3.52),B+ (3.40)
+794,"Lowe, Lisa",ETHN 124 - Asian American Literature (A),SP09,47,29,92.9%,100.0%,4.71,,B+ (3.67)
+795,"Aquallo, Alan Lechusza",ETHN 128 - Hip Hop: Politics of Culture (A),SP09,90,43,83.7%,78.0%,3.24,B+ (3.44),B+ (3.39)
+796,"Huerta, Jorge A.",ETHN 133 - Hispanic-American Dramatic Lit (A),SP09,21,17,94.1%,100.0%,6.03,,B+ (3.57)
+797,"Power, Jade Yukana",ETHN 133 - Hispanic-American Dramatic Lit (A),SP09,21,17,94.1%,100.0%,6.03,,
+798,"Kim, Grace",ETHN 142 - Medcn/Race&Globl Poli/Inequity (A),SP09,48,40,100.0%,92.1%,4.3,B+ (3.63),B+ (3.44)
+799,"Gosin, Monika N.",ETHN 170 - Slavery and the Atlantic World (A),SP09,38,18,100.0%,88.9%,4.06,B+ (3.50),C+ (2.47)
+800,"Gosin, Monika N.",ETHN 170B - Slavery and the Atlantic World (A),SP09,38,18,100.0%,88.9%,4.06,B+ (3.50),C+ (2.47)
+801,"Childs, Dennis R.",ETHN 174 - Themes/Afro-Americn Literature (A),SP09,45,41,95.0%,97.5%,6.65,,B+ (3.36)
+802,"Davis, Anthony Curtis",ETHN 179B - Jazz Since 1946:Freedom & Form (A),SP09,146,57,70.9%,76.8%,3.11,,B (3.02)
+803,"Kim, Grace","ETHN 183 - Gender,Race,Ethnicity & Class (A)",SP09,31,15,93.3%,86.7%,3.57,B+ (3.62),B+ (3.57)
+804,"Mendes, Gabriel","ETHN 188 - Afrn Amer, Religions &the City (A)",SP09,17,14,100.0%,100.0%,6.93,A- (3.91),
+805,"Harris, Mark Andrew",ETHN 189 - Special Topics/Ethnic Studies (A),SP09,23,18,100.0%,100.0%,5.56,A- (3.71),B+ (3.69)
+806,"Mantini-Briggs, Clara",ETHN 189 - Special Topics/Ethnic Studies (C),SP09,37,29,92.9%,78.6%,4.57,A- (3.78),A- (3.96)
+807,"Espiritu, Yen",ETHN 191C - Honors Research/Ethnic Studies (A),SP09,12,9,100.0%,100.0%,8.94,A (4.00),
+808,"Elise, Sharon",ETHN 1C - Intro:Race&Ethnic Relations/US (A),SP09,324,117,78.9%,78.9%,4.0,B+ (3.52),B+ (3.44)
+809,"Molina, Natalia Margarita",ETHN 105 - Ethnic Diversity and the City (A),WI09,68,45,86.7%,77.8%,4.63,B+ (3.42),B- (2.93)
+810,"Aquallo, Alan Lechusza",ETHN 111 - Native American Literature (A),WI09,16,15,100.0%,100.0%,3.97,A (4.00),
+811,"Fuste, Jose Ignacio",ETHN 119 - Race in the Americas (A),WI09,20,12,100.0%,100.0%,5.5,B+ (3.33),B+ (3.37)
+812,"Imada, Adria L.",ETHN 120 - Race/Perfrm: Poltcs Poplr Cult (A),WI09,16,15,100.0%,93.3%,4.77,B (3.25),
+813,"Vo Dang, Thanh Thuy T.",ETHN 126 - Comp Filip&Viet Am Ident&Cmnty (A),WI09,34,33,100.0%,96.7%,5.29,B+ (3.46),B+ (3.36)
+814,"Suarez, Harrod",ETHN 127 - Sexuality & Nation (A),WI09,37,23,90.9%,100.0%,4.24,B (3.25),B- (2.96)
+815,"Wilson, Rai I.",ETHN 149 - African Amrcn Hist/the 20th C. (A),WI09,18,13,100.0%,100.0%,2.65,,
+816,"Gosin, Monika N.",ETHN 165 - Sex&Gendr/Afr Amer Communities (A),WI09,39,34,97.1%,97.1%,3.59,B+ (3.36),B (3.01)
+817,"Forbes, Camille",ETHN 174 - Themes/Afro-Americn Literature (A),WI09,23,24,87.0%,78.3%,3.8,,B- (2.95)
+818,"Forbes, Camille",ETHN 175 - Literature/Harlem Renaissance (A),WI09,20,18,94.4%,72.2%,4.72,,C+ (2.63)
+819,"Kheshti, Roshanak",ETHN 176 - Black Music&Texts:Comm&Cult Ex (A),WI09,43,26,80.0%,80.8%,4.1,B+ (3.61),B+ (3.67)
+820,"Borgo, David Garcia",ETHN 179A - Jazz Roots/Erly Dev(1900-1943) (A),WI09,179,109,91.6%,93.5%,3.46,,B (3.17)
+821,"Yang, K. Wayne","ETHN 185 - Discourse, Power & Inequality (A)",WI09,29,24,100.0%,100.0%,10.0,A- (3.71),A- (3.76)
+822,"Harris, Mark Andrew",ETHN 189 - Special Topics/Ethnic Studies (B),WI09,15,15,93.3%,100.0%,4.9,B+ (3.64),
+823,"Mendes, Gabriel",ETHN 190 - Research Methods/Ethnic&Racial (A),WI09,47,39,64.1%,33.3%,3.63,B+ (3.48),B+ (3.59)
+824,"Mills, Jesse",ETHN 1B - Intro:Immigrtn&Assimlation/US (A),WI09,316,172,75.6%,86.9%,3.84,B+ (3.38),B (3.29)
+825,"Yang, K. Wayne",ETHN 87 - Freshman Seminar (A),WI09,18,15,100.0%,100.0%,1.3,A (4.00),
+826,"Espiritu, Yen",ETHN 87 - Freshman Seminar (B),WI09,13,13,100.0%,92.3%,1.27,A (4.00),
+827,"Silva, Denise Ferreira Da",ETHN 100 - Theories&Methods/Ethnic Stdies (A),FA08,43,37,73.0%,54.1%,4.22,B+ (3.41),B+ (3.37)
+828,"Voyles, Traci B.",ETHN 103 - Environmental Racism (A),FA08,25,19,100.0%,94.7%,4.18,B+ (3.44),B+ (3.49)
+829,"Gonzales, Martha R","ETHN 104 - Race, Space, & Segregation (A)",FA08,26,19,94.1%,88.9%,3.45,B+ (3.56),B+ (3.55)
+830,"Kheshti, Roshanak","ETHN 108 - Race, Culture & Social Change (A)",FA08,52,31,74.2%,80.6%,3.81,B (3.20),B+ (3.62)
+831,"Yoneyama, Lisa",ETHN 124 - Asian American Literature (A),FA08,24,17,88.2%,88.2%,4.26,,B- (2.88)
+832,"Suarez, Harrod",ETHN 129 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),FA08,40,24,79.2%,91.7%,3.83,B+ (3.59),B (3.09)
+833,"Gutierrez, David G",ETHN 131 - Social&Econ Hist/Southwest II (A),FA08,44,29,79.3%,96.6%,4.16,,B- (2.79)
+834,"Harris, Mark Andrew",ETHN 152 - Law and Civil Rights (A),FA08,40,28,88.9%,82.1%,3.64,B+ (3.52),B- (2.89)
+835,"Gosin, Monika N.",ETHN 164 - African Americans & Mass Media (A),FA08,43,30,89.7%,96.6%,4.37,B+ (3.41),B- (2.95)
+836,"Childs, Dennis R.",ETHN 172 - Afro-American Prose (A),FA08,40,25,96.0%,92.0%,6.26,,B (3.11)
+837,"Childs, Dennis R.",ETHN 174 - Themes/Afro-Americn Literature (A),FA08,20,20,95.0%,90.0%,6.7,,B+ (3.47)
+838,"Borgo, David Garcia",ETHN 178 - Blues: An Oral Tradition (A),FA08,186,111,98.2%,98.2%,2.99,,B (3.21)
+839,"Gonzales, Martha R",ETHN 186 - Ethnic Press in United States (A),FA08,25,20,78.9%,78.9%,4.83,B+ (3.39),B+ (3.54)
+840,"Vo Dang, Thanh Thuy T.",ETHN 189 - Special Topics/Ethnic Studies (B),FA08,10,8,100.0%,100.0%,4.25,B+ (3.43),
+841,"Molina, Natalia Margarita",ETHN 189 - Special Topics/Ethnic Studies (C),FA08,23,19,94.4%,94.4%,4.17,B+ (3.56),B (3.26)
+842,"Espiritu, Yen",ETHN 191A - Ugrad Research-Ethnic Studies (A),FA08,12,11,100.0%,100.0%,5.95,A- (3.80),
+843,"Imada, Adria L.",ETHN 1A - Intro:Population Histories/US (A),FA08,361,312,60.1%,57.2%,4.0,B+ (3.43),B+ (3.48)
+844,"Vo Dang, Thanh Thuy T.",ETHN 20 - Intro to Asian Amer Studies (A),FA08,106,45,91.1%,95.6%,3.03,B+ (3.68),B+ (3.31)
+845,"Silva, Denise Ferreira Da",ETHN 87 - Freshman Seminar (B),FA08,19,19,100.0%,100.0%,0.71,B+ (3.67),
+846,"Kheshti, Roshanak",ETHN 101 - Ethnic Images in Film (A),SU08,35,28,96.3%,92.9%,5.14,B+ (3.37),
+847,"Voyles, Traci B.",ETHN 103 - Environmental Racism (A),SU08,14,12,100.0%,100.0%,7.95,B+ (3.55),
+848,"Kinney, Rebecca Jo","ETHN 104 - Race, Space, & Segregation (A)",SU08,13,12,91.7%,91.7%,6.32,B (3.00),
+849,"Vo Dang, Thanh Thuy T.",ETHN 107 - Fld Wrk/Racial&Ethnic Communit (A),SU08,19,20,90.0%,100.0%,5.87,B+ (3.60),
+850,"Gonzales, Christian M",ETHN 112A - History/Native Americans/US I (A),SU08,22,19,94.4%,100.0%,4.61,B+ (3.41),
+851,"Escobar, Martha D.",ETHN 118 - Contemprary Immigration Issues (A),SU08,12,11,90.9%,90.9%,5.3,B+ (3.60),
+852,"Kheshti, Roshanak",ETHN 127 - Sexuality & Nation (A),SU08,13,13,69.2%,92.3%,5.88,B (3.08),
+853,"Gosin, Monika N.",ETHN 128 - Hip Hop: Politics of Culture (A),SU08,24,17,94.1%,94.1%,5.32,B+ (3.64),
+854,"Gutierrez, Michelle R.",ETHN 129 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),SU08,13,13,100.0%,100.0%,5.73,B+ (3.64),
+855,"Reyes, Barbara Olivia",ETHN 130 - Social & Econ Hist/Southwest I (A),SU08,6,5,80.0%,80.0%,4.9,A- (3.80),
+856,"Perez, Jesus Mora",ETHN 131 - Social&Econ Hist/Southwest II (A),SU08,5,4,100.0%,100.0%,5.0,,
+857,"Fuentes, Marla Y.",ETHN 139 - Chicano Literature in English (A),SU08,18,15,93.3%,66.7%,6.9,B+ (3.31),
+858,"Mariscal, George",ETHN 168 - Comparative Ethnic Literature (A),SU08,22,20,100.0%,100.0%,6.0,,
+859,"Fuste, Jose Ignacio","ETHN 169 - Origin/Atlantic Wrld,1450-1650 (A)",SU08,12,9,100.0%,100.0%,8.06,,
+860,"Fuste, Jose Ignacio","ETHN 170A - Origin/Atlantic Wrld,1450-1650 (A)",SU08,12,9,100.0%,100.0%,8.06,,
+861,"Elise, Sharon",ETHN 101 - Ethnic Images in Film (A),SP08,127,75,81.1%,78.4%,4.09,B+ (3.34),B+ (3.55)
+862,"Frank, Ross H.",ETHN 110 - Cult Wrld Views/Native Americn (A),SP08,35,20,80.0%,80.0%,4.7,B (3.17),B (3.15)
+863,"Cesena, Maria T.",ETHN 112B - History/Native Americans/US II (A),SP08,28,19,88.9%,77.8%,4.08,B+ (3.31),B (3.19)
+864,"Cuevas, Ofelia O",ETHN 116 - US-Mexico Bordr/Comp. Perspect (A),SP08,50,39,71.8%,51.3%,5.42,B+ (3.45),B+ (3.41)
+865,"Silva, Denise Ferreira Da",ETHN 119 - Race in the Americas (A),SP08,24,17,86.7%,80.0%,5.43,B+ (3.69),B+ (3.55)
+866,"Suarez, Harrod",ETHN 122 - Asian American Cult & Identity (A),SP08,41,33,87.9%,87.9%,4.08,B+ (3.44),B (3.01)
+867,"Lee, Jin-Kyung",ETHN 124 - Asian American Literature (A),SP08,45,35,91.4%,78.8%,6.21,,B (3.26)
+868,"Childs, Dennis R.",ETHN 174 - Themes/Afro-Americn Literature (A),SP08,39,32,96.7%,90.0%,5.75,,B- (2.98)
+869,"Borgo, David Garcia",ETHN 179B - Jazz Since 1946:Freedom & Form (A),SP08,182,105,93.3%,96.2%,2.54,,B+ (3.61)
+870,"Williams, Randall Jay",ETHN 189 - Special Topics/Ethnic Studies (A),SP08,29,26,96.2%,100.0%,5.42,B+ (3.32),B (3.26)
+871,"Washington, Patricia",ETHN 189 - Special Topics/Ethnic Studies (B),SP08,26,15,93.3%,100.0%,4.37,B+ (3.43),A (4.00)
+872,"Robinson, Jason",ETHN 189 - Special Topics/Ethnic Studies (C),SP08,73,51,98.0%,96.1%,3.28,B+ (3.65),B+ (3.53)
+873,"Cuevas, Ofelia O",ETHN 189 - Special Topics/Ethnic Studies (D),SP08,32,20,72.2%,29.4%,5.5,B (3.12),B+ (3.50)
+874,"Alvarez, Robert Richard",ETHN 191C - Honors Research/Ethnic Studies (A),SP08,8,5,100.0%,100.0%,14.1,A- (3.80),
+875,"Yang, K. Wayne",ETHN 1C - Intro:Race&Ethnic Relations/US (A),SP08,325,221,95.4%,99.5%,4.6,B+ (3.60),B+ (3.56)
+876,"Espiritu, Yen",ETHN 87 - Freshman Seminar (A),SP08,12,10,100.0%,100.0%,0.7,A (4.00),
+877,"Pellow, David Naguib",ETHN 87 - Freshman Seminar (B),SP08,9,8,100.0%,100.0%,0.75,,
+878,"Silva, Denise Ferreira Da",ETHN 87 - Freshman Seminar (C),SP08,14,13,76.9%,84.6%,1.42,B+ (3.50),
+879,"Pellow, David Naguib",ETHN 103 - Environmental Racism (A),WI08,105,76,100.0%,100.0%,4.5,B+ (3.56),B+ (3.49)
+880,"Washington, Patricia",ETHN 105 - Ethnic Diversity and the City (A),WI08,51,31,87.1%,93.1%,3.95,B (3.19),A- (3.81)
+881,"Sanders, Sara",ETHN 127 - Sexuality & Nation (A),WI08,41,26,100.0%,100.0%,4.81,B+ (3.39),B- (2.80)
+882,"Alvarez, Luis A",ETHN 131 - Social&Econ Hist/Southwest II (A),WI08,107,71,91.5%,94.4%,4.05,,B (3.04)
+883,"Mariscal, George",ETHN 135B - Lat-Chican/Cul Prod:1960toPres (A),WI08,41,38,100.0%,100.0%,4.5,,C (2.00)
+884,"Wilson, Rai I.",ETHN 149 - African Amrcn Hist/the 20th C. (A),WI08,72,46,100.0%,97.8%,2.46,,B- (2.89)
+885,"Minson, Jeffrey P.",ETHN 152 - Law and Civil Rights (A),WI08,20,11,90.9%,70.0%,3.41,B+ (3.45),B+ (3.51)
+886,"Childs, Dennis R.",ETHN 172 - Afro-American Prose (A),WI08,19,15,100.0%,92.9%,7.17,,
+887,"Childs, Dennis R.",ETHN 174 - Themes/Afro-Americn Literature (A),WI08,30,21,90.5%,85.7%,4.88,,B- (2.77)
+888,"Robinson, Jason",ETHN 176 - Black Music&Texts:Comm&Cult Ex (A),WI08,88,31,100.0%,100.0%,3.9,B+ (3.65),B+ (3.70)
+889,"Davis, Anthony Curtis",ETHN 179A - Jazz Roots/Erly Dev(1900-1943) (A),WI08,170,74,83.6%,75.3%,2.47,,B- (2.71)
+890,"Yang, K. Wayne","ETHN 185 - Discourse, Power & Inequality (A)",WI08,35,29,100.0%,100.0%,6.36,A- (3.79),A- (3.76)
+891,"Suarez, Harrod",ETHN 189 - Special Topics/Ethnic Studies (A),WI08,23,17,100.0%,100.0%,3.91,A- (3.81),B (3.24)
+892,"Williams, Randall Jay",ETHN 189 - Special Topics/Ethnic Studies (B),WI08,15,12,100.0%,100.0%,5.83,B+ (3.60),
+893,"Espiritu, Yen",ETHN 189 - Special Topics/Ethnic Studies (C),WI08,13,11,100.0%,100.0%,4.86,B+ (3.60),
+894,"Vo Dang, Thanh Thuy T.",ETHN 190 - Research Methods/Ethnic&Racial (A),WI08,46,31,83.3%,76.7%,4.63,B+ (3.65),B+ (3.56)
+895,"Alvarez, Robert Richard",ETHN 191B - Honors Research/Ethnic Studies (A),WI08,8,5,100.0%,100.0%,8.1,A (4.00),
+896,"Park, Lisa Sun-Hee",ETHN 1B - Intro:Immigrtn&Assimlation/US (A),WI08,298,155,89.6%,88.9%,4.31,B+ (3.62),B+ (3.69)
+897,"Silva, Denise Ferreira Da",ETHN 87 - Freshman Seminar (A),WI08,10,8,100.0%,100.0%,0.5,,
+898,"Espiritu, Yen",ETHN 100 - Theories&Methods/Ethnic Stdies (A),FA07,49,35,97.1%,97.1%,5.87,B (3.16),B (3.27)
+899,"Blanco, John D",ETHN 124 - Asian American Literature (A),FA07,36,22,81.8%,90.9%,2.86,,B+ (3.56)
+900,"Williams, Randall Jay",ETHN 129 - Asn&Latna Immgrnt Wrkrs/Glbl E (A),FA07,81,53,88.5%,90.4%,4.31,B+ (3.48),B (3.08)
+901,"Zentella, Ana Celia",ETHN 145 - Spanish Language/United States (A),FA07,44,43,75.6%,83.3%,6.97,B (3.18),C+ (2.43)
+902,"Washington, Patricia",ETHN 165 - Sex&Gendr/Afr Amer Communities (A),FA07,34,19,78.9%,78.9%,4.18,B+ (3.56),B+ (3.60)
+903,"Forbes, Camille",ETHN 175 - Literature/Harlem Renaissance (A),FA07,37,32,93.8%,96.7%,5.4,,C+ (2.64)
+904,"Robinson, Jason",ETHN 178 - Blues: An Oral Tradition (A),FA07,162,112,91.8%,91.7%,3.47,,B+ (3.46)
+905,"Suarez, Harrod","ETHN 183 - Gender,Race,Ethnicity & Class (A)",FA07,34,26,92.0%,92.0%,5.14,B (3.29),B (3.09)
+906,"Washington, Patricia",ETHN 186 - Ethnic Press in United States (A),FA07,28,17,88.2%,82.4%,5.21,B+ (3.50),A- (3.72)
+907,"Espiritu, Yen",ETHN 189 - Special Topics/Ethnic Studies (D),FA07,14,12,100.0%,100.0%,5.67,B+ (3.50),
+908,"Alvarez, Robert Richard",ETHN 191A - Ugrad Research-Ethnic Studies (A),FA07,11,9,100.0%,100.0%,5.83,B+ (3.57),
+909,"Ahluwalia, Davinder Pal",ETHN 1A - Intro:Population Histories/US (A),FA07,384,233,84.8%,70.3%,3.91,B+ (3.59),B+ (3.58)
+910,"Vo Dang, Thanh Thuy T.",ETHN 20 - Intro to Asian Amer Studies (A),FA07,98,63,77.0%,85.2%,4.37,B+ (3.55),B+ (3.61)
+911,"Gonzales, Christian M",ETHN 112A - History/Native Americans/US I (A),SU07,25,17,93.8%,94.1%,4.03,B+ (3.46),
+912,"Verinakis, Theofanis Costas Dino",ETHN 112B - History/Native Americans/US II (A),SU07,12,10,100.0%,100.0%,5.3,,
+913,"Reyes, Barbara Olivia",ETHN 130 - Social & Econ Hist/Southwest I (A),SU07,16,15,93.3%,93.3%,4.9,B+ (3.43),
+914,"Mariscal, George",ETHN 168 - Comparative Ethnic Literature (A),SU07,22,16,100.0%,100.0%,5.03,,
+915,"Forbes, Camille",ETHN 175 - Literature/Harlem Renaissance (A),SU07,17,15,100.0%,100.0%,5.97,,
+916,"Gutierrez, Michelle R.","ETHN 183 - Gender,Race,Ethnicity & Class (A)",SU07,14,10,100.0%,100.0%,4.5,B (3.00),
