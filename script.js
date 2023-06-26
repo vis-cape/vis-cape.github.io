@@ -13,7 +13,7 @@ var svg = d3.select("#chart")
           "translate(" + margin.left + "," + margin.top + ")");
 
 //Read the data
-d3.csv("https://raw.githubusercontent.com/kalkulator413/vcapes/main/scraper/data.csv", function(data) {
+d3.csv("https://raw.githubusercontent.com/viscape/viscape.github.io/main/scraper/data.csv", function(data) {
 
   // ---------------------------//
   //       AXIS  AND SCALE      //
