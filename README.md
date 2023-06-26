@@ -1,5 +1,5 @@
 # UCSD GPA Visualization
-https://vcapes.github.io/
+https://vis-cape.github.io/
 
 - Each bubble represents a course
 - The color is a measure of its average GPA (last 2 years, no summer)
