@@ -1,4 +1,6 @@
-# UCSD GPA Visualization
+# UCSD GPA Visualization (Outdated)
+
+**The last time this was updated was Spring 2023. Capes has been discontinued and course GPAs are no longer available to students.**  
 https://vis-cape.github.io/
 
 - Each bubble represents a course
